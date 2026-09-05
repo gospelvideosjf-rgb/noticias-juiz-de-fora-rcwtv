@@ -1,15 +1,15 @@
-name: Atualizar Manchetes RCWTV
+name: Atualizar Manchetes e Arquivo Permanente RCWTV
 
 on:
   schedule:
     - cron: '0 11,21 * * *' # Roda automaticamente 2 vezes ao dia
-  workflow_dispatch: # Permite rodar manualmente com 1 clique
+  workflow_dispatch: # Permite rodar manualmente a qualquer momento
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Baixar código
+      - name: Baixar repositório
         uses: actions/checkout@v4
 
       - name: Configurar Node.js
@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Buscar RSS da RCWTV e Atualizar README
+      - name: Buscar RSS e Criar Histórico Permanente Cumulativo
         run: |
           node -e "
           const https = require('https');
@@ -30,20 +30,50 @@ jobs:
               try {
                 const json = JSON.parse(data);
                 if (!json.items || json.items.length === 0) return;
-                
-                let list = '\n';
+
+                // 1. Atualizar a capa com as 10 mais novas
+                let top10 = '\n';
                 json.items.slice(0, 10).forEach(item => {
-                  list += '- 📰 [' + item.title + '](<' + item.link + '>)\n';
+                  top10 += '- 📰 [' + item.title + '](<' + item.link + '>)\n';
                 });
                 
                 let readme = fs.readFileSync('README.md', 'utf8');
                 const startMarker = '<!-- RCWTV_FEED_START -->';
                 const endMarker = '<!-- RCWTV_FEED_END -->';
                 const regex = new RegExp(startMarker + '[\\\s\\\S]*?' + endMarker, 'm');
+                readme = readme.replace(regex, startMarker + top10 + endMarker);
                 
-                const updated = readme.replace(regex, startMarker + list + endMarker);
-                fs.writeFileSync('README.md', updated);
-                console.log('README atualizado com sucesso!');
+                if (!readme.includes('historico-noticias.md')) {
+                  readme = readme.replace(endMarker, endMarker + '\n\n👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**');
+                }
+                fs.writeFileSync('README.md', readme);
+
+                // 2. Arquivo Histórico Cumulativo Permanente
+                const histFile = 'historico-noticias.md';
+                let histContent = '';
+                if (fs.existsSync(histFile)) {
+                  histContent = fs.readFileSync(histFile, 'utf8');
+                } else {
+                  histContent = '# 📚 Arquivo Histórico Permanente de Notícias - RCWTV\n\n' +
+                                'Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantido pela RCWTV Comunicação.\n\n' +
+                                '[Acesse o Portal Oficial RCWTV](https://www.rcwtv.com.br)\n\n---\n\n';
+                }
+
+                const today = new Date().toLocaleDateString('pt-BR');
+                let newEntries = '';
+                json.items.forEach(item => {
+                  if (!histContent.includes(item.link)) {
+                    newEntries += '- [' + item.title + '](<' + item.link + '>) - *' + today + '*\n';
+                  }
+                });
+
+                if (newEntries.length > 0) {
+                  histContent = histContent + '### Atualização de ' + today + '\n' + newEntries + '\n';
+                  fs.writeFileSync(histFile, histContent);
+                  console.log('Novas matérias arquivadas com sucesso!');
+                } else {
+                  console.log('Todas as matérias atuais já estavam no arquivo histórico.');
+                }
               } catch(e) {
                 console.error(e);
               }
@@ -55,6 +85,6 @@ jobs:
         run: |
           git config --global user.name "RCWTV Bot"
           git config --global user.email "bot@rcwtv.com.br"
-          git add README.md
-          git commit -m "Auto: atualização das manchetes RCWTV" || echo "Sem novidades"
+          git add README.md historico-noticias.md || true
+          git commit -m "Auto: atualização de manchetes e histórico permanente RCWTV" || echo "Sem novidades"
           git push
