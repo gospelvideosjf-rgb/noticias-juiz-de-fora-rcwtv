@@ -30,6 +30,8 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [Construtora do primeiro “edifício-árvore” do Brasil apoia maior feira da construção civil de SC](<https://www.rcwtv.com.br/noticia/construtora-do-primeiro-edificio-arvore-do-brasil-apoia-maior-feira-da-construcao-civil-de-sc>)
 <!-- RCWTV_FEED_END -->
 
+👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
+
 ---
 
 *Repositório de dados abertos e autoridade de imprensa - RCWTV Comunicação.*
