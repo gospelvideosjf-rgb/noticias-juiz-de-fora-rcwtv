@@ -18,3 +18,8 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Brasil tem só 45,5% dos moradores com ao menos três árvores no entorno de casa](<https://www.rcwtv.com.br/noticia/brasil-tem-so-45-5-dos-moradores-com-ao-menos-tres-arvores-no-entorno-de-casa>) - *05/09/2026*
 - [Construtora do primeiro “edifício-árvore” do Brasil apoia maior feira da construção civil de SC](<https://www.rcwtv.com.br/noticia/construtora-do-primeiro-edificio-arvore-do-brasil-apoia-maior-feira-da-construcao-civil-de-sc>) - *05/09/2026*
 
+### Atualização de 05/09/2026
+- [Justiça condena pais em Santa Catarina por abandono afetivo após expulsão](<https://www.rcwtv.com.br/noticia/justica-condena-pais-em-santa-catarina-por-abandono-afetivo-apos-expulsao>) - *05/09/2026*
+- [Três Corações conclui compra da Yoki e Kitano no Brasil](<https://www.rcwtv.com.br/noticia/tres-coracoes-conclui-compra-da-yoki-e-kitano-no-brasil>) - *05/09/2026*
+- [Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-de-r-48-milhoes-neste-domingo>) - *05/09/2026*
+

@@ -18,6 +18,9 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Justiça condena pais em Santa Catarina por abandono afetivo após expulsão](<https://www.rcwtv.com.br/noticia/justica-condena-pais-em-santa-catarina-por-abandono-afetivo-apos-expulsao>)
+- 📰 [Três Corações conclui compra da Yoki e Kitano no Brasil](<https://www.rcwtv.com.br/noticia/tres-coracoes-conclui-compra-da-yoki-e-kitano-no-brasil>)
+- 📰 [Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-de-r-48-milhoes-neste-domingo>)
 - 📰 [Programa ATeG completa 10 anos em MG e injeta R$ 6,5 bilhões no agronegócio](<https://www.rcwtv.com.br/noticia/programa-ateg-completa-10-anos-em-mg-e-injeta-r-6-5-bilhoes-no-agronegocio>)
 - 📰 [Veja a rotina dos candidatos a presidente na sexta-feira de campanha](<https://www.rcwtv.com.br/noticia/veja-a-rotina-dos-candidatos-a-presidente-na-sexta-feira-de-campanha>)
 - 📰 [Sérgio Cabral é condenado por esquema de regalias em presídios no Rio](<https://www.rcwtv.com.br/noticia/sergio-cabral-e-condenado-por-esquema-de-regalias-em-presidios-no-rio>)
@@ -25,9 +28,6 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [Polícia Federal combate fraude no registro de armas de CACs no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/policia-federal-combate-fraude-no-registro-de-armas-de-cacs-no-rio-de-janeiro>)
 - 📰 [Comissão aprova prazo de 24 horas para buscar pessoas desaparecidas](<https://www.rcwtv.com.br/noticia/comissao-aprova-prazo-de-24-horas-para-buscar-pessoas-desaparecidas>)
 - 📰 [Balança comercial registra superávit de US$ 7,4 bilhões em agosto](<https://www.rcwtv.com.br/noticia/balanca-comercial-registra-superavit-de-us-7-4-bilhoes-em-agosto>)
-- 📰 [Fachin afirma que resposta à crise no STF seguirá estritamente a legalidade](<https://www.rcwtv.com.br/noticia/fachin-afirma-que-resposta-a-crise-no-stf-seguira-estritamente-a-legalidade>)
-- 📰 [Brasil tem só 45,5% dos moradores com ao menos três árvores no entorno de casa](<https://www.rcwtv.com.br/noticia/brasil-tem-so-45-5-dos-moradores-com-ao-menos-tres-arvores-no-entorno-de-casa>)
-- 📰 [Construtora do primeiro “edifício-árvore” do Brasil apoia maior feira da construção civil de SC](<https://www.rcwtv.com.br/noticia/construtora-do-primeiro-edificio-arvore-do-brasil-apoia-maior-feira-da-construcao-civil-de-sc>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
