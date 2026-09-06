@@ -18,6 +18,8 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Mega-Sena acumula e próximo sorteio pagará R$ 70 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-proximo-sorteio-pagara-r-70-milhoes>)
+- 📰 [Desfile de 7 de Setembro em Brasília terá reforço na segurança e transporte grátis](<https://www.rcwtv.com.br/noticia/desfile-de-7-de-setembro-em-brasilia-tera-reforco-na-seguranca-e-transporte-gratis>)
 - 📰 [Gilmar Mendes propõe proibir policiais como assessores de ministros do STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-propoe-proibir-policiais-como-assessores-de-ministros-do-stf>)
 - 📰 [Justiça condena pais em Santa Catarina por abandono afetivo após expulsão](<https://www.rcwtv.com.br/noticia/justica-condena-pais-em-santa-catarina-por-abandono-afetivo-apos-expulsao>)
 - 📰 [Três Corações conclui compra da Yoki e Kitano no Brasil](<https://www.rcwtv.com.br/noticia/tres-coracoes-conclui-compra-da-yoki-e-kitano-no-brasil>)
@@ -26,8 +28,6 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [Veja a rotina dos candidatos a presidente na sexta-feira de campanha](<https://www.rcwtv.com.br/noticia/veja-a-rotina-dos-candidatos-a-presidente-na-sexta-feira-de-campanha>)
 - 📰 [Sérgio Cabral é condenado por esquema de regalias em presídios no Rio](<https://www.rcwtv.com.br/noticia/sergio-cabral-e-condenado-por-esquema-de-regalias-em-presidios-no-rio>)
 - 📰 [CCJ aprova proposta que prorroga contrato de estágio após a formatura](<https://www.rcwtv.com.br/noticia/ccj-aprova-proposta-que-prorroga-contrato-de-estagio-apos-a-formatura>)
-- 📰 [Polícia Federal combate fraude no registro de armas de CACs no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/policia-federal-combate-fraude-no-registro-de-armas-de-cacs-no-rio-de-janeiro>)
-- 📰 [Comissão aprova prazo de 24 horas para buscar pessoas desaparecidas](<https://www.rcwtv.com.br/noticia/comissao-aprova-prazo-de-24-horas-para-buscar-pessoas-desaparecidas>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

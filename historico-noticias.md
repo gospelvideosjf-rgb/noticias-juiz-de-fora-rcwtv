@@ -26,3 +26,7 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 ### Atualização de 06/09/2026
 - [Gilmar Mendes propõe proibir policiais como assessores de ministros do STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-propoe-proibir-policiais-como-assessores-de-ministros-do-stf>) - *06/09/2026*
 
+### Atualização de 06/09/2026
+- [Mega-Sena acumula e próximo sorteio pagará R$ 70 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-proximo-sorteio-pagara-r-70-milhoes>) - *06/09/2026*
+- [Desfile de 7 de Setembro em Brasília terá reforço na segurança e transporte grátis](<https://www.rcwtv.com.br/noticia/desfile-de-7-de-setembro-em-brasilia-tera-reforco-na-seguranca-e-transporte-gratis>) - *06/09/2026*
+
