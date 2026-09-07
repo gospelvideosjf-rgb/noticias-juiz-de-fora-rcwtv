@@ -18,6 +18,8 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Candidatos a presidente intensificam campanha eleitoral pelo país](<https://www.rcwtv.com.br/noticia/candidatos-a-presidente-intensificam-campanha-eleitoral-pelo-pais>)
+- 📰 [São Paulo registra mais de 58 mil casos de dengue em 2024](<https://www.rcwtv.com.br/noticia/sao-paulo-registra-mais-de-58-mil-casos-de-dengue-em-2024>)
 - 📰 [Mega-Sena acumula e próximo sorteio pagará R$ 70 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-proximo-sorteio-pagara-r-70-milhoes>)
 - 📰 [Desfile de 7 de Setembro em Brasília terá reforço na segurança e transporte grátis](<https://www.rcwtv.com.br/noticia/desfile-de-7-de-setembro-em-brasilia-tera-reforco-na-seguranca-e-transporte-gratis>)
 - 📰 [Gilmar Mendes propõe proibir policiais como assessores de ministros do STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-propoe-proibir-policiais-como-assessores-de-ministros-do-stf>)
@@ -26,8 +28,6 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-de-r-48-milhoes-neste-domingo>)
 - 📰 [Programa ATeG completa 10 anos em MG e injeta R$ 6,5 bilhões no agronegócio](<https://www.rcwtv.com.br/noticia/programa-ateg-completa-10-anos-em-mg-e-injeta-r-6-5-bilhoes-no-agronegocio>)
 - 📰 [Veja a rotina dos candidatos a presidente na sexta-feira de campanha](<https://www.rcwtv.com.br/noticia/veja-a-rotina-dos-candidatos-a-presidente-na-sexta-feira-de-campanha>)
-- 📰 [Sérgio Cabral é condenado por esquema de regalias em presídios no Rio](<https://www.rcwtv.com.br/noticia/sergio-cabral-e-condenado-por-esquema-de-regalias-em-presidios-no-rio>)
-- 📰 [CCJ aprova proposta que prorroga contrato de estágio após a formatura](<https://www.rcwtv.com.br/noticia/ccj-aprova-proposta-que-prorroga-contrato-de-estagio-apos-a-formatura>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

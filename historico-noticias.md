@@ -30,3 +30,7 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Mega-Sena acumula e próximo sorteio pagará R$ 70 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-proximo-sorteio-pagara-r-70-milhoes>) - *06/09/2026*
 - [Desfile de 7 de Setembro em Brasília terá reforço na segurança e transporte grátis](<https://www.rcwtv.com.br/noticia/desfile-de-7-de-setembro-em-brasilia-tera-reforco-na-seguranca-e-transporte-gratis>) - *06/09/2026*
 
+### Atualização de 07/09/2026
+- [Candidatos a presidente intensificam campanha eleitoral pelo país](<https://www.rcwtv.com.br/noticia/candidatos-a-presidente-intensificam-campanha-eleitoral-pelo-pais>) - *07/09/2026*
+- [São Paulo registra mais de 58 mil casos de dengue em 2024](<https://www.rcwtv.com.br/noticia/sao-paulo-registra-mais-de-58-mil-casos-de-dengue-em-2024>) - *07/09/2026*
+
