@@ -34,3 +34,12 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Candidatos a presidente intensificam campanha eleitoral pelo país](<https://www.rcwtv.com.br/noticia/candidatos-a-presidente-intensificam-campanha-eleitoral-pelo-pais>) - *07/09/2026*
 - [São Paulo registra mais de 58 mil casos de dengue em 2024](<https://www.rcwtv.com.br/noticia/sao-paulo-registra-mais-de-58-mil-casos-de-dengue-em-2024>) - *07/09/2026*
 
+### Atualização de 07/09/2026
+- [Manifestações do grito dos excluídos reúnem protestos por moradia no país](<https://www.rcwtv.com.br/noticia/manifestacoes-do-grito-dos-excluidos-reunem-protestos-por-moradia-no-pais>) - *07/09/2026*
+- [Vendedores ambulantes buscam sustento extra no desfile de 7 de Setembro](<https://www.rcwtv.com.br/noticia/vendedores-ambulantes-buscam-sustento-extra-no-desfile-de-7-de-setembro>) - *07/09/2026*
+- [Público madruga para acompanhar o desfile de 7 de setembro em Brasília](<https://www.rcwtv.com.br/noticia/publico-madruga-para-acompanhar-o-desfile-de-7-de-setembro-em-brasilia>) - *07/09/2026*
+- [Acusado de matar Thais a tiros em Juiz de Fora enfrentará júri popular](<https://www.rcwtv.com.br/noticia/acusado-de-matar-thais-a-tiros-em-juiz-de-fora-enfrentara-juri-popular>) - *07/09/2026*
+- [Prisão em massa por golpe de falsas vagas de modelo em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prisao-em-massa-por-golpe-de-falsas-vagas-de-modelo-em-juiz-de-fora>) - *07/09/2026*
+- [Multas aplicadas a empresas financiam melhorias na defesa do consumidor em Minas Gerais](<https://www.rcwtv.com.br/noticia/multas-aplicadas-a-empresas-financiam-melhorias-na-defesa-do-consumidor-em-minas-gerais>) - *07/09/2026*
+- [Desfile de Sete de Setembro destaca soberania, Copa e combate ao feminicídio](<https://www.rcwtv.com.br/noticia/desfile-de-sete-de-setembro-destaca-soberania-copa-e-combate-ao-feminicidio>) - *07/09/2026*
+

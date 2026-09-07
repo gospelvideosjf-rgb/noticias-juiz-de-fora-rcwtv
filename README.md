@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Manifestações do grito dos excluídos reúnem protestos por moradia no país](<https://www.rcwtv.com.br/noticia/manifestacoes-do-grito-dos-excluidos-reunem-protestos-por-moradia-no-pais>)
+- 📰 [Vendedores ambulantes buscam sustento extra no desfile de 7 de Setembro](<https://www.rcwtv.com.br/noticia/vendedores-ambulantes-buscam-sustento-extra-no-desfile-de-7-de-setembro>)
+- 📰 [Público madruga para acompanhar o desfile de 7 de setembro em Brasília](<https://www.rcwtv.com.br/noticia/publico-madruga-para-acompanhar-o-desfile-de-7-de-setembro-em-brasilia>)
+- 📰 [Acusado de matar Thais a tiros em Juiz de Fora enfrentará júri popular](<https://www.rcwtv.com.br/noticia/acusado-de-matar-thais-a-tiros-em-juiz-de-fora-enfrentara-juri-popular>)
+- 📰 [Prisão em massa por golpe de falsas vagas de modelo em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prisao-em-massa-por-golpe-de-falsas-vagas-de-modelo-em-juiz-de-fora>)
+- 📰 [Multas aplicadas a empresas financiam melhorias na defesa do consumidor em Minas Gerais](<https://www.rcwtv.com.br/noticia/multas-aplicadas-a-empresas-financiam-melhorias-na-defesa-do-consumidor-em-minas-gerais>)
+- 📰 [Desfile de Sete de Setembro destaca soberania, Copa e combate ao feminicídio](<https://www.rcwtv.com.br/noticia/desfile-de-sete-de-setembro-destaca-soberania-copa-e-combate-ao-feminicidio>)
 - 📰 [Candidatos a presidente intensificam campanha eleitoral pelo país](<https://www.rcwtv.com.br/noticia/candidatos-a-presidente-intensificam-campanha-eleitoral-pelo-pais>)
 - 📰 [São Paulo registra mais de 58 mil casos de dengue em 2024](<https://www.rcwtv.com.br/noticia/sao-paulo-registra-mais-de-58-mil-casos-de-dengue-em-2024>)
 - 📰 [Mega-Sena acumula e próximo sorteio pagará R$ 70 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-proximo-sorteio-pagara-r-70-milhoes>)
-- 📰 [Desfile de 7 de Setembro em Brasília terá reforço na segurança e transporte grátis](<https://www.rcwtv.com.br/noticia/desfile-de-7-de-setembro-em-brasilia-tera-reforco-na-seguranca-e-transporte-gratis>)
-- 📰 [Gilmar Mendes propõe proibir policiais como assessores de ministros do STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-propoe-proibir-policiais-como-assessores-de-ministros-do-stf>)
-- 📰 [Justiça condena pais em Santa Catarina por abandono afetivo após expulsão](<https://www.rcwtv.com.br/noticia/justica-condena-pais-em-santa-catarina-por-abandono-afetivo-apos-expulsao>)
-- 📰 [Três Corações conclui compra da Yoki e Kitano no Brasil](<https://www.rcwtv.com.br/noticia/tres-coracoes-conclui-compra-da-yoki-e-kitano-no-brasil>)
-- 📰 [Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-de-r-48-milhoes-neste-domingo>)
-- 📰 [Programa ATeG completa 10 anos em MG e injeta R$ 6,5 bilhões no agronegócio](<https://www.rcwtv.com.br/noticia/programa-ateg-completa-10-anos-em-mg-e-injeta-r-6-5-bilhoes-no-agronegocio>)
-- 📰 [Veja a rotina dos candidatos a presidente na sexta-feira de campanha](<https://www.rcwtv.com.br/noticia/veja-a-rotina-dos-candidatos-a-presidente-na-sexta-feira-de-campanha>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
