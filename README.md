@@ -18,6 +18,7 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Presidenciáveis marcam feriado de 7 de setembro com atos políticos e propostas](<https://www.rcwtv.com.br/noticia/presidenciaveis-marcam-feriado-de-7-de-setembro-com-atos-politicos-e-propostas>)
 - 📰 [Manifestações do grito dos excluídos reúnem protestos por moradia no país](<https://www.rcwtv.com.br/noticia/manifestacoes-do-grito-dos-excluidos-reunem-protestos-por-moradia-no-pais>)
 - 📰 [Vendedores ambulantes buscam sustento extra no desfile de 7 de Setembro](<https://www.rcwtv.com.br/noticia/vendedores-ambulantes-buscam-sustento-extra-no-desfile-de-7-de-setembro>)
 - 📰 [Público madruga para acompanhar o desfile de 7 de setembro em Brasília](<https://www.rcwtv.com.br/noticia/publico-madruga-para-acompanhar-o-desfile-de-7-de-setembro-em-brasilia>)
@@ -27,7 +28,6 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [Desfile de Sete de Setembro destaca soberania, Copa e combate ao feminicídio](<https://www.rcwtv.com.br/noticia/desfile-de-sete-de-setembro-destaca-soberania-copa-e-combate-ao-feminicidio>)
 - 📰 [Candidatos a presidente intensificam campanha eleitoral pelo país](<https://www.rcwtv.com.br/noticia/candidatos-a-presidente-intensificam-campanha-eleitoral-pelo-pais>)
 - 📰 [São Paulo registra mais de 58 mil casos de dengue em 2024](<https://www.rcwtv.com.br/noticia/sao-paulo-registra-mais-de-58-mil-casos-de-dengue-em-2024>)
-- 📰 [Mega-Sena acumula e próximo sorteio pagará R$ 70 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-proximo-sorteio-pagara-r-70-milhoes>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

@@ -43,3 +43,6 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Multas aplicadas a empresas financiam melhorias na defesa do consumidor em Minas Gerais](<https://www.rcwtv.com.br/noticia/multas-aplicadas-a-empresas-financiam-melhorias-na-defesa-do-consumidor-em-minas-gerais>) - *07/09/2026*
 - [Desfile de Sete de Setembro destaca soberania, Copa e combate ao feminicídio](<https://www.rcwtv.com.br/noticia/desfile-de-sete-de-setembro-destaca-soberania-copa-e-combate-ao-feminicidio>) - *07/09/2026*
 
+### Atualização de 08/09/2026
+- [Presidenciáveis marcam feriado de 7 de setembro com atos políticos e propostas](<https://www.rcwtv.com.br/noticia/presidenciaveis-marcam-feriado-de-7-de-setembro-com-atos-politicos-e-propostas>) - *08/09/2026*
+
