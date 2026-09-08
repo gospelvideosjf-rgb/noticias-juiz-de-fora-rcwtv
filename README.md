@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Presidenciáveis marcam feriado de 7 de setembro com atos políticos e propostas](<https://www.rcwtv.com.br/noticia/presidenciaveis-marcam-feriado-de-7-de-setembro-com-atos-politicos-e-propostas>)
-- 📰 [Manifestações do grito dos excluídos reúnem protestos por moradia no país](<https://www.rcwtv.com.br/noticia/manifestacoes-do-grito-dos-excluidos-reunem-protestos-por-moradia-no-pais>)
-- 📰 [Vendedores ambulantes buscam sustento extra no desfile de 7 de Setembro](<https://www.rcwtv.com.br/noticia/vendedores-ambulantes-buscam-sustento-extra-no-desfile-de-7-de-setembro>)
-- 📰 [Público madruga para acompanhar o desfile de 7 de setembro em Brasília](<https://www.rcwtv.com.br/noticia/publico-madruga-para-acompanhar-o-desfile-de-7-de-setembro-em-brasilia>)
-- 📰 [Acusado de matar Thais a tiros em Juiz de Fora enfrentará júri popular](<https://www.rcwtv.com.br/noticia/acusado-de-matar-thais-a-tiros-em-juiz-de-fora-enfrentara-juri-popular>)
-- 📰 [Prisão em massa por golpe de falsas vagas de modelo em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prisao-em-massa-por-golpe-de-falsas-vagas-de-modelo-em-juiz-de-fora>)
-- 📰 [Multas aplicadas a empresas financiam melhorias na defesa do consumidor em Minas Gerais](<https://www.rcwtv.com.br/noticia/multas-aplicadas-a-empresas-financiam-melhorias-na-defesa-do-consumidor-em-minas-gerais>)
-- 📰 [Desfile de Sete de Setembro destaca soberania, Copa e combate ao feminicídio](<https://www.rcwtv.com.br/noticia/desfile-de-sete-de-setembro-destaca-soberania-copa-e-combate-ao-feminicidio>)
-- 📰 [Candidatos a presidente intensificam campanha eleitoral pelo país](<https://www.rcwtv.com.br/noticia/candidatos-a-presidente-intensificam-campanha-eleitoral-pelo-pais>)
-- 📰 [São Paulo registra mais de 58 mil casos de dengue em 2024](<https://www.rcwtv.com.br/noticia/sao-paulo-registra-mais-de-58-mil-casos-de-dengue-em-2024>)
+- 📰 [Comissão fixa prazo para repasse a candidaturas de mulheres negras e indígenas](<https://www.rcwtv.com.br/noticia/comissao-fixa-prazo-para-repasse-a-candidaturas-de-mulheres-negras-e-indigenas>)
+- 📰 [Sistema Faemg Senar oferece cursos inéditos de manutenção e pulverização por drones agrícolas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sistema-faemg-senar-oferece-cursos-ineditos-de-manutencao-e-pulverizacao-por-drones-agricolas-em-juiz-de-fora>)
+- 📰 [CCJ aprova proposta que garante justiça gratuita a pessoas com câncer e deficiência](<https://www.rcwtv.com.br/noticia/ccj-aprova-proposta-que-garante-justica-gratuita-a-pessoas-com-cancer-e-deficiencia>)
+- 📰 [Partido Novo pediu prisão preventiva de Andrei com base em mensagens de Vorcaro](<https://www.rcwtv.com.br/noticia/partido-novo-pediu-prisao-preventiva-de-andrei-com-base-em-mensagens-de-vorcaro>)
+- 📰 [Anvisa aprova Aquipta, novo tratamento de enxaqueca no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-aprova-aquipta-novo-tratamento-de-enxaqueca-no-brasil>)
+- 📰 [CCJ aprova diretrizes de atenção à hipertensão pulmonar na Câmara](<https://www.rcwtv.com.br/noticia/ccj-aprova-diretrizes-de-atencao-a-hipertensao-pulmonar-na-camara>)
+- 📰 [Com alta de 23,6% e R$ 421 milhões de receita líquida, Vetter é a única construtora catarinense a figurar em ranking nacional](<https://www.rcwtv.com.br/noticia/com-alta-de-23-6-e-r-421-milhoes-de-receita-liquida-vetter-e-a-unica-construtora-catarinense-a-figurar-em-ranking-nacional>)
+- 📰 [Insetos de dia, anfíbios à noite: a rotina de uma expedição científica no alto da Amazônia](<https://www.rcwtv.com.br/noticia/insetos-de-dia-anfibios-a-noite-a-rotina-de-uma-expedicao-cientifica-no-alto-da-amazonia>)
+- 📰 [SWEN.IA: portal brasileiro reúne notícias, benchmarks e análises sobre inteligência artificial](<https://www.rcwtv.com.br/noticia/swen-ia-portal-brasileiro-reune-noticias-benchmarks-e-analises-sobre-inteligencia-artificial>)
+- 📰 [Derrapagem na rodovia MG-265, termina em tragédia familiar.](<https://www.rcwtv.com.br/noticia/derrapagem-na-rodovia-mg-265-termina-em-tragedia-familiar>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

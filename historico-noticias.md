@@ -46,3 +46,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 ### Atualização de 08/09/2026
 - [Presidenciáveis marcam feriado de 7 de setembro com atos políticos e propostas](<https://www.rcwtv.com.br/noticia/presidenciaveis-marcam-feriado-de-7-de-setembro-com-atos-politicos-e-propostas>) - *08/09/2026*
 
+### Atualização de 08/09/2026
+- [Comissão fixa prazo para repasse a candidaturas de mulheres negras e indígenas](<https://www.rcwtv.com.br/noticia/comissao-fixa-prazo-para-repasse-a-candidaturas-de-mulheres-negras-e-indigenas>) - *08/09/2026*
+- [Sistema Faemg Senar oferece cursos inéditos de manutenção e pulverização por drones agrícolas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sistema-faemg-senar-oferece-cursos-ineditos-de-manutencao-e-pulverizacao-por-drones-agricolas-em-juiz-de-fora>) - *08/09/2026*
+- [CCJ aprova proposta que garante justiça gratuita a pessoas com câncer e deficiência](<https://www.rcwtv.com.br/noticia/ccj-aprova-proposta-que-garante-justica-gratuita-a-pessoas-com-cancer-e-deficiencia>) - *08/09/2026*
+- [Partido Novo pediu prisão preventiva de Andrei com base em mensagens de Vorcaro](<https://www.rcwtv.com.br/noticia/partido-novo-pediu-prisao-preventiva-de-andrei-com-base-em-mensagens-de-vorcaro>) - *08/09/2026*
+- [Anvisa aprova Aquipta, novo tratamento de enxaqueca no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-aprova-aquipta-novo-tratamento-de-enxaqueca-no-brasil>) - *08/09/2026*
+- [CCJ aprova diretrizes de atenção à hipertensão pulmonar na Câmara](<https://www.rcwtv.com.br/noticia/ccj-aprova-diretrizes-de-atencao-a-hipertensao-pulmonar-na-camara>) - *08/09/2026*
+- [Com alta de 23,6% e R$ 421 milhões de receita líquida, Vetter é a única construtora catarinense a figurar em ranking nacional](<https://www.rcwtv.com.br/noticia/com-alta-de-23-6-e-r-421-milhoes-de-receita-liquida-vetter-e-a-unica-construtora-catarinense-a-figurar-em-ranking-nacional>) - *08/09/2026*
+- [Insetos de dia, anfíbios à noite: a rotina de uma expedição científica no alto da Amazônia](<https://www.rcwtv.com.br/noticia/insetos-de-dia-anfibios-a-noite-a-rotina-de-uma-expedicao-cientifica-no-alto-da-amazonia>) - *08/09/2026*
+- [SWEN.IA: portal brasileiro reúne notícias, benchmarks e análises sobre inteligência artificial](<https://www.rcwtv.com.br/noticia/swen-ia-portal-brasileiro-reune-noticias-benchmarks-e-analises-sobre-inteligencia-artificial>) - *08/09/2026*
+- [Derrapagem na rodovia MG-265, termina em tragédia familiar.](<https://www.rcwtv.com.br/noticia/derrapagem-na-rodovia-mg-265-termina-em-tragedia-familiar>) - *08/09/2026*
+
