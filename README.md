@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Comissão fixa prazo para repasse a candidaturas de mulheres negras e indígenas](<https://www.rcwtv.com.br/noticia/comissao-fixa-prazo-para-repasse-a-candidaturas-de-mulheres-negras-e-indigenas>)
-- 📰 [Sistema Faemg Senar oferece cursos inéditos de manutenção e pulverização por drones agrícolas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sistema-faemg-senar-oferece-cursos-ineditos-de-manutencao-e-pulverizacao-por-drones-agricolas-em-juiz-de-fora>)
-- 📰 [CCJ aprova proposta que garante justiça gratuita a pessoas com câncer e deficiência](<https://www.rcwtv.com.br/noticia/ccj-aprova-proposta-que-garante-justica-gratuita-a-pessoas-com-cancer-e-deficiencia>)
-- 📰 [Partido Novo pediu prisão preventiva de Andrei com base em mensagens de Vorcaro](<https://www.rcwtv.com.br/noticia/partido-novo-pediu-prisao-preventiva-de-andrei-com-base-em-mensagens-de-vorcaro>)
-- 📰 [Anvisa aprova Aquipta, novo tratamento de enxaqueca no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-aprova-aquipta-novo-tratamento-de-enxaqueca-no-brasil>)
-- 📰 [CCJ aprova diretrizes de atenção à hipertensão pulmonar na Câmara](<https://www.rcwtv.com.br/noticia/ccj-aprova-diretrizes-de-atencao-a-hipertensao-pulmonar-na-camara>)
-- 📰 [Com alta de 23,6% e R$ 421 milhões de receita líquida, Vetter é a única construtora catarinense a figurar em ranking nacional](<https://www.rcwtv.com.br/noticia/com-alta-de-23-6-e-r-421-milhoes-de-receita-liquida-vetter-e-a-unica-construtora-catarinense-a-figurar-em-ranking-nacional>)
-- 📰 [Insetos de dia, anfíbios à noite: a rotina de uma expedição científica no alto da Amazônia](<https://www.rcwtv.com.br/noticia/insetos-de-dia-anfibios-a-noite-a-rotina-de-uma-expedicao-cientifica-no-alto-da-amazonia>)
-- 📰 [SWEN.IA: portal brasileiro reúne notícias, benchmarks e análises sobre inteligência artificial](<https://www.rcwtv.com.br/noticia/swen-ia-portal-brasileiro-reune-noticias-benchmarks-e-analises-sobre-inteligencia-artificial>)
-- 📰 [Derrapagem na rodovia MG-265, termina em tragédia familiar.](<https://www.rcwtv.com.br/noticia/derrapagem-na-rodovia-mg-265-termina-em-tragedia-familiar>)
+- 📰 [Parque Halfeld recebe 26ª edição da campanha de adoção responsável da Sebeal neste sábado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/parque-halfeld-recebe-26-edicao-da-campanha-de-adocao-responsavel-da-sebeal-neste-sabado-em-juiz-de-fora>)
+- 📰 [MPMG destina R$ 3,4 milhões para ajudar famílias atingidas pelas chuvas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/mpmg-destina-r-3-4-milhoes-para-ajudar-familias-atingidas-pelas-chuvas-em-juiz-de-fora>)
+- 📰 [Oficina gratuita debate inteligência artificial e eleições em Juiz de Fora](<https://www.rcwtv.com.br/noticia/oficina-gratuita-debate-inteligencia-artificial-e-eleicoes-em-juiz-de-fora>)
+- 📰 [Mega-Sena acumulada em R$ 76 milhões: veja dezenas do concurso 3.055](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-em-r-76-milhoes-veja-dezenas-do-concurso-3-055>)
+- 📰 [Veja as agendas dos candidatos a presidente nesta terça-feira](<https://www.rcwtv.com.br/noticia/veja-as-agendas-dos-candidatos-a-presidente-nesta-terca-feira>)
+- 📰 [Delegados da PF criticam afastamento monocrático da direção da corporação](<https://www.rcwtv.com.br/noticia/delegados-da-pf-criticam-afastamento-monocratico-da-direcao-da-corporacao>)
+- 📰 [Gilmar Mendes critica afastamento de diretores da PF e pede vista no STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-critica-afastamento-de-diretores-da-pf-e-pede-vista-no-stf>)
+- 📰 [Nova lei cria fundo de financiamento para ampliar o acesso à justiça gratuita](<https://www.rcwtv.com.br/noticia/nova-lei-cria-fundo-de-financiamento-para-ampliar-o-acesso-a-justica-gratuita>)
+- 📰 [Comissão aprova Auxílio Mãe Atípica de R$ 600 para responsáveis por crianças com deficiência](<https://www.rcwtv.com.br/noticia/comissao-aprova-auxilio-mae-atipica-de-r-600-para-responsaveis-por-criancas-com-deficiencia>)
+- 📰 [Lei em Juiz de Fora autoriza incentivo a denúncias de descarte irregular](<https://www.rcwtv.com.br/noticia/lei-juiz-de-fora-incentivo-denuncias-descarte-irregular-lixo>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

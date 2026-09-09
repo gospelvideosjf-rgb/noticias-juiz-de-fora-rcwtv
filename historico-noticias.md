@@ -58,3 +58,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [SWEN.IA: portal brasileiro reúne notícias, benchmarks e análises sobre inteligência artificial](<https://www.rcwtv.com.br/noticia/swen-ia-portal-brasileiro-reune-noticias-benchmarks-e-analises-sobre-inteligencia-artificial>) - *08/09/2026*
 - [Derrapagem na rodovia MG-265, termina em tragédia familiar.](<https://www.rcwtv.com.br/noticia/derrapagem-na-rodovia-mg-265-termina-em-tragedia-familiar>) - *08/09/2026*
 
+### Atualização de 09/09/2026
+- [Parque Halfeld recebe 26ª edição da campanha de adoção responsável da Sebeal neste sábado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/parque-halfeld-recebe-26-edicao-da-campanha-de-adocao-responsavel-da-sebeal-neste-sabado-em-juiz-de-fora>) - *09/09/2026*
+- [MPMG destina R$ 3,4 milhões para ajudar famílias atingidas pelas chuvas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/mpmg-destina-r-3-4-milhoes-para-ajudar-familias-atingidas-pelas-chuvas-em-juiz-de-fora>) - *09/09/2026*
+- [Oficina gratuita debate inteligência artificial e eleições em Juiz de Fora](<https://www.rcwtv.com.br/noticia/oficina-gratuita-debate-inteligencia-artificial-e-eleicoes-em-juiz-de-fora>) - *09/09/2026*
+- [Mega-Sena acumulada em R$ 76 milhões: veja dezenas do concurso 3.055](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-em-r-76-milhoes-veja-dezenas-do-concurso-3-055>) - *09/09/2026*
+- [Veja as agendas dos candidatos a presidente nesta terça-feira](<https://www.rcwtv.com.br/noticia/veja-as-agendas-dos-candidatos-a-presidente-nesta-terca-feira>) - *09/09/2026*
+- [Delegados da PF criticam afastamento monocrático da direção da corporação](<https://www.rcwtv.com.br/noticia/delegados-da-pf-criticam-afastamento-monocratico-da-direcao-da-corporacao>) - *09/09/2026*
+- [Gilmar Mendes critica afastamento de diretores da PF e pede vista no STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-critica-afastamento-de-diretores-da-pf-e-pede-vista-no-stf>) - *09/09/2026*
+- [Nova lei cria fundo de financiamento para ampliar o acesso à justiça gratuita](<https://www.rcwtv.com.br/noticia/nova-lei-cria-fundo-de-financiamento-para-ampliar-o-acesso-a-justica-gratuita>) - *09/09/2026*
+- [Comissão aprova Auxílio Mãe Atípica de R$ 600 para responsáveis por crianças com deficiência](<https://www.rcwtv.com.br/noticia/comissao-aprova-auxilio-mae-atipica-de-r-600-para-responsaveis-por-criancas-com-deficiencia>) - *09/09/2026*
+- [Lei em Juiz de Fora autoriza incentivo a denúncias de descarte irregular](<https://www.rcwtv.com.br/noticia/lei-juiz-de-fora-incentivo-denuncias-descarte-irregular-lixo>) - *09/09/2026*
+
