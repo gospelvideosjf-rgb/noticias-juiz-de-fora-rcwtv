@@ -70,3 +70,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Comissão aprova Auxílio Mãe Atípica de R$ 600 para responsáveis por crianças com deficiência](<https://www.rcwtv.com.br/noticia/comissao-aprova-auxilio-mae-atipica-de-r-600-para-responsaveis-por-criancas-com-deficiencia>) - *09/09/2026*
 - [Lei em Juiz de Fora autoriza incentivo a denúncias de descarte irregular](<https://www.rcwtv.com.br/noticia/lei-juiz-de-fora-incentivo-denuncias-descarte-irregular-lixo>) - *09/09/2026*
 
+### Atualização de 09/09/2026
+- [Juiz de Fora integra rede internacional para adaptar espaços públicos às necessidades das crianças](<https://www.rcwtv.com.br/noticia/juiz-de-fora-integra-rede-internacional-para-adaptar-espacos-publicos-as-necessidades-das-criancas>) - *09/09/2026*
+- [Mutirão do Mercado Livre e Prefeitura de Juiz de Fora oferece salários de até R$ 2,4 mil](<https://www.rcwtv.com.br/noticia/mutirao-do-mercado-livre-e-prefeitura-de-juiz-de-fora-oferece-salarios-de-ate-r-2-4-mil>) - *09/09/2026*
+- [Circuito de Eventos Agropecuários de Juiz de Fora realiza rodada dupla em Pirapetinga e Filgueiras](<https://www.rcwtv.com.br/noticia/circuito-de-eventos-agropecuarios-de-juiz-de-fora-realiza-rodada-dupla-em-pirapetinga-e-filgueiras>) - *09/09/2026*
+- [FIEMG divulga manifesto por transparência no STF e cobra rigor na apuração de denúncias](<https://www.rcwtv.com.br/noticia/fiemg-divulga-manifesto-por-transparencia-no-stf-e-cobra-rigor-na-apuracao-de-denuncias>) - *09/09/2026*
+- [Entidades científicas exigem investigação rigorosa sobre crise institucional](<https://www.rcwtv.com.br/noticia/entidades-cientificas-exigem-investigacao-rigorosa-sobre-crise-institucional>) - *09/09/2026*
+- [CCJ aprova desembarque fora da parada para mulheres e idosos à noite](<https://www.rcwtv.com.br/noticia/ccj-aprova-desembarque-fora-da-parada-para-mulheres-e-idosos-a-noite>) - *09/09/2026*
+- [Juiz de Fora promulga leis de gratuidade para entidades sem fins lucrativos e novas regras para o transporte escolar](<https://www.rcwtv.com.br/noticia/juiz-de-fora-promulga-leis-de-gratuidade-para-entidades-sem-fins-lucrativos-e-novas-regras-para-o-transporte-escolar>) - *09/09/2026*
+- [Juiz de Fora avança na proteção neurodivergente com atendimento odontológico em domicílio e canal de denúncias](<https://www.rcwtv.com.br/noticia/juiz-de-fora-avanca-na-protecao-neurodivergente-com-atendimento-odontologico-em-domicilio-e-canal-de-denuncias>) - *09/09/2026*
+- [Juiz de Fora cria programas para combater o lixo com pagamento via Pix e premiação por denúncias](<https://www.rcwtv.com.br/noticia/juiz-de-fora-cria-programas-para-combater-o-lixo-com-pagamento-via-pix-e-premiacao-por-denuncias>) - *09/09/2026*
+- [Quadras de padel e beach tennis do Espaço Rioparque começam a operar em Tijucas (SC)](<https://www.rcwtv.com.br/noticia/quadras-de-padel-e-beach-tennis-do-espaco-rioparque-comecam-a-operar-em-tijucas-sc>) - *09/09/2026*
+

@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Parque Halfeld recebe 26ª edição da campanha de adoção responsável da Sebeal neste sábado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/parque-halfeld-recebe-26-edicao-da-campanha-de-adocao-responsavel-da-sebeal-neste-sabado-em-juiz-de-fora>)
-- 📰 [MPMG destina R$ 3,4 milhões para ajudar famílias atingidas pelas chuvas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/mpmg-destina-r-3-4-milhoes-para-ajudar-familias-atingidas-pelas-chuvas-em-juiz-de-fora>)
-- 📰 [Oficina gratuita debate inteligência artificial e eleições em Juiz de Fora](<https://www.rcwtv.com.br/noticia/oficina-gratuita-debate-inteligencia-artificial-e-eleicoes-em-juiz-de-fora>)
-- 📰 [Mega-Sena acumulada em R$ 76 milhões: veja dezenas do concurso 3.055](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-em-r-76-milhoes-veja-dezenas-do-concurso-3-055>)
-- 📰 [Veja as agendas dos candidatos a presidente nesta terça-feira](<https://www.rcwtv.com.br/noticia/veja-as-agendas-dos-candidatos-a-presidente-nesta-terca-feira>)
-- 📰 [Delegados da PF criticam afastamento monocrático da direção da corporação](<https://www.rcwtv.com.br/noticia/delegados-da-pf-criticam-afastamento-monocratico-da-direcao-da-corporacao>)
-- 📰 [Gilmar Mendes critica afastamento de diretores da PF e pede vista no STF](<https://www.rcwtv.com.br/noticia/gilmar-mendes-critica-afastamento-de-diretores-da-pf-e-pede-vista-no-stf>)
-- 📰 [Nova lei cria fundo de financiamento para ampliar o acesso à justiça gratuita](<https://www.rcwtv.com.br/noticia/nova-lei-cria-fundo-de-financiamento-para-ampliar-o-acesso-a-justica-gratuita>)
-- 📰 [Comissão aprova Auxílio Mãe Atípica de R$ 600 para responsáveis por crianças com deficiência](<https://www.rcwtv.com.br/noticia/comissao-aprova-auxilio-mae-atipica-de-r-600-para-responsaveis-por-criancas-com-deficiencia>)
-- 📰 [Lei em Juiz de Fora autoriza incentivo a denúncias de descarte irregular](<https://www.rcwtv.com.br/noticia/lei-juiz-de-fora-incentivo-denuncias-descarte-irregular-lixo>)
+- 📰 [Juiz de Fora integra rede internacional para adaptar espaços públicos às necessidades das crianças](<https://www.rcwtv.com.br/noticia/juiz-de-fora-integra-rede-internacional-para-adaptar-espacos-publicos-as-necessidades-das-criancas>)
+- 📰 [Mutirão do Mercado Livre e Prefeitura de Juiz de Fora oferece salários de até R$ 2,4 mil](<https://www.rcwtv.com.br/noticia/mutirao-do-mercado-livre-e-prefeitura-de-juiz-de-fora-oferece-salarios-de-ate-r-2-4-mil>)
+- 📰 [Circuito de Eventos Agropecuários de Juiz de Fora realiza rodada dupla em Pirapetinga e Filgueiras](<https://www.rcwtv.com.br/noticia/circuito-de-eventos-agropecuarios-de-juiz-de-fora-realiza-rodada-dupla-em-pirapetinga-e-filgueiras>)
+- 📰 [FIEMG divulga manifesto por transparência no STF e cobra rigor na apuração de denúncias](<https://www.rcwtv.com.br/noticia/fiemg-divulga-manifesto-por-transparencia-no-stf-e-cobra-rigor-na-apuracao-de-denuncias>)
+- 📰 [Entidades científicas exigem investigação rigorosa sobre crise institucional](<https://www.rcwtv.com.br/noticia/entidades-cientificas-exigem-investigacao-rigorosa-sobre-crise-institucional>)
+- 📰 [CCJ aprova desembarque fora da parada para mulheres e idosos à noite](<https://www.rcwtv.com.br/noticia/ccj-aprova-desembarque-fora-da-parada-para-mulheres-e-idosos-a-noite>)
+- 📰 [Juiz de Fora promulga leis de gratuidade para entidades sem fins lucrativos e novas regras para o transporte escolar](<https://www.rcwtv.com.br/noticia/juiz-de-fora-promulga-leis-de-gratuidade-para-entidades-sem-fins-lucrativos-e-novas-regras-para-o-transporte-escolar>)
+- 📰 [Juiz de Fora avança na proteção neurodivergente com atendimento odontológico em domicílio e canal de denúncias](<https://www.rcwtv.com.br/noticia/juiz-de-fora-avanca-na-protecao-neurodivergente-com-atendimento-odontologico-em-domicilio-e-canal-de-denuncias>)
+- 📰 [Juiz de Fora cria programas para combater o lixo com pagamento via Pix e premiação por denúncias](<https://www.rcwtv.com.br/noticia/juiz-de-fora-cria-programas-para-combater-o-lixo-com-pagamento-via-pix-e-premiacao-por-denuncias>)
+- 📰 [Quadras de padel e beach tennis do Espaço Rioparque começam a operar em Tijucas (SC)](<https://www.rcwtv.com.br/noticia/quadras-de-padel-e-beach-tennis-do-espaco-rioparque-comecam-a-operar-em-tijucas-sc>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
