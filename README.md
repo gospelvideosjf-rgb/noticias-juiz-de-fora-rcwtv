@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Juiz de Fora integra rede internacional para adaptar espaços públicos às necessidades das crianças](<https://www.rcwtv.com.br/noticia/juiz-de-fora-integra-rede-internacional-para-adaptar-espacos-publicos-as-necessidades-das-criancas>)
-- 📰 [Mutirão do Mercado Livre e Prefeitura de Juiz de Fora oferece salários de até R$ 2,4 mil](<https://www.rcwtv.com.br/noticia/mutirao-do-mercado-livre-e-prefeitura-de-juiz-de-fora-oferece-salarios-de-ate-r-2-4-mil>)
-- 📰 [Circuito de Eventos Agropecuários de Juiz de Fora realiza rodada dupla em Pirapetinga e Filgueiras](<https://www.rcwtv.com.br/noticia/circuito-de-eventos-agropecuarios-de-juiz-de-fora-realiza-rodada-dupla-em-pirapetinga-e-filgueiras>)
-- 📰 [FIEMG divulga manifesto por transparência no STF e cobra rigor na apuração de denúncias](<https://www.rcwtv.com.br/noticia/fiemg-divulga-manifesto-por-transparencia-no-stf-e-cobra-rigor-na-apuracao-de-denuncias>)
-- 📰 [Entidades científicas exigem investigação rigorosa sobre crise institucional](<https://www.rcwtv.com.br/noticia/entidades-cientificas-exigem-investigacao-rigorosa-sobre-crise-institucional>)
-- 📰 [CCJ aprova desembarque fora da parada para mulheres e idosos à noite](<https://www.rcwtv.com.br/noticia/ccj-aprova-desembarque-fora-da-parada-para-mulheres-e-idosos-a-noite>)
-- 📰 [Juiz de Fora promulga leis de gratuidade para entidades sem fins lucrativos e novas regras para o transporte escolar](<https://www.rcwtv.com.br/noticia/juiz-de-fora-promulga-leis-de-gratuidade-para-entidades-sem-fins-lucrativos-e-novas-regras-para-o-transporte-escolar>)
-- 📰 [Juiz de Fora avança na proteção neurodivergente com atendimento odontológico em domicílio e canal de denúncias](<https://www.rcwtv.com.br/noticia/juiz-de-fora-avanca-na-protecao-neurodivergente-com-atendimento-odontologico-em-domicilio-e-canal-de-denuncias>)
-- 📰 [Juiz de Fora cria programas para combater o lixo com pagamento via Pix e premiação por denúncias](<https://www.rcwtv.com.br/noticia/juiz-de-fora-cria-programas-para-combater-o-lixo-com-pagamento-via-pix-e-premiacao-por-denuncias>)
-- 📰 [Quadras de padel e beach tennis do Espaço Rioparque começam a operar em Tijucas (SC)](<https://www.rcwtv.com.br/noticia/quadras-de-padel-e-beach-tennis-do-espaco-rioparque-comecam-a-operar-em-tijucas-sc>)
+- 📰 [Confira como foi a quarta-feira dos presidenciáveis nas ruas](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-quarta-feira-dos-presidenciaveis-nas-ruas>)
+- 📰 [Governo anuncia R$ 7 bilhões mensais em medidas para combustíveis](<https://www.rcwtv.com.br/noticia/governo-anuncia-r-7-bilhoes-mensais-em-medidas-para-combustiveis>)
+- 📰 [STF homologa delação que investiga verba para filme sobre Bolsonaro](<https://www.rcwtv.com.br/noticia/stf-homologa-delacao-que-investiga-verba-para-filme-sobre-bolsonaro>)
+- 📰 [Violência doméstica: projeto garante atendimento acessível a mulheres com deficiência](<https://www.rcwtv.com.br/noticia/violencia-domestica-projeto-garante-atendimento-acessivel-a-mulheres-com-deficiencia>)
+- 📰 [Comissão aprova projeto que amplia embarque armado para agentes de segurança pública](<https://www.rcwtv.com.br/noticia/comissao-aprova-projeto-que-amplia-embarque-armado-para-agentes-de-seguranca-publica>)
+- 📰 [Edson Fachin decide retirar Alexandre de Moraes do inquérito das fake news](<https://www.rcwtv.com.br/noticia/edson-fachin-decide-retirar-alexandre-de-moraes-do-inquerito-das-fake-news>)
+- 📰 [Edson Fachin suspende decisões sobre a cúpula da Polícia Federal](<https://www.rcwtv.com.br/noticia/edson-fachin-suspende-decisoes-sobre-a-cupula-da-policia-federal>)
+- 📰 [Anac autoriza voos excepcionais após as 23h no Aeroporto de Congonhas](<https://www.rcwtv.com.br/noticia/anac-autoriza-voos-excepcionais-apos-as-23h-no-aeroporto-de-congonhas>)
+- 📰 [Governo federal amplia subsídio aos combustíveis após alta do petróleo](<https://www.rcwtv.com.br/noticia/governo-federal-amplia-subsidio-aos-combustiveis-apos-alta-do-petroleo>)
+- 📰 [ANPR cobra moderação de autoridades diante de forte crise institucional no STF](<https://www.rcwtv.com.br/noticia/anpr-cobra-moderacao-de-autoridades-diante-de-forte-crise-institucional-no-stf>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
