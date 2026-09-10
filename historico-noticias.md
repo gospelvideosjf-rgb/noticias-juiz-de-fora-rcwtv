@@ -94,3 +94,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Governo federal amplia subsídio aos combustíveis após alta do petróleo](<https://www.rcwtv.com.br/noticia/governo-federal-amplia-subsidio-aos-combustiveis-apos-alta-do-petroleo>) - *10/09/2026*
 - [ANPR cobra moderação de autoridades diante de forte crise institucional no STF](<https://www.rcwtv.com.br/noticia/anpr-cobra-moderacao-de-autoridades-diante-de-forte-crise-institucional-no-stf>) - *10/09/2026*
 
+### Atualização de 10/09/2026
+- [Locais de prova do Enare e Enamed 2026 já estão disponíveis para consulta dos candidatos](<https://www.rcwtv.com.br/noticia/locais-de-prova-do-enare-e-enamed-2026-ja-estao-disponiveis-para-consulta-dos-candidatos>) - *10/09/2026*
+- [Planos de saúde devem cobrir mamografia digital sem limite de idade](<https://www.rcwtv.com.br/noticia/planos-de-saude-devem-cobrir-mamografia-digital-sem-limite-de-idade>) - *10/09/2026*
+- [1ª Semaninha de História da UFJF movimenta Juiz de Fora com oficinas e debates gratuitos](<https://www.rcwtv.com.br/noticia/1-semaninha-de-historia-da-ufjf-movimenta-juiz-de-fora-com-oficinas-e-debates-gratuitos>) - *10/09/2026*
+- [Saques da poupança superam depósitos e atingem R$ 10,5 bilhões em agosto](<https://www.rcwtv.com.br/noticia/saques-da-poupanca-superam-depositos-e-atingem-r-10-5-bilhoes-em-agosto>) - *10/09/2026*
+- [Rio de Janeiro garante gratuidade no Enem para 150 mil estudantes](<https://www.rcwtv.com.br/noticia/rio-de-janeiro-garante-gratuidade-no-enem-para-150-mil-estudantes>) - *10/09/2026*
+- [Fótons gêmeos mantêm correlação mesmo após viagem de 7 km sobre a Baía de Guanabara](<https://www.rcwtv.com.br/noticia/fotons-gemeos-mantem-correlacao-mesmo-apos-viagem-de-7-km-sobre-a-baia-de-guanabara>) - *10/09/2026*
+- [Operação Make Up: Dino proíbe Mario Frias de deixar o Brasil](<https://www.rcwtv.com.br/noticia/operacao-make-up-dino-proibe-mario-frias-de-deixar-o-brasil>) - *10/09/2026*
+- [Escassez de avaliadores imobiliários pode influenciar o fluxo de capital no Brasil](<https://www.rcwtv.com.br/noticia/escassez-de-avaliadores-imobiliarios-pode-influenciar-o-fluxo-de-capital-no-brasil>) - *10/09/2026*
+- [Estudo investiga associação de clorexidina e fitoterápicos contra fungo causador de infecção hospitalar](<https://www.rcwtv.com.br/noticia/estudo-investiga-associacao-de-clorexidina-e-fitoterapicos-contra-fungo-causador-de-infeccao-hospitalar>) - *10/09/2026*
+- [Shopping Jardim Norte recebe a exposição “Natureza e Arte” com esculturas em papel machê reciclado](<https://www.rcwtv.com.br/noticia/shopping-jardim-norte-recebe-a-exposicao-natureza-e-arte-com-esculturas-em-papel-mache-reciclado>) - *10/09/2026*
+
