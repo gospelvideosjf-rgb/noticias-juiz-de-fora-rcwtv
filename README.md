@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Locais de prova do Enare e Enamed 2026 já estão disponíveis para consulta dos candidatos](<https://www.rcwtv.com.br/noticia/locais-de-prova-do-enare-e-enamed-2026-ja-estao-disponiveis-para-consulta-dos-candidatos>)
-- 📰 [Planos de saúde devem cobrir mamografia digital sem limite de idade](<https://www.rcwtv.com.br/noticia/planos-de-saude-devem-cobrir-mamografia-digital-sem-limite-de-idade>)
-- 📰 [1ª Semaninha de História da UFJF movimenta Juiz de Fora com oficinas e debates gratuitos](<https://www.rcwtv.com.br/noticia/1-semaninha-de-historia-da-ufjf-movimenta-juiz-de-fora-com-oficinas-e-debates-gratuitos>)
-- 📰 [Saques da poupança superam depósitos e atingem R$ 10,5 bilhões em agosto](<https://www.rcwtv.com.br/noticia/saques-da-poupanca-superam-depositos-e-atingem-r-10-5-bilhoes-em-agosto>)
-- 📰 [Rio de Janeiro garante gratuidade no Enem para 150 mil estudantes](<https://www.rcwtv.com.br/noticia/rio-de-janeiro-garante-gratuidade-no-enem-para-150-mil-estudantes>)
-- 📰 [Fótons gêmeos mantêm correlação mesmo após viagem de 7 km sobre a Baía de Guanabara](<https://www.rcwtv.com.br/noticia/fotons-gemeos-mantem-correlacao-mesmo-apos-viagem-de-7-km-sobre-a-baia-de-guanabara>)
-- 📰 [Operação Make Up: Dino proíbe Mario Frias de deixar o Brasil](<https://www.rcwtv.com.br/noticia/operacao-make-up-dino-proibe-mario-frias-de-deixar-o-brasil>)
-- 📰 [Escassez de avaliadores imobiliários pode influenciar o fluxo de capital no Brasil](<https://www.rcwtv.com.br/noticia/escassez-de-avaliadores-imobiliarios-pode-influenciar-o-fluxo-de-capital-no-brasil>)
-- 📰 [Estudo investiga associação de clorexidina e fitoterápicos contra fungo causador de infecção hospitalar](<https://www.rcwtv.com.br/noticia/estudo-investiga-associacao-de-clorexidina-e-fitoterapicos-contra-fungo-causador-de-infeccao-hospitalar>)
-- 📰 [Shopping Jardim Norte recebe a exposição “Natureza e Arte” com esculturas em papel machê reciclado](<https://www.rcwtv.com.br/noticia/shopping-jardim-norte-recebe-a-exposicao-natureza-e-arte-com-esculturas-em-papel-mache-reciclado>)
+- 📰 [PF deflagra Operação Make Up contra desvios de emendas de Mario Frias](<https://www.rcwtv.com.br/noticia/pf-deflagra-operacao-make-up-contra-desvios-de-emendas-de-mario-frias>)
+- 📰 [Prêmio da Mega-Sena acumula e vai a R$ 85 milhões no domingo](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-e-vai-a-r-85-milhoes-no-domingo>)
+- 📰 [Confira a movimentação dos candidatos à Presidência nesta quinta-feira](<https://www.rcwtv.com.br/noticia/confira-a-movimentacao-dos-candidatos-a-presidencia-nesta-quinta-feira>)
+- 📰 [Seattle Seahawks vence Patriots na abertura da temporada 2026](<https://www.rcwtv.com.br/noticia/seattle-seahawks-vence-patriots-na-abertura-da-temporada-2026>)
+- 📰 [Câmara de Juiz de Fora aprova mudanças na destinação de multas da proteção animal](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-mudancas-na-destinacao-de-multas-da-protecao-animal>)
+- 📰 [Praça da Estação recebe feiras de diversidade religiosa e migrantes neste sábado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/praca-da-estacao-recebe-feiras-de-diversidade-religiosa-e-migrantes-neste-sabado-em-juiz-de-fora>)
+- 📰 [Prefeitura e Sebrae capacitam produtoras para a MAX Minas Audiovisual em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-e-sebrae-capacitam-produtoras-para-a-max-minas-audiovisual-em-juiz-de-fora>)
+- 📰 [Brigada de Montanha realiza treinamento de Atendimento Pré-Hospitalar Tático em Juiz de Fora](<https://www.rcwtv.com.br/noticia/brigada-de-montanha-realiza-treinamento-de-atendimento-pre-hospitalar-tatico-em-juiz-de-fora>)
+- 📰 [Projeto da Guarda Municipal realiza conscientização sobre bullying e cyberbullying em escola de Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-da-guarda-municipal-realiza-conscientizacao-sobre-bullying-e-cyberbullying-em-escola-de-juiz-de-fora>)
+- 📰 [Guarda Municipal de Juiz de Fora passa por treinamento para padronização de armamento de fogo](<https://www.rcwtv.com.br/noticia/guarda-municipal-de-juiz-de-fora-passa-por-treinamento-para-padronizacao-de-armamento-de-fogo>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
