@@ -118,3 +118,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Projeto da Guarda Municipal realiza conscientização sobre bullying e cyberbullying em escola de Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-da-guarda-municipal-realiza-conscientizacao-sobre-bullying-e-cyberbullying-em-escola-de-juiz-de-fora>) - *11/09/2026*
 - [Guarda Municipal de Juiz de Fora passa por treinamento para padronização de armamento de fogo](<https://www.rcwtv.com.br/noticia/guarda-municipal-de-juiz-de-fora-passa-por-treinamento-para-padronizacao-de-armamento-de-fogo>) - *11/09/2026*
 
+### Atualização de 11/09/2026
+- [INPC de agosto registra taxa negativa e fica em -0,32%, aponta IBGE](<https://www.rcwtv.com.br/noticia/inpc-de-agosto-registra-taxa-negativa-e-fica-em-0-32-aponta-ibge>) - *11/09/2026*
+- [PF aponta que servidores do Banco Central recebiam propina de ex-banqueiro](<https://www.rcwtv.com.br/noticia/pf-aponta-que-servidores-do-banco-central-recebiam-propina-de-ex-banqueiro>) - *11/09/2026*
+- [Inep divulga a relação final dos aprovados no revalida 2025](<https://www.rcwtv.com.br/noticia/inep-divulga-a-relacao-final-dos-aprovados-no-revalida-2025>) - *11/09/2026*
+- [Ex-companheiro invade casa e atira quatro vezes contra jovem de 23 anos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/ex-companheiro-invade-casa-e-atira-quatro-vezes-contra-jovem-de-23-anos-em-juiz-de-fora>) - *11/09/2026*
+- [MPMG reúne gestores e debate medidas para reduzir riscos na administração pública](<https://www.rcwtv.com.br/noticia/mpmg-reune-gestores-e-debate-medidas-para-reduzir-riscos-na-administracao-publica>) - *11/09/2026*
+- [SAMU atende oito ocorrências graves em diferentes cidades da Zona da Mata e região](<https://www.rcwtv.com.br/noticia/samu-atende-oito-ocorrencias-graves-em-diferentes-cidades-da-zona-da-mata-e-regiao>) - *11/09/2026*
+- [Temperatura máxima na estação seca já aumentou mais de 3 °C em área preservada da Amazônia](<https://www.rcwtv.com.br/noticia/temperatura-maxima-na-estacao-seca-ja-aumentou-mais-de-3-c-em-area-preservada-da-amazonia>) - *11/09/2026*
+- [Bagaço de uva vira biofertilizante para o cultivo de flores comestíveis](<https://www.rcwtv.com.br/noticia/bagaco-de-uva-vira-biofertilizante-para-o-cultivo-de-flores-comestiveis>) - *11/09/2026*
+- [Novo suporte aeromédico será inaugurado em Juiz de Fora para atender 198 municípios](<https://www.rcwtv.com.br/noticia/novo-suporte-aeromedico-sera-inaugurado-em-juiz-de-fora-para-atender-198-municipios>) - *11/09/2026*
+- [Cachaça mineira movimenta R$ 624 milhões e busca espaço em novos mercados](<https://www.rcwtv.com.br/noticia/cachaca-mineira-movimenta-r-624-milhoes-e-busca-espaco-em-novos-mercados>) - *11/09/2026*
+

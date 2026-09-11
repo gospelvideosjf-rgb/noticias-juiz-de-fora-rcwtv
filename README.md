@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [PF deflagra Operação Make Up contra desvios de emendas de Mario Frias](<https://www.rcwtv.com.br/noticia/pf-deflagra-operacao-make-up-contra-desvios-de-emendas-de-mario-frias>)
-- 📰 [Prêmio da Mega-Sena acumula e vai a R$ 85 milhões no domingo](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-e-vai-a-r-85-milhoes-no-domingo>)
-- 📰 [Confira a movimentação dos candidatos à Presidência nesta quinta-feira](<https://www.rcwtv.com.br/noticia/confira-a-movimentacao-dos-candidatos-a-presidencia-nesta-quinta-feira>)
-- 📰 [Seattle Seahawks vence Patriots na abertura da temporada 2026](<https://www.rcwtv.com.br/noticia/seattle-seahawks-vence-patriots-na-abertura-da-temporada-2026>)
-- 📰 [Câmara de Juiz de Fora aprova mudanças na destinação de multas da proteção animal](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-mudancas-na-destinacao-de-multas-da-protecao-animal>)
-- 📰 [Praça da Estação recebe feiras de diversidade religiosa e migrantes neste sábado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/praca-da-estacao-recebe-feiras-de-diversidade-religiosa-e-migrantes-neste-sabado-em-juiz-de-fora>)
-- 📰 [Prefeitura e Sebrae capacitam produtoras para a MAX Minas Audiovisual em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-e-sebrae-capacitam-produtoras-para-a-max-minas-audiovisual-em-juiz-de-fora>)
-- 📰 [Brigada de Montanha realiza treinamento de Atendimento Pré-Hospitalar Tático em Juiz de Fora](<https://www.rcwtv.com.br/noticia/brigada-de-montanha-realiza-treinamento-de-atendimento-pre-hospitalar-tatico-em-juiz-de-fora>)
-- 📰 [Projeto da Guarda Municipal realiza conscientização sobre bullying e cyberbullying em escola de Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-da-guarda-municipal-realiza-conscientizacao-sobre-bullying-e-cyberbullying-em-escola-de-juiz-de-fora>)
-- 📰 [Guarda Municipal de Juiz de Fora passa por treinamento para padronização de armamento de fogo](<https://www.rcwtv.com.br/noticia/guarda-municipal-de-juiz-de-fora-passa-por-treinamento-para-padronizacao-de-armamento-de-fogo>)
+- 📰 [INPC de agosto registra taxa negativa e fica em -0,32%, aponta IBGE](<https://www.rcwtv.com.br/noticia/inpc-de-agosto-registra-taxa-negativa-e-fica-em-0-32-aponta-ibge>)
+- 📰 [PF aponta que servidores do Banco Central recebiam propina de ex-banqueiro](<https://www.rcwtv.com.br/noticia/pf-aponta-que-servidores-do-banco-central-recebiam-propina-de-ex-banqueiro>)
+- 📰 [Inep divulga a relação final dos aprovados no revalida 2025](<https://www.rcwtv.com.br/noticia/inep-divulga-a-relacao-final-dos-aprovados-no-revalida-2025>)
+- 📰 [Ex-companheiro invade casa e atira quatro vezes contra jovem de 23 anos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/ex-companheiro-invade-casa-e-atira-quatro-vezes-contra-jovem-de-23-anos-em-juiz-de-fora>)
+- 📰 [MPMG reúne gestores e debate medidas para reduzir riscos na administração pública](<https://www.rcwtv.com.br/noticia/mpmg-reune-gestores-e-debate-medidas-para-reduzir-riscos-na-administracao-publica>)
+- 📰 [SAMU atende oito ocorrências graves em diferentes cidades da Zona da Mata e região](<https://www.rcwtv.com.br/noticia/samu-atende-oito-ocorrencias-graves-em-diferentes-cidades-da-zona-da-mata-e-regiao>)
+- 📰 [Temperatura máxima na estação seca já aumentou mais de 3 °C em área preservada da Amazônia](<https://www.rcwtv.com.br/noticia/temperatura-maxima-na-estacao-seca-ja-aumentou-mais-de-3-c-em-area-preservada-da-amazonia>)
+- 📰 [Bagaço de uva vira biofertilizante para o cultivo de flores comestíveis](<https://www.rcwtv.com.br/noticia/bagaco-de-uva-vira-biofertilizante-para-o-cultivo-de-flores-comestiveis>)
+- 📰 [Novo suporte aeromédico será inaugurado em Juiz de Fora para atender 198 municípios](<https://www.rcwtv.com.br/noticia/novo-suporte-aeromedico-sera-inaugurado-em-juiz-de-fora-para-atender-198-municipios>)
+- 📰 [Cachaça mineira movimenta R$ 624 milhões e busca espaço em novos mercados](<https://www.rcwtv.com.br/noticia/cachaca-mineira-movimenta-r-624-milhoes-e-busca-espaco-em-novos-mercados>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
