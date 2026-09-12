@@ -130,3 +130,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Novo suporte aeromédico será inaugurado em Juiz de Fora para atender 198 municípios](<https://www.rcwtv.com.br/noticia/novo-suporte-aeromedico-sera-inaugurado-em-juiz-de-fora-para-atender-198-municipios>) - *11/09/2026*
 - [Cachaça mineira movimenta R$ 624 milhões e busca espaço em novos mercados](<https://www.rcwtv.com.br/noticia/cachaca-mineira-movimenta-r-624-milhoes-e-busca-espaco-em-novos-mercados>) - *11/09/2026*
 
+### Atualização de 12/09/2026
+- [Mulher e bebê são resgatados de cárcere privado após violência doméstica em Juiz de Fora](<https://www.rcwtv.com.br/noticia/mulher-e-bebe-sao-resgatados-de-carcere-privado-apos-violencia-domestica-em-juiz-de-fora>) - *12/09/2026*
+- [Veja os destaques das agendas dos candidatos à Presidência nesta sexta-feira](<https://www.rcwtv.com.br/noticia/veja-os-destaques-das-agendas-dos-candidatos-a-presidencia-nesta-sexta-feira>) - *12/09/2026*
+- [André Mendonça retira o sigilo no STF de 39 processos envolvendo políticos](<https://www.rcwtv.com.br/noticia/andre-mendonca-retira-o-sigilo-no-stf-de-39-processos-envolvendo-politicos>) - *12/09/2026*
+- [Diretor da Polícia Federal nega ao STF monitoramento do ministro André Mendonça](<https://www.rcwtv.com.br/noticia/diretor-da-policia-federal-nega-ao-stf-monitoramento-do-ministro-andre-mendonca>) - *12/09/2026*
+- [Mendonça libera dados da Operação Compliance Zero e rebate críticas no STF](<https://www.rcwtv.com.br/noticia/mendonca-libera-dados-da-operacao-compliance-zero-e-rebate-criticas-no-stf>) - *12/09/2026*
+- [Enamed 2026: saiba tudo sobre a prova de medicina deste domingo](<https://www.rcwtv.com.br/noticia/enamed-2026-saiba-tudo-sobre-a-prova-de-medicina-deste-domingo>) - *12/09/2026*
+- [Obras na Ponte Preta afetam abastecimento de água em Juiz de Fora nesta segunda-feira](<https://www.rcwtv.com.br/noticia/obras-na-ponte-preta-afetam-abastecimento-de-agua-em-juiz-de-fora-nesta-segunda-feira>) - *12/09/2026*
+- [Câmara dos deputados sedia o 4º congresso brasileiro de comunicação pública](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-sedia-o-4-congresso-brasileiro-de-comunicacao-publica>) - *12/09/2026*
+- [Conselho de Comunicação debate regulação das redes sociais nesta segunda-feira](<https://www.rcwtv.com.br/noticia/conselho-de-comunicacao-debate-regulacao-das-redes-sociais-nesta-segunda-feira>) - *12/09/2026*
+- [GDF confirma suspensão de aulas no DF antes dos turnos das eleições](<https://www.rcwtv.com.br/noticia/gdf-confirma-suspensao-de-aulas-no-df-antes-dos-turnos-das-eleicoes>) - *12/09/2026*
+
