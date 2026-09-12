@@ -142,3 +142,12 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Conselho de Comunicação debate regulação das redes sociais nesta segunda-feira](<https://www.rcwtv.com.br/noticia/conselho-de-comunicacao-debate-regulacao-das-redes-sociais-nesta-segunda-feira>) - *12/09/2026*
 - [GDF confirma suspensão de aulas no DF antes dos turnos das eleições](<https://www.rcwtv.com.br/noticia/gdf-confirma-suspensao-de-aulas-no-df-antes-dos-turnos-das-eleicoes>) - *12/09/2026*
 
+### Atualização de 12/09/2026
+- [Duas pessoas morrem em desabamento em São Paulo na Penha](<https://www.rcwtv.com.br/noticia/duas-pessoas-morrem-em-desabamento-em-sao-paulo-na-penha>) - *12/09/2026*
+- [Resumo com as principais notícias de minas destaca política e economia](<https://www.rcwtv.com.br/noticia/resumo-com-as-principais-noticias-de-minas-destaca-politica-e-economia>) - *12/09/2026*
+- [Defesa de Flávio Bolsonaro tenta mudar relator do caso Dark Horse no STF](<https://www.rcwtv.com.br/noticia/defesa-de-flavio-bolsonaro-tenta-mudar-relator-do-caso-dark-horse-no-stf>) - *12/09/2026*
+- [PF aponta cobranças de Flávio Bolsonaro por recursos para o filme Dark Horse](<https://www.rcwtv.com.br/noticia/pf-aponta-cobrancas-de-flavio-bolsonaro-por-recursos-para-o-filme-dark-horse>) - *12/09/2026*
+- [Bancários mantêm greve da Caixa após rejeitar proposta em assembleia](<https://www.rcwtv.com.br/noticia/bancarios-mantem-greve-da-caixa-apos-rejeitar-proposta-em-assembleia>) - *12/09/2026*
+- [Gilmar Mendes exige acesso a dados do celular de Vorcaro antes de julgamento](<https://www.rcwtv.com.br/noticia/gilmar-mendes-exige-acesso-a-dados-do-celular-de-vorcaro-antes-de-julgamento>) - *12/09/2026*
+- [AMM alerta sobre impactos da renúncia fiscal nos municípios de Minas](<https://www.rcwtv.com.br/noticia/amm-alerta-sobre-impactos-da-renuncia-fiscal-nos-municipios-de-minas>) - *12/09/2026*
+

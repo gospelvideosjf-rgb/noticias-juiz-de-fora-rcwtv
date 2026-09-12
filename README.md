@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Duas pessoas morrem em desabamento em São Paulo na Penha](<https://www.rcwtv.com.br/noticia/duas-pessoas-morrem-em-desabamento-em-sao-paulo-na-penha>)
+- 📰 [Resumo com as principais notícias de minas destaca política e economia](<https://www.rcwtv.com.br/noticia/resumo-com-as-principais-noticias-de-minas-destaca-politica-e-economia>)
+- 📰 [Defesa de Flávio Bolsonaro tenta mudar relator do caso Dark Horse no STF](<https://www.rcwtv.com.br/noticia/defesa-de-flavio-bolsonaro-tenta-mudar-relator-do-caso-dark-horse-no-stf>)
+- 📰 [PF aponta cobranças de Flávio Bolsonaro por recursos para o filme Dark Horse](<https://www.rcwtv.com.br/noticia/pf-aponta-cobrancas-de-flavio-bolsonaro-por-recursos-para-o-filme-dark-horse>)
+- 📰 [Bancários mantêm greve da Caixa após rejeitar proposta em assembleia](<https://www.rcwtv.com.br/noticia/bancarios-mantem-greve-da-caixa-apos-rejeitar-proposta-em-assembleia>)
+- 📰 [Gilmar Mendes exige acesso a dados do celular de Vorcaro antes de julgamento](<https://www.rcwtv.com.br/noticia/gilmar-mendes-exige-acesso-a-dados-do-celular-de-vorcaro-antes-de-julgamento>)
+- 📰 [AMM alerta sobre impactos da renúncia fiscal nos municípios de Minas](<https://www.rcwtv.com.br/noticia/amm-alerta-sobre-impactos-da-renuncia-fiscal-nos-municipios-de-minas>)
 - 📰 [Mulher e bebê são resgatados de cárcere privado após violência doméstica em Juiz de Fora](<https://www.rcwtv.com.br/noticia/mulher-e-bebe-sao-resgatados-de-carcere-privado-apos-violencia-domestica-em-juiz-de-fora>)
 - 📰 [Veja os destaques das agendas dos candidatos à Presidência nesta sexta-feira](<https://www.rcwtv.com.br/noticia/veja-os-destaques-das-agendas-dos-candidatos-a-presidencia-nesta-sexta-feira>)
 - 📰 [André Mendonça retira o sigilo no STF de 39 processos envolvendo políticos](<https://www.rcwtv.com.br/noticia/andre-mendonca-retira-o-sigilo-no-stf-de-39-processos-envolvendo-politicos>)
-- 📰 [Diretor da Polícia Federal nega ao STF monitoramento do ministro André Mendonça](<https://www.rcwtv.com.br/noticia/diretor-da-policia-federal-nega-ao-stf-monitoramento-do-ministro-andre-mendonca>)
-- 📰 [Mendonça libera dados da Operação Compliance Zero e rebate críticas no STF](<https://www.rcwtv.com.br/noticia/mendonca-libera-dados-da-operacao-compliance-zero-e-rebate-criticas-no-stf>)
-- 📰 [Enamed 2026: saiba tudo sobre a prova de medicina deste domingo](<https://www.rcwtv.com.br/noticia/enamed-2026-saiba-tudo-sobre-a-prova-de-medicina-deste-domingo>)
-- 📰 [Obras na Ponte Preta afetam abastecimento de água em Juiz de Fora nesta segunda-feira](<https://www.rcwtv.com.br/noticia/obras-na-ponte-preta-afetam-abastecimento-de-agua-em-juiz-de-fora-nesta-segunda-feira>)
-- 📰 [Câmara dos deputados sedia o 4º congresso brasileiro de comunicação pública](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-sedia-o-4-congresso-brasileiro-de-comunicacao-publica>)
-- 📰 [Conselho de Comunicação debate regulação das redes sociais nesta segunda-feira](<https://www.rcwtv.com.br/noticia/conselho-de-comunicacao-debate-regulacao-das-redes-sociais-nesta-segunda-feira>)
-- 📰 [GDF confirma suspensão de aulas no DF antes dos turnos das eleições](<https://www.rcwtv.com.br/noticia/gdf-confirma-suspensao-de-aulas-no-df-antes-dos-turnos-das-eleicoes>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
