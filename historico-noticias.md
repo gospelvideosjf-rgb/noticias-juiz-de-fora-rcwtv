@@ -151,3 +151,9 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Gilmar Mendes exige acesso a dados do celular de Vorcaro antes de julgamento](<https://www.rcwtv.com.br/noticia/gilmar-mendes-exige-acesso-a-dados-do-celular-de-vorcaro-antes-de-julgamento>) - *12/09/2026*
 - [AMM alerta sobre impactos da renúncia fiscal nos municípios de Minas](<https://www.rcwtv.com.br/noticia/amm-alerta-sobre-impactos-da-renuncia-fiscal-nos-municipios-de-minas>) - *12/09/2026*
 
+### Atualização de 13/09/2026
+- [Entidades lançam carta pela agroecologia nas eleições em SP](<https://www.rcwtv.com.br/noticia/entidades-lancam-carta-pela-agroecologia-nas-eleicoes-em-sp>) - *13/09/2026*
+- [Avião da GOL realiza pouso de emergência após decolar de Goiânia](<https://www.rcwtv.com.br/noticia/aviao-da-gol-realiza-pouso-de-emergencia-apos-decolar-de-goiania>) - *13/09/2026*
+- [PGR reitera pedido ao STF por acesso integral aos dados de Vorcaro](<https://www.rcwtv.com.br/noticia/pgr-reitera-pedido-ao-stf-por-acesso-integral-aos-dados-de-vorcaro>) - *13/09/2026*
+- [SUS já aplicou a vacina Pneumo 20 em mais de 1 milhão de crianças no país](<https://www.rcwtv.com.br/noticia/sus-ja-aplicou-a-vacina-pneumo-20-em-mais-de-1-milhao-de-criancas-no-pais>) - *13/09/2026*
+
