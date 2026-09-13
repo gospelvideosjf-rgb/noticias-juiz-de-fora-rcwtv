@@ -157,3 +157,6 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [PGR reitera pedido ao STF por acesso integral aos dados de Vorcaro](<https://www.rcwtv.com.br/noticia/pgr-reitera-pedido-ao-stf-por-acesso-integral-aos-dados-de-vorcaro>) - *13/09/2026*
 - [SUS já aplicou a vacina Pneumo 20 em mais de 1 milhão de crianças no país](<https://www.rcwtv.com.br/noticia/sus-ja-aplicou-a-vacina-pneumo-20-em-mais-de-1-milhao-de-criancas-no-pais>) - *13/09/2026*
 
+### Atualização de 13/09/2026
+- [Entidades alertam que crise institucional sufoca debate eleitoral de 2026](<https://www.rcwtv.com.br/noticia/entidades-alertam-que-crise-institucional-sufoca-debate-eleitoral-de-2026>) - *13/09/2026*
+

@@ -18,6 +18,7 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Entidades alertam que crise institucional sufoca debate eleitoral de 2026](<https://www.rcwtv.com.br/noticia/entidades-alertam-que-crise-institucional-sufoca-debate-eleitoral-de-2026>)
 - 📰 [Entidades lançam carta pela agroecologia nas eleições em SP](<https://www.rcwtv.com.br/noticia/entidades-lancam-carta-pela-agroecologia-nas-eleicoes-em-sp>)
 - 📰 [Avião da GOL realiza pouso de emergência após decolar de Goiânia](<https://www.rcwtv.com.br/noticia/aviao-da-gol-realiza-pouso-de-emergencia-apos-decolar-de-goiania>)
 - 📰 [PGR reitera pedido ao STF por acesso integral aos dados de Vorcaro](<https://www.rcwtv.com.br/noticia/pgr-reitera-pedido-ao-stf-por-acesso-integral-aos-dados-de-vorcaro>)
@@ -27,7 +28,6 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [Resumo com as principais notícias de minas destaca política e economia](<https://www.rcwtv.com.br/noticia/resumo-com-as-principais-noticias-de-minas-destaca-politica-e-economia>)
 - 📰 [PF aponta cobranças de Flávio Bolsonaro por recursos para o filme Dark Horse](<https://www.rcwtv.com.br/noticia/pf-aponta-cobrancas-de-flavio-bolsonaro-por-recursos-para-o-filme-dark-horse>)
 - 📰 [Bancários mantêm greve da Caixa após rejeitar proposta em assembleia](<https://www.rcwtv.com.br/noticia/bancarios-mantem-greve-da-caixa-apos-rejeitar-proposta-em-assembleia>)
-- 📰 [Gilmar Mendes exige acesso a dados do celular de Vorcaro antes de julgamento](<https://www.rcwtv.com.br/noticia/gilmar-mendes-exige-acesso-a-dados-do-celular-de-vorcaro-antes-de-julgamento>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
