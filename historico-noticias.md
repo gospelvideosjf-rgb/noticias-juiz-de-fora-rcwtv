@@ -160,3 +160,10 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 ### Atualização de 13/09/2026
 - [Entidades alertam que crise institucional sufoca debate eleitoral de 2026](<https://www.rcwtv.com.br/noticia/entidades-alertam-que-crise-institucional-sufoca-debate-eleitoral-de-2026>) - *13/09/2026*
 
+### Atualização de 14/09/2026
+- [Veja a agenda dos candidatos à Presidência durante o fim de semana](<https://www.rcwtv.com.br/noticia/veja-a-agenda-dos-candidatos-a-presidencia-durante-o-fim-de-semana>) - *14/09/2026*
+- [Ex-ministros manifestam apoio a Edson Fachin diante da crise no STF](<https://www.rcwtv.com.br/noticia/ex-ministros-manifestam-apoio-a-edson-fachin-diante-da-crise-no-stf>) - *14/09/2026*
+- [Mega-Sena acumulada pode pagar R$ 95 milhões no próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-pode-pagar-r-95-milhoes-no-proximo-sorteio>) - *14/09/2026*
+- [PF confirma guarda dos dados do celular de Vorcaro e pode enviar ao STF](<https://www.rcwtv.com.br/noticia/pf-confirma-guarda-dos-dados-do-celular-de-vorcaro-e-pode-enviar-ao-stf>) - *14/09/2026*
+- [Flávio Dino determina fim do sigilo em investigações sobre filme Dark Horse](<https://www.rcwtv.com.br/noticia/flavio-dino-determina-fim-do-sigilo-em-investigacoes-sobre-filme-dark-horse>) - *14/09/2026*
+
