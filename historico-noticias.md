@@ -167,3 +167,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [PF confirma guarda dos dados do celular de Vorcaro e pode enviar ao STF](<https://www.rcwtv.com.br/noticia/pf-confirma-guarda-dos-dados-do-celular-de-vorcaro-e-pode-enviar-ao-stf>) - *14/09/2026*
 - [Flávio Dino determina fim do sigilo em investigações sobre filme Dark Horse](<https://www.rcwtv.com.br/noticia/flavio-dino-determina-fim-do-sigilo-em-investigacoes-sobre-filme-dark-horse>) - *14/09/2026*
 
+### Atualização de 14/09/2026
+- [PM encontra laboratório de drogas e prende homem no Santa Rita, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/pm-encontra-laboratorio-de-drogas-e-prende-homem-no-santa-rita-em-juiz-de-fora>) - *14/09/2026*
+- [Saúde mental de jornalistas é ameaçada por assédio e sobrecarga no trabalho](<https://www.rcwtv.com.br/noticia/saude-mental-de-jornalistas-e-ameacada-por-assedio-e-sobrecarga-no-trabalho>) - *14/09/2026*
+- [Guia da Chapada dos Veadeiros: tudo o que você precisa saber antes de viajar](<https://www.rcwtv.com.br/noticia/guia-da-chapada-dos-veadeiros-tudo-o-que-voce-precisa-saber-antes-de-viajar>) - *14/09/2026*
+- [Projeto de Lei 2574/26 garante ligações gratuitas para o INSS](<https://www.rcwtv.com.br/noticia/projeto-de-lei-2574-26-garante-ligacoes-gratuitas-para-o-inss>) - *14/09/2026*
+- [SBPC alerta para a falta de debates sobre ciência nas eleições deste ano](<https://www.rcwtv.com.br/noticia/sbpc-alerta-para-a-falta-de-debates-sobre-ciencia-nas-eleicoes-deste-ano>) - *14/09/2026*
+- [PJF divulga projetos selecionados para a última cessão de uso dos estúdios do Polo JF Cine em 2026](<https://www.rcwtv.com.br/noticia/pjf-divulga-projetos-selecionados-para-a-ultima-cessao-de-uso-dos-estudios-do-polo-jf-cine-em-2026>) - *14/09/2026*
+- [Juiz de Fora sedia 9ª Escola de Resiliência de Mercocidades com líderes da América do Sul](<https://www.rcwtv.com.br/noticia/juiz-de-fora-sedia-9-escola-de-resiliencia-de-mercocidades-com-lideres-da-america-do-sul>) - *14/09/2026*
+- [Homem é encontrado morto após facada e criança morre em acidente com brinquedo em Muriaé](<https://www.rcwtv.com.br/noticia/homem-e-encontrado-morto-apos-facada-e-crianca-morre-em-acidente-com-brinquedo-em-muriae>) - *14/09/2026*
+- [Seminário sobre educação inclusiva debate acessibilidade nas escolas de Juiz de Fora](<https://www.rcwtv.com.br/noticia/seminario-sobre-educacao-inclusiva-debate-acessibilidade-nas-escolas-de-juiz-de-fora>) - *14/09/2026*
+- [Semana 1 da NFL reúne recorde de pontos e confrontos equilibrados neste domingo](<https://www.rcwtv.com.br/noticia/semana-1-da-nfl-reune-recorde-de-pontos-e-confrontos-equilibrados-neste-domingo>) - *14/09/2026*
+

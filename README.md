@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Veja a agenda dos candidatos à Presidência durante o fim de semana](<https://www.rcwtv.com.br/noticia/veja-a-agenda-dos-candidatos-a-presidencia-durante-o-fim-de-semana>)
-- 📰 [Ex-ministros manifestam apoio a Edson Fachin diante da crise no STF](<https://www.rcwtv.com.br/noticia/ex-ministros-manifestam-apoio-a-edson-fachin-diante-da-crise-no-stf>)
-- 📰 [Mega-Sena acumulada pode pagar R$ 95 milhões no próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-pode-pagar-r-95-milhoes-no-proximo-sorteio>)
-- 📰 [PF confirma guarda dos dados do celular de Vorcaro e pode enviar ao STF](<https://www.rcwtv.com.br/noticia/pf-confirma-guarda-dos-dados-do-celular-de-vorcaro-e-pode-enviar-ao-stf>)
-- 📰 [Flávio Dino determina fim do sigilo em investigações sobre filme Dark Horse](<https://www.rcwtv.com.br/noticia/flavio-dino-determina-fim-do-sigilo-em-investigacoes-sobre-filme-dark-horse>)
-- 📰 [Entidades alertam que crise institucional sufoca debate eleitoral de 2026](<https://www.rcwtv.com.br/noticia/entidades-alertam-que-crise-institucional-sufoca-debate-eleitoral-de-2026>)
-- 📰 [Entidades lançam carta pela agroecologia nas eleições em SP](<https://www.rcwtv.com.br/noticia/entidades-lancam-carta-pela-agroecologia-nas-eleicoes-em-sp>)
-- 📰 [Avião da GOL realiza pouso de emergência após decolar de Goiânia](<https://www.rcwtv.com.br/noticia/aviao-da-gol-realiza-pouso-de-emergencia-apos-decolar-de-goiania>)
-- 📰 [PGR reitera pedido ao STF por acesso integral aos dados de Vorcaro](<https://www.rcwtv.com.br/noticia/pgr-reitera-pedido-ao-stf-por-acesso-integral-aos-dados-de-vorcaro>)
-- 📰 [SUS já aplicou a vacina Pneumo 20 em mais de 1 milhão de crianças no país](<https://www.rcwtv.com.br/noticia/sus-ja-aplicou-a-vacina-pneumo-20-em-mais-de-1-milhao-de-criancas-no-pais>)
+- 📰 [PM encontra laboratório de drogas e prende homem no Santa Rita, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/pm-encontra-laboratorio-de-drogas-e-prende-homem-no-santa-rita-em-juiz-de-fora>)
+- 📰 [Saúde mental de jornalistas é ameaçada por assédio e sobrecarga no trabalho](<https://www.rcwtv.com.br/noticia/saude-mental-de-jornalistas-e-ameacada-por-assedio-e-sobrecarga-no-trabalho>)
+- 📰 [Guia da Chapada dos Veadeiros: tudo o que você precisa saber antes de viajar](<https://www.rcwtv.com.br/noticia/guia-da-chapada-dos-veadeiros-tudo-o-que-voce-precisa-saber-antes-de-viajar>)
+- 📰 [Projeto de Lei 2574/26 garante ligações gratuitas para o INSS](<https://www.rcwtv.com.br/noticia/projeto-de-lei-2574-26-garante-ligacoes-gratuitas-para-o-inss>)
+- 📰 [SBPC alerta para a falta de debates sobre ciência nas eleições deste ano](<https://www.rcwtv.com.br/noticia/sbpc-alerta-para-a-falta-de-debates-sobre-ciencia-nas-eleicoes-deste-ano>)
+- 📰 [PJF divulga projetos selecionados para a última cessão de uso dos estúdios do Polo JF Cine em 2026](<https://www.rcwtv.com.br/noticia/pjf-divulga-projetos-selecionados-para-a-ultima-cessao-de-uso-dos-estudios-do-polo-jf-cine-em-2026>)
+- 📰 [Juiz de Fora sedia 9ª Escola de Resiliência de Mercocidades com líderes da América do Sul](<https://www.rcwtv.com.br/noticia/juiz-de-fora-sedia-9-escola-de-resiliencia-de-mercocidades-com-lideres-da-america-do-sul>)
+- 📰 [Homem é encontrado morto após facada e criança morre em acidente com brinquedo em Muriaé](<https://www.rcwtv.com.br/noticia/homem-e-encontrado-morto-apos-facada-e-crianca-morre-em-acidente-com-brinquedo-em-muriae>)
+- 📰 [Seminário sobre educação inclusiva debate acessibilidade nas escolas de Juiz de Fora](<https://www.rcwtv.com.br/noticia/seminario-sobre-educacao-inclusiva-debate-acessibilidade-nas-escolas-de-juiz-de-fora>)
+- 📰 [Semana 1 da NFL reúne recorde de pontos e confrontos equilibrados neste domingo](<https://www.rcwtv.com.br/noticia/semana-1-da-nfl-reune-recorde-de-pontos-e-confrontos-equilibrados-neste-domingo>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
