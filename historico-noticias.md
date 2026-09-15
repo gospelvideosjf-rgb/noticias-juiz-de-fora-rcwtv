@@ -191,3 +191,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [CMN altera normas do crédito para motoristas de aplicativo e taxistas](<https://www.rcwtv.com.br/noticia/cmn-altera-normas-do-credito-para-motoristas-de-aplicativo-e-taxistas>) - *15/09/2026*
 - [Pesquisa sobre saúde mental dos jornalistas revela altos índices de depressão](<https://www.rcwtv.com.br/noticia/pesquisa-sobre-saude-mental-dos-jornalistas-revela-altos-indices-de-depressao>) - *15/09/2026*
 
+### Atualização de 15/09/2026
+- [STF define se votará investigações de Moraes e Mendonça de forma conjunta](<https://www.rcwtv.com.br/noticia/stf-define-se-votara-investigacoes-de-moraes-e-mendonca-de-forma-conjunta>) - *15/09/2026*
+- [Apostas online reduzem atividade econômica e consumo no Brasil, revela USP](<https://www.rcwtv.com.br/noticia/apostas-online-reduzem-atividade-economica-e-consumo-no-brasil-revela-usp>) - *15/09/2026*
+- [PJF divulga resultado preliminar de edital para Pontos e Pontões de Cultura da Lei Aldir Blanc](<https://www.rcwtv.com.br/noticia/pjf-divulga-resultado-preliminar-de-edital-para-pontos-e-pontoes-de-cultura-da-lei-aldir-blanc>) - *15/09/2026*
+- [Moraes e Mendonça batem boca e inflamam conflito no STF](<https://www.rcwtv.com.br/noticia/moraes-e-mendonca-batem-boca-e-inflamam-conflito-no-stf>) - *15/09/2026*
+- [Prova Nacional Docente ocorre neste domingo em todo o país](<https://www.rcwtv.com.br/noticia/prova-nacional-docente-ocorre-neste-domingo-em-todo-o-pais>) - *15/09/2026*
+- [Gilmar acusa Mendonça de usar caso Master para interferir na eleição](<https://www.rcwtv.com.br/noticia/gilmar-acusa-mendonca-de-usar-caso-master-para-interferir-na-eleicao>) - *15/09/2026*
+- [Chiefs vencem Broncos por 31 a 10 em retorno de Mahomes no Monday Night Football](<https://www.rcwtv.com.br/noticia/chiefs-vencem-broncos-por-31-a-10-em-retorno-de-mahomes-no-monday-night-football>) - *15/09/2026*
+- [Lei de Yuri Fófano cria Ilhas de Desenvolvimento Econômico e Urbano em Juiz de Fora](<https://www.rcwtv.com.br/noticia/lei-de-yuri-fofano-cria-ilhas-de-desenvolvimento-economico-e-urbano-em-juiz-de-fora>) - *15/09/2026*
+- [Moléculas anticâncer mostram eficácia contra parasita causador da malária](<https://www.rcwtv.com.br/noticia/moleculas-anticancer-mostram-eficacia-contra-parasita-causador-da-malaria>) - *15/09/2026*
+- [Tesouro Nacional quita R$ 79,95 milhões em dívidas de estados e municípios](<https://www.rcwtv.com.br/noticia/tesouro-nacional-quita-r-79-95-milhoes-em-dividas-de-estados-e-municipios>) - *15/09/2026*
+

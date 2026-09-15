@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Juiz de fora promove evento de adoção responsável de animais neste sábado](<https://www.rcwtv.com.br/noticia/juiz-de-fora-promove-evento-de-adocao-responsavel-de-animais-neste-sabado>)
-- 📰 [Mega-Sena pode pagar prêmio acumulado de R$ 95 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/mega-sena-pode-pagar-premio-acumulado-de-r-95-milhoes-nesta-terca-feira>)
-- 📰 [Caminhão carregado de MDF tomba após passar por buraco na MGC-265, em Mercês](<https://www.rcwtv.com.br/noticia/caminhao-carregado-de-mdf-tomba-apos-passar-por-buraco-na-mgc-265-em-merces>)
-- 📰 [Alto Rio Doce reúne produtores para celebrar o Dia Nacional da Cachaça](<https://www.rcwtv.com.br/noticia/alto-rio-doce-reune-produtores-para-celebrar-o-dia-nacional-da-cachaca>)
-- 📰 [Produtores de cachaça discutem inovação e valorização da produção em Alto Rio Doce](<https://www.rcwtv.com.br/noticia/produtores-de-cachaca-discutem-inovacao-e-valorizacao-da-producao-em-alto-rio-doce>)
-- 📰 [Justiça manda empresa apresentar contas e manter ônibus em circulação em Barbacena](<https://www.rcwtv.com.br/noticia/justica-manda-empresa-apresentar-contas-e-manter-onibus-em-circulacao-em-barbacena>)
-- 📰 [Cacique Raoni recebe cuidados paliativos após diagnóstico de câncer](<https://www.rcwtv.com.br/noticia/cacique-raoni-recebe-cuidados-paliativos-apos-diagnostico-de-cancer>)
-- 📰 [Veja como foi a movimentação dos candidatos à Presidência nesta segunda-feira](<https://www.rcwtv.com.br/noticia/veja-como-foi-a-movimentacao-dos-candidatos-a-presidencia-nesta-segunda-feira>)
-- 📰 [CMN altera normas do crédito para motoristas de aplicativo e taxistas](<https://www.rcwtv.com.br/noticia/cmn-altera-normas-do-credito-para-motoristas-de-aplicativo-e-taxistas>)
-- 📰 [Pesquisa sobre saúde mental dos jornalistas revela altos índices de depressão](<https://www.rcwtv.com.br/noticia/pesquisa-sobre-saude-mental-dos-jornalistas-revela-altos-indices-de-depressao>)
+- 📰 [STF define se votará investigações de Moraes e Mendonça de forma conjunta](<https://www.rcwtv.com.br/noticia/stf-define-se-votara-investigacoes-de-moraes-e-mendonca-de-forma-conjunta>)
+- 📰 [Apostas online reduzem atividade econômica e consumo no Brasil, revela USP](<https://www.rcwtv.com.br/noticia/apostas-online-reduzem-atividade-economica-e-consumo-no-brasil-revela-usp>)
+- 📰 [PJF divulga resultado preliminar de edital para Pontos e Pontões de Cultura da Lei Aldir Blanc](<https://www.rcwtv.com.br/noticia/pjf-divulga-resultado-preliminar-de-edital-para-pontos-e-pontoes-de-cultura-da-lei-aldir-blanc>)
+- 📰 [Moraes e Mendonça batem boca e inflamam conflito no STF](<https://www.rcwtv.com.br/noticia/moraes-e-mendonca-batem-boca-e-inflamam-conflito-no-stf>)
+- 📰 [Prova Nacional Docente ocorre neste domingo em todo o país](<https://www.rcwtv.com.br/noticia/prova-nacional-docente-ocorre-neste-domingo-em-todo-o-pais>)
+- 📰 [Gilmar acusa Mendonça de usar caso Master para interferir na eleição](<https://www.rcwtv.com.br/noticia/gilmar-acusa-mendonca-de-usar-caso-master-para-interferir-na-eleicao>)
+- 📰 [Chiefs vencem Broncos por 31 a 10 em retorno de Mahomes no Monday Night Football](<https://www.rcwtv.com.br/noticia/chiefs-vencem-broncos-por-31-a-10-em-retorno-de-mahomes-no-monday-night-football>)
+- 📰 [Lei de Yuri Fófano cria Ilhas de Desenvolvimento Econômico e Urbano em Juiz de Fora](<https://www.rcwtv.com.br/noticia/lei-de-yuri-fofano-cria-ilhas-de-desenvolvimento-economico-e-urbano-em-juiz-de-fora>)
+- 📰 [Moléculas anticâncer mostram eficácia contra parasita causador da malária](<https://www.rcwtv.com.br/noticia/moleculas-anticancer-mostram-eficacia-contra-parasita-causador-da-malaria>)
+- 📰 [Tesouro Nacional quita R$ 79,95 milhões em dívidas de estados e municípios](<https://www.rcwtv.com.br/noticia/tesouro-nacional-quita-r-79-95-milhoes-em-dividas-de-estados-e-municipios>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
