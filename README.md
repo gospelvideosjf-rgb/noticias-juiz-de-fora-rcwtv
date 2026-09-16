@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [STF define se votará investigações de Moraes e Mendonça de forma conjunta](<https://www.rcwtv.com.br/noticia/stf-define-se-votara-investigacoes-de-moraes-e-mendonca-de-forma-conjunta>)
-- 📰 [Apostas online reduzem atividade econômica e consumo no Brasil, revela USP](<https://www.rcwtv.com.br/noticia/apostas-online-reduzem-atividade-economica-e-consumo-no-brasil-revela-usp>)
-- 📰 [PJF divulga resultado preliminar de edital para Pontos e Pontões de Cultura da Lei Aldir Blanc](<https://www.rcwtv.com.br/noticia/pjf-divulga-resultado-preliminar-de-edital-para-pontos-e-pontoes-de-cultura-da-lei-aldir-blanc>)
-- 📰 [Moraes e Mendonça batem boca e inflamam conflito no STF](<https://www.rcwtv.com.br/noticia/moraes-e-mendonca-batem-boca-e-inflamam-conflito-no-stf>)
-- 📰 [Prova Nacional Docente ocorre neste domingo em todo o país](<https://www.rcwtv.com.br/noticia/prova-nacional-docente-ocorre-neste-domingo-em-todo-o-pais>)
-- 📰 [Gilmar acusa Mendonça de usar caso Master para interferir na eleição](<https://www.rcwtv.com.br/noticia/gilmar-acusa-mendonca-de-usar-caso-master-para-interferir-na-eleicao>)
-- 📰 [Chiefs vencem Broncos por 31 a 10 em retorno de Mahomes no Monday Night Football](<https://www.rcwtv.com.br/noticia/chiefs-vencem-broncos-por-31-a-10-em-retorno-de-mahomes-no-monday-night-football>)
-- 📰 [Lei de Yuri Fófano cria Ilhas de Desenvolvimento Econômico e Urbano em Juiz de Fora](<https://www.rcwtv.com.br/noticia/lei-de-yuri-fofano-cria-ilhas-de-desenvolvimento-economico-e-urbano-em-juiz-de-fora>)
-- 📰 [Moléculas anticâncer mostram eficácia contra parasita causador da malária](<https://www.rcwtv.com.br/noticia/moleculas-anticancer-mostram-eficacia-contra-parasita-causador-da-malaria>)
-- 📰 [Tesouro Nacional quita R$ 79,95 milhões em dívidas de estados e municípios](<https://www.rcwtv.com.br/noticia/tesouro-nacional-quita-r-79-95-milhoes-em-dividas-de-estados-e-municipios>)
+- 📰 [Justiça manda retirar vagas exclusivas para Prefeitura em praça de Alto Rio Doce](<https://www.rcwtv.com.br/noticia/justica-manda-retirar-vagas-exclusivas-para-prefeitura-em-praca-de-alto-rio-doce>)
+- 📰 [Cinco são presos após tentativa de roubo a residência em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cinco-sao-presos-apos-tentativa-de-roubo-a-residencia-em-juiz-de-fora>)
+- 📰 [Mega-Sena acumulada atinge R$ 102 milhões após nenhum apostador acertar dezenas](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-atinge-r-102-milhoes-apos-nenhum-apostador-acertar-dezenas>)
+- 📰 [Agenda dos candidatos à presidência movimenta a terça-feira](<https://www.rcwtv.com.br/noticia/agenda-dos-candidatos-a-presidencia-movimenta-a-terca-feira>)
+- 📰 [STF encerra sessão sem definir investigações sobre Moraes e Mendonça](<https://www.rcwtv.com.br/noticia/stf-encerra-sessao-sem-definir-investigacoes-sobre-moraes-e-mendonca>)
+- 📰 [Supremo tribunal federal gerou mal-estar cívico, afirma Cármen Lúcia](<https://www.rcwtv.com.br/noticia/supremo-tribunal-federal-gerou-mal-estar-civico-afirma-carmen-lucia>)
+- 📰 [Fenaj defende a valorização dos jornalistas em carta a candidatos](<https://www.rcwtv.com.br/noticia/fenaj-defende-a-valorizacao-dos-jornalistas-em-carta-a-candidatos>)
+- 📰 [Paulo Gonet nega qualquer proximidade com Daniel Vorcaro no STF](<https://www.rcwtv.com.br/noticia/paulo-gonet-nega-qualquer-proximidade-com-daniel-vorcaro-no-stf>)
+- 📰 [Câmara Sênior promove ações sobre segurança na Semana Nacional de Trânsito em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-senior-promove-acoes-sobre-seguranca-na-semana-nacional-de-transito-em-juiz-de-fora>)
+- 📰 [Circuito de Eventos Agropecuários de Juiz de Fora encerra edição com recorde público](<https://www.rcwtv.com.br/noticia/circuito-de-eventos-agropecuarios-de-juiz-de-fora-encerra-edicao-com-recorde-publico>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

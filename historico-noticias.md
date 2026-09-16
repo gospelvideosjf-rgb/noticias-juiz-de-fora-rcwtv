@@ -203,3 +203,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Moléculas anticâncer mostram eficácia contra parasita causador da malária](<https://www.rcwtv.com.br/noticia/moleculas-anticancer-mostram-eficacia-contra-parasita-causador-da-malaria>) - *15/09/2026*
 - [Tesouro Nacional quita R$ 79,95 milhões em dívidas de estados e municípios](<https://www.rcwtv.com.br/noticia/tesouro-nacional-quita-r-79-95-milhoes-em-dividas-de-estados-e-municipios>) - *15/09/2026*
 
+### Atualização de 16/09/2026
+- [Justiça manda retirar vagas exclusivas para Prefeitura em praça de Alto Rio Doce](<https://www.rcwtv.com.br/noticia/justica-manda-retirar-vagas-exclusivas-para-prefeitura-em-praca-de-alto-rio-doce>) - *16/09/2026*
+- [Cinco são presos após tentativa de roubo a residência em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cinco-sao-presos-apos-tentativa-de-roubo-a-residencia-em-juiz-de-fora>) - *16/09/2026*
+- [Mega-Sena acumulada atinge R$ 102 milhões após nenhum apostador acertar dezenas](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-atinge-r-102-milhoes-apos-nenhum-apostador-acertar-dezenas>) - *16/09/2026*
+- [Agenda dos candidatos à presidência movimenta a terça-feira](<https://www.rcwtv.com.br/noticia/agenda-dos-candidatos-a-presidencia-movimenta-a-terca-feira>) - *16/09/2026*
+- [STF encerra sessão sem definir investigações sobre Moraes e Mendonça](<https://www.rcwtv.com.br/noticia/stf-encerra-sessao-sem-definir-investigacoes-sobre-moraes-e-mendonca>) - *16/09/2026*
+- [Supremo tribunal federal gerou mal-estar cívico, afirma Cármen Lúcia](<https://www.rcwtv.com.br/noticia/supremo-tribunal-federal-gerou-mal-estar-civico-afirma-carmen-lucia>) - *16/09/2026*
+- [Fenaj defende a valorização dos jornalistas em carta a candidatos](<https://www.rcwtv.com.br/noticia/fenaj-defende-a-valorizacao-dos-jornalistas-em-carta-a-candidatos>) - *16/09/2026*
+- [Paulo Gonet nega qualquer proximidade com Daniel Vorcaro no STF](<https://www.rcwtv.com.br/noticia/paulo-gonet-nega-qualquer-proximidade-com-daniel-vorcaro-no-stf>) - *16/09/2026*
+- [Câmara Sênior promove ações sobre segurança na Semana Nacional de Trânsito em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-senior-promove-acoes-sobre-seguranca-na-semana-nacional-de-transito-em-juiz-de-fora>) - *16/09/2026*
+- [Circuito de Eventos Agropecuários de Juiz de Fora encerra edição com recorde público](<https://www.rcwtv.com.br/noticia/circuito-de-eventos-agropecuarios-de-juiz-de-fora-encerra-edicao-com-recorde-publico>) - *16/09/2026*
+
