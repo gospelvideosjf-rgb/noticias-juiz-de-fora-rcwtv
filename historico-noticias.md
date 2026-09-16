@@ -215,3 +215,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Câmara Sênior promove ações sobre segurança na Semana Nacional de Trânsito em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-senior-promove-acoes-sobre-seguranca-na-semana-nacional-de-transito-em-juiz-de-fora>) - *16/09/2026*
 - [Circuito de Eventos Agropecuários de Juiz de Fora encerra edição com recorde público](<https://www.rcwtv.com.br/noticia/circuito-de-eventos-agropecuarios-de-juiz-de-fora-encerra-edicao-com-recorde-publico>) - *16/09/2026*
 
+### Atualização de 16/09/2026
+- [Cesama avança na despoluição do Rio Paraibuna com nova elevatória de esgoto no bairro Ponte Preta](<https://www.rcwtv.com.br/noticia/cesama-avanca-na-despoluicao-do-rio-paraibuna-com-nova-elevatoria-de-esgoto-no-bairro-ponte-preta>) - *16/09/2026*
+- [Após crise interna, Corte retoma sessões do STF com pauta tributária](<https://www.rcwtv.com.br/noticia/apos-crise-interna-corte-retoma-sessoes-do-stf-com-pauta-tributaria>) - *16/09/2026*
+- [Obras do PAC avançam no Bairro Industrial e alteram trânsito na Avenida Lúcio Bittencourt em Juiz de Fora](<https://www.rcwtv.com.br/noticia/obras-do-pac-avancam-no-bairro-industrial-e-alteram-transito-na-avenida-lucio-bittencourt-em-juiz-de-fora>) - *16/09/2026*
+- [Opas amplia acesso ao lenacapavir para reforçar a prevenção do HIV na América Latina](<https://www.rcwtv.com.br/noticia/opas-amplia-acesso-ao-lenacapavir-para-reforcar-a-prevencao-do-hiv-na-america-latina>) - *16/09/2026*
+- [Aposta de Juiz de Fora acerta 15 dezenas da Lotofácil da Independência e fatura R$ 4,4 milhões](<https://www.rcwtv.com.br/noticia/aposta-de-juiz-de-fora-acerta-15-dezenas-da-lotofacil-da-independencia-e-fatura-r-4-4-milhoes>) - *16/09/2026*
+- [Estado de emergência decretado em cidades paulistas após temporais](<https://www.rcwtv.com.br/noticia/estado-de-emergencia-decretado-em-cidades-paulistas-apos-temporais>) - *16/09/2026*
+- [Atividade de genes virais incorporados ao genoma humano pode indicar piora do vitiligo](<https://www.rcwtv.com.br/noticia/atividade-de-genes-virais-incorporados-ao-genoma-humano-pode-indicar-piora-do-vitiligo>) - *16/09/2026*
+- [Cinco homens são presos em operação da Polícia após tentativa de roubo no Jardim dos Alfineiros em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cinco-homens-sao-presos-em-operacao-da-policia-apos-tentativa-de-roubo-no-jardim-dos-alfineiros-em-juiz-de-fora>) - *16/09/2026*
+- [Procon Móvel realiza atendimento ao público e orienta lojistas no Dia do Cliente em Juiz de Fora](<https://www.rcwtv.com.br/noticia/procon-movel-realiza-atendimento-ao-publico-e-orienta-lojistas-no-dia-do-cliente-em-juiz-de-fora>) - *16/09/2026*
+- [Primeira quinzena de setembro registra o dobro de chuva esperado para o mês](<https://www.rcwtv.com.br/noticia/primeira-quinzena-de-setembro-registra-o-dobro-de-chuva-esperado-para-o-mes>) - *16/09/2026*
+
