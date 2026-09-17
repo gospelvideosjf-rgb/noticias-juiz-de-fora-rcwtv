@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Veja os bastidores e os atos da campanha presidencial nesta quarta-feira](<https://www.rcwtv.com.br/noticia/veja-os-bastidores-e-os-atos-da-campanha-presidencial-nesta-quarta-feira>)
-- 📰 [Entidades consideram tímido o novo corte na Selic feito pelo Banco Central](<https://www.rcwtv.com.br/noticia/entidades-consideram-timido-o-novo-corte-na-selic-feito-pelo-banco-central>)
-- 📰 [TSE envia alertas pelo e-Título com orientações para as eleições](<https://www.rcwtv.com.br/noticia/tse-envia-alertas-pelo-e-titulo-com-orientacoes-para-as-eleicoes>)
-- 📰 [Moraes vota para unificar prazos de licença-maternidade e de adoção](<https://www.rcwtv.com.br/noticia/moraes-vota-para-unificar-prazos-de-licenca-maternidade-e-de-adocao>)
-- 📰 [Petrobras lidera margem de lucro entre petroleiras mundiais em 2026](<https://www.rcwtv.com.br/noticia/petrobras-lidera-margem-de-lucro-entre-petroleiras-mundiais-em-2026>)
-- 📰 [CCJ da Câmara dos Deputados aprova novas datas comemorativas e homenagens](<https://www.rcwtv.com.br/noticia/ccj-da-camara-dos-deputados-aprova-novas-datas-comemorativas-e-homenagens>)
-- 📰 [Seattle Seahawks descarta quarterback Sam Darnold para duelo contra o Arizona Cardinals](<https://www.rcwtv.com.br/noticia/seattle-seahawks-descarta-quarterback-sam-darnold-para-duelo-contra-o-arizona-cardinals>)
-- 📰 [Fluminense e Vasco avançam às semifinais dos torneios continentais; São Paulo cai para o Boca Juniors](<https://www.rcwtv.com.br/noticia/fluminense-e-vasco-avancam-as-semifinais-dos-torneios-continentais-sao-paulo-cai-para-o-boca-juniors>)
-- 📰 [Cesama avança na despoluição do Rio Paraibuna com nova elevatória de esgoto no bairro Ponte Preta](<https://www.rcwtv.com.br/noticia/cesama-avanca-na-despoluicao-do-rio-paraibuna-com-nova-elevatoria-de-esgoto-no-bairro-ponte-preta>)
-- 📰 [Após crise interna, Corte retoma sessões do STF com pauta tributária](<https://www.rcwtv.com.br/noticia/apos-crise-interna-corte-retoma-sessoes-do-stf-com-pauta-tributaria>)
+- 📰 [Tensão pré eleitoral: financiamento privado de Balneário Camboriú assume a infraestrutura para proteger o metro quadrado entre os mais caros do país](<https://www.rcwtv.com.br/noticia/tensao-pre-eleitoral-financiamento-privado-de-balneario-camboriu-assume-a-infraestrutura-para-proteger-o-metro-quadrado-entre-os-mais-caros-do-pais>)
+- 📰 [Trabalhadores da Caixa avaliam greve da caixa e nova proposta do banco](<https://www.rcwtv.com.br/noticia/trabalhadores-da-caixa-avaliam-greve-da-caixa-e-nova-proposta-do-banco>)
+- 📰 [Contran prorroga validade da CNH vencida no segundo semestre de 2026](<https://www.rcwtv.com.br/noticia/contran-prorroga-validade-da-cnh-vencida-no-segundo-semestre-de-2026>)
+- 📰 [36% dos corretores autônomos apontam instabilidade de renda; avaliação de imóveis abre nova frente de atuação](<https://www.rcwtv.com.br/noticia/36-dos-corretores-autonomos-apontam-instabilidade-de-renda-avaliacao-de-imoveis-abre-nova-frente-de-atuacao>)
+- 📰 [90% dos brasileiros mudam hábitos de compra para economizar, revela estudo](<https://www.rcwtv.com.br/noticia/90-dos-brasileiros-mudam-habitos-de-compra-para-economizar-revela-estudo>)
+- 📰 [Procon-MPMG integra mobilização nacional contra riscos de apostas virtuais e cobra posicionamento de candidatos](<https://www.rcwtv.com.br/noticia/procon-mpmg-integra-mobilizacao-nacional-contra-riscos-de-apostas-virtuais-e-cobra-posicionamento-de-candidatos>)
+- 📰 [Dino ordena que PF investigue o serviço funerário de São Paulo](<https://www.rcwtv.com.br/noticia/dino-ordena-que-pf-investigue-o-servico-funerario-de-sao-paulo>)
+- 📰 [Segurança do paciente: saiba como prevenir riscos de doenças crônicas](<https://www.rcwtv.com.br/noticia/seguranca-do-paciente-saiba-como-prevenir-riscos-de-doencas-cronicas>)
+- 📰 [Sedecon media audiência de renegociação para aposentado superendividado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sedecon-media-audiencia-de-renegociacao-para-aposentado-superendividado-em-juiz-de-fora>)
+- 📰 [Jogadores do Atlético-MG repercutem provocações de Neymar após vaga na semifinal continental](<https://www.rcwtv.com.br/noticia/jogadores-do-atletico-mg-repercutem-provocacoes-de-neymar-apos-vaga-na-semifinal-continental>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

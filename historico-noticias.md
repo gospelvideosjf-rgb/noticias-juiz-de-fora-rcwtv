@@ -237,3 +237,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Seattle Seahawks descarta quarterback Sam Darnold para duelo contra o Arizona Cardinals](<https://www.rcwtv.com.br/noticia/seattle-seahawks-descarta-quarterback-sam-darnold-para-duelo-contra-o-arizona-cardinals>) - *17/09/2026*
 - [Fluminense e Vasco avançam às semifinais dos torneios continentais; São Paulo cai para o Boca Juniors](<https://www.rcwtv.com.br/noticia/fluminense-e-vasco-avancam-as-semifinais-dos-torneios-continentais-sao-paulo-cai-para-o-boca-juniors>) - *17/09/2026*
 
+### Atualização de 17/09/2026
+- [Tensão pré eleitoral: financiamento privado de Balneário Camboriú assume a infraestrutura para proteger o metro quadrado entre os mais caros do país](<https://www.rcwtv.com.br/noticia/tensao-pre-eleitoral-financiamento-privado-de-balneario-camboriu-assume-a-infraestrutura-para-proteger-o-metro-quadrado-entre-os-mais-caros-do-pais>) - *17/09/2026*
+- [Trabalhadores da Caixa avaliam greve da caixa e nova proposta do banco](<https://www.rcwtv.com.br/noticia/trabalhadores-da-caixa-avaliam-greve-da-caixa-e-nova-proposta-do-banco>) - *17/09/2026*
+- [Contran prorroga validade da CNH vencida no segundo semestre de 2026](<https://www.rcwtv.com.br/noticia/contran-prorroga-validade-da-cnh-vencida-no-segundo-semestre-de-2026>) - *17/09/2026*
+- [36% dos corretores autônomos apontam instabilidade de renda; avaliação de imóveis abre nova frente de atuação](<https://www.rcwtv.com.br/noticia/36-dos-corretores-autonomos-apontam-instabilidade-de-renda-avaliacao-de-imoveis-abre-nova-frente-de-atuacao>) - *17/09/2026*
+- [90% dos brasileiros mudam hábitos de compra para economizar, revela estudo](<https://www.rcwtv.com.br/noticia/90-dos-brasileiros-mudam-habitos-de-compra-para-economizar-revela-estudo>) - *17/09/2026*
+- [Procon-MPMG integra mobilização nacional contra riscos de apostas virtuais e cobra posicionamento de candidatos](<https://www.rcwtv.com.br/noticia/procon-mpmg-integra-mobilizacao-nacional-contra-riscos-de-apostas-virtuais-e-cobra-posicionamento-de-candidatos>) - *17/09/2026*
+- [Dino ordena que PF investigue o serviço funerário de São Paulo](<https://www.rcwtv.com.br/noticia/dino-ordena-que-pf-investigue-o-servico-funerario-de-sao-paulo>) - *17/09/2026*
+- [Segurança do paciente: saiba como prevenir riscos de doenças crônicas](<https://www.rcwtv.com.br/noticia/seguranca-do-paciente-saiba-como-prevenir-riscos-de-doencas-cronicas>) - *17/09/2026*
+- [Sedecon media audiência de renegociação para aposentado superendividado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sedecon-media-audiencia-de-renegociacao-para-aposentado-superendividado-em-juiz-de-fora>) - *17/09/2026*
+- [Jogadores do Atlético-MG repercutem provocações de Neymar após vaga na semifinal continental](<https://www.rcwtv.com.br/noticia/jogadores-do-atletico-mg-repercutem-provocacoes-de-neymar-apos-vaga-na-semifinal-continental>) - *17/09/2026*
+
