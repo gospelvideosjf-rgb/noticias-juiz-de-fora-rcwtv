@@ -227,3 +227,13 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Procon Móvel realiza atendimento ao público e orienta lojistas no Dia do Cliente em Juiz de Fora](<https://www.rcwtv.com.br/noticia/procon-movel-realiza-atendimento-ao-publico-e-orienta-lojistas-no-dia-do-cliente-em-juiz-de-fora>) - *16/09/2026*
 - [Primeira quinzena de setembro registra o dobro de chuva esperado para o mês](<https://www.rcwtv.com.br/noticia/primeira-quinzena-de-setembro-registra-o-dobro-de-chuva-esperado-para-o-mes>) - *16/09/2026*
 
+### Atualização de 17/09/2026
+- [Veja os bastidores e os atos da campanha presidencial nesta quarta-feira](<https://www.rcwtv.com.br/noticia/veja-os-bastidores-e-os-atos-da-campanha-presidencial-nesta-quarta-feira>) - *17/09/2026*
+- [Entidades consideram tímido o novo corte na Selic feito pelo Banco Central](<https://www.rcwtv.com.br/noticia/entidades-consideram-timido-o-novo-corte-na-selic-feito-pelo-banco-central>) - *17/09/2026*
+- [TSE envia alertas pelo e-Título com orientações para as eleições](<https://www.rcwtv.com.br/noticia/tse-envia-alertas-pelo-e-titulo-com-orientacoes-para-as-eleicoes>) - *17/09/2026*
+- [Moraes vota para unificar prazos de licença-maternidade e de adoção](<https://www.rcwtv.com.br/noticia/moraes-vota-para-unificar-prazos-de-licenca-maternidade-e-de-adocao>) - *17/09/2026*
+- [Petrobras lidera margem de lucro entre petroleiras mundiais em 2026](<https://www.rcwtv.com.br/noticia/petrobras-lidera-margem-de-lucro-entre-petroleiras-mundiais-em-2026>) - *17/09/2026*
+- [CCJ da Câmara dos Deputados aprova novas datas comemorativas e homenagens](<https://www.rcwtv.com.br/noticia/ccj-da-camara-dos-deputados-aprova-novas-datas-comemorativas-e-homenagens>) - *17/09/2026*
+- [Seattle Seahawks descarta quarterback Sam Darnold para duelo contra o Arizona Cardinals](<https://www.rcwtv.com.br/noticia/seattle-seahawks-descarta-quarterback-sam-darnold-para-duelo-contra-o-arizona-cardinals>) - *17/09/2026*
+- [Fluminense e Vasco avançam às semifinais dos torneios continentais; São Paulo cai para o Boca Juniors](<https://www.rcwtv.com.br/noticia/fluminense-e-vasco-avancam-as-semifinais-dos-torneios-continentais-sao-paulo-cai-para-o-boca-juniors>) - *17/09/2026*
+

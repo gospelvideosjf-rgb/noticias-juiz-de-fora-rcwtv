@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Veja os bastidores e os atos da campanha presidencial nesta quarta-feira](<https://www.rcwtv.com.br/noticia/veja-os-bastidores-e-os-atos-da-campanha-presidencial-nesta-quarta-feira>)
+- 📰 [Entidades consideram tímido o novo corte na Selic feito pelo Banco Central](<https://www.rcwtv.com.br/noticia/entidades-consideram-timido-o-novo-corte-na-selic-feito-pelo-banco-central>)
+- 📰 [TSE envia alertas pelo e-Título com orientações para as eleições](<https://www.rcwtv.com.br/noticia/tse-envia-alertas-pelo-e-titulo-com-orientacoes-para-as-eleicoes>)
+- 📰 [Moraes vota para unificar prazos de licença-maternidade e de adoção](<https://www.rcwtv.com.br/noticia/moraes-vota-para-unificar-prazos-de-licenca-maternidade-e-de-adocao>)
+- 📰 [Petrobras lidera margem de lucro entre petroleiras mundiais em 2026](<https://www.rcwtv.com.br/noticia/petrobras-lidera-margem-de-lucro-entre-petroleiras-mundiais-em-2026>)
+- 📰 [CCJ da Câmara dos Deputados aprova novas datas comemorativas e homenagens](<https://www.rcwtv.com.br/noticia/ccj-da-camara-dos-deputados-aprova-novas-datas-comemorativas-e-homenagens>)
+- 📰 [Seattle Seahawks descarta quarterback Sam Darnold para duelo contra o Arizona Cardinals](<https://www.rcwtv.com.br/noticia/seattle-seahawks-descarta-quarterback-sam-darnold-para-duelo-contra-o-arizona-cardinals>)
+- 📰 [Fluminense e Vasco avançam às semifinais dos torneios continentais; São Paulo cai para o Boca Juniors](<https://www.rcwtv.com.br/noticia/fluminense-e-vasco-avancam-as-semifinais-dos-torneios-continentais-sao-paulo-cai-para-o-boca-juniors>)
 - 📰 [Cesama avança na despoluição do Rio Paraibuna com nova elevatória de esgoto no bairro Ponte Preta](<https://www.rcwtv.com.br/noticia/cesama-avanca-na-despoluicao-do-rio-paraibuna-com-nova-elevatoria-de-esgoto-no-bairro-ponte-preta>)
 - 📰 [Após crise interna, Corte retoma sessões do STF com pauta tributária](<https://www.rcwtv.com.br/noticia/apos-crise-interna-corte-retoma-sessoes-do-stf-com-pauta-tributaria>)
-- 📰 [Obras do PAC avançam no Bairro Industrial e alteram trânsito na Avenida Lúcio Bittencourt em Juiz de Fora](<https://www.rcwtv.com.br/noticia/obras-do-pac-avancam-no-bairro-industrial-e-alteram-transito-na-avenida-lucio-bittencourt-em-juiz-de-fora>)
-- 📰 [Opas amplia acesso ao lenacapavir para reforçar a prevenção do HIV na América Latina](<https://www.rcwtv.com.br/noticia/opas-amplia-acesso-ao-lenacapavir-para-reforcar-a-prevencao-do-hiv-na-america-latina>)
-- 📰 [Aposta de Juiz de Fora acerta 15 dezenas da Lotofácil da Independência e fatura R$ 4,4 milhões](<https://www.rcwtv.com.br/noticia/aposta-de-juiz-de-fora-acerta-15-dezenas-da-lotofacil-da-independencia-e-fatura-r-4-4-milhoes>)
-- 📰 [Estado de emergência decretado em cidades paulistas após temporais](<https://www.rcwtv.com.br/noticia/estado-de-emergencia-decretado-em-cidades-paulistas-apos-temporais>)
-- 📰 [Atividade de genes virais incorporados ao genoma humano pode indicar piora do vitiligo](<https://www.rcwtv.com.br/noticia/atividade-de-genes-virais-incorporados-ao-genoma-humano-pode-indicar-piora-do-vitiligo>)
-- 📰 [Cinco homens são presos em operação da Polícia após tentativa de roubo no Jardim dos Alfineiros em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cinco-homens-sao-presos-em-operacao-da-policia-apos-tentativa-de-roubo-no-jardim-dos-alfineiros-em-juiz-de-fora>)
-- 📰 [Procon Móvel realiza atendimento ao público e orienta lojistas no Dia do Cliente em Juiz de Fora](<https://www.rcwtv.com.br/noticia/procon-movel-realiza-atendimento-ao-publico-e-orienta-lojistas-no-dia-do-cliente-em-juiz-de-fora>)
-- 📰 [Primeira quinzena de setembro registra o dobro de chuva esperado para o mês](<https://www.rcwtv.com.br/noticia/primeira-quinzena-de-setembro-registra-o-dobro-de-chuva-esperado-para-o-mes>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
