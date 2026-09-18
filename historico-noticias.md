@@ -249,3 +249,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Sedecon media audiência de renegociação para aposentado superendividado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sedecon-media-audiencia-de-renegociacao-para-aposentado-superendividado-em-juiz-de-fora>) - *17/09/2026*
 - [Jogadores do Atlético-MG repercutem provocações de Neymar após vaga na semifinal continental](<https://www.rcwtv.com.br/noticia/jogadores-do-atletico-mg-repercutem-provocacoes-de-neymar-apos-vaga-na-semifinal-continental>) - *17/09/2026*
 
+### Atualização de 18/09/2026
+- [Como medir corretamente a ração do cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-medir-corretamente-a-racao-do-cachorro-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Como estimular o gato a beber mais água: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-estimular-o-gato-a-beber-mais-agua-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Água fresca para cães: quantidade e cuidados: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/agua-fresca-para-caes-quantidade-e-cuidados-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Como montar uma cama confortável para o cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-montar-uma-cama-confortavel-para-o-cachorro-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Como escolher um arranhador para o gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-escolher-um-arranhador-para-o-gato-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Enriquecimento ambiental para cães dentro de casa: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/enriquecimento-ambiental-para-caes-dentro-de-casa-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Brincadeiras que estimulam o instinto do gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/brincadeiras-que-estimulam-o-instinto-do-gato-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Passeio responsável com cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/passeio-responsavel-com-cachorro-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Carteira de vacinação do pet: o que conferir: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/carteira-de-vacinacao-do-pet-o-que-conferir-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+- [Vacinação de gatos: como organizar o calendário: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/vacinacao-de-gatos-como-organizar-o-calendario-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
+

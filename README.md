@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Tensão pré eleitoral: financiamento privado de Balneário Camboriú assume a infraestrutura para proteger o metro quadrado entre os mais caros do país](<https://www.rcwtv.com.br/noticia/tensao-pre-eleitoral-financiamento-privado-de-balneario-camboriu-assume-a-infraestrutura-para-proteger-o-metro-quadrado-entre-os-mais-caros-do-pais>)
-- 📰 [Trabalhadores da Caixa avaliam greve da caixa e nova proposta do banco](<https://www.rcwtv.com.br/noticia/trabalhadores-da-caixa-avaliam-greve-da-caixa-e-nova-proposta-do-banco>)
-- 📰 [Contran prorroga validade da CNH vencida no segundo semestre de 2026](<https://www.rcwtv.com.br/noticia/contran-prorroga-validade-da-cnh-vencida-no-segundo-semestre-de-2026>)
-- 📰 [36% dos corretores autônomos apontam instabilidade de renda; avaliação de imóveis abre nova frente de atuação](<https://www.rcwtv.com.br/noticia/36-dos-corretores-autonomos-apontam-instabilidade-de-renda-avaliacao-de-imoveis-abre-nova-frente-de-atuacao>)
-- 📰 [90% dos brasileiros mudam hábitos de compra para economizar, revela estudo](<https://www.rcwtv.com.br/noticia/90-dos-brasileiros-mudam-habitos-de-compra-para-economizar-revela-estudo>)
-- 📰 [Procon-MPMG integra mobilização nacional contra riscos de apostas virtuais e cobra posicionamento de candidatos](<https://www.rcwtv.com.br/noticia/procon-mpmg-integra-mobilizacao-nacional-contra-riscos-de-apostas-virtuais-e-cobra-posicionamento-de-candidatos>)
-- 📰 [Dino ordena que PF investigue o serviço funerário de São Paulo](<https://www.rcwtv.com.br/noticia/dino-ordena-que-pf-investigue-o-servico-funerario-de-sao-paulo>)
-- 📰 [Segurança do paciente: saiba como prevenir riscos de doenças crônicas](<https://www.rcwtv.com.br/noticia/seguranca-do-paciente-saiba-como-prevenir-riscos-de-doencas-cronicas>)
-- 📰 [Sedecon media audiência de renegociação para aposentado superendividado em Juiz de Fora](<https://www.rcwtv.com.br/noticia/sedecon-media-audiencia-de-renegociacao-para-aposentado-superendividado-em-juiz-de-fora>)
-- 📰 [Jogadores do Atlético-MG repercutem provocações de Neymar após vaga na semifinal continental](<https://www.rcwtv.com.br/noticia/jogadores-do-atletico-mg-repercutem-provocacoes-de-neymar-apos-vaga-na-semifinal-continental>)
+- 📰 [Como medir corretamente a ração do cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-medir-corretamente-a-racao-do-cachorro-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como estimular o gato a beber mais água: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-estimular-o-gato-a-beber-mais-agua-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Água fresca para cães: quantidade e cuidados: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/agua-fresca-para-caes-quantidade-e-cuidados-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como montar uma cama confortável para o cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-montar-uma-cama-confortavel-para-o-cachorro-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como escolher um arranhador para o gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-escolher-um-arranhador-para-o-gato-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Enriquecimento ambiental para cães dentro de casa: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/enriquecimento-ambiental-para-caes-dentro-de-casa-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Brincadeiras que estimulam o instinto do gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/brincadeiras-que-estimulam-o-instinto-do-gato-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Passeio responsável com cachorro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/passeio-responsavel-com-cachorro-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Carteira de vacinação do pet: o que conferir: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/carteira-de-vacinacao-do-pet-o-que-conferir-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Vacinação de gatos: como organizar o calendário: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/vacinacao-de-gatos-como-organizar-o-calendario-guia-pratico-e-cuidados-essenciais>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
