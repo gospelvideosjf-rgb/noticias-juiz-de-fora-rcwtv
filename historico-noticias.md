@@ -261,3 +261,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Carteira de vacinação do pet: o que conferir: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/carteira-de-vacinacao-do-pet-o-que-conferir-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
 - [Vacinação de gatos: como organizar o calendário: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/vacinacao-de-gatos-como-organizar-o-calendario-guia-pratico-e-cuidados-essenciais>) - *18/09/2026*
 
+### Atualização de 18/09/2026
+- [Por que o telefone de disco fazia tanta gente esperar: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/por-que-o-telefone-de-disco-fazia-tanta-gente-esperar-historia-lembrancas-e-curiosidades>) - *18/09/2026*
+- [Museu Mariano Procópio participa da 20ª Primavera dos Museus com programação gratuita e inclusiva](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-participa-da-20-primavera-dos-museus-com-programacao-gratuita-e-inclusiva>) - *18/09/2026*
+- [Projeto "Caminhando pela História" oferece quatro visitas guiadas gratuitas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-caminhando-pela-historia-oferece-quatro-visitas-guiadas-gratuitas-em-juiz-de-fora>) - *18/09/2026*
+- [Bolo de fubá cremoso: receita caseira com sabor de tradição](<https://www.rcwtv.com.br/noticia/bolo-de-fuba-cremoso-receita-caseira-com-sabor-de-tradicao>) - *18/09/2026*
+- [STJ mantém condenação de Flordelis a 50 anos de prisão](<https://www.rcwtv.com.br/noticia/stj-mantem-condenacao-de-flordelis-a-50-anos-de-prisao>) - *18/09/2026*
+- [A máquina de escrever antes dos computadores: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-maquina-de-escrever-antes-dos-computadores-historia-lembrancas-e-curiosidades>) - *18/09/2026*
+- [Contraturno vira novo negócio para franqueados e rede projeta 60 unidades até 2027](<https://www.rcwtv.com.br/noticia/contraturno-vira-novo-negocio-para-franqueados-e-rede-projeta-60-unidades-ate-2027>) - *18/09/2026*
+- [Em noite de cinco touchdowns de Josh Allen, Buffalo Bills vence Detroit Lions por 41 a 31 no Thursday Night Football](<https://www.rcwtv.com.br/noticia/em-noite-de-cinco-touchdowns-de-josh-allen-buffalo-bills-vence-detroit-lions-por-41-a-31-no-thursday-night-football>) - *18/09/2026*
+- [Cronos Logistics transforma embarques em solidariedade e arrecada 30 toneladas de alimentos para doação](<https://www.rcwtv.com.br/noticia/cronos-logistics-transforma-embarques-em-solidariedade-e-arrecada-30-toneladas-de-alimentos-para-doacao>) - *18/09/2026*
+- [Ministério da saúde qualifica o atendimento para doença renal crônica](<https://www.rcwtv.com.br/noticia/ministerio-da-saude-qualifica-o-atendimento-para-doenca-renal-cronica>) - *18/09/2026*
+
