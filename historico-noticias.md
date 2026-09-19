@@ -285,3 +285,12 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Kombi pega fogo e mobiliza bombeiros após incêndio em veículo na BR-040](<https://www.rcwtv.com.br/noticia/kombi-pega-fogo-e-mobiliza-bombeiros-apos-incendio-em-veiculo-na-br-040>) - *19/09/2026*
 - [Inep publica cartilha oficial com instruções para a redação do Enem 2026](<https://www.rcwtv.com.br/noticia/inep-publica-cartilha-oficial-com-instrucoes-para-a-redacao-do-enem-2026>) - *19/09/2026*
 
+### Atualização de 19/09/2026
+- [Inep altera locais de prova da PND em União da Vitória](<https://www.rcwtv.com.br/noticia/inep-altera-locais-de-prova-da-pnd-em-uniao-da-vitoria>) - *19/09/2026*
+- [Petrobras batiza navio pioneiro operado por tripulação feminina](<https://www.rcwtv.com.br/noticia/petrobras-batiza-navio-pioneiro-operado-por-tripulacao-feminina>) - *19/09/2026*
+- [Coluna MG destaca novidades em Pouso Alegre e notícias do estado](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-novidades-em-pouso-alegre-e-noticias-do-estado>) - *19/09/2026*
+- [Mega-Sena sorteia prêmio estimado em R$ 28 milhões neste domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-estimado-em-r-28-milhoes-neste-domingo>) - *19/09/2026*
+- [STJ obriga condenados por violência doméstica a frequentar reabilitação](<https://www.rcwtv.com.br/noticia/stj-obriga-condenados-por-violencia-domestica-a-frequentar-reabilitacao>) - *19/09/2026*
+- [OAB-MG reúne entidades em manifesto por reforma do Judiciário e garantias](<https://www.rcwtv.com.br/noticia/oab-mg-reune-entidades-em-manifesto-por-reforma-do-judiciario-e-garantias>) - *19/09/2026*
+- [Candidato Renan Santos apresenta plano de governo com corte de gastos](<https://www.rcwtv.com.br/noticia/candidato-renan-santos-apresenta-plano-de-governo-com-corte-de-gastos>) - *19/09/2026*
+

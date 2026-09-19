@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Inep altera locais de prova da PND em União da Vitória](<https://www.rcwtv.com.br/noticia/inep-altera-locais-de-prova-da-pnd-em-uniao-da-vitoria>)
+- 📰 [Petrobras batiza navio pioneiro operado por tripulação feminina](<https://www.rcwtv.com.br/noticia/petrobras-batiza-navio-pioneiro-operado-por-tripulacao-feminina>)
+- 📰 [Coluna MG destaca novidades em Pouso Alegre e notícias do estado](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-novidades-em-pouso-alegre-e-noticias-do-estado>)
+- 📰 [Mega-Sena sorteia prêmio estimado em R$ 28 milhões neste domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-estimado-em-r-28-milhoes-neste-domingo>)
+- 📰 [STJ obriga condenados por violência doméstica a frequentar reabilitação](<https://www.rcwtv.com.br/noticia/stj-obriga-condenados-por-violencia-domestica-a-frequentar-reabilitacao>)
+- 📰 [OAB-MG reúne entidades em manifesto por reforma do Judiciário e garantias](<https://www.rcwtv.com.br/noticia/oab-mg-reune-entidades-em-manifesto-por-reforma-do-judiciario-e-garantias>)
+- 📰 [Candidato Renan Santos apresenta plano de governo com corte de gastos](<https://www.rcwtv.com.br/noticia/candidato-renan-santos-apresenta-plano-de-governo-com-corte-de-gastos>)
 - 📰 [Confira como foi a agenda dos candidatos a presidente nesta sexta-feira](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-agenda-dos-candidatos-a-presidente-nesta-sexta-feira>)
 - 📰 [Primeiro turma do STF confirma condenação de Eduardo Bolsonaro](<https://www.rcwtv.com.br/noticia/primeiro-turma-do-stf-confirma-condenacao-de-eduardo-bolsonaro>)
 - 📰 [Como limpar o microondas com vapor](<https://www.rcwtv.com.br/noticia/como-limpar-o-microondas-com-vapor>)
-- 📰 [Como limpar a air freyer corretamente](<https://www.rcwtv.com.br/noticia/como-limpar-a-air-freyer-corretamente>)
-- 📰 [Como remover gordura do fogão](<https://www.rcwtv.com.br/noticia/como-remover-gordura-do-fogao>)
-- 📰 [Como limpar o box de vidro sem deixar mancha](<https://www.rcwtv.com.br/noticia/como-limpar-o-box-de-vidro-sem-deixar-mancha>)
-- 📰 [AGU pede ao STF para confirmar a validade do reajuste do Bolsa Família](<https://www.rcwtv.com.br/noticia/agu-pede-ao-stf-para-confirmar-a-validade-do-reajuste-do-bolsa-familia>)
-- 📰 [Como limpar rejunte encardido com segurança](<https://www.rcwtv.com.br/noticia/como-limpar-rejunte-encardido-com-seguranca>)
-- 📰 [Kombi pega fogo e mobiliza bombeiros após incêndio em veículo na BR-040](<https://www.rcwtv.com.br/noticia/kombi-pega-fogo-e-mobiliza-bombeiros-apos-incendio-em-veiculo-na-br-040>)
-- 📰 [Inep publica cartilha oficial com instruções para a redação do Enem 2026](<https://www.rcwtv.com.br/noticia/inep-publica-cartilha-oficial-com-instrucoes-para-a-redacao-do-enem-2026>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
