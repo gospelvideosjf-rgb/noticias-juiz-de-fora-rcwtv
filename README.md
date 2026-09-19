@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Por que o telefone de disco fazia tanta gente esperar: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/por-que-o-telefone-de-disco-fazia-tanta-gente-esperar-historia-lembrancas-e-curiosidades>)
-- 📰 [Museu Mariano Procópio participa da 20ª Primavera dos Museus com programação gratuita e inclusiva](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-participa-da-20-primavera-dos-museus-com-programacao-gratuita-e-inclusiva>)
-- 📰 [Projeto "Caminhando pela História" oferece quatro visitas guiadas gratuitas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-caminhando-pela-historia-oferece-quatro-visitas-guiadas-gratuitas-em-juiz-de-fora>)
-- 📰 [Bolo de fubá cremoso: receita caseira com sabor de tradição](<https://www.rcwtv.com.br/noticia/bolo-de-fuba-cremoso-receita-caseira-com-sabor-de-tradicao>)
-- 📰 [STJ mantém condenação de Flordelis a 50 anos de prisão](<https://www.rcwtv.com.br/noticia/stj-mantem-condenacao-de-flordelis-a-50-anos-de-prisao>)
-- 📰 [A máquina de escrever antes dos computadores: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-maquina-de-escrever-antes-dos-computadores-historia-lembrancas-e-curiosidades>)
-- 📰 [Contraturno vira novo negócio para franqueados e rede projeta 60 unidades até 2027](<https://www.rcwtv.com.br/noticia/contraturno-vira-novo-negocio-para-franqueados-e-rede-projeta-60-unidades-ate-2027>)
-- 📰 [Em noite de cinco touchdowns de Josh Allen, Buffalo Bills vence Detroit Lions por 41 a 31 no Thursday Night Football](<https://www.rcwtv.com.br/noticia/em-noite-de-cinco-touchdowns-de-josh-allen-buffalo-bills-vence-detroit-lions-por-41-a-31-no-thursday-night-football>)
-- 📰 [Cronos Logistics transforma embarques em solidariedade e arrecada 30 toneladas de alimentos para doação](<https://www.rcwtv.com.br/noticia/cronos-logistics-transforma-embarques-em-solidariedade-e-arrecada-30-toneladas-de-alimentos-para-doacao>)
-- 📰 [Ministério da saúde qualifica o atendimento para doença renal crônica](<https://www.rcwtv.com.br/noticia/ministerio-da-saude-qualifica-o-atendimento-para-doenca-renal-cronica>)
+- 📰 [Confira como foi a agenda dos candidatos a presidente nesta sexta-feira](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-agenda-dos-candidatos-a-presidente-nesta-sexta-feira>)
+- 📰 [Primeiro turma do STF confirma condenação de Eduardo Bolsonaro](<https://www.rcwtv.com.br/noticia/primeiro-turma-do-stf-confirma-condenacao-de-eduardo-bolsonaro>)
+- 📰 [Como limpar o microondas com vapor](<https://www.rcwtv.com.br/noticia/como-limpar-o-microondas-com-vapor>)
+- 📰 [Como limpar a air freyer corretamente](<https://www.rcwtv.com.br/noticia/como-limpar-a-air-freyer-corretamente>)
+- 📰 [Como remover gordura do fogão](<https://www.rcwtv.com.br/noticia/como-remover-gordura-do-fogao>)
+- 📰 [Como limpar o box de vidro sem deixar mancha](<https://www.rcwtv.com.br/noticia/como-limpar-o-box-de-vidro-sem-deixar-mancha>)
+- 📰 [AGU pede ao STF para confirmar a validade do reajuste do Bolsa Família](<https://www.rcwtv.com.br/noticia/agu-pede-ao-stf-para-confirmar-a-validade-do-reajuste-do-bolsa-familia>)
+- 📰 [Como limpar rejunte encardido com segurança](<https://www.rcwtv.com.br/noticia/como-limpar-rejunte-encardido-com-seguranca>)
+- 📰 [Kombi pega fogo e mobiliza bombeiros após incêndio em veículo na BR-040](<https://www.rcwtv.com.br/noticia/kombi-pega-fogo-e-mobiliza-bombeiros-apos-incendio-em-veiculo-na-br-040>)
+- 📰 [Inep publica cartilha oficial com instruções para a redação do Enem 2026](<https://www.rcwtv.com.br/noticia/inep-publica-cartilha-oficial-com-instrucoes-para-a-redacao-do-enem-2026>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

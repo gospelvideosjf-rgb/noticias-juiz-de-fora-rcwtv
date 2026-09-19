@@ -273,3 +273,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Cronos Logistics transforma embarques em solidariedade e arrecada 30 toneladas de alimentos para doação](<https://www.rcwtv.com.br/noticia/cronos-logistics-transforma-embarques-em-solidariedade-e-arrecada-30-toneladas-de-alimentos-para-doacao>) - *18/09/2026*
 - [Ministério da saúde qualifica o atendimento para doença renal crônica](<https://www.rcwtv.com.br/noticia/ministerio-da-saude-qualifica-o-atendimento-para-doenca-renal-cronica>) - *18/09/2026*
 
+### Atualização de 19/09/2026
+- [Confira como foi a agenda dos candidatos a presidente nesta sexta-feira](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-agenda-dos-candidatos-a-presidente-nesta-sexta-feira>) - *19/09/2026*
+- [Primeiro turma do STF confirma condenação de Eduardo Bolsonaro](<https://www.rcwtv.com.br/noticia/primeiro-turma-do-stf-confirma-condenacao-de-eduardo-bolsonaro>) - *19/09/2026*
+- [Como limpar o microondas com vapor](<https://www.rcwtv.com.br/noticia/como-limpar-o-microondas-com-vapor>) - *19/09/2026*
+- [Como limpar a air freyer corretamente](<https://www.rcwtv.com.br/noticia/como-limpar-a-air-freyer-corretamente>) - *19/09/2026*
+- [Como remover gordura do fogão](<https://www.rcwtv.com.br/noticia/como-remover-gordura-do-fogao>) - *19/09/2026*
+- [Como limpar o box de vidro sem deixar mancha](<https://www.rcwtv.com.br/noticia/como-limpar-o-box-de-vidro-sem-deixar-mancha>) - *19/09/2026*
+- [AGU pede ao STF para confirmar a validade do reajuste do Bolsa Família](<https://www.rcwtv.com.br/noticia/agu-pede-ao-stf-para-confirmar-a-validade-do-reajuste-do-bolsa-familia>) - *19/09/2026*
+- [Como limpar rejunte encardido com segurança](<https://www.rcwtv.com.br/noticia/como-limpar-rejunte-encardido-com-seguranca>) - *19/09/2026*
+- [Kombi pega fogo e mobiliza bombeiros após incêndio em veículo na BR-040](<https://www.rcwtv.com.br/noticia/kombi-pega-fogo-e-mobiliza-bombeiros-apos-incendio-em-veiculo-na-br-040>) - *19/09/2026*
+- [Inep publica cartilha oficial com instruções para a redação do Enem 2026](<https://www.rcwtv.com.br/noticia/inep-publica-cartilha-oficial-com-instrucoes-para-a-redacao-do-enem-2026>) - *19/09/2026*
+
