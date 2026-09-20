@@ -294,3 +294,8 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [OAB-MG reúne entidades em manifesto por reforma do Judiciário e garantias](<https://www.rcwtv.com.br/noticia/oab-mg-reune-entidades-em-manifesto-por-reforma-do-judiciario-e-garantias>) - *19/09/2026*
 - [Candidato Renan Santos apresenta plano de governo com corte de gastos](<https://www.rcwtv.com.br/noticia/candidato-renan-santos-apresenta-plano-de-governo-com-corte-de-gastos>) - *19/09/2026*
 
+### Atualização de 20/09/2026
+- [São Paulo vence o Internacional por 1 a 0 no MorumBIS com gol de pênalti de Calleri](<https://www.rcwtv.com.br/noticia/sao-paulo-vence-o-internacional-por-1-a-0-no-morumbis-com-gol-de-penalti-de-calleri>) - *20/09/2026*
+- [Vasco goleia por 5 a 0 em São Januário com atuação dominante e embala na temporada](<https://www.rcwtv.com.br/noticia/vasco-goleia-por-5-a-0-em-sao-januario-com-atuacao-dominante-e-embala-na-temporada>) - *20/09/2026*
+- [A televisão de tubo e a sala como ponto de encontro](<https://www.rcwtv.com.br/noticia/a-televisao-de-tubo-e-a-sala-como-ponto-de-encontro>) - *20/09/2026*
+
