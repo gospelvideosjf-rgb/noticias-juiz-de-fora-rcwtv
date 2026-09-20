@@ -299,3 +299,11 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Vasco goleia por 5 a 0 em São Januário com atuação dominante e embala na temporada](<https://www.rcwtv.com.br/noticia/vasco-goleia-por-5-a-0-em-sao-januario-com-atuacao-dominante-e-embala-na-temporada>) - *20/09/2026*
 - [A televisão de tubo e a sala como ponto de encontro](<https://www.rcwtv.com.br/noticia/a-televisao-de-tubo-e-a-sala-como-ponto-de-encontro>) - *20/09/2026*
 
+### Atualização de 20/09/2026
+- [Fragmentação de dados dificulta prevenção de feminicídio no país](<https://www.rcwtv.com.br/noticia/fragmentacao-de-dados-dificulta-prevencao-de-feminicidio-no-pais>) - *20/09/2026*
+- [Prêmio do sorteio da Mega-Sena acumula e vai a R$ 32 milhões](<https://www.rcwtv.com.br/noticia/premio-do-sorteio-da-mega-sena-acumula-e-vai-a-r-32-milhoes>) - *20/09/2026*
+- [TSE suspende campanha de Deltan Dallagnol ao Senado pelo Paraná](<https://www.rcwtv.com.br/noticia/tse-suspende-campanha-de-deltan-dallagnol-ao-senado-pelo-parana>) - *20/09/2026*
+- [Sigma Lithium é escolhida pela Nasdaq para tocar o sino em Nova York](<https://www.rcwtv.com.br/noticia/sigma-lithium-e-escolhida-pela-nasdaq-para-tocar-o-sino-em-nova-york>) - *20/09/2026*
+- [Plano de governo da UP de Samara Martins propõe dobrar salário mínimo](<https://www.rcwtv.com.br/noticia/plano-de-governo-da-up-de-samara-martins-propoe-dobrar-salario-minimo>) - *20/09/2026*
+- [Mais de 625 mil candidatos realizam a Prova Nacional Docente neste domingo](<https://www.rcwtv.com.br/noticia/mais-de-625-mil-candidatos-realizam-a-prova-nacional-docente-neste-domingo>) - *20/09/2026*
+
