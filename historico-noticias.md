@@ -319,3 +319,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Como acostumar o gato a entrar na caixa: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-acostumar-o-gato-a-entrar-na-caixa-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
 - [Treino de chamada positiva para cães: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/treino-de-chamada-positiva-para-caes-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
 
+### Atualização de 21/09/2026
+- [Drew Lock e Jaxon Smith-Njigba comandam ataque, defesa sufoca e Seahawks atropelam Cardinals por 31 a 7](<https://www.rcwtv.com.br/noticia/drew-lock-e-jaxon-smith-njigba-comandam-ataque-defesa-sufoca-e-seahawks-atropelam-cardinals-por-31-a-7>) - *21/09/2026*
+- [Dak Prescott quebra recorde histórico dos Cowboys em rodada marcada por drama com Jayden Daniels e triunfo dos Chiefs](<https://www.rcwtv.com.br/noticia/dak-prescott-quebra-recorde-historico-dos-cowboys-em-rodada-marcada-por-drama-com-jayden-daniels-e-triunfo-dos-chiefs>) - *21/09/2026*
+- [‘Silêncio dos neurônios’ pode ajudar a prever e evitar crises epilépticas](<https://www.rcwtv.com.br/noticia/silencio-dos-neuronios-pode-ajudar-a-prever-e-evitar-crises-epilepticas>) - *21/09/2026*
+- [MPMG acompanha decisão que proíbe contratação irregular de advogados pela Câmara de Simonésia](<https://www.rcwtv.com.br/noticia/mpmg-acompanha-decisao-que-proibe-contratacao-irregular-de-advogados-pela-camara-de-simonesia>) - *21/09/2026*
+- [Galo empata em casa, Botafogo tropeça na estreia de Tite e Santos engata quarta vitória seguida](<https://www.rcwtv.com.br/noticia/galo-empata-em-casa-botafogo-tropeca-na-estreia-de-tite-e-santos-engata-quarta-vitoria-seguida>) - *21/09/2026*
+- [MPMG promove seminário sobre segurança alimentar e combate à fome em Muriaé](<https://www.rcwtv.com.br/noticia/mpmg-promove-seminario-sobre-seguranca-alimentar-e-combate-a-fome-em-muriae>) - *21/09/2026*
+- [Prefeitura lança projeto “Caminhos da Produção” para fortalecer o turismo rural](<https://www.rcwtv.com.br/noticia/prefeitura-lanca-projeto-caminhos-da-producao-para-fortalecer-o-turismo-rural>) - *21/09/2026*
+- [Museu Mariano Procópio e Shopping Jardim Norte distribuem mudas nesta terça](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-e-shopping-jardim-norte-distribuem-mudas-nesta-terca>) - *21/09/2026*
+- [Flamengo vence Bragantino e abre vantagem após tropeço do Palmeiras no Brasileirão](<https://www.rcwtv.com.br/noticia/flamengo-vence-bragantino-e-abre-vantagem-apos-tropeco-do-palmeiras-no-brasileirao>) - *21/09/2026*
+- [Prazo da lista de espera do Fies no segundo semestre encerra nesta quinta](<https://www.rcwtv.com.br/noticia/prazo-da-lista-de-espera-do-fies-no-segundo-semestre-encerra-nesta-quinta>) - *21/09/2026*
+
