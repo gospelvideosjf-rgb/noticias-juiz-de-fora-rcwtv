@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Fragmentação de dados dificulta prevenção de feminicídio no país](<https://www.rcwtv.com.br/noticia/fragmentacao-de-dados-dificulta-prevencao-de-feminicidio-no-pais>)
-- 📰 [Prêmio do sorteio da Mega-Sena acumula e vai a R$ 32 milhões](<https://www.rcwtv.com.br/noticia/premio-do-sorteio-da-mega-sena-acumula-e-vai-a-r-32-milhoes>)
-- 📰 [TSE suspende campanha de Deltan Dallagnol ao Senado pelo Paraná](<https://www.rcwtv.com.br/noticia/tse-suspende-campanha-de-deltan-dallagnol-ao-senado-pelo-parana>)
-- 📰 [Sigma Lithium é escolhida pela Nasdaq para tocar o sino em Nova York](<https://www.rcwtv.com.br/noticia/sigma-lithium-e-escolhida-pela-nasdaq-para-tocar-o-sino-em-nova-york>)
-- 📰 [Plano de governo da UP de Samara Martins propõe dobrar salário mínimo](<https://www.rcwtv.com.br/noticia/plano-de-governo-da-up-de-samara-martins-propoe-dobrar-salario-minimo>)
-- 📰 [Mais de 625 mil candidatos realizam a Prova Nacional Docente neste domingo](<https://www.rcwtv.com.br/noticia/mais-de-625-mil-candidatos-realizam-a-prova-nacional-docente-neste-domingo>)
-- 📰 [São Paulo vence o Internacional por 1 a 0 no MorumBIS com gol de pênalti de Calleri](<https://www.rcwtv.com.br/noticia/sao-paulo-vence-o-internacional-por-1-a-0-no-morumbis-com-gol-de-penalti-de-calleri>)
-- 📰 [Vasco goleia por 5 a 0 em São Januário com atuação dominante e embala na temporada](<https://www.rcwtv.com.br/noticia/vasco-goleia-por-5-a-0-em-sao-januario-com-atuacao-dominante-e-embala-na-temporada>)
-- 📰 [A televisão de tubo e a sala como ponto de encontro](<https://www.rcwtv.com.br/noticia/a-televisao-de-tubo-e-a-sala-como-ponto-de-encontro>)
-- 📰 [Inep altera locais de prova da PND em União da Vitória](<https://www.rcwtv.com.br/noticia/inep-altera-locais-de-prova-da-pnd-em-uniao-da-vitoria>)
+- 📰 [Como tirar poeira do ventilador de teto: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-tirar-poeira-do-ventilador-de-teto-passo-a-passo-seguro-e-pratico>)
+- 📰 [Como limpar sofá de tecido sem estragar: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-limpar-sofa-de-tecido-sem-estragar-passo-a-passo-seguro-e-pratico>)
+- 📰 [Como higienizar o colchão: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-higienizar-o-colchao>)
+- 📰 [Como eliminar odores da geladeira: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-eliminar-odores-da-geladeira>)
+- 📰 [Como plantar manjericão em vaso de barro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-plantar-manjericao-em-vaso-de-barro-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como escolher brinquedos resistentes para cães: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-escolher-brinquedos-resistentes-para-caes-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como melhorar a convivência entre cães e gatos: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-melhorar-a-convivencia-entre-caes-e-gatos-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como apresentar dois cães com segurança: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-apresentar-dois-caes-com-seguranca-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como acostumar o gato a entrar na caixa: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-acostumar-o-gato-a-entrar-na-caixa-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Treino de chamada positiva para cães: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/treino-de-chamada-positiva-para-caes-guia-pratico-e-cuidados-essenciais>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

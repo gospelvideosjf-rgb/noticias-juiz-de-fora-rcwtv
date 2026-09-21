@@ -307,3 +307,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Plano de governo da UP de Samara Martins propõe dobrar salário mínimo](<https://www.rcwtv.com.br/noticia/plano-de-governo-da-up-de-samara-martins-propoe-dobrar-salario-minimo>) - *20/09/2026*
 - [Mais de 625 mil candidatos realizam a Prova Nacional Docente neste domingo](<https://www.rcwtv.com.br/noticia/mais-de-625-mil-candidatos-realizam-a-prova-nacional-docente-neste-domingo>) - *20/09/2026*
 
+### Atualização de 21/09/2026
+- [Como tirar poeira do ventilador de teto: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-tirar-poeira-do-ventilador-de-teto-passo-a-passo-seguro-e-pratico>) - *21/09/2026*
+- [Como limpar sofá de tecido sem estragar: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-limpar-sofa-de-tecido-sem-estragar-passo-a-passo-seguro-e-pratico>) - *21/09/2026*
+- [Como higienizar o colchão: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-higienizar-o-colchao>) - *21/09/2026*
+- [Como eliminar odores da geladeira: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-eliminar-odores-da-geladeira>) - *21/09/2026*
+- [Como plantar manjericão em vaso de barro: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-plantar-manjericao-em-vaso-de-barro-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Como escolher brinquedos resistentes para cães: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-escolher-brinquedos-resistentes-para-caes-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Como melhorar a convivência entre cães e gatos: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-melhorar-a-convivencia-entre-caes-e-gatos-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Como apresentar dois cães com segurança: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-apresentar-dois-caes-com-seguranca-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Como acostumar o gato a entrar na caixa: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-acostumar-o-gato-a-entrar-na-caixa-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+- [Treino de chamada positiva para cães: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/treino-de-chamada-positiva-para-caes-guia-pratico-e-cuidados-essenciais>) - *21/09/2026*
+
