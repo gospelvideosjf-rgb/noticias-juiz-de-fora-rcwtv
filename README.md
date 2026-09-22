@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Drew Lock e Jaxon Smith-Njigba comandam ataque, defesa sufoca e Seahawks atropelam Cardinals por 31 a 7](<https://www.rcwtv.com.br/noticia/drew-lock-e-jaxon-smith-njigba-comandam-ataque-defesa-sufoca-e-seahawks-atropelam-cardinals-por-31-a-7>)
-- 📰 [Dak Prescott quebra recorde histórico dos Cowboys em rodada marcada por drama com Jayden Daniels e triunfo dos Chiefs](<https://www.rcwtv.com.br/noticia/dak-prescott-quebra-recorde-historico-dos-cowboys-em-rodada-marcada-por-drama-com-jayden-daniels-e-triunfo-dos-chiefs>)
-- 📰 [‘Silêncio dos neurônios’ pode ajudar a prever e evitar crises epilépticas](<https://www.rcwtv.com.br/noticia/silencio-dos-neuronios-pode-ajudar-a-prever-e-evitar-crises-epilepticas>)
-- 📰 [MPMG acompanha decisão que proíbe contratação irregular de advogados pela Câmara de Simonésia](<https://www.rcwtv.com.br/noticia/mpmg-acompanha-decisao-que-proibe-contratacao-irregular-de-advogados-pela-camara-de-simonesia>)
-- 📰 [Galo empata em casa, Botafogo tropeça na estreia de Tite e Santos engata quarta vitória seguida](<https://www.rcwtv.com.br/noticia/galo-empata-em-casa-botafogo-tropeca-na-estreia-de-tite-e-santos-engata-quarta-vitoria-seguida>)
-- 📰 [MPMG promove seminário sobre segurança alimentar e combate à fome em Muriaé](<https://www.rcwtv.com.br/noticia/mpmg-promove-seminario-sobre-seguranca-alimentar-e-combate-a-fome-em-muriae>)
-- 📰 [Prefeitura lança projeto “Caminhos da Produção” para fortalecer o turismo rural](<https://www.rcwtv.com.br/noticia/prefeitura-lanca-projeto-caminhos-da-producao-para-fortalecer-o-turismo-rural>)
-- 📰 [Museu Mariano Procópio e Shopping Jardim Norte distribuem mudas nesta terça](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-e-shopping-jardim-norte-distribuem-mudas-nesta-terca>)
-- 📰 [Flamengo vence Bragantino e abre vantagem após tropeço do Palmeiras no Brasileirão](<https://www.rcwtv.com.br/noticia/flamengo-vence-bragantino-e-abre-vantagem-apos-tropeco-do-palmeiras-no-brasileirao>)
-- 📰 [Prazo da lista de espera do Fies no segundo semestre encerra nesta quinta](<https://www.rcwtv.com.br/noticia/prazo-da-lista-de-espera-do-fies-no-segundo-semestre-encerra-nesta-quinta>)
+- 📰 [Como prevenir mofo dentro de casa: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-prevenir-mofo-dentro-de-casa-passo-a-passo-seguro-e-pratico>)
+- 📰 [Aprenda como retirar pelos de animais da casa com método seguro, materiais, passo a passo, erros comuns e dicas de organização doméstica.](<https://www.rcwtv.com.br/noticia/aprenda-como-retirar-pelos-de-animais-da-casa-com-metodo-seguro-materiais-passo-a-passo-erros-comuns-e-dicas-de-organizacao-domestica>)
+- 📰 [Sorteio da Mega-Sena pode pagar R$ 32 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/sorteio-da-mega-sena-pode-pagar-r-32-milhoes-nesta-terca-feira>)
+- 📰 [Rotina rápida para limpar o banheiro: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/rotina-rapida-para-limpar-o-banheiro-passo-a-passo-seguro-e-pratico>)
+- 📰 [Check-up anual do gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/check-up-anual-do-gato-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como proteger o cachorro durante fogos de artifício: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-proteger-o-cachorro-durante-fogos-de-artificio-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Como receber um cachorro resgatado: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-receber-um-cachorro-resgatado-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Kit de primeiros socorros para pets: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/kit-de-primeiros-socorros-para-pets-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Adoção de gatos: preparação da família: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/adocao-de-gatos-preparacao-da-familia-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Castração responsável: dúvidas frequentes: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/castracao-responsavel-duvidas-frequentes-guia-pratico-e-cuidados-essenciais>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

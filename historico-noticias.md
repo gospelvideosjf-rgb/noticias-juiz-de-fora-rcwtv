@@ -331,3 +331,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Flamengo vence Bragantino e abre vantagem após tropeço do Palmeiras no Brasileirão](<https://www.rcwtv.com.br/noticia/flamengo-vence-bragantino-e-abre-vantagem-apos-tropeco-do-palmeiras-no-brasileirao>) - *21/09/2026*
 - [Prazo da lista de espera do Fies no segundo semestre encerra nesta quinta](<https://www.rcwtv.com.br/noticia/prazo-da-lista-de-espera-do-fies-no-segundo-semestre-encerra-nesta-quinta>) - *21/09/2026*
 
+### Atualização de 22/09/2026
+- [Como prevenir mofo dentro de casa: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-prevenir-mofo-dentro-de-casa-passo-a-passo-seguro-e-pratico>) - *22/09/2026*
+- [Aprenda como retirar pelos de animais da casa com método seguro, materiais, passo a passo, erros comuns e dicas de organização doméstica.](<https://www.rcwtv.com.br/noticia/aprenda-como-retirar-pelos-de-animais-da-casa-com-metodo-seguro-materiais-passo-a-passo-erros-comuns-e-dicas-de-organizacao-domestica>) - *22/09/2026*
+- [Sorteio da Mega-Sena pode pagar R$ 32 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/sorteio-da-mega-sena-pode-pagar-r-32-milhoes-nesta-terca-feira>) - *22/09/2026*
+- [Rotina rápida para limpar o banheiro: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/rotina-rapida-para-limpar-o-banheiro-passo-a-passo-seguro-e-pratico>) - *22/09/2026*
+- [Check-up anual do gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/check-up-anual-do-gato-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Como proteger o cachorro durante fogos de artifício: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-proteger-o-cachorro-durante-fogos-de-artificio-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Como receber um cachorro resgatado: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-receber-um-cachorro-resgatado-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Kit de primeiros socorros para pets: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/kit-de-primeiros-socorros-para-pets-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Adoção de gatos: preparação da família: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/adocao-de-gatos-preparacao-da-familia-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+- [Castração responsável: dúvidas frequentes: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/castracao-responsavel-duvidas-frequentes-guia-pratico-e-cuidados-essenciais>) - *22/09/2026*
+
