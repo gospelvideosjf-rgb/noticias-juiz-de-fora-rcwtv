@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Como prevenir mofo dentro de casa: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-prevenir-mofo-dentro-de-casa-passo-a-passo-seguro-e-pratico>)
-- 📰 [Aprenda como retirar pelos de animais da casa com método seguro, materiais, passo a passo, erros comuns e dicas de organização doméstica.](<https://www.rcwtv.com.br/noticia/aprenda-como-retirar-pelos-de-animais-da-casa-com-metodo-seguro-materiais-passo-a-passo-erros-comuns-e-dicas-de-organizacao-domestica>)
-- 📰 [Sorteio da Mega-Sena pode pagar R$ 32 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/sorteio-da-mega-sena-pode-pagar-r-32-milhoes-nesta-terca-feira>)
-- 📰 [Rotina rápida para limpar o banheiro: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/rotina-rapida-para-limpar-o-banheiro-passo-a-passo-seguro-e-pratico>)
-- 📰 [Check-up anual do gato: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/check-up-anual-do-gato-guia-pratico-e-cuidados-essenciais>)
-- 📰 [Como proteger o cachorro durante fogos de artifício: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-proteger-o-cachorro-durante-fogos-de-artificio-guia-pratico-e-cuidados-essenciais>)
-- 📰 [Como receber um cachorro resgatado: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-receber-um-cachorro-resgatado-guia-pratico-e-cuidados-essenciais>)
-- 📰 [Kit de primeiros socorros para pets: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/kit-de-primeiros-socorros-para-pets-guia-pratico-e-cuidados-essenciais>)
-- 📰 [Adoção de gatos: preparação da família: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/adocao-de-gatos-preparacao-da-familia-guia-pratico-e-cuidados-essenciais>)
-- 📰 [Castração responsável: dúvidas frequentes: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/castracao-responsavel-duvidas-frequentes-guia-pratico-e-cuidados-essenciais>)
+- 📰 [Cesama avança na remodelação de redes de esgoto em Filgueiras e Bom Jardim, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cesama-avanca-na-remodelacao-de-redes-de-esgoto-em-filgueiras-e-bom-jardim-em-juiz-de-fora>)
+- 📰 [Além da poupança: novos fundings e imóveis compactos impulsionam alta de 12% no crédito imobiliário no semestre](<https://www.rcwtv.com.br/noticia/alem-da-poupanca-novos-fundings-e-imoveis-compactos-impulsionam-alta-de-12-no-credito-imobiliario-no-semestre>)
+- 📰 [Ministro André Mendonça acusa Alexandre de Moraes de direcionar investigação no STF](<https://www.rcwtv.com.br/noticia/ministro-andre-mendonca-acusa-alexandre-de-moraes-de-direcionar-investigacao-no-stf>)
+- 📰 [Governo reduz projeção do PIB para 2026 e ajusta estimativas econômicas](<https://www.rcwtv.com.br/noticia/governo-reduz-projecao-do-pib-para-2026-e-ajusta-estimativas-economicas>)
+- 📰 [Baús de fotografias e a memória familiar: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/baus-de-fotografias-e-a-memoria-familiar-historia-lembrancas-e-curiosidades>)
+- 📰 [TJMG acolhe recurso do Ministério Público e exige plano de acessibilidade em Viçosa](<https://www.rcwtv.com.br/noticia/tjmg-acolhe-recurso-do-ministerio-publico-e-exige-plano-de-acessibilidade-em-vicosa>)
+- 📰 [O relógio de parede e a organização do dia: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/o-relogio-de-parede-e-a-organizacao-do-dia-historia-lembrancas-e-curiosidades>)
+- 📰 [Musculação faz células de gordura encolherem antes mesmo da perda de peso](<https://www.rcwtv.com.br/noticia/musculacao-faz-celulas-de-gordura-encolherem-antes-mesmo-da-perda-de-peso>)
+- 📰 [Guia do Enem lançado pelo MEC centraliza orientações para as provas](<https://www.rcwtv.com.br/noticia/guia-do-enem-lancado-pelo-mec-centraliza-orientacoes-para-as-provas>)
+- 📰 [Luiz Fux vai relatar ação sobre idas de Viviane Barci ao Senado](<https://www.rcwtv.com.br/noticia/luiz-fux-vai-relatar-acao-sobre-idas-de-viviane-barci-ao-senado>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
