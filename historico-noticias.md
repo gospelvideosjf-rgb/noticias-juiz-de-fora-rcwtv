@@ -355,3 +355,14 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Guia do Enem lançado pelo MEC centraliza orientações para as provas](<https://www.rcwtv.com.br/noticia/guia-do-enem-lancado-pelo-mec-centraliza-orientacoes-para-as-provas>) - *22/09/2026*
 - [Luiz Fux vai relatar ação sobre idas de Viviane Barci ao Senado](<https://www.rcwtv.com.br/noticia/luiz-fux-vai-relatar-acao-sobre-idas-de-viviane-barci-ao-senado>) - *22/09/2026*
 
+### Atualização de 23/09/2026
+- [Como organizar a despensa: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-a-despensa-passo-a-passo-seguro-e-pratico>) - *23/09/2026*
+- [Como guardar panelas e tampas: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-guardar-panelas-e-tampas-passo-a-passo-seguro-e-pratico>) - *23/09/2026*
+- [Como organizar uma cozinha pequena: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-uma-cozinha-pequena-passo-a-passo-seguro-e-pratico>) - *23/09/2026*
+- [Seis integrantes ligados ao Comando Vermelho são condenados após Operação Mecanismo em Muriaé](<https://www.rcwtv.com.br/noticia/seis-integrantes-ligados-ao-comando-vermelho-sao-condenados-apos-operacao-mecanismo-em-muriae>) - *23/09/2026*
+- [Mega-Sena acumula e prêmio vai a R$ 38 milhões para o próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-vai-a-r-38-milhoes-para-o-proximo-sorteio>) - *23/09/2026*
+- [Violência política de gênero cresce expressivamente no Brasil nos últimos anos](<https://www.rcwtv.com.br/noticia/violencia-politica-de-genero-cresce-expressivamente-no-brasil-nos-ultimos-anos>) - *23/09/2026*
+- [Confira como foi a agenda dos candidatos à presidência nesta terça-feira](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-agenda-dos-candidatos-a-presidencia-nesta-terca-feira>) - *23/09/2026*
+- [Inteligência artificial e vídeos falsos ameaçam a democracia](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-e-videos-falsos-ameacam-a-democracia>) - *23/09/2026*
+- [Nova lei amplia cargos e altera estrutura da diretoria da OAB](<https://www.rcwtv.com.br/noticia/nova-lei-amplia-cargos-e-altera-estrutura-da-diretoria-da-oab>) - *23/09/2026*
+
