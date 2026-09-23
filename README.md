@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Como organizar a despensa: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-a-despensa-passo-a-passo-seguro-e-pratico>)
-- 📰 [Como guardar panelas e tampas: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-guardar-panelas-e-tampas-passo-a-passo-seguro-e-pratico>)
-- 📰 [Como organizar uma cozinha pequena: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-uma-cozinha-pequena-passo-a-passo-seguro-e-pratico>)
-- 📰 [Seis integrantes ligados ao Comando Vermelho são condenados após Operação Mecanismo em Muriaé](<https://www.rcwtv.com.br/noticia/seis-integrantes-ligados-ao-comando-vermelho-sao-condenados-apos-operacao-mecanismo-em-muriae>)
-- 📰 [Mega-Sena acumula e prêmio vai a R$ 38 milhões para o próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-vai-a-r-38-milhoes-para-o-proximo-sorteio>)
-- 📰 [Violência política de gênero cresce expressivamente no Brasil nos últimos anos](<https://www.rcwtv.com.br/noticia/violencia-politica-de-genero-cresce-expressivamente-no-brasil-nos-ultimos-anos>)
-- 📰 [Confira como foi a agenda dos candidatos à presidência nesta terça-feira](<https://www.rcwtv.com.br/noticia/confira-como-foi-a-agenda-dos-candidatos-a-presidencia-nesta-terca-feira>)
-- 📰 [Inteligência artificial e vídeos falsos ameaçam a democracia](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-e-videos-falsos-ameacam-a-democracia>)
-- 📰 [Nova lei amplia cargos e altera estrutura da diretoria da OAB](<https://www.rcwtv.com.br/noticia/nova-lei-amplia-cargos-e-altera-estrutura-da-diretoria-da-oab>)
-- 📰 [Cesama avança na remodelação de redes de esgoto em Filgueiras e Bom Jardim, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cesama-avanca-na-remodelacao-de-redes-de-esgoto-em-filgueiras-e-bom-jardim-em-juiz-de-fora>)
+- 📰 [Banco Master: CNJ cancela R$ 4,7 bilhões em precatórios de usinas](<https://www.rcwtv.com.br/noticia/banco-master-cnj-cancela-r-4-7-bilhoes-em-precatorios-de-usinas>)
+- 📰 [Nova lei regulamenta a psicopedagogia no Brasil com veto a exigências de formação](<https://www.rcwtv.com.br/noticia/nova-lei-regulamenta-a-psicopedagogia-no-brasil-com-veto-a-exigencias-de-formacao>)
+- 📰 [Comunidade científica alerta para risco de interferência nas eleições do Brasil](<https://www.rcwtv.com.br/noticia/comunidade-cientifica-alerta-para-risco-de-interferencia-nas-eleicoes-do-brasil>)
+- 📰 [PJF, UniAcademia e Comsea-JF abrem edital para o 4º Desafio Gastronômico pelo Dia Mundial da Alimentação](<https://www.rcwtv.com.br/noticia/pjf-uniacademia-e-comsea-jf-abrem-edital-para-o-4-desafio-gastronomico-pelo-dia-mundial-da-alimentacao>)
+- 📰 [STF iguala por unanimidade o tempo de licença-maternidade e para adotantes](<https://www.rcwtv.com.br/noticia/stf-iguala-por-unanimidade-o-tempo-de-licenca-maternidade-e-para-adotantes>)
+- 📰 [A febre dos álbuns de figurinhas: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-febre-dos-albuns-de-figurinhas-historia-lembrancas-e-curiosidades>)
+- 📰 [Guarda Municipal capacita motoristas da Secretaria de Assistência Social em Juiz de Fora](<https://www.rcwtv.com.br/noticia/guarda-municipal-capacita-motoristas-da-secretaria-de-assistencia-social-em-juiz-de-fora>)
+- 📰 [Luiz Fux cobra o Senado sobre registros de Viviane Barci e Daniel Vorcaro](<https://www.rcwtv.com.br/noticia/luiz-fux-cobra-o-senado-sobre-registros-de-viviane-barci-e-daniel-vorcaro>)
+- 📰 [Coluna MG destaca impactos da guerra no Irã e notícias de municípios mineiros](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-impactos-da-guerra-no-ira-e-noticias-de-municipios-mineiros>)
+- 📰 [Operação Déjà Vú cumpre mandados contra o tráfico de drogas na Zona da Mata e na Capital](<https://www.rcwtv.com.br/noticia/operacao-deja-vu-cumpre-mandados-contra-o-trafico-de-drogas-na-zona-da-mata-e-na-capital>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

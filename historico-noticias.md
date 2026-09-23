@@ -366,3 +366,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Inteligência artificial e vídeos falsos ameaçam a democracia](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-e-videos-falsos-ameacam-a-democracia>) - *23/09/2026*
 - [Nova lei amplia cargos e altera estrutura da diretoria da OAB](<https://www.rcwtv.com.br/noticia/nova-lei-amplia-cargos-e-altera-estrutura-da-diretoria-da-oab>) - *23/09/2026*
 
+### Atualização de 23/09/2026
+- [Banco Master: CNJ cancela R$ 4,7 bilhões em precatórios de usinas](<https://www.rcwtv.com.br/noticia/banco-master-cnj-cancela-r-4-7-bilhoes-em-precatorios-de-usinas>) - *23/09/2026*
+- [Nova lei regulamenta a psicopedagogia no Brasil com veto a exigências de formação](<https://www.rcwtv.com.br/noticia/nova-lei-regulamenta-a-psicopedagogia-no-brasil-com-veto-a-exigencias-de-formacao>) - *23/09/2026*
+- [Comunidade científica alerta para risco de interferência nas eleições do Brasil](<https://www.rcwtv.com.br/noticia/comunidade-cientifica-alerta-para-risco-de-interferencia-nas-eleicoes-do-brasil>) - *23/09/2026*
+- [PJF, UniAcademia e Comsea-JF abrem edital para o 4º Desafio Gastronômico pelo Dia Mundial da Alimentação](<https://www.rcwtv.com.br/noticia/pjf-uniacademia-e-comsea-jf-abrem-edital-para-o-4-desafio-gastronomico-pelo-dia-mundial-da-alimentacao>) - *23/09/2026*
+- [STF iguala por unanimidade o tempo de licença-maternidade e para adotantes](<https://www.rcwtv.com.br/noticia/stf-iguala-por-unanimidade-o-tempo-de-licenca-maternidade-e-para-adotantes>) - *23/09/2026*
+- [A febre dos álbuns de figurinhas: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-febre-dos-albuns-de-figurinhas-historia-lembrancas-e-curiosidades>) - *23/09/2026*
+- [Guarda Municipal capacita motoristas da Secretaria de Assistência Social em Juiz de Fora](<https://www.rcwtv.com.br/noticia/guarda-municipal-capacita-motoristas-da-secretaria-de-assistencia-social-em-juiz-de-fora>) - *23/09/2026*
+- [Luiz Fux cobra o Senado sobre registros de Viviane Barci e Daniel Vorcaro](<https://www.rcwtv.com.br/noticia/luiz-fux-cobra-o-senado-sobre-registros-de-viviane-barci-e-daniel-vorcaro>) - *23/09/2026*
+- [Coluna MG destaca impactos da guerra no Irã e notícias de municípios mineiros](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-impactos-da-guerra-no-ira-e-noticias-de-municipios-mineiros>) - *23/09/2026*
+- [Operação Déjà Vú cumpre mandados contra o tráfico de drogas na Zona da Mata e na Capital](<https://www.rcwtv.com.br/noticia/operacao-deja-vu-cumpre-mandados-contra-o-trafico-de-drogas-na-zona-da-mata-e-na-capital>) - *23/09/2026*
+
