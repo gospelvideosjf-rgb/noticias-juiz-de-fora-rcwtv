@@ -390,3 +390,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Eleições amapá: conheça os candidatos ao governo estadual](<https://www.rcwtv.com.br/noticia/eleicoes-amapa-conheca-os-candidatos-ao-governo-estadual>) - *24/09/2026*
 - [Mega-Sena pode pagar prêmio acumulado de R$ 38 milhões nesta quinta-feira](<https://www.rcwtv.com.br/noticia/mega-sena-pode-pagar-premio-acumulado-de-r-38-milhoes-nesta-quinta-feira>) - *24/09/2026*
 
+### Atualização de 24/09/2026
+- [Especialista alerta sobre impactos do El Niño e cobra ação urgente do governo](<https://www.rcwtv.com.br/noticia/especialista-alerta-sobre-impactos-do-el-nino-e-cobra-acao-urgente-do-governo>) - *24/09/2026*
+- [Projeto de lei amplia vagas para mulheres em contratos públicos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-amplia-vagas-para-mulheres-em-contratos-publicos>) - *24/09/2026*
+- [Pesquisa revela que saúde do brasileiro tem distorção entre percepção e hábitos](<https://www.rcwtv.com.br/noticia/pesquisa-revela-que-saude-do-brasileiro-tem-distorcao-entre-percepcao-e-habitos>) - *24/09/2026*
+- [Como montar um cronograma de limpeza: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-montar-um-cronograma-de-limpeza-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Desafio de 30 dias para colocar a casa em ordem: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/desafio-de-30-dias-para-colocar-a-casa-em-ordem-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Rotina de organização em 15 minutos: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/rotina-de-organizacao-em-15-minutos-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Como fazer o descarte do que não é usado: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-fazer-o-descarte-do-que-nao-e-usado-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Como organizar brinquedos das crianças: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-brinquedos-das-criancas-passo-a-passo-seguro-e-pratico>) - *24/09/2026*
+- [Como eram as aulas na época da lousa e do giz](<https://www.rcwtv.com.br/noticia/como-eram-as-aulas-na-epoca-da-lousa-e-do-giz>) - *24/09/2026*
+- [A bicicleta como símbolo de liberdade](<https://www.rcwtv.com.br/noticia/a-bicicleta-como-simbolo-de-liberdade>) - *24/09/2026*
+
