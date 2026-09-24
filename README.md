@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Banco Master: CNJ cancela R$ 4,7 bilhões em precatórios de usinas](<https://www.rcwtv.com.br/noticia/banco-master-cnj-cancela-r-4-7-bilhoes-em-precatorios-de-usinas>)
-- 📰 [Nova lei regulamenta a psicopedagogia no Brasil com veto a exigências de formação](<https://www.rcwtv.com.br/noticia/nova-lei-regulamenta-a-psicopedagogia-no-brasil-com-veto-a-exigencias-de-formacao>)
-- 📰 [Comunidade científica alerta para risco de interferência nas eleições do Brasil](<https://www.rcwtv.com.br/noticia/comunidade-cientifica-alerta-para-risco-de-interferencia-nas-eleicoes-do-brasil>)
-- 📰 [PJF, UniAcademia e Comsea-JF abrem edital para o 4º Desafio Gastronômico pelo Dia Mundial da Alimentação](<https://www.rcwtv.com.br/noticia/pjf-uniacademia-e-comsea-jf-abrem-edital-para-o-4-desafio-gastronomico-pelo-dia-mundial-da-alimentacao>)
-- 📰 [STF iguala por unanimidade o tempo de licença-maternidade e para adotantes](<https://www.rcwtv.com.br/noticia/stf-iguala-por-unanimidade-o-tempo-de-licenca-maternidade-e-para-adotantes>)
-- 📰 [A febre dos álbuns de figurinhas: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-febre-dos-albuns-de-figurinhas-historia-lembrancas-e-curiosidades>)
-- 📰 [Guarda Municipal capacita motoristas da Secretaria de Assistência Social em Juiz de Fora](<https://www.rcwtv.com.br/noticia/guarda-municipal-capacita-motoristas-da-secretaria-de-assistencia-social-em-juiz-de-fora>)
-- 📰 [Luiz Fux cobra o Senado sobre registros de Viviane Barci e Daniel Vorcaro](<https://www.rcwtv.com.br/noticia/luiz-fux-cobra-o-senado-sobre-registros-de-viviane-barci-e-daniel-vorcaro>)
-- 📰 [Coluna MG destaca impactos da guerra no Irã e notícias de municípios mineiros](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-impactos-da-guerra-no-ira-e-noticias-de-municipios-mineiros>)
-- 📰 [Operação Déjà Vú cumpre mandados contra o tráfico de drogas na Zona da Mata e na Capital](<https://www.rcwtv.com.br/noticia/operacao-deja-vu-cumpre-mandados-contra-o-trafico-de-drogas-na-zona-da-mata-e-na-capital>)
+- 📰 [SAMU registra acidentes e ocorrências policiais em municípios da Zona da Mata e Campo das Vertentes](<https://www.rcwtv.com.br/noticia/samu-registra-acidentes-e-ocorrencias-policiais-em-municipios-da-zona-da-mata-e-campo-das-vertentes>)
+- 📰 [TCDF bloqueia R$ 2,7 bilhões de ex-dirigentes do BRB em caso envolvendo o Banco Master](<https://www.rcwtv.com.br/noticia/tcdf-bloqueia-r-2-7-bilhoes-de-ex-dirigentes-do-brb-em-caso-envolvendo-o-banco-master>)
+- 📰 [Projeto de lei endurece punição para motorista que matar pedestre ou ciclista](<https://www.rcwtv.com.br/noticia/projeto-de-lei-endurece-punicao-para-motorista-que-matar-pedestre-ou-ciclista>)
+- 📰 [Polícia e MP realizam nova fase da Operação Carbono Oculto em São Paulo](<https://www.rcwtv.com.br/noticia/policia-e-mp-realizam-nova-fase-da-operacao-carbono-oculto-em-sao-paulo>)
+- 📰 [Comissão de Meio Ambiente debate os impactos do El Niño nesta quinta-feira](<https://www.rcwtv.com.br/noticia/comissao-de-meio-ambiente-debate-os-impactos-do-el-nino-nesta-quinta-feira>)
+- 📰 [Nadim Donato é eleito vice-presidente da CNC para o mandato até 2030](<https://www.rcwtv.com.br/noticia/nadim-donato-e-eleito-vice-presidente-da-cnc-para-o-mandato-ate-2030>)
+- 📰 [Eleições de 2026: saiba quem são os candidatos a governador no Pará](<https://www.rcwtv.com.br/noticia/eleicoes-de-2026-saiba-quem-sao-os-candidatos-a-governador-no-para>)
+- 📰 [Jovem denuncia tortura ordenada por facção em apartamento de Juiz de Fora](<https://www.rcwtv.com.br/noticia/jovem-denuncia-tortura-ordenada-por-faccao-em-apartamento-de-juiz-de-fora>)
+- 📰 [Eleições amapá: conheça os candidatos ao governo estadual](<https://www.rcwtv.com.br/noticia/eleicoes-amapa-conheca-os-candidatos-ao-governo-estadual>)
+- 📰 [Mega-Sena pode pagar prêmio acumulado de R$ 38 milhões nesta quinta-feira](<https://www.rcwtv.com.br/noticia/mega-sena-pode-pagar-premio-acumulado-de-r-38-milhoes-nesta-quinta-feira>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

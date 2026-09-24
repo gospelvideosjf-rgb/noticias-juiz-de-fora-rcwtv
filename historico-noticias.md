@@ -378,3 +378,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Coluna MG destaca impactos da guerra no Irã e notícias de municípios mineiros](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-impactos-da-guerra-no-ira-e-noticias-de-municipios-mineiros>) - *23/09/2026*
 - [Operação Déjà Vú cumpre mandados contra o tráfico de drogas na Zona da Mata e na Capital](<https://www.rcwtv.com.br/noticia/operacao-deja-vu-cumpre-mandados-contra-o-trafico-de-drogas-na-zona-da-mata-e-na-capital>) - *23/09/2026*
 
+### Atualização de 24/09/2026
+- [SAMU registra acidentes e ocorrências policiais em municípios da Zona da Mata e Campo das Vertentes](<https://www.rcwtv.com.br/noticia/samu-registra-acidentes-e-ocorrencias-policiais-em-municipios-da-zona-da-mata-e-campo-das-vertentes>) - *24/09/2026*
+- [TCDF bloqueia R$ 2,7 bilhões de ex-dirigentes do BRB em caso envolvendo o Banco Master](<https://www.rcwtv.com.br/noticia/tcdf-bloqueia-r-2-7-bilhoes-de-ex-dirigentes-do-brb-em-caso-envolvendo-o-banco-master>) - *24/09/2026*
+- [Projeto de lei endurece punição para motorista que matar pedestre ou ciclista](<https://www.rcwtv.com.br/noticia/projeto-de-lei-endurece-punicao-para-motorista-que-matar-pedestre-ou-ciclista>) - *24/09/2026*
+- [Polícia e MP realizam nova fase da Operação Carbono Oculto em São Paulo](<https://www.rcwtv.com.br/noticia/policia-e-mp-realizam-nova-fase-da-operacao-carbono-oculto-em-sao-paulo>) - *24/09/2026*
+- [Comissão de Meio Ambiente debate os impactos do El Niño nesta quinta-feira](<https://www.rcwtv.com.br/noticia/comissao-de-meio-ambiente-debate-os-impactos-do-el-nino-nesta-quinta-feira>) - *24/09/2026*
+- [Nadim Donato é eleito vice-presidente da CNC para o mandato até 2030](<https://www.rcwtv.com.br/noticia/nadim-donato-e-eleito-vice-presidente-da-cnc-para-o-mandato-ate-2030>) - *24/09/2026*
+- [Eleições de 2026: saiba quem são os candidatos a governador no Pará](<https://www.rcwtv.com.br/noticia/eleicoes-de-2026-saiba-quem-sao-os-candidatos-a-governador-no-para>) - *24/09/2026*
+- [Jovem denuncia tortura ordenada por facção em apartamento de Juiz de Fora](<https://www.rcwtv.com.br/noticia/jovem-denuncia-tortura-ordenada-por-faccao-em-apartamento-de-juiz-de-fora>) - *24/09/2026*
+- [Eleições amapá: conheça os candidatos ao governo estadual](<https://www.rcwtv.com.br/noticia/eleicoes-amapa-conheca-os-candidatos-ao-governo-estadual>) - *24/09/2026*
+- [Mega-Sena pode pagar prêmio acumulado de R$ 38 milhões nesta quinta-feira](<https://www.rcwtv.com.br/noticia/mega-sena-pode-pagar-premio-acumulado-de-r-38-milhoes-nesta-quinta-feira>) - *24/09/2026*
+
