@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Especialista alerta sobre impactos do El Niño e cobra ação urgente do governo](<https://www.rcwtv.com.br/noticia/especialista-alerta-sobre-impactos-do-el-nino-e-cobra-acao-urgente-do-governo>)
-- 📰 [Projeto de lei amplia vagas para mulheres em contratos públicos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-amplia-vagas-para-mulheres-em-contratos-publicos>)
-- 📰 [Pesquisa revela que saúde do brasileiro tem distorção entre percepção e hábitos](<https://www.rcwtv.com.br/noticia/pesquisa-revela-que-saude-do-brasileiro-tem-distorcao-entre-percepcao-e-habitos>)
-- 📰 [Como montar um cronograma de limpeza: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-montar-um-cronograma-de-limpeza-passo-a-passo-seguro-e-pratico>)
-- 📰 [Desafio de 30 dias para colocar a casa em ordem: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/desafio-de-30-dias-para-colocar-a-casa-em-ordem-passo-a-passo-seguro-e-pratico>)
-- 📰 [Rotina de organização em 15 minutos: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/rotina-de-organizacao-em-15-minutos-passo-a-passo-seguro-e-pratico>)
-- 📰 [Como fazer o descarte do que não é usado: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-fazer-o-descarte-do-que-nao-e-usado-passo-a-passo-seguro-e-pratico>)
-- 📰 [Como organizar brinquedos das crianças: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-organizar-brinquedos-das-criancas-passo-a-passo-seguro-e-pratico>)
-- 📰 [Como eram as aulas na época da lousa e do giz](<https://www.rcwtv.com.br/noticia/como-eram-as-aulas-na-epoca-da-lousa-e-do-giz>)
-- 📰 [A bicicleta como símbolo de liberdade](<https://www.rcwtv.com.br/noticia/a-bicicleta-como-simbolo-de-liberdade>)
+- 📰 [Mercado de multipropriedade atinge R$ 100 bilhões no Brasil; nos EUA, jovens respondem por 76% das novas compras](<https://www.rcwtv.com.br/noticia/mercado-de-multipropriedade-atinge-r-100-bilhoes-no-brasil-nos-eua-jovens-respondem-por-76-das-novas-compras>)
+- 📰 [Prévia da inflação oficial de setembro atinge 0,70% segundo o IBGE](<https://www.rcwtv.com.br/noticia/previa-da-inflacao-oficial-de-setembro-atinge-0-70-segundo-o-ibge>)
+- 📰 [Saúde mental no trabalho: André Mendonça suspende multas da NR-1 por 90 dias](<https://www.rcwtv.com.br/noticia/saude-mental-no-trabalho-andre-mendonca-suspende-multas-da-nr-1-por-90-dias>)
+- 📰 [Projeto de lei busca garantir direitos e proteção para mulheres ribeirinhas](<https://www.rcwtv.com.br/noticia/projeto-de-lei-busca-garantir-direitos-e-protecao-para-mulheres-ribeirinhas>)
+- 📰 [Anvisa proíbe lotes de remédio para esclerose múltipla](<https://www.rcwtv.com.br/noticia/anvisa-proibe-lotes-de-remedio-para-esclerose-multipla>)
+- 📰 [José Sarney é internado no Hospital Sírio-Libanês com pneumonia](<https://www.rcwtv.com.br/noticia/jose-sarney-e-internado-no-hospital-sirio-libanes-com-pneumonia>)
+- 📰 [Quem disputa as eleições no Rio Grande do Norte? Conheça os candidatos](<https://www.rcwtv.com.br/noticia/quem-disputa-as-eleicoes-no-rio-grande-do-norte-conheca-os-candidatos>)
+- 📰 [Conselho do MPF vota nesta sexta investigação sobre Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-vota-nesta-sexta-investigacao-sobre-paulo-gonet>)
+- 📰 [Conheça os seis candidatos que disputam o governo da Bahia nestas eleições](<https://www.rcwtv.com.br/noticia/conheca-os-seis-candidatos-que-disputam-o-governo-da-bahia-nestas-eleicoes>)
+- 📰 [Pão de queijo mineiro: receita caseira com sabor de tradição](<https://www.rcwtv.com.br/noticia/pao-de-queijo-mineiro-receita-caseira-com-sabor-de-tradicao>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

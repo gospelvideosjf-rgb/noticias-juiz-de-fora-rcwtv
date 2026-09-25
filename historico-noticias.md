@@ -402,3 +402,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Como eram as aulas na época da lousa e do giz](<https://www.rcwtv.com.br/noticia/como-eram-as-aulas-na-epoca-da-lousa-e-do-giz>) - *24/09/2026*
 - [A bicicleta como símbolo de liberdade](<https://www.rcwtv.com.br/noticia/a-bicicleta-como-simbolo-de-liberdade>) - *24/09/2026*
 
+### Atualização de 25/09/2026
+- [Mercado de multipropriedade atinge R$ 100 bilhões no Brasil; nos EUA, jovens respondem por 76% das novas compras](<https://www.rcwtv.com.br/noticia/mercado-de-multipropriedade-atinge-r-100-bilhoes-no-brasil-nos-eua-jovens-respondem-por-76-das-novas-compras>) - *25/09/2026*
+- [Prévia da inflação oficial de setembro atinge 0,70% segundo o IBGE](<https://www.rcwtv.com.br/noticia/previa-da-inflacao-oficial-de-setembro-atinge-0-70-segundo-o-ibge>) - *25/09/2026*
+- [Saúde mental no trabalho: André Mendonça suspende multas da NR-1 por 90 dias](<https://www.rcwtv.com.br/noticia/saude-mental-no-trabalho-andre-mendonca-suspende-multas-da-nr-1-por-90-dias>) - *25/09/2026*
+- [Projeto de lei busca garantir direitos e proteção para mulheres ribeirinhas](<https://www.rcwtv.com.br/noticia/projeto-de-lei-busca-garantir-direitos-e-protecao-para-mulheres-ribeirinhas>) - *25/09/2026*
+- [Anvisa proíbe lotes de remédio para esclerose múltipla](<https://www.rcwtv.com.br/noticia/anvisa-proibe-lotes-de-remedio-para-esclerose-multipla>) - *25/09/2026*
+- [José Sarney é internado no Hospital Sírio-Libanês com pneumonia](<https://www.rcwtv.com.br/noticia/jose-sarney-e-internado-no-hospital-sirio-libanes-com-pneumonia>) - *25/09/2026*
+- [Quem disputa as eleições no Rio Grande do Norte? Conheça os candidatos](<https://www.rcwtv.com.br/noticia/quem-disputa-as-eleicoes-no-rio-grande-do-norte-conheca-os-candidatos>) - *25/09/2026*
+- [Conselho do MPF vota nesta sexta investigação sobre Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-vota-nesta-sexta-investigacao-sobre-paulo-gonet>) - *25/09/2026*
+- [Conheça os seis candidatos que disputam o governo da Bahia nestas eleições](<https://www.rcwtv.com.br/noticia/conheca-os-seis-candidatos-que-disputam-o-governo-da-bahia-nestas-eleicoes>) - *25/09/2026*
+- [Pão de queijo mineiro: receita caseira com sabor de tradição](<https://www.rcwtv.com.br/noticia/pao-de-queijo-mineiro-receita-caseira-com-sabor-de-tradicao>) - *25/09/2026*
+
