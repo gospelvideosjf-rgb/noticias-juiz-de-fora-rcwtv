@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Mercado de multipropriedade atinge R$ 100 bilhões no Brasil; nos EUA, jovens respondem por 76% das novas compras](<https://www.rcwtv.com.br/noticia/mercado-de-multipropriedade-atinge-r-100-bilhoes-no-brasil-nos-eua-jovens-respondem-por-76-das-novas-compras>)
-- 📰 [Prévia da inflação oficial de setembro atinge 0,70% segundo o IBGE](<https://www.rcwtv.com.br/noticia/previa-da-inflacao-oficial-de-setembro-atinge-0-70-segundo-o-ibge>)
-- 📰 [Saúde mental no trabalho: André Mendonça suspende multas da NR-1 por 90 dias](<https://www.rcwtv.com.br/noticia/saude-mental-no-trabalho-andre-mendonca-suspende-multas-da-nr-1-por-90-dias>)
-- 📰 [Projeto de lei busca garantir direitos e proteção para mulheres ribeirinhas](<https://www.rcwtv.com.br/noticia/projeto-de-lei-busca-garantir-direitos-e-protecao-para-mulheres-ribeirinhas>)
-- 📰 [Anvisa proíbe lotes de remédio para esclerose múltipla](<https://www.rcwtv.com.br/noticia/anvisa-proibe-lotes-de-remedio-para-esclerose-multipla>)
-- 📰 [José Sarney é internado no Hospital Sírio-Libanês com pneumonia](<https://www.rcwtv.com.br/noticia/jose-sarney-e-internado-no-hospital-sirio-libanes-com-pneumonia>)
-- 📰 [Quem disputa as eleições no Rio Grande do Norte? Conheça os candidatos](<https://www.rcwtv.com.br/noticia/quem-disputa-as-eleicoes-no-rio-grande-do-norte-conheca-os-candidatos>)
-- 📰 [Conselho do MPF vota nesta sexta investigação sobre Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-vota-nesta-sexta-investigacao-sobre-paulo-gonet>)
-- 📰 [Conheça os seis candidatos que disputam o governo da Bahia nestas eleições](<https://www.rcwtv.com.br/noticia/conheca-os-seis-candidatos-que-disputam-o-governo-da-bahia-nestas-eleicoes>)
-- 📰 [Pão de queijo mineiro: receita caseira com sabor de tradição](<https://www.rcwtv.com.br/noticia/pao-de-queijo-mineiro-receita-caseira-com-sabor-de-tradicao>)
+- 📰 [Conselho do MPF rejeita investigação contra Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-rejeita-investigacao-contra-paulo-gonet>)
+- 📰 [Conta de luz volta a ter bandeira verde em outubro após cinco meses](<https://www.rcwtv.com.br/noticia/conta-de-luz-volta-a-ter-bandeira-verde-em-outubro-apos-cinco-meses>)
+- 📰 [Projeto garante vaga em escola integral para aluno com deficiência](<https://www.rcwtv.com.br/noticia/projeto-garante-vaga-em-escola-integral-para-aluno-com-deficiencia>)
+- 📰 [CSMPF forma maioria para manter Paulo Gonet no caso Banco Master](<https://www.rcwtv.com.br/noticia/csmpf-forma-maioria-para-manter-paulo-gonet-no-caso-banco-master>)
+- 📰 [Caixa libera novo lote do saque do PIS/Pasep para trabalhadores](<https://www.rcwtv.com.br/noticia/caixa-libera-novo-lote-do-saque-do-pis-pasep-para-trabalhadores>)
+- 📰 [Carteiras escolares feitas para durar décadas](<https://www.rcwtv.com.br/noticia/carteiras-escolares-feitas-para-durar-decadas>)
+- 📰 [Atropelamentos por trem deixam um morto e um ferido em Juiz de Fora](<https://www.rcwtv.com.br/noticia/bombeiros-atendem-dois-atropelamentos-por-trem-em-menos-de-uma-hora-em-juiz-de-fora-mulher-morre-na-vila-ideal>)
+- 📰 [Como fazer uma lista de compras que evita desperdício: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-fazer-uma-lista-de-compras-que-evita-desperdicio-passo-a-passo-seguro-e-pratico>)
+- 📰 [Como economizar gás de cozinha: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-economizar-gas-de-cozinha-passo-a-passo-seguro-e-pratico>)
+- 📰 [Caso Master: conselho do MPF tem três votos para manter Paulo Gonet](<https://www.rcwtv.com.br/noticia/caso-master-conselho-do-mpf-tem-tres-votos-para-manter-paulo-gonet>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

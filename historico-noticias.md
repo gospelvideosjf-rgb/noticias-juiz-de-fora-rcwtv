@@ -414,3 +414,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Conheça os seis candidatos que disputam o governo da Bahia nestas eleições](<https://www.rcwtv.com.br/noticia/conheca-os-seis-candidatos-que-disputam-o-governo-da-bahia-nestas-eleicoes>) - *25/09/2026*
 - [Pão de queijo mineiro: receita caseira com sabor de tradição](<https://www.rcwtv.com.br/noticia/pao-de-queijo-mineiro-receita-caseira-com-sabor-de-tradicao>) - *25/09/2026*
 
+### Atualização de 25/09/2026
+- [Conselho do MPF rejeita investigação contra Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-rejeita-investigacao-contra-paulo-gonet>) - *25/09/2026*
+- [Conta de luz volta a ter bandeira verde em outubro após cinco meses](<https://www.rcwtv.com.br/noticia/conta-de-luz-volta-a-ter-bandeira-verde-em-outubro-apos-cinco-meses>) - *25/09/2026*
+- [Projeto garante vaga em escola integral para aluno com deficiência](<https://www.rcwtv.com.br/noticia/projeto-garante-vaga-em-escola-integral-para-aluno-com-deficiencia>) - *25/09/2026*
+- [CSMPF forma maioria para manter Paulo Gonet no caso Banco Master](<https://www.rcwtv.com.br/noticia/csmpf-forma-maioria-para-manter-paulo-gonet-no-caso-banco-master>) - *25/09/2026*
+- [Caixa libera novo lote do saque do PIS/Pasep para trabalhadores](<https://www.rcwtv.com.br/noticia/caixa-libera-novo-lote-do-saque-do-pis-pasep-para-trabalhadores>) - *25/09/2026*
+- [Carteiras escolares feitas para durar décadas](<https://www.rcwtv.com.br/noticia/carteiras-escolares-feitas-para-durar-decadas>) - *25/09/2026*
+- [Atropelamentos por trem deixam um morto e um ferido em Juiz de Fora](<https://www.rcwtv.com.br/noticia/bombeiros-atendem-dois-atropelamentos-por-trem-em-menos-de-uma-hora-em-juiz-de-fora-mulher-morre-na-vila-ideal>) - *25/09/2026*
+- [Como fazer uma lista de compras que evita desperdício: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-fazer-uma-lista-de-compras-que-evita-desperdicio-passo-a-passo-seguro-e-pratico>) - *25/09/2026*
+- [Como economizar gás de cozinha: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-economizar-gas-de-cozinha-passo-a-passo-seguro-e-pratico>) - *25/09/2026*
+- [Caso Master: conselho do MPF tem três votos para manter Paulo Gonet](<https://www.rcwtv.com.br/noticia/caso-master-conselho-do-mpf-tem-tres-votos-para-manter-paulo-gonet>) - *25/09/2026*
+
