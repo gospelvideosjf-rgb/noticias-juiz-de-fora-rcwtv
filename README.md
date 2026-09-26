@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Conselho do MPF rejeita investigação contra Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-rejeita-investigacao-contra-paulo-gonet>)
+- 📰 [Governo federal promete bloqueio rigoroso para bets ilegais a partir de outubro](<https://www.rcwtv.com.br/noticia/governo-federal-promete-bloqueio-rigoroso-para-bets-ilegais-a-partir-de-outubro>)
+- 📰 [Agenda dos presidenciáveis destaca propostas e encontros nesta sexta-feira](<https://www.rcwtv.com.br/noticia/agenda-dos-presidenciaveis-destaca-propostas-e-encontros-nesta-sexta-feira>)
+- 📰 [Governo lança nova fase do Desenrola Brasil com compra de dívidas pela União](<https://www.rcwtv.com.br/noticia/governo-lanca-nova-fase-do-desenrola-brasil-com-compra-de-dividas-pela-uniao>)
+- 📰 [Governo fará busca ativa de jogadores após proibição de apostas on-line](<https://www.rcwtv.com.br/noticia/governo-fara-busca-ativa-de-jogadores-apos-proibicao-de-apostas-on-line>)
+- 📰 [Zanin determina investigação de fraude com inteligência artificial no STF](<https://www.rcwtv.com.br/noticia/zanin-determina-investigacao-de-fraude-com-inteligencia-artificial-no-stf>)
+- 📰 [Como conservar frutas e verduras por mais tempo](<https://www.rcwtv.com.br/noticia/como-conservar-frutas-e-verduras-por-mais-tempo>)
 - 📰 [Conta de luz volta a ter bandeira verde em outubro após cinco meses](<https://www.rcwtv.com.br/noticia/conta-de-luz-volta-a-ter-bandeira-verde-em-outubro-apos-cinco-meses>)
+- 📰 [Conselho do MPF rejeita investigação contra Paulo Gonet](<https://www.rcwtv.com.br/noticia/conselho-do-mpf-rejeita-investigacao-contra-paulo-gonet>)
 - 📰 [Projeto garante vaga em escola integral para aluno com deficiência](<https://www.rcwtv.com.br/noticia/projeto-garante-vaga-em-escola-integral-para-aluno-com-deficiencia>)
 - 📰 [CSMPF forma maioria para manter Paulo Gonet no caso Banco Master](<https://www.rcwtv.com.br/noticia/csmpf-forma-maioria-para-manter-paulo-gonet-no-caso-banco-master>)
-- 📰 [Caixa libera novo lote do saque do PIS/Pasep para trabalhadores](<https://www.rcwtv.com.br/noticia/caixa-libera-novo-lote-do-saque-do-pis-pasep-para-trabalhadores>)
-- 📰 [Carteiras escolares feitas para durar décadas](<https://www.rcwtv.com.br/noticia/carteiras-escolares-feitas-para-durar-decadas>)
-- 📰 [Atropelamentos por trem deixam um morto e um ferido em Juiz de Fora](<https://www.rcwtv.com.br/noticia/bombeiros-atendem-dois-atropelamentos-por-trem-em-menos-de-uma-hora-em-juiz-de-fora-mulher-morre-na-vila-ideal>)
-- 📰 [Como fazer uma lista de compras que evita desperdício: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-fazer-uma-lista-de-compras-que-evita-desperdicio-passo-a-passo-seguro-e-pratico>)
-- 📰 [Como economizar gás de cozinha: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-economizar-gas-de-cozinha-passo-a-passo-seguro-e-pratico>)
-- 📰 [Caso Master: conselho do MPF tem três votos para manter Paulo Gonet](<https://www.rcwtv.com.br/noticia/caso-master-conselho-do-mpf-tem-tres-votos-para-manter-paulo-gonet>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

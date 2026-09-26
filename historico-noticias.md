@@ -426,3 +426,11 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Como economizar gás de cozinha: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-economizar-gas-de-cozinha-passo-a-passo-seguro-e-pratico>) - *25/09/2026*
 - [Caso Master: conselho do MPF tem três votos para manter Paulo Gonet](<https://www.rcwtv.com.br/noticia/caso-master-conselho-do-mpf-tem-tres-votos-para-manter-paulo-gonet>) - *25/09/2026*
 
+### Atualização de 26/09/2026
+- [Governo federal promete bloqueio rigoroso para bets ilegais a partir de outubro](<https://www.rcwtv.com.br/noticia/governo-federal-promete-bloqueio-rigoroso-para-bets-ilegais-a-partir-de-outubro>) - *26/09/2026*
+- [Agenda dos presidenciáveis destaca propostas e encontros nesta sexta-feira](<https://www.rcwtv.com.br/noticia/agenda-dos-presidenciaveis-destaca-propostas-e-encontros-nesta-sexta-feira>) - *26/09/2026*
+- [Governo lança nova fase do Desenrola Brasil com compra de dívidas pela União](<https://www.rcwtv.com.br/noticia/governo-lanca-nova-fase-do-desenrola-brasil-com-compra-de-dividas-pela-uniao>) - *26/09/2026*
+- [Governo fará busca ativa de jogadores após proibição de apostas on-line](<https://www.rcwtv.com.br/noticia/governo-fara-busca-ativa-de-jogadores-apos-proibicao-de-apostas-on-line>) - *26/09/2026*
+- [Zanin determina investigação de fraude com inteligência artificial no STF](<https://www.rcwtv.com.br/noticia/zanin-determina-investigacao-de-fraude-com-inteligencia-artificial-no-stf>) - *26/09/2026*
+- [Como conservar frutas e verduras por mais tempo](<https://www.rcwtv.com.br/noticia/como-conservar-frutas-e-verduras-por-mais-tempo>) - *26/09/2026*
+
