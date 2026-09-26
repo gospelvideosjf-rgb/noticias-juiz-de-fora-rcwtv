@@ -434,3 +434,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Zanin determina investigação de fraude com inteligência artificial no STF](<https://www.rcwtv.com.br/noticia/zanin-determina-investigacao-de-fraude-com-inteligencia-artificial-no-stf>) - *26/09/2026*
 - [Como conservar frutas e verduras por mais tempo](<https://www.rcwtv.com.br/noticia/como-conservar-frutas-e-verduras-por-mais-tempo>) - *26/09/2026*
 
+### Atualização de 26/09/2026
+- [Saiba como utilizar o e-Título para votar nas eleições de 2026](<https://www.rcwtv.com.br/noticia/saiba-como-utilizar-o-e-titulo-para-votar-nas-eleicoes-de-2026>) - *26/09/2026*
+- [Quebra de caixa, uniforme, avaria: o que a empresa pode descontar do salário](<https://www.rcwtv.com.br/noticia/quebra-de-caixa-uniforme-avaria-o-que-a-empresa-pode-descontar-do-salario>) - *26/09/2026*
+- [Anatel alerta STF que liberar internet móvel na eleição pode colapsar redes](<https://www.rcwtv.com.br/noticia/anatel-alerta-stf-que-liberar-internet-movel-na-eleicao-pode-colapsar-redes>) - *26/09/2026*
+- [NFL no Brasil: Cowboys e Ravens se enfrentam neste domingo no Maracanã pela Semana 3 da liga](<https://www.rcwtv.com.br/noticia/nfl-no-brasil-cowboys-e-ravens-se-enfrentam-neste-domingo-no-maracana-pela-semana-3-da-liga>) - *26/09/2026*
+- [Como aproveitar sobras de comida com segurança: passo a passo seguro e prático](<https://www.rcwtv.com.br/noticia/como-aproveitar-sobras-de-comida-com-seguranca-passo-a-passo-seguro-e-pratico>) - *26/09/2026*
+- [Corrida dos Supermercados BH altera tráfego na Zona Norte de Juiz de Fora neste domingo](<https://www.rcwtv.com.br/noticia/corrida-dos-supermercados-bh-altera-trafego-na-zona-norte-de-juiz-de-fora-neste-domingo>) - *26/09/2026*
+- [Eleições 2026: saiba a ordem de votação e em quantos candidatos votar](<https://www.rcwtv.com.br/noticia/eleicoes-2026-saiba-a-ordem-de-votacao-e-em-quantos-candidatos-votar>) - *26/09/2026*
+- [Ministério da Fazenda garante subsídio ao óleo diesel em portaria](<https://www.rcwtv.com.br/noticia/ministerio-da-fazenda-garante-subsidio-ao-oleo-diesel-em-portaria>) - *26/09/2026*
+- [STF condena Eduardo Bolsonaro por difamação contra Tabata Amaral](<https://www.rcwtv.com.br/noticia/stf-condena-eduardo-bolsonaro-por-difamacao-contra-tabata-amaral>) - *26/09/2026*
+- [Rede Sindijori MG destaca propostas da Fecomércio e novidades no estado](<https://www.rcwtv.com.br/noticia/rede-sindijori-mg-destaca-propostas-da-fecomercio-e-novidades-no-estado>) - *26/09/2026*
+
