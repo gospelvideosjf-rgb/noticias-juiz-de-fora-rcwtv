@@ -452,3 +452,9 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Roupa Nova leva sucessos de mais de quatro décadas ao palco do Terrazzo, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/roupa-nova-leva-sucessos-de-mais-de-quatro-decadas-ao-palco-do-terrazzo-em-juiz-de-fora>) - *27/09/2026*
 - [TSE alerta eleitores para consultar o local de votação com antecedência](<https://www.rcwtv.com.br/noticia/tse-alerta-eleitores-para-consultar-o-local-de-votacao-com-antecedencia>) - *27/09/2026*
 
+### Atualização de 27/09/2026
+- [Veja como foi a agenda de rua dos candidatos à presidência no fim de semana](<https://www.rcwtv.com.br/noticia/veja-como-foi-a-agenda-de-rua-dos-candidatos-a-presidencia-no-fim-de-semana>) - *27/09/2026*
+- [Flávio Dino anula decisão de André Mendonça e libera post sobre Nossa Senhora](<https://www.rcwtv.com.br/noticia/flavio-dino-anula-decisao-de-andre-mendonca-e-libera-post-sobre-nossa-senhora>) - *27/09/2026*
+- [Como as bets causaram endividamento e crise de saúde pública no Brasil](<https://www.rcwtv.com.br/noticia/como-as-bets-causaram-endividamento-e-crise-de-saude-publica-no-brasil>) - *27/09/2026*
+- [Mega-Sena acumulada chega a R$ 52 milhões; confira as dezenas sorteadas](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-chega-a-r-52-milhoes-confira-as-dezenas-sorteadas>) - *27/09/2026*
+
