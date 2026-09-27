@@ -446,3 +446,9 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [STF condena Eduardo Bolsonaro por difamação contra Tabata Amaral](<https://www.rcwtv.com.br/noticia/stf-condena-eduardo-bolsonaro-por-difamacao-contra-tabata-amaral>) - *26/09/2026*
 - [Rede Sindijori MG destaca propostas da Fecomércio e novidades no estado](<https://www.rcwtv.com.br/noticia/rede-sindijori-mg-destaca-propostas-da-fecomercio-e-novidades-no-estado>) - *26/09/2026*
 
+### Atualização de 27/09/2026
+- [Eleições 2026: conheça os candidatos ao governo do Rio de Janeiro](<https://www.rcwtv.com.br/noticia/eleicoes-2026-conheca-os-candidatos-ao-governo-do-rio-de-janeiro>) - *27/09/2026*
+- [Eleições em Minas Gerais: conheça os 11 candidatos ao governo do estado](<https://www.rcwtv.com.br/noticia/eleicoes-em-minas-gerais-conheca-os-11-candidatos-ao-governo-do-estado>) - *27/09/2026*
+- [Roupa Nova leva sucessos de mais de quatro décadas ao palco do Terrazzo, em Juiz de Fora](<https://www.rcwtv.com.br/noticia/roupa-nova-leva-sucessos-de-mais-de-quatro-decadas-ao-palco-do-terrazzo-em-juiz-de-fora>) - *27/09/2026*
+- [TSE alerta eleitores para consultar o local de votação com antecedência](<https://www.rcwtv.com.br/noticia/tse-alerta-eleitores-para-consultar-o-local-de-votacao-com-antecedencia>) - *27/09/2026*
+
