@@ -458,3 +458,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Como as bets causaram endividamento e crise de saúde pública no Brasil](<https://www.rcwtv.com.br/noticia/como-as-bets-causaram-endividamento-e-crise-de-saude-publica-no-brasil>) - *27/09/2026*
 - [Mega-Sena acumulada chega a R$ 52 milhões; confira as dezenas sorteadas](<https://www.rcwtv.com.br/noticia/mega-sena-acumulada-chega-a-r-52-milhoes-confira-as-dezenas-sorteadas>) - *27/09/2026*
 
+### Atualização de 28/09/2026
+- [Câmara promove roda de conversa gratuita sobre envelhecimento ativo em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-promove-roda-de-conversa-gratuita-sobre-envelhecimento-ativo-em-juiz-de-fora>) - *28/09/2026*
+- [Cataguases recebe fórum sobre formação e mercado de trabalho para artistas](<https://www.rcwtv.com.br/noticia/cataguases-recebe-forum-sobre-formacao-e-mercado-de-trabalho-para-artistas>) - *28/09/2026*
+- [Museu Mariano Procópio promove nova edição de visitação noturna guiada com lanternas](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-promove-nova-edicao-de-visitacao-noturna-guiada-com-lanternas>) - *28/09/2026*
+- [Cesama realiza obra na terça-feira e pode afetar abastecimento nas regiões Leste e Centro](<https://www.rcwtv.com.br/noticia/cesama-realiza-obra-na-terca-feira-e-pode-afetar-abastecimento-nas-regioes-leste-e-centro>) - *28/09/2026*
+- [Juiz de Fora lança projeto "Caminhos da Produção" para impulsionar turismo no campo](<https://www.rcwtv.com.br/noticia/juiz-de-fora-lanca-projeto-caminhos-da-producao-para-impulsionar-turismo-no-campo>) - *28/09/2026*
+- [Associações de bets acionam o STF contra medida provisória que proíbe apostas](<https://www.rcwtv.com.br/noticia/associacoes-de-bets-acionam-o-stf-contra-medida-provisoria-que-proibe-apostas>) - *28/09/2026*
+- [Déficit em transações correntes atinge US$ 5,1 bilhões em agosto](<https://www.rcwtv.com.br/noticia/deficit-em-transacoes-correntes-atinge-us-5-1-bilhoes-em-agosto>) - *28/09/2026*
+- [Polícia Federal prende candidato após depredação de patrimônio na UnB](<https://www.rcwtv.com.br/noticia/policia-federal-prende-candidato-apos-depredacao-de-patrimonio-na-unb>) - *28/09/2026*
+- [Demanda global impulsiona biodiesel em Montes Claros com novos investimentos](<https://www.rcwtv.com.br/noticia/demanda-global-impulsiona-biodiesel-em-montes-claros-com-novos-investimentos>) - *28/09/2026*
+- [FIEMG Regional oferece curso de planejamento da produção em Juiz de Fora](<https://www.rcwtv.com.br/noticia/fiemg-regional-oferece-curso-de-planejamento-da-producao-em-juiz-de-fora>) - *28/09/2026*
+
