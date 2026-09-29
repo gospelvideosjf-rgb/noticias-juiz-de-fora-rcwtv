@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [FIEMG Regional Zona da Mata realiza seminário sobre NR-1 e saúde mental nas empresas em Barbacena](<https://www.rcwtv.com.br/noticia/fiemg-regional-zona-da-mata-realiza-seminario-sobre-nr-1-e-saude-mental-nas-empresas-em-barbacena>)
-- 📰 [CNBB nega envolvimento em fake news sobre Nossa Senhora Aparecida](<https://www.rcwtv.com.br/noticia/cnbb-nega-envolvimento-em-fake-news-sobre-nossa-senhora-aparecida>)
-- 📰 [AGU pede prazo de 72 horas ao STF para se manifestar sobre liberação de bets](<https://www.rcwtv.com.br/noticia/agu-pede-prazo-de-72-horas-ao-stf-para-se-manifestar-sobre-liberacao-de-bets>)
-- 📰 [Feira da Construção Civil da Zona da Mata reúne inovação, tecnologia e negócios em Juiz de Fora](<https://www.rcwtv.com.br/noticia/feira-da-construcao-civil-da-zona-da-mata-reune-inovacao-tecnologia-e-negocios-em-juiz-de-fora>)
-- 📰 [Como eram os uniformes escolares antigos](<https://www.rcwtv.com.br/noticia/como-eram-os-uniformes-escolares-antigos>)
-- 📰 [Projetos de lei propõem abrigo seguro em emergências e selo de acessibilidade em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projetos-de-lei-propoem-abrigo-seguro-em-emergencias-e-selo-de-acessibilidade-em-juiz-de-fora>)
-- 📰 [Campanha de Popularização do Teatro e da Dança vira Patrimônio Imaterial de Juiz de Fora](<https://www.rcwtv.com.br/noticia/campanha-de-popularizacao-do-teatro-e-da-danca-vira-patrimonio-imaterial-de-juiz-de-fora>)
-- 📰 [Lancheiras antigas e o recreio de outros tempos: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/lancheiras-antigas-e-o-recreio-de-outros-tempos-historia-lembrancas-e-curiosidades>)
-- 📰 [A história da merenda escolar no Brasil: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-historia-da-merenda-escolar-no-brasil-historia-lembrancas-e-curiosidades>)
-- 📰 [Supremo Tribunal Federal deve identificar magistrados citados no caso Banco Master](<https://www.rcwtv.com.br/noticia/supremo-tribunal-federal-deve-identificar-magistrados-citados-no-caso-banco-master>)
+- 📰 [Com 94,5% dos galpões logísticos de alto padrão ocupados, complexo logístico em SC avança para segunda etapa](<https://www.rcwtv.com.br/noticia/com-94-5-dos-galpoes-logisticos-de-alto-padrao-ocupados-complexo-logistico-em-sc-avanca-para-segunda-etapa>)
+- 📰 [Nunes Marques cobra tribunais para garantir transporte gratuito nas eleições](<https://www.rcwtv.com.br/noticia/nunes-marques-cobra-tribunais-para-garantir-transporte-gratuito-nas-eleicoes>)
+- 📰 [Guia completo sobre voto em trânsito e justificativa para as eleições 2026](<https://www.rcwtv.com.br/noticia/guia-completo-sobre-voto-em-transito-e-justificativa-para-as-eleicoes-2026>)
+- 📰 [Destaques nas notícias de Minas Gerais incluem infraestrutura e saúde municipal](<https://www.rcwtv.com.br/noticia/destaques-nas-noticias-de-minas-gerais-incluem-infraestrutura-e-saude-municipal>)
+- 📰 [Juros para famílias avançam em agosto e taxa de inadimplência atinge 6%](<https://www.rcwtv.com.br/noticia/juros-para-familias-avancam-em-agosto-e-taxa-de-inadimplencia-atinge-6>)
+- 📰 [Taxa de desemprego atinge menor patamar para o trimestre encerrado em agosto](<https://www.rcwtv.com.br/noticia/taxa-de-desemprego-atinge-menor-patamar-para-o-trimestre-encerrado-em-agosto>)
+- 📰 [Luiz Fux suspende despacho de Dino sobre posts contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/luiz-fux-suspende-despacho-de-dino-sobre-posts-contra-flavio-bolsonaro>)
+- 📰 [Tribunal Superior do Trabalho julga dissídio da caixa nesta terça-feira](<https://www.rcwtv.com.br/noticia/tribunal-superior-do-trabalho-julga-dissidio-da-caixa-nesta-terca-feira>)
+- 📰 [Mega-Sena realiza sorteio de prêmio estimado em R$ 52 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/mega-sena-realiza-sorteio-de-premio-estimado-em-r-52-milhoes-nesta-terca-feira>)
+- 📰 [MPMG processa prefeito de Santa Bárbara do Tugúrio por supostas irregularidades em contratos](<https://www.rcwtv.com.br/noticia/mpmg-processa-prefeito-de-santa-barbara-do-tugurio-por-supostas-irregularidades-em-contratos>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

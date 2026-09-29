@@ -482,3 +482,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [A história da merenda escolar no Brasil: história, lembranças e curiosidades](<https://www.rcwtv.com.br/noticia/a-historia-da-merenda-escolar-no-brasil-historia-lembrancas-e-curiosidades>) - *29/09/2026*
 - [Supremo Tribunal Federal deve identificar magistrados citados no caso Banco Master](<https://www.rcwtv.com.br/noticia/supremo-tribunal-federal-deve-identificar-magistrados-citados-no-caso-banco-master>) - *29/09/2026*
 
+### Atualização de 29/09/2026
+- [Com 94,5% dos galpões logísticos de alto padrão ocupados, complexo logístico em SC avança para segunda etapa](<https://www.rcwtv.com.br/noticia/com-94-5-dos-galpoes-logisticos-de-alto-padrao-ocupados-complexo-logistico-em-sc-avanca-para-segunda-etapa>) - *29/09/2026*
+- [Nunes Marques cobra tribunais para garantir transporte gratuito nas eleições](<https://www.rcwtv.com.br/noticia/nunes-marques-cobra-tribunais-para-garantir-transporte-gratuito-nas-eleicoes>) - *29/09/2026*
+- [Guia completo sobre voto em trânsito e justificativa para as eleições 2026](<https://www.rcwtv.com.br/noticia/guia-completo-sobre-voto-em-transito-e-justificativa-para-as-eleicoes-2026>) - *29/09/2026*
+- [Destaques nas notícias de Minas Gerais incluem infraestrutura e saúde municipal](<https://www.rcwtv.com.br/noticia/destaques-nas-noticias-de-minas-gerais-incluem-infraestrutura-e-saude-municipal>) - *29/09/2026*
+- [Juros para famílias avançam em agosto e taxa de inadimplência atinge 6%](<https://www.rcwtv.com.br/noticia/juros-para-familias-avancam-em-agosto-e-taxa-de-inadimplencia-atinge-6>) - *29/09/2026*
+- [Taxa de desemprego atinge menor patamar para o trimestre encerrado em agosto](<https://www.rcwtv.com.br/noticia/taxa-de-desemprego-atinge-menor-patamar-para-o-trimestre-encerrado-em-agosto>) - *29/09/2026*
+- [Luiz Fux suspende despacho de Dino sobre posts contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/luiz-fux-suspende-despacho-de-dino-sobre-posts-contra-flavio-bolsonaro>) - *29/09/2026*
+- [Tribunal Superior do Trabalho julga dissídio da caixa nesta terça-feira](<https://www.rcwtv.com.br/noticia/tribunal-superior-do-trabalho-julga-dissidio-da-caixa-nesta-terca-feira>) - *29/09/2026*
+- [Mega-Sena realiza sorteio de prêmio estimado em R$ 52 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/mega-sena-realiza-sorteio-de-premio-estimado-em-r-52-milhoes-nesta-terca-feira>) - *29/09/2026*
+- [MPMG processa prefeito de Santa Bárbara do Tugúrio por supostas irregularidades em contratos](<https://www.rcwtv.com.br/noticia/mpmg-processa-prefeito-de-santa-barbara-do-tugurio-por-supostas-irregularidades-em-contratos>) - *29/09/2026*
+
