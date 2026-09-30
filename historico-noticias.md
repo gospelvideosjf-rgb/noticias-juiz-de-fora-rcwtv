@@ -506,3 +506,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Sapo do litoral do Espírito Santo entra para a ciência como criticamente ameaçado](<https://www.rcwtv.com.br/noticia/sapo-do-litoral-do-espirito-santo-entra-para-a-ciencia-como-criticamente-ameacado>) - *30/09/2026*
 - [Vírus capaz de destruir a bactéria do cancro cítrico é identificado no interior de São Paulo](<https://www.rcwtv.com.br/noticia/virus-capaz-de-destruir-a-bacteria-do-cancro-citrico-e-identificado-no-interior-de-sao-paulo>) - *30/09/2026*
 
+### Atualização de 30/09/2026
+- [Obras da Cesama e manutenção elétrica podem afetar abastecimento em bairros de Juiz de Fora nesta quinta](<https://www.rcwtv.com.br/noticia/obras-da-cesama-e-manutencao-eletrica-podem-afetar-abastecimento-em-bairros-de-juiz-de-fora-nesta-quinta>) - *30/09/2026*
+- [Usiminas confirma novo investimento em Ipatinga](<https://www.rcwtv.com.br/noticia/usiminas-confirma-novo-investimento-em-ipatinga>) - *30/09/2026*
+- [Plenário do TSE inicia julgamento sobre fake news envolvendo Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/plenario-do-tse-inicia-julgamento-sobre-fake-news-envolvendo-flavio-bolsonaro>) - *30/09/2026*
+- [Frente de prefeitos cobra nova relação federativa de presidenciáveis](<https://www.rcwtv.com.br/noticia/frente-de-prefeitos-cobra-nova-relacao-federativa-de-presidenciaveis>) - *30/09/2026*
+- [Corrida pelos carros elétricos pressiona redes prediais e traz novo padrão à engenharia preventiva](<https://www.rcwtv.com.br/noticia/corrida-pelos-carros-eletricos-pressiona-redes-prediais-e-traz-novo-padrao-a-engenharia-preventiva>) - *30/09/2026*
+- [Contas públicas registram déficit primário de R$ 10 bilhões em agosto](<https://www.rcwtv.com.br/noticia/contas-publicas-registram-deficit-primario-de-r-10-bilhoes-em-agosto>) - *30/09/2026*
+- [Anvisa aprova novo remédio para esquistossomose em crianças](<https://www.rcwtv.com.br/noticia/anvisa-aprova-novo-remedio-para-esquistossomose-em-criancas>) - *30/09/2026*
+- [Produção de leite bate recorde no Brasil mesmo com menos vacas ordenhadas](<https://www.rcwtv.com.br/noticia/producao-de-leite-bate-recorde-no-brasil-mesmo-com-menos-vacas-ordenhadas>) - *30/09/2026*
+- [Três homens são atendidos pelo SAMU após tiros e acidente na Zona da Mata](<https://www.rcwtv.com.br/noticia/tres-homens-sao-atendidos-pelo-samu-apos-tiros-e-acidente-na-zona-da-mata>) - *30/09/2026*
+- [Produção de café em Minas deve crescer 32,5% e abrir espaço para novos consumidores](<https://www.rcwtv.com.br/noticia/producao-de-cafe-em-minas-deve-crescer-32-5-e-abrir-espaco-para-novos-consumidores>) - *30/09/2026*
+

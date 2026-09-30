@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Transações com Pix recuam 10% após restrição a apostas esportivas](<https://www.rcwtv.com.br/noticia/transacoes-com-pix-recuam-10-apos-restricao-a-apostas-esportivas>)
-- 📰 [Baixa vacinação em gestantes aumenta riscos para mães e bebês no Brasil](<https://www.rcwtv.com.br/noticia/baixa-vacinacao-em-gestantes-aumenta-riscos-para-maes-e-bebes-no-brasil>)
-- 📰 [Governo federal pede a derrubada de milhares de sites de apostas ilegais](<https://www.rcwtv.com.br/noticia/governo-federal-pede-a-derrubada-de-milhares-de-sites-de-apostas-ilegais>)
-- 📰 [Investimento por aluno no Brasil atinge apenas um terço da média da OCDE](<https://www.rcwtv.com.br/noticia/investimento-por-aluno-no-brasil-atinge-apenas-um-terco-da-media-da-ocde>)
-- 📰 [Rede Legislativa realiza cobertura completa das eleições em tempo integral](<https://www.rcwtv.com.br/noticia/rede-legislativa-realiza-cobertura-completa-das-eleicoes-em-tempo-integral>)
-- 📰 [Ato político-eleitoral altera trânsito e itinerários de ônibus no Centro de Juiz de Fora nesta quarta-feira](<https://www.rcwtv.com.br/noticia/ato-politico-eleitoral-altera-transito-e-itinerarios-de-onibus-no-centro-de-juiz-de-fora-nesta-quarta-feira>)
-- 📰 [O pilão e o preparo dos alimentos](<https://www.rcwtv.com.br/noticia/o-pilao-e-o-preparo-dos-alimentos>)
-- 📰 [Como funcionava o forno de barro](<https://www.rcwtv.com.br/noticia/como-funcionava-o-forno-de-barro>)
-- 📰 [Sapo do litoral do Espírito Santo entra para a ciência como criticamente ameaçado](<https://www.rcwtv.com.br/noticia/sapo-do-litoral-do-espirito-santo-entra-para-a-ciencia-como-criticamente-ameacado>)
-- 📰 [Vírus capaz de destruir a bactéria do cancro cítrico é identificado no interior de São Paulo](<https://www.rcwtv.com.br/noticia/virus-capaz-de-destruir-a-bacteria-do-cancro-citrico-e-identificado-no-interior-de-sao-paulo>)
+- 📰 [Obras da Cesama e manutenção elétrica podem afetar abastecimento em bairros de Juiz de Fora nesta quinta](<https://www.rcwtv.com.br/noticia/obras-da-cesama-e-manutencao-eletrica-podem-afetar-abastecimento-em-bairros-de-juiz-de-fora-nesta-quinta>)
+- 📰 [Usiminas confirma novo investimento em Ipatinga](<https://www.rcwtv.com.br/noticia/usiminas-confirma-novo-investimento-em-ipatinga>)
+- 📰 [Plenário do TSE inicia julgamento sobre fake news envolvendo Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/plenario-do-tse-inicia-julgamento-sobre-fake-news-envolvendo-flavio-bolsonaro>)
+- 📰 [Frente de prefeitos cobra nova relação federativa de presidenciáveis](<https://www.rcwtv.com.br/noticia/frente-de-prefeitos-cobra-nova-relacao-federativa-de-presidenciaveis>)
+- 📰 [Corrida pelos carros elétricos pressiona redes prediais e traz novo padrão à engenharia preventiva](<https://www.rcwtv.com.br/noticia/corrida-pelos-carros-eletricos-pressiona-redes-prediais-e-traz-novo-padrao-a-engenharia-preventiva>)
+- 📰 [Contas públicas registram déficit primário de R$ 10 bilhões em agosto](<https://www.rcwtv.com.br/noticia/contas-publicas-registram-deficit-primario-de-r-10-bilhoes-em-agosto>)
+- 📰 [Anvisa aprova novo remédio para esquistossomose em crianças](<https://www.rcwtv.com.br/noticia/anvisa-aprova-novo-remedio-para-esquistossomose-em-criancas>)
+- 📰 [Produção de leite bate recorde no Brasil mesmo com menos vacas ordenhadas](<https://www.rcwtv.com.br/noticia/producao-de-leite-bate-recorde-no-brasil-mesmo-com-menos-vacas-ordenhadas>)
+- 📰 [Três homens são atendidos pelo SAMU após tiros e acidente na Zona da Mata](<https://www.rcwtv.com.br/noticia/tres-homens-sao-atendidos-pelo-samu-apos-tiros-e-acidente-na-zona-da-mata>)
+- 📰 [Produção de café em Minas deve crescer 32,5% e abrir espaço para novos consumidores](<https://www.rcwtv.com.br/noticia/producao-de-cafe-em-minas-deve-crescer-32-5-e-abrir-espaco-para-novos-consumidores>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
