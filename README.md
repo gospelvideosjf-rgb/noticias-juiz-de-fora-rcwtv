@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Com 94,5% dos galpões logísticos de alto padrão ocupados, complexo logístico em SC avança para segunda etapa](<https://www.rcwtv.com.br/noticia/com-94-5-dos-galpoes-logisticos-de-alto-padrao-ocupados-complexo-logistico-em-sc-avanca-para-segunda-etapa>)
-- 📰 [Nunes Marques cobra tribunais para garantir transporte gratuito nas eleições](<https://www.rcwtv.com.br/noticia/nunes-marques-cobra-tribunais-para-garantir-transporte-gratuito-nas-eleicoes>)
-- 📰 [Guia completo sobre voto em trânsito e justificativa para as eleições 2026](<https://www.rcwtv.com.br/noticia/guia-completo-sobre-voto-em-transito-e-justificativa-para-as-eleicoes-2026>)
-- 📰 [Destaques nas notícias de Minas Gerais incluem infraestrutura e saúde municipal](<https://www.rcwtv.com.br/noticia/destaques-nas-noticias-de-minas-gerais-incluem-infraestrutura-e-saude-municipal>)
-- 📰 [Juros para famílias avançam em agosto e taxa de inadimplência atinge 6%](<https://www.rcwtv.com.br/noticia/juros-para-familias-avancam-em-agosto-e-taxa-de-inadimplencia-atinge-6>)
-- 📰 [Taxa de desemprego atinge menor patamar para o trimestre encerrado em agosto](<https://www.rcwtv.com.br/noticia/taxa-de-desemprego-atinge-menor-patamar-para-o-trimestre-encerrado-em-agosto>)
-- 📰 [Luiz Fux suspende despacho de Dino sobre posts contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/luiz-fux-suspende-despacho-de-dino-sobre-posts-contra-flavio-bolsonaro>)
-- 📰 [Tribunal Superior do Trabalho julga dissídio da caixa nesta terça-feira](<https://www.rcwtv.com.br/noticia/tribunal-superior-do-trabalho-julga-dissidio-da-caixa-nesta-terca-feira>)
-- 📰 [Mega-Sena realiza sorteio de prêmio estimado em R$ 52 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/mega-sena-realiza-sorteio-de-premio-estimado-em-r-52-milhoes-nesta-terca-feira>)
-- 📰 [MPMG processa prefeito de Santa Bárbara do Tugúrio por supostas irregularidades em contratos](<https://www.rcwtv.com.br/noticia/mpmg-processa-prefeito-de-santa-barbara-do-tugurio-por-supostas-irregularidades-em-contratos>)
+- 📰 [Transações com Pix recuam 10% após restrição a apostas esportivas](<https://www.rcwtv.com.br/noticia/transacoes-com-pix-recuam-10-apos-restricao-a-apostas-esportivas>)
+- 📰 [Baixa vacinação em gestantes aumenta riscos para mães e bebês no Brasil](<https://www.rcwtv.com.br/noticia/baixa-vacinacao-em-gestantes-aumenta-riscos-para-maes-e-bebes-no-brasil>)
+- 📰 [Governo federal pede a derrubada de milhares de sites de apostas ilegais](<https://www.rcwtv.com.br/noticia/governo-federal-pede-a-derrubada-de-milhares-de-sites-de-apostas-ilegais>)
+- 📰 [Investimento por aluno no Brasil atinge apenas um terço da média da OCDE](<https://www.rcwtv.com.br/noticia/investimento-por-aluno-no-brasil-atinge-apenas-um-terco-da-media-da-ocde>)
+- 📰 [Rede Legislativa realiza cobertura completa das eleições em tempo integral](<https://www.rcwtv.com.br/noticia/rede-legislativa-realiza-cobertura-completa-das-eleicoes-em-tempo-integral>)
+- 📰 [Ato político-eleitoral altera trânsito e itinerários de ônibus no Centro de Juiz de Fora nesta quarta-feira](<https://www.rcwtv.com.br/noticia/ato-politico-eleitoral-altera-transito-e-itinerarios-de-onibus-no-centro-de-juiz-de-fora-nesta-quarta-feira>)
+- 📰 [O pilão e o preparo dos alimentos](<https://www.rcwtv.com.br/noticia/o-pilao-e-o-preparo-dos-alimentos>)
+- 📰 [Como funcionava o forno de barro](<https://www.rcwtv.com.br/noticia/como-funcionava-o-forno-de-barro>)
+- 📰 [Sapo do litoral do Espírito Santo entra para a ciência como criticamente ameaçado](<https://www.rcwtv.com.br/noticia/sapo-do-litoral-do-espirito-santo-entra-para-a-ciencia-como-criticamente-ameacado>)
+- 📰 [Vírus capaz de destruir a bactéria do cancro cítrico é identificado no interior de São Paulo](<https://www.rcwtv.com.br/noticia/virus-capaz-de-destruir-a-bacteria-do-cancro-citrico-e-identificado-no-interior-de-sao-paulo>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

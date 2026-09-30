@@ -494,3 +494,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Mega-Sena realiza sorteio de prêmio estimado em R$ 52 milhões nesta terça-feira](<https://www.rcwtv.com.br/noticia/mega-sena-realiza-sorteio-de-premio-estimado-em-r-52-milhoes-nesta-terca-feira>) - *29/09/2026*
 - [MPMG processa prefeito de Santa Bárbara do Tugúrio por supostas irregularidades em contratos](<https://www.rcwtv.com.br/noticia/mpmg-processa-prefeito-de-santa-barbara-do-tugurio-por-supostas-irregularidades-em-contratos>) - *29/09/2026*
 
+### Atualização de 30/09/2026
+- [Transações com Pix recuam 10% após restrição a apostas esportivas](<https://www.rcwtv.com.br/noticia/transacoes-com-pix-recuam-10-apos-restricao-a-apostas-esportivas>) - *30/09/2026*
+- [Baixa vacinação em gestantes aumenta riscos para mães e bebês no Brasil](<https://www.rcwtv.com.br/noticia/baixa-vacinacao-em-gestantes-aumenta-riscos-para-maes-e-bebes-no-brasil>) - *30/09/2026*
+- [Governo federal pede a derrubada de milhares de sites de apostas ilegais](<https://www.rcwtv.com.br/noticia/governo-federal-pede-a-derrubada-de-milhares-de-sites-de-apostas-ilegais>) - *30/09/2026*
+- [Investimento por aluno no Brasil atinge apenas um terço da média da OCDE](<https://www.rcwtv.com.br/noticia/investimento-por-aluno-no-brasil-atinge-apenas-um-terco-da-media-da-ocde>) - *30/09/2026*
+- [Rede Legislativa realiza cobertura completa das eleições em tempo integral](<https://www.rcwtv.com.br/noticia/rede-legislativa-realiza-cobertura-completa-das-eleicoes-em-tempo-integral>) - *30/09/2026*
+- [Ato político-eleitoral altera trânsito e itinerários de ônibus no Centro de Juiz de Fora nesta quarta-feira](<https://www.rcwtv.com.br/noticia/ato-politico-eleitoral-altera-transito-e-itinerarios-de-onibus-no-centro-de-juiz-de-fora-nesta-quarta-feira>) - *30/09/2026*
+- [O pilão e o preparo dos alimentos](<https://www.rcwtv.com.br/noticia/o-pilao-e-o-preparo-dos-alimentos>) - *30/09/2026*
+- [Como funcionava o forno de barro](<https://www.rcwtv.com.br/noticia/como-funcionava-o-forno-de-barro>) - *30/09/2026*
+- [Sapo do litoral do Espírito Santo entra para a ciência como criticamente ameaçado](<https://www.rcwtv.com.br/noticia/sapo-do-litoral-do-espirito-santo-entra-para-a-ciencia-como-criticamente-ameacado>) - *30/09/2026*
+- [Vírus capaz de destruir a bactéria do cancro cítrico é identificado no interior de São Paulo](<https://www.rcwtv.com.br/noticia/virus-capaz-de-destruir-a-bacteria-do-cancro-citrico-e-identificado-no-interior-de-sao-paulo>) - *30/09/2026*
+
