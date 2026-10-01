@@ -530,3 +530,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Juiz de Fora sanciona lei que regulamenta serviços e terapias assistidas por animais](<https://www.rcwtv.com.br/noticia/juiz-de-fora-sanciona-lei-que-regulamenta-servicos-e-terapias-assistidas-por-animais>) - *01/10/2026*
 - [Leandro Dias recebe homenagem da Liga de Malha de Juiz de Fora por divulgação do esporte regional](<https://www.rcwtv.com.br/noticia/leandro-dias-recebeu-homenagem-da-liga-de-malha-de-juiz-de-fora-por-divulgacao-do-esporte-regional>) - *01/10/2026*
 
+### Atualização de 01/10/2026
+- [Expansão urbana causa colapso ecológico em riachos da Região Metropolitana de São Paulo](<https://www.rcwtv.com.br/noticia/expansao-urbana-causa-colapso-ecologico-em-riachos-da-regiao-metropolitana-de-sao-paulo>) - *01/10/2026*
+- [Nova ferramenta de IA prevê rota e intensidade de tempestades em curtíssimo prazo](<https://www.rcwtv.com.br/noticia/nova-ferramenta-de-ia-preve-rota-e-intensidade-de-tempestades-em-curtissimo-prazo>) - *01/10/2026*
+- [Coluna MG traz destaques e novidades dos municípios mineiros](<https://www.rcwtv.com.br/noticia/coluna-mg-traz-destaques-e-novidades-dos-municipios-mineiros>) - *01/10/2026*
+- [Capotamento deixa mulher em estado gravíssimo e outras quatro pessoas são socorridas pelo SAMU na Zona da Mata](<https://www.rcwtv.com.br/noticia/capotamento-deixa-mulher-em-estado-gravissimo-e-outras-quatro-pessoas-sao-socorridas-pelo-samu-na-zona-da-mata>) - *01/10/2026*
+- [Lei Seca nas eleições: saiba quais estados terão restrição de bebidas](<https://www.rcwtv.com.br/noticia/lei-seca-nas-eleicoes-saiba-quais-estados-terao-restricao-de-bebidas>) - *01/10/2026*
+- [Anvisa aprova novas regras para venda de cosméticos artesanais no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-aprova-novas-regras-para-venda-de-cosmeticos-artesanais-no-brasil>) - *01/10/2026*
+- [Guia prático para as eleições 2026: o que é permitido na votação](<https://www.rcwtv.com.br/noticia/guia-pratico-para-as-eleicoes-2026-o-que-e-permitido-na-votacao>) - *01/10/2026*
+- [Voto em candidato irregular pode ser anulado mesmo com nome na urna](<https://www.rcwtv.com.br/noticia/voto-em-candidato-irregular-pode-ser-anulado-mesmo-com-nome-na-urna>) - *01/10/2026*
+- [Calendário de outubro de 2026: descubra datas, fatos históricos e feriados](<https://www.rcwtv.com.br/noticia/calendario-de-outubro-de-2026-descubra-datas-fatos-historicos-e-feriados>) - *01/10/2026*
+- [Orçamento de 2026 tem liberação de R$ 1,88 bi para ministérios](<https://www.rcwtv.com.br/noticia/orcamento-de-2026-tem-liberacao-de-r-1-88-bi-para-ministerios>) - *01/10/2026*
+

@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Projeto amplia a dedução do Imposto de Renda para gastos com educação de autistas](<https://www.rcwtv.com.br/noticia/projeto-amplia-a-deducao-do-imposto-de-renda-para-gastos-com-educacao-de-autistas>)
-- 📰 [Projeto de lei propõe incluir provas do ensino técnico no Enem](<https://www.rcwtv.com.br/noticia/projeto-de-lei-propoe-incluir-provas-do-ensino-tecnico-no-enem>)
-- 📰 [Projeto de lei propõe fim do vestibular e acesso universal ao ensino superior](<https://www.rcwtv.com.br/noticia/projeto-de-lei-propoe-fim-do-vestibular-e-acesso-universal-ao-ensino-superior>)
-- 📰 [Gilmar Mendes critica vazamentos seletivos no STF durante sessão](<https://www.rcwtv.com.br/noticia/gilmar-mendes-critica-vazamentos-seletivos-no-stf-durante-sessao>)
-- 📰 [Rodrigo Pacheco assume como ministro do Tribunal de Contas da União](<https://www.rcwtv.com.br/noticia/rodrigo-pacheco-assume-como-ministro-do-tribunal-de-contas-da-uniao>)
-- 📰 [Termina nesta quarta o prazo para pedir saque do fundo pis pasep](<https://www.rcwtv.com.br/noticia/termina-nesta-quarta-o-prazo-para-pedir-saque-do-fundo-pis-pasep>)
-- 📰 [Anvisa inicia novo sistema para emissão de receitas médicas eletrônicas](<https://www.rcwtv.com.br/noticia/anvisa-inicia-novo-sistema-para-emissao-de-receitas-medicas-eletronicas>)
-- 📰 [4ª Semana de Artes Marciais reúne seis modalidades no Ginásio Municipal em Juiz de Fora](<https://www.rcwtv.com.br/noticia/4-semana-de-artes-marciais-reune-seis-modalidades-no-ginasio-municipal-em-juiz-de-fora>)
-- 📰 [Juiz de Fora sanciona lei que regulamenta serviços e terapias assistidas por animais](<https://www.rcwtv.com.br/noticia/juiz-de-fora-sanciona-lei-que-regulamenta-servicos-e-terapias-assistidas-por-animais>)
-- 📰 [Leandro Dias recebe homenagem da Liga de Malha de Juiz de Fora por divulgação do esporte regional](<https://www.rcwtv.com.br/noticia/leandro-dias-recebeu-homenagem-da-liga-de-malha-de-juiz-de-fora-por-divulgacao-do-esporte-regional>)
+- 📰 [Expansão urbana causa colapso ecológico em riachos da Região Metropolitana de São Paulo](<https://www.rcwtv.com.br/noticia/expansao-urbana-causa-colapso-ecologico-em-riachos-da-regiao-metropolitana-de-sao-paulo>)
+- 📰 [Nova ferramenta de IA prevê rota e intensidade de tempestades em curtíssimo prazo](<https://www.rcwtv.com.br/noticia/nova-ferramenta-de-ia-preve-rota-e-intensidade-de-tempestades-em-curtissimo-prazo>)
+- 📰 [Coluna MG traz destaques e novidades dos municípios mineiros](<https://www.rcwtv.com.br/noticia/coluna-mg-traz-destaques-e-novidades-dos-municipios-mineiros>)
+- 📰 [Capotamento deixa mulher em estado gravíssimo e outras quatro pessoas são socorridas pelo SAMU na Zona da Mata](<https://www.rcwtv.com.br/noticia/capotamento-deixa-mulher-em-estado-gravissimo-e-outras-quatro-pessoas-sao-socorridas-pelo-samu-na-zona-da-mata>)
+- 📰 [Lei Seca nas eleições: saiba quais estados terão restrição de bebidas](<https://www.rcwtv.com.br/noticia/lei-seca-nas-eleicoes-saiba-quais-estados-terao-restricao-de-bebidas>)
+- 📰 [Anvisa aprova novas regras para venda de cosméticos artesanais no Brasil](<https://www.rcwtv.com.br/noticia/anvisa-aprova-novas-regras-para-venda-de-cosmeticos-artesanais-no-brasil>)
+- 📰 [Guia prático para as eleições 2026: o que é permitido na votação](<https://www.rcwtv.com.br/noticia/guia-pratico-para-as-eleicoes-2026-o-que-e-permitido-na-votacao>)
+- 📰 [Voto em candidato irregular pode ser anulado mesmo com nome na urna](<https://www.rcwtv.com.br/noticia/voto-em-candidato-irregular-pode-ser-anulado-mesmo-com-nome-na-urna>)
+- 📰 [Calendário de outubro de 2026: descubra datas, fatos históricos e feriados](<https://www.rcwtv.com.br/noticia/calendario-de-outubro-de-2026-descubra-datas-fatos-historicos-e-feriados>)
+- 📰 [Orçamento de 2026 tem liberação de R$ 1,88 bi para ministérios](<https://www.rcwtv.com.br/noticia/orcamento-de-2026-tem-liberacao-de-r-1-88-bi-para-ministerios>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
