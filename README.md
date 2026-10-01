@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Obras da Cesama e manutenção elétrica podem afetar abastecimento em bairros de Juiz de Fora nesta quinta](<https://www.rcwtv.com.br/noticia/obras-da-cesama-e-manutencao-eletrica-podem-afetar-abastecimento-em-bairros-de-juiz-de-fora-nesta-quinta>)
-- 📰 [Usiminas confirma novo investimento em Ipatinga](<https://www.rcwtv.com.br/noticia/usiminas-confirma-novo-investimento-em-ipatinga>)
-- 📰 [Plenário do TSE inicia julgamento sobre fake news envolvendo Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/plenario-do-tse-inicia-julgamento-sobre-fake-news-envolvendo-flavio-bolsonaro>)
-- 📰 [Frente de prefeitos cobra nova relação federativa de presidenciáveis](<https://www.rcwtv.com.br/noticia/frente-de-prefeitos-cobra-nova-relacao-federativa-de-presidenciaveis>)
-- 📰 [Corrida pelos carros elétricos pressiona redes prediais e traz novo padrão à engenharia preventiva](<https://www.rcwtv.com.br/noticia/corrida-pelos-carros-eletricos-pressiona-redes-prediais-e-traz-novo-padrao-a-engenharia-preventiva>)
-- 📰 [Contas públicas registram déficit primário de R$ 10 bilhões em agosto](<https://www.rcwtv.com.br/noticia/contas-publicas-registram-deficit-primario-de-r-10-bilhoes-em-agosto>)
-- 📰 [Anvisa aprova novo remédio para esquistossomose em crianças](<https://www.rcwtv.com.br/noticia/anvisa-aprova-novo-remedio-para-esquistossomose-em-criancas>)
-- 📰 [Produção de leite bate recorde no Brasil mesmo com menos vacas ordenhadas](<https://www.rcwtv.com.br/noticia/producao-de-leite-bate-recorde-no-brasil-mesmo-com-menos-vacas-ordenhadas>)
-- 📰 [Três homens são atendidos pelo SAMU após tiros e acidente na Zona da Mata](<https://www.rcwtv.com.br/noticia/tres-homens-sao-atendidos-pelo-samu-apos-tiros-e-acidente-na-zona-da-mata>)
-- 📰 [Produção de café em Minas deve crescer 32,5% e abrir espaço para novos consumidores](<https://www.rcwtv.com.br/noticia/producao-de-cafe-em-minas-deve-crescer-32-5-e-abrir-espaco-para-novos-consumidores>)
+- 📰 [Projeto amplia a dedução do Imposto de Renda para gastos com educação de autistas](<https://www.rcwtv.com.br/noticia/projeto-amplia-a-deducao-do-imposto-de-renda-para-gastos-com-educacao-de-autistas>)
+- 📰 [Projeto de lei propõe incluir provas do ensino técnico no Enem](<https://www.rcwtv.com.br/noticia/projeto-de-lei-propoe-incluir-provas-do-ensino-tecnico-no-enem>)
+- 📰 [Projeto de lei propõe fim do vestibular e acesso universal ao ensino superior](<https://www.rcwtv.com.br/noticia/projeto-de-lei-propoe-fim-do-vestibular-e-acesso-universal-ao-ensino-superior>)
+- 📰 [Gilmar Mendes critica vazamentos seletivos no STF durante sessão](<https://www.rcwtv.com.br/noticia/gilmar-mendes-critica-vazamentos-seletivos-no-stf-durante-sessao>)
+- 📰 [Rodrigo Pacheco assume como ministro do Tribunal de Contas da União](<https://www.rcwtv.com.br/noticia/rodrigo-pacheco-assume-como-ministro-do-tribunal-de-contas-da-uniao>)
+- 📰 [Termina nesta quarta o prazo para pedir saque do fundo pis pasep](<https://www.rcwtv.com.br/noticia/termina-nesta-quarta-o-prazo-para-pedir-saque-do-fundo-pis-pasep>)
+- 📰 [Anvisa inicia novo sistema para emissão de receitas médicas eletrônicas](<https://www.rcwtv.com.br/noticia/anvisa-inicia-novo-sistema-para-emissao-de-receitas-medicas-eletronicas>)
+- 📰 [4ª Semana de Artes Marciais reúne seis modalidades no Ginásio Municipal em Juiz de Fora](<https://www.rcwtv.com.br/noticia/4-semana-de-artes-marciais-reune-seis-modalidades-no-ginasio-municipal-em-juiz-de-fora>)
+- 📰 [Juiz de Fora sanciona lei que regulamenta serviços e terapias assistidas por animais](<https://www.rcwtv.com.br/noticia/juiz-de-fora-sanciona-lei-que-regulamenta-servicos-e-terapias-assistidas-por-animais>)
+- 📰 [Leandro Dias recebe homenagem da Liga de Malha de Juiz de Fora por divulgação do esporte regional](<https://www.rcwtv.com.br/noticia/leandro-dias-recebeu-homenagem-da-liga-de-malha-de-juiz-de-fora-por-divulgacao-do-esporte-regional>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

@@ -518,3 +518,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Três homens são atendidos pelo SAMU após tiros e acidente na Zona da Mata](<https://www.rcwtv.com.br/noticia/tres-homens-sao-atendidos-pelo-samu-apos-tiros-e-acidente-na-zona-da-mata>) - *30/09/2026*
 - [Produção de café em Minas deve crescer 32,5% e abrir espaço para novos consumidores](<https://www.rcwtv.com.br/noticia/producao-de-cafe-em-minas-deve-crescer-32-5-e-abrir-espaco-para-novos-consumidores>) - *30/09/2026*
 
+### Atualização de 01/10/2026
+- [Projeto amplia a dedução do Imposto de Renda para gastos com educação de autistas](<https://www.rcwtv.com.br/noticia/projeto-amplia-a-deducao-do-imposto-de-renda-para-gastos-com-educacao-de-autistas>) - *01/10/2026*
+- [Projeto de lei propõe incluir provas do ensino técnico no Enem](<https://www.rcwtv.com.br/noticia/projeto-de-lei-propoe-incluir-provas-do-ensino-tecnico-no-enem>) - *01/10/2026*
+- [Projeto de lei propõe fim do vestibular e acesso universal ao ensino superior](<https://www.rcwtv.com.br/noticia/projeto-de-lei-propoe-fim-do-vestibular-e-acesso-universal-ao-ensino-superior>) - *01/10/2026*
+- [Gilmar Mendes critica vazamentos seletivos no STF durante sessão](<https://www.rcwtv.com.br/noticia/gilmar-mendes-critica-vazamentos-seletivos-no-stf-durante-sessao>) - *01/10/2026*
+- [Rodrigo Pacheco assume como ministro do Tribunal de Contas da União](<https://www.rcwtv.com.br/noticia/rodrigo-pacheco-assume-como-ministro-do-tribunal-de-contas-da-uniao>) - *01/10/2026*
+- [Termina nesta quarta o prazo para pedir saque do fundo pis pasep](<https://www.rcwtv.com.br/noticia/termina-nesta-quarta-o-prazo-para-pedir-saque-do-fundo-pis-pasep>) - *01/10/2026*
+- [Anvisa inicia novo sistema para emissão de receitas médicas eletrônicas](<https://www.rcwtv.com.br/noticia/anvisa-inicia-novo-sistema-para-emissao-de-receitas-medicas-eletronicas>) - *01/10/2026*
+- [4ª Semana de Artes Marciais reúne seis modalidades no Ginásio Municipal em Juiz de Fora](<https://www.rcwtv.com.br/noticia/4-semana-de-artes-marciais-reune-seis-modalidades-no-ginasio-municipal-em-juiz-de-fora>) - *01/10/2026*
+- [Juiz de Fora sanciona lei que regulamenta serviços e terapias assistidas por animais](<https://www.rcwtv.com.br/noticia/juiz-de-fora-sanciona-lei-que-regulamenta-servicos-e-terapias-assistidas-por-animais>) - *01/10/2026*
+- [Leandro Dias recebe homenagem da Liga de Malha de Juiz de Fora por divulgação do esporte regional](<https://www.rcwtv.com.br/noticia/leandro-dias-recebeu-homenagem-da-liga-de-malha-de-juiz-de-fora-por-divulgacao-do-esporte-regional>) - *01/10/2026*
+
