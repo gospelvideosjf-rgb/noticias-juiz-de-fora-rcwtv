@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Ligue 180 registra mais de 1,5 mil denúncias de violência política contra a mulher](<https://www.rcwtv.com.br/noticia/ligue-180-registra-mais-de-1-5-mil-denuncias-de-violencia-politica-contra-a-mulher>)
-- 📰 [Agenda 227 entrega propostas de proteção para crianças e adolescentes](<https://www.rcwtv.com.br/noticia/agenda-227-entrega-propostas-de-protecao-para-criancas-e-adolescentes>)
-- 📰 [Demlurb apresenta ações de suporte psicológico a servidores no 1º Encontro Mineiro de Psicologia](<https://www.rcwtv.com.br/noticia/demlurb-apresenta-acoes-de-suporte-psicologico-a-servidores-no-1-encontro-mineiro-de-psicologia>)
-- 📰 [Oficina do Educatur reúne idosos para resgatar memórias e valorizar o patrimônio em Juiz de Fora](<https://www.rcwtv.com.br/noticia/oficina-do-educatur-reune-idosos-para-resgatar-memorias-e-valorizar-o-patrimonio-em-juiz-de-fora>)
-- 📰 [Museu Mariano Procópio estará fechado neste domingo de eleições em Juiz de Fora](<https://www.rcwtv.com.br/noticia/museu-mariano-procopio-estara-fechado-neste-domingo-de-eleicoes-em-juiz-de-fora>)
-- 📰 [Tarifa de carne bovina brasileira para a China sobe para 67% nesta quinta-feira](<https://www.rcwtv.com.br/noticia/tarifa-de-carne-bovina-brasileira-para-a-china-sobe-para-67-nesta-quinta-feira>)
-- 📰 [Entenda as regras e proibições da justiça eleitoral para as eleições 2026](<https://www.rcwtv.com.br/noticia/entenda-as-regras-e-proibicoes-da-justica-eleitoral-para-as-eleicoes-2026>)
-- 📰 [Fim da propaganda eleitoral gratuita marca reta final do primeiro turno](<https://www.rcwtv.com.br/noticia/fim-da-propaganda-eleitoral-gratuita-marca-reta-final-do-primeiro-turno>)
-- 📰 [Polícia Rodoviária Federal recupera carro roubado em fiscalização na BR-116 em Leopoldina](<https://www.rcwtv.com.br/noticia/policia-rodoviaria-federal-recupera-carro-roubado-em-fiscalizacao-na-br-116-em-leopoldina>)
-- 📰 [Ônibus de Juiz de Fora terão frota de dia útil e passe livre neste domingo de eleições](<https://www.rcwtv.com.br/noticia/onibus-de-juiz-de-fora-terao-frota-de-dia-util-e-passe-livre-neste-domingo-de-eleicoes>)
+- 📰 [Novo instrumento no acelerador Sirius permite observar células solares em funcionamento](<https://www.rcwtv.com.br/noticia/novo-instrumento-no-acelerador-sirius-permite-observar-celulas-solares-em-funcionamento>)
+- 📰 [Nova lei de saneamento básico pode facilitar uso de poços artesianos domésticos](<https://www.rcwtv.com.br/noticia/nova-lei-de-saneamento-basico-pode-facilitar-uso-de-pocos-artesianos-domesticos>)
+- 📰 [Petrobras realiza segunda descoberta de petróleo na Margem Equatorial](<https://www.rcwtv.com.br/noticia/petrobras-realiza-segunda-descoberta-de-petroleo-na-margem-equatorial>)
+- 📰 [Confira os principais destaques de Minas Gerais no mercado e cultura](<https://www.rcwtv.com.br/noticia/confira-os-principais-destaques-de-minas-gerais-no-mercado-e-cultura>)
+- 📰 [Produção industrial recua 0,6% em agosto e consolida perdas, aponta IBGE](<https://www.rcwtv.com.br/noticia/producao-industrial-recua-0-6-em-agosto-e-consolida-perdas-aponta-ibge>)
+- 📰 [SAMU atende sete vítimas de acidentes e agressão em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-sete-vitimas-de-acidentes-e-agressao-em-cidades-da-zona-da-mata>)
+- 📰 [Eleitores de Juiz de Fora terão oito mudanças nos locais de votação](<https://www.rcwtv.com.br/noticia/eleitores-de-juiz-de-fora-terao-oito-mudancas-nos-locais-de-votacao>)
+- 📰 [Ceará e cidades de Rondônia adotam Lei Seca nas eleições; veja lista](<https://www.rcwtv.com.br/noticia/ceara-e-cidades-de-rondonia-adotam-lei-seca-nas-eleicoes-veja-lista>)
+- 📰 [Agro em Ação mobiliza produtores e fortalece a agropecuária mineira](<https://www.rcwtv.com.br/noticia/agro-em-acao-mobiliza-produtores-e-fortalece-a-agropecuaria-mineira>)
+- 📰 [Como o lobby estrangeiro e os jabutis viabilizaram as bets no Brasil](<https://www.rcwtv.com.br/noticia/como-o-lobby-estrangeiro-e-os-jabutis-viabilizaram-as-bets-no-brasil>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

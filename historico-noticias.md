@@ -554,3 +554,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Polícia Rodoviária Federal recupera carro roubado em fiscalização na BR-116 em Leopoldina](<https://www.rcwtv.com.br/noticia/policia-rodoviaria-federal-recupera-carro-roubado-em-fiscalizacao-na-br-116-em-leopoldina>) - *02/10/2026*
 - [Ônibus de Juiz de Fora terão frota de dia útil e passe livre neste domingo de eleições](<https://www.rcwtv.com.br/noticia/onibus-de-juiz-de-fora-terao-frota-de-dia-util-e-passe-livre-neste-domingo-de-eleicoes>) - *02/10/2026*
 
+### Atualização de 02/10/2026
+- [Novo instrumento no acelerador Sirius permite observar células solares em funcionamento](<https://www.rcwtv.com.br/noticia/novo-instrumento-no-acelerador-sirius-permite-observar-celulas-solares-em-funcionamento>) - *02/10/2026*
+- [Nova lei de saneamento básico pode facilitar uso de poços artesianos domésticos](<https://www.rcwtv.com.br/noticia/nova-lei-de-saneamento-basico-pode-facilitar-uso-de-pocos-artesianos-domesticos>) - *02/10/2026*
+- [Petrobras realiza segunda descoberta de petróleo na Margem Equatorial](<https://www.rcwtv.com.br/noticia/petrobras-realiza-segunda-descoberta-de-petroleo-na-margem-equatorial>) - *02/10/2026*
+- [Confira os principais destaques de Minas Gerais no mercado e cultura](<https://www.rcwtv.com.br/noticia/confira-os-principais-destaques-de-minas-gerais-no-mercado-e-cultura>) - *02/10/2026*
+- [Produção industrial recua 0,6% em agosto e consolida perdas, aponta IBGE](<https://www.rcwtv.com.br/noticia/producao-industrial-recua-0-6-em-agosto-e-consolida-perdas-aponta-ibge>) - *02/10/2026*
+- [SAMU atende sete vítimas de acidentes e agressão em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-sete-vitimas-de-acidentes-e-agressao-em-cidades-da-zona-da-mata>) - *02/10/2026*
+- [Eleitores de Juiz de Fora terão oito mudanças nos locais de votação](<https://www.rcwtv.com.br/noticia/eleitores-de-juiz-de-fora-terao-oito-mudancas-nos-locais-de-votacao>) - *02/10/2026*
+- [Ceará e cidades de Rondônia adotam Lei Seca nas eleições; veja lista](<https://www.rcwtv.com.br/noticia/ceara-e-cidades-de-rondonia-adotam-lei-seca-nas-eleicoes-veja-lista>) - *02/10/2026*
+- [Agro em Ação mobiliza produtores e fortalece a agropecuária mineira](<https://www.rcwtv.com.br/noticia/agro-em-acao-mobiliza-produtores-e-fortalece-a-agropecuaria-mineira>) - *02/10/2026*
+- [Como o lobby estrangeiro e os jabutis viabilizaram as bets no Brasil](<https://www.rcwtv.com.br/noticia/como-o-lobby-estrangeiro-e-os-jabutis-viabilizaram-as-bets-no-brasil>) - *02/10/2026*
+
