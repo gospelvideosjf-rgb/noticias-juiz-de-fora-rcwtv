@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Novo instrumento no acelerador Sirius permite observar células solares em funcionamento](<https://www.rcwtv.com.br/noticia/novo-instrumento-no-acelerador-sirius-permite-observar-celulas-solares-em-funcionamento>)
-- 📰 [Nova lei de saneamento básico pode facilitar uso de poços artesianos domésticos](<https://www.rcwtv.com.br/noticia/nova-lei-de-saneamento-basico-pode-facilitar-uso-de-pocos-artesianos-domesticos>)
-- 📰 [Petrobras realiza segunda descoberta de petróleo na Margem Equatorial](<https://www.rcwtv.com.br/noticia/petrobras-realiza-segunda-descoberta-de-petroleo-na-margem-equatorial>)
-- 📰 [Confira os principais destaques de Minas Gerais no mercado e cultura](<https://www.rcwtv.com.br/noticia/confira-os-principais-destaques-de-minas-gerais-no-mercado-e-cultura>)
-- 📰 [Produção industrial recua 0,6% em agosto e consolida perdas, aponta IBGE](<https://www.rcwtv.com.br/noticia/producao-industrial-recua-0-6-em-agosto-e-consolida-perdas-aponta-ibge>)
-- 📰 [SAMU atende sete vítimas de acidentes e agressão em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-sete-vitimas-de-acidentes-e-agressao-em-cidades-da-zona-da-mata>)
-- 📰 [Eleitores de Juiz de Fora terão oito mudanças nos locais de votação](<https://www.rcwtv.com.br/noticia/eleitores-de-juiz-de-fora-terao-oito-mudancas-nos-locais-de-votacao>)
-- 📰 [Ceará e cidades de Rondônia adotam Lei Seca nas eleições; veja lista](<https://www.rcwtv.com.br/noticia/ceara-e-cidades-de-rondonia-adotam-lei-seca-nas-eleicoes-veja-lista>)
-- 📰 [Agro em Ação mobiliza produtores e fortalece a agropecuária mineira](<https://www.rcwtv.com.br/noticia/agro-em-acao-mobiliza-produtores-e-fortalece-a-agropecuaria-mineira>)
-- 📰 [Como o lobby estrangeiro e os jabutis viabilizaram as bets no Brasil](<https://www.rcwtv.com.br/noticia/como-o-lobby-estrangeiro-e-os-jabutis-viabilizaram-as-bets-no-brasil>)
+- 📰 [Como as distribuidoras de energia garantem o fornecimento no dia da eleição](<https://www.rcwtv.com.br/noticia/como-as-distribuidoras-de-energia-garantem-o-fornecimento-no-dia-da-eleicao>)
+- 📰 [Bloqueio das bets faz movimentação diária despencar R$ 652 milhões](<https://www.rcwtv.com.br/noticia/bloqueio-das-bets-faz-movimentacao-diaria-despencar-r-652-milhoes>)
+- 📰 [Previsão indica chuvas em São Paulo durante o fim de semana de eleição](<https://www.rcwtv.com.br/noticia/previsao-indica-chuvas-em-sao-paulo-durante-o-fim-de-semana-de-eleicao>)
+- 📰 [Projeto prevê abono de faltas para estudantes com deficiência no período menstrual](<https://www.rcwtv.com.br/noticia/projeto-preve-abono-de-faltas-para-estudantes-com-deficiencia-no-periodo-menstrual>)
+- 📰 [Locais para a reaplicação do Encceja já podem ser consultados no site do Inep](<https://www.rcwtv.com.br/noticia/locais-para-a-reaplicacao-do-encceja-ja-podem-ser-consultados-no-site-do-inep>)
+- 📰 [O moinho manual e o café feito na hora](<https://www.rcwtv.com.br/noticia/o-moinho-manual-e-o-cafe-feito-na-hora>)
+- 📰 [Eleições 2026: Guia prático para votar sem complicação neste domingo em Minas Gerais](<https://www.rcwtv.com.br/noticia/eleicoes-2026-guia-pratico-para-votar-sem-complicacao-neste-domingo-em-minas-gerais>)
+- 📰 [Santa Catarina recebe 555 mil turistas estrangeiros e Penha amplia oferta para público internacional](<https://www.rcwtv.com.br/noticia/santa-catarina-recebe-555-mil-turistas-estrangeiros-e-penha-amplia-oferta-para-publico-internacional>)
+- 📰 [ONS prepara operação especial para garantir energia elétrica nas eleições](<https://www.rcwtv.com.br/noticia/ons-prepara-operacao-especial-para-garantir-energia-eletrica-nas-eleicoes>)
+- 📰 [Fachin reunirá Polícia Federal para apurar citações a ministros no caso Master](<https://www.rcwtv.com.br/noticia/fachin-reunira-policia-federal-para-apurar-citacoes-a-ministros-no-caso-master>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
