@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Sorteio da Mega-Sena deste sábado pode pagar R$ 82 milhões](<https://www.rcwtv.com.br/noticia/sorteio-da-mega-sena-deste-sabado-pode-pagar-r-82-milhoes>)
+- 📰 [Preço do limão dispara no país após fortes chuvas afetarem a produção](<https://www.rcwtv.com.br/noticia/preco-do-limao-dispara-no-pais-apos-fortes-chuvas-afetarem-a-producao>)
+- 📰 [Urna eletrônica completa 30 anos de segurança e inovação nas eleições](<https://www.rcwtv.com.br/noticia/urna-eletronica-completa-30-anos-de-seguranca-e-inovacao-nas-eleicoes>)
+- 📰 [Confira a movimentação dos candidatos nas eleições 2026 nesta sexta-feira](<https://www.rcwtv.com.br/noticia/confira-a-movimentacao-dos-candidatos-nas-eleicoes-2026-nesta-sexta-feira>)
+- 📰 [Presidente do TSE fará pronunciamento na TV e no rádio neste sábado](<https://www.rcwtv.com.br/noticia/presidente-do-tse-fara-pronunciamento-na-tv-e-no-radio-neste-sabado>)
+- 📰 [TSE determina a anulação dos votos destinados a Garotinho no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/tse-determina-a-anulacao-dos-votos-destinados-a-garotinho-no-rio-de-janeiro>)
+- 📰 [Nova descoberta no poço Morpho eleva expectativas da Petrobras na Foz do Amazonas](<https://www.rcwtv.com.br/noticia/nova-descoberta-no-poco-morpho-eleva-expectativas-da-petrobras-na-foz-do-amazonas>)
+- 📰 [Senado define votação do fim da escala 6x1 para a próxima semana](<https://www.rcwtv.com.br/noticia/senado-define-votacao-do-fim-da-escala-6x1-para-a-proxima-semana>)
 - 📰 [Como as distribuidoras de energia garantem o fornecimento no dia da eleição](<https://www.rcwtv.com.br/noticia/como-as-distribuidoras-de-energia-garantem-o-fornecimento-no-dia-da-eleicao>)
 - 📰 [Bloqueio das bets faz movimentação diária despencar R$ 652 milhões](<https://www.rcwtv.com.br/noticia/bloqueio-das-bets-faz-movimentacao-diaria-despencar-r-652-milhoes>)
-- 📰 [Previsão indica chuvas em São Paulo durante o fim de semana de eleição](<https://www.rcwtv.com.br/noticia/previsao-indica-chuvas-em-sao-paulo-durante-o-fim-de-semana-de-eleicao>)
-- 📰 [Projeto prevê abono de faltas para estudantes com deficiência no período menstrual](<https://www.rcwtv.com.br/noticia/projeto-preve-abono-de-faltas-para-estudantes-com-deficiencia-no-periodo-menstrual>)
-- 📰 [Locais para a reaplicação do Encceja já podem ser consultados no site do Inep](<https://www.rcwtv.com.br/noticia/locais-para-a-reaplicacao-do-encceja-ja-podem-ser-consultados-no-site-do-inep>)
-- 📰 [O moinho manual e o café feito na hora](<https://www.rcwtv.com.br/noticia/o-moinho-manual-e-o-cafe-feito-na-hora>)
-- 📰 [Eleições 2026: Guia prático para votar sem complicação neste domingo em Minas Gerais](<https://www.rcwtv.com.br/noticia/eleicoes-2026-guia-pratico-para-votar-sem-complicacao-neste-domingo-em-minas-gerais>)
-- 📰 [Santa Catarina recebe 555 mil turistas estrangeiros e Penha amplia oferta para público internacional](<https://www.rcwtv.com.br/noticia/santa-catarina-recebe-555-mil-turistas-estrangeiros-e-penha-amplia-oferta-para-publico-internacional>)
-- 📰 [ONS prepara operação especial para garantir energia elétrica nas eleições](<https://www.rcwtv.com.br/noticia/ons-prepara-operacao-especial-para-garantir-energia-eletrica-nas-eleicoes>)
-- 📰 [Fachin reunirá Polícia Federal para apurar citações a ministros no caso Master](<https://www.rcwtv.com.br/noticia/fachin-reunira-policia-federal-para-apurar-citacoes-a-ministros-no-caso-master>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

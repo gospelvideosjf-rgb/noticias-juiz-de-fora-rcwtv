@@ -578,3 +578,13 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [ONS prepara operação especial para garantir energia elétrica nas eleições](<https://www.rcwtv.com.br/noticia/ons-prepara-operacao-especial-para-garantir-energia-eletrica-nas-eleicoes>) - *03/10/2026*
 - [Fachin reunirá Polícia Federal para apurar citações a ministros no caso Master](<https://www.rcwtv.com.br/noticia/fachin-reunira-policia-federal-para-apurar-citacoes-a-ministros-no-caso-master>) - *03/10/2026*
 
+### Atualização de 03/10/2026
+- [Sorteio da Mega-Sena deste sábado pode pagar R$ 82 milhões](<https://www.rcwtv.com.br/noticia/sorteio-da-mega-sena-deste-sabado-pode-pagar-r-82-milhoes>) - *03/10/2026*
+- [Preço do limão dispara no país após fortes chuvas afetarem a produção](<https://www.rcwtv.com.br/noticia/preco-do-limao-dispara-no-pais-apos-fortes-chuvas-afetarem-a-producao>) - *03/10/2026*
+- [Urna eletrônica completa 30 anos de segurança e inovação nas eleições](<https://www.rcwtv.com.br/noticia/urna-eletronica-completa-30-anos-de-seguranca-e-inovacao-nas-eleicoes>) - *03/10/2026*
+- [Confira a movimentação dos candidatos nas eleições 2026 nesta sexta-feira](<https://www.rcwtv.com.br/noticia/confira-a-movimentacao-dos-candidatos-nas-eleicoes-2026-nesta-sexta-feira>) - *03/10/2026*
+- [Presidente do TSE fará pronunciamento na TV e no rádio neste sábado](<https://www.rcwtv.com.br/noticia/presidente-do-tse-fara-pronunciamento-na-tv-e-no-radio-neste-sabado>) - *03/10/2026*
+- [TSE determina a anulação dos votos destinados a Garotinho no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/tse-determina-a-anulacao-dos-votos-destinados-a-garotinho-no-rio-de-janeiro>) - *03/10/2026*
+- [Nova descoberta no poço Morpho eleva expectativas da Petrobras na Foz do Amazonas](<https://www.rcwtv.com.br/noticia/nova-descoberta-no-poco-morpho-eleva-expectativas-da-petrobras-na-foz-do-amazonas>) - *03/10/2026*
+- [Senado define votação do fim da escala 6x1 para a próxima semana](<https://www.rcwtv.com.br/noticia/senado-define-votacao-do-fim-da-escala-6x1-para-a-proxima-semana>) - *03/10/2026*
+
