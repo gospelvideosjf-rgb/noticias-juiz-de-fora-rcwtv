@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Sorteio da Mega-Sena deste sábado pode pagar R$ 82 milhões](<https://www.rcwtv.com.br/noticia/sorteio-da-mega-sena-deste-sabado-pode-pagar-r-82-milhoes>)
-- 📰 [Preço do limão dispara no país após fortes chuvas afetarem a produção](<https://www.rcwtv.com.br/noticia/preco-do-limao-dispara-no-pais-apos-fortes-chuvas-afetarem-a-producao>)
-- 📰 [Urna eletrônica completa 30 anos de segurança e inovação nas eleições](<https://www.rcwtv.com.br/noticia/urna-eletronica-completa-30-anos-de-seguranca-e-inovacao-nas-eleicoes>)
-- 📰 [Confira a movimentação dos candidatos nas eleições 2026 nesta sexta-feira](<https://www.rcwtv.com.br/noticia/confira-a-movimentacao-dos-candidatos-nas-eleicoes-2026-nesta-sexta-feira>)
-- 📰 [Presidente do TSE fará pronunciamento na TV e no rádio neste sábado](<https://www.rcwtv.com.br/noticia/presidente-do-tse-fara-pronunciamento-na-tv-e-no-radio-neste-sabado>)
-- 📰 [TSE determina a anulação dos votos destinados a Garotinho no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/tse-determina-a-anulacao-dos-votos-destinados-a-garotinho-no-rio-de-janeiro>)
-- 📰 [Nova descoberta no poço Morpho eleva expectativas da Petrobras na Foz do Amazonas](<https://www.rcwtv.com.br/noticia/nova-descoberta-no-poco-morpho-eleva-expectativas-da-petrobras-na-foz-do-amazonas>)
-- 📰 [Senado define votação do fim da escala 6x1 para a próxima semana](<https://www.rcwtv.com.br/noticia/senado-define-votacao-do-fim-da-escala-6x1-para-a-proxima-semana>)
-- 📰 [Como as distribuidoras de energia garantem o fornecimento no dia da eleição](<https://www.rcwtv.com.br/noticia/como-as-distribuidoras-de-energia-garantem-o-fornecimento-no-dia-da-eleicao>)
-- 📰 [Bloqueio das bets faz movimentação diária despencar R$ 652 milhões](<https://www.rcwtv.com.br/noticia/bloqueio-das-bets-faz-movimentacao-diaria-despencar-r-652-milhoes>)
+- 📰 [Tribunais distribuem urnas eletrônicas na véspera da votação](<https://www.rcwtv.com.br/noticia/tribunais-distribuem-urnas-eletronicas-na-vespera-da-votacao>)
+- 📰 [Quanto custa um funeral sem plano funerário? Conheça as principais despesas](<https://www.rcwtv.com.br/noticia/quanto-custa-um-funeral-sem-plano-funerario-conheca-as-principais-despesas>)
+- 📰 [Choque térmico pode trincar o para-brisa? Pode jogar água fria no vidro quente?](<https://www.rcwtv.com.br/noticia/choque-termico-pode-trincar-o-para-brisa-pode-jogar-agua-fria-no-vidro-quente>)
+- 📰 [Como a tecnologia está transformando o mercado imobiliário de alto padrão em São Paulo?](<https://www.rcwtv.com.br/noticia/como-a-tecnologia-esta-transformando-o-mercado-imobiliario-de-alto-padrao-em-sao-paulo>)
+- 📰 [Tipos de dor mais comuns: como identificar características e quando procurar atendimento?](<https://www.rcwtv.com.br/noticia/tipos-de-dor-mais-comuns-como-identificar-caracteristicas-e-quando-procurar-atendimento>)
+- 📰 [Gamificação no varejo: como tornar o ponto de venda mais atrativo para os clientes?](<https://www.rcwtv.com.br/noticia/gamificacao-no-varejo-como-tornar-o-ponto-de-venda-mais-atrativo-para-os-clientes>)
+- 📰 [O que é uma plataforma de e-commerce e como escolher a melhor para sua loja?](<https://www.rcwtv.com.br/noticia/o-que-e-uma-plataforma-de-e-commerce-e-como-escolher-a-melhor-para-sua-loja>)
+- 📰 [Eleições 2026: entenda o que é proibido e evite o crime de boca de urna](<https://www.rcwtv.com.br/noticia/eleicoes-2026-entenda-o-que-e-proibido-e-evite-o-crime-de-boca-de-urna>)
+- 📰 [TSE valida sistemas eleitorais e emite relatório de zerézima](<https://www.rcwtv.com.br/noticia/tse-valida-sistemas-eleitorais-e-emite-relatorio-de-zerezima>)
+- 📰 [Novo recorde no valor de mercado da Petrobras após descoberta no Amapá](<https://www.rcwtv.com.br/noticia/novo-recorde-no-valor-de-mercado-da-petrobras-apos-descoberta-no-amapa>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

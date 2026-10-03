@@ -588,3 +588,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Nova descoberta no poço Morpho eleva expectativas da Petrobras na Foz do Amazonas](<https://www.rcwtv.com.br/noticia/nova-descoberta-no-poco-morpho-eleva-expectativas-da-petrobras-na-foz-do-amazonas>) - *03/10/2026*
 - [Senado define votação do fim da escala 6x1 para a próxima semana](<https://www.rcwtv.com.br/noticia/senado-define-votacao-do-fim-da-escala-6x1-para-a-proxima-semana>) - *03/10/2026*
 
+### Atualização de 03/10/2026
+- [Tribunais distribuem urnas eletrônicas na véspera da votação](<https://www.rcwtv.com.br/noticia/tribunais-distribuem-urnas-eletronicas-na-vespera-da-votacao>) - *03/10/2026*
+- [Quanto custa um funeral sem plano funerário? Conheça as principais despesas](<https://www.rcwtv.com.br/noticia/quanto-custa-um-funeral-sem-plano-funerario-conheca-as-principais-despesas>) - *03/10/2026*
+- [Choque térmico pode trincar o para-brisa? Pode jogar água fria no vidro quente?](<https://www.rcwtv.com.br/noticia/choque-termico-pode-trincar-o-para-brisa-pode-jogar-agua-fria-no-vidro-quente>) - *03/10/2026*
+- [Como a tecnologia está transformando o mercado imobiliário de alto padrão em São Paulo?](<https://www.rcwtv.com.br/noticia/como-a-tecnologia-esta-transformando-o-mercado-imobiliario-de-alto-padrao-em-sao-paulo>) - *03/10/2026*
+- [Tipos de dor mais comuns: como identificar características e quando procurar atendimento?](<https://www.rcwtv.com.br/noticia/tipos-de-dor-mais-comuns-como-identificar-caracteristicas-e-quando-procurar-atendimento>) - *03/10/2026*
+- [Gamificação no varejo: como tornar o ponto de venda mais atrativo para os clientes?](<https://www.rcwtv.com.br/noticia/gamificacao-no-varejo-como-tornar-o-ponto-de-venda-mais-atrativo-para-os-clientes>) - *03/10/2026*
+- [O que é uma plataforma de e-commerce e como escolher a melhor para sua loja?](<https://www.rcwtv.com.br/noticia/o-que-e-uma-plataforma-de-e-commerce-e-como-escolher-a-melhor-para-sua-loja>) - *03/10/2026*
+- [Eleições 2026: entenda o que é proibido e evite o crime de boca de urna](<https://www.rcwtv.com.br/noticia/eleicoes-2026-entenda-o-que-e-proibido-e-evite-o-crime-de-boca-de-urna>) - *03/10/2026*
+- [TSE valida sistemas eleitorais e emite relatório de zerézima](<https://www.rcwtv.com.br/noticia/tse-valida-sistemas-eleitorais-e-emite-relatorio-de-zerezima>) - *03/10/2026*
+- [Novo recorde no valor de mercado da Petrobras após descoberta no Amapá](<https://www.rcwtv.com.br/noticia/novo-recorde-no-valor-de-mercado-da-petrobras-apos-descoberta-no-amapa>) - *03/10/2026*
+
