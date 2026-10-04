@@ -606,3 +606,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Candidatos à Presidência encerram campanha política com atos na véspera do pleito](<https://www.rcwtv.com.br/noticia/candidatos-a-presidencia-encerram-campanha-politica-com-atos-na-vespera-do-pleito>) - *04/10/2026*
 - [Saiba quem pode levar acompanhante na cabine de votação durante as eleições](<https://www.rcwtv.com.br/noticia/saiba-quem-pode-levar-acompanhante-na-cabine-de-votacao-durante-as-eleicoes>) - *04/10/2026*
 
+### Atualização de 04/10/2026
+- [PF apreende mais de R$ 30 milhões em combate a crimes eleitorais em 2026](<https://www.rcwtv.com.br/noticia/pf-apreende-mais-de-r-30-milhoes-em-combate-a-crimes-eleitorais-em-2026>) - *04/10/2026*
+- [TRE-MG investiga se Romeu Zema cometeu crime eleitoral ao usar celular na votação](<https://www.rcwtv.com.br/noticia/tre-mg-investiga-se-romeu-zema-cometeu-crime-eleitoral-ao-usar-celular-na-votacao>) - *04/10/2026*
+- [Votação das Eleições Gerais termina às 17h deste domingo em todo o país](<https://www.rcwtv.com.br/noticia/votacao-das-eleicoes-gerais-termina-as-17h-deste-domingo-em-todo-o-pais>) - *04/10/2026*
+- [Justificativa de voto: saiba como regularizar o título e evitar multas](<https://www.rcwtv.com.br/noticia/justificativa-de-voto-saiba-como-regularizar-o-titulo-e-evitar-multas>) - *04/10/2026*
+- [Romeu Zema é flagrado com celular na cabina de voto e episódio gera contestação sobre regras eleitorais](<https://www.rcwtv.com.br/noticia/romeu-zema-e-flagrado-com-celular-na-cabina-de-voto-e-episodio-gera-contestacao-sobre-regras-eleitorais>) - *04/10/2026*
+- [Juiz de Fora é a 3ª cidade de Minas com mais queixas no Pardal e amanhece com materiais de campanha nas ruas](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-a-3-cidade-de-minas-com-mais-queixas-no-pardal-e-amanhece-com-materiais-de-campanha-nas-ruas>) - *04/10/2026*
+- [Presidente do TSE afirma que Justiça Eleitoral assegura votação pacífica](<https://www.rcwtv.com.br/noticia/presidente-do-tse-afirma-que-justica-eleitoral-assegura-votacao-pacifica>) - *04/10/2026*
+- [Votação na zona sul de SP tem ritmo rápido e pouca fila no Paraíso](<https://www.rcwtv.com.br/noticia/votacao-na-zona-sul-de-sp-tem-ritmo-rapido-e-pouca-fila-no-paraiso>) - *04/10/2026*
+- [TRE-SP substitui 32 urnas eletrônicas nas primeiras horas de votação](<https://www.rcwtv.com.br/noticia/tre-sp-substitui-32-urnas-eletronicas-nas-primeiras-horas-de-votacao>) - *04/10/2026*
+- [Após emissão da "zerésima", seções eleitorais registram filas e movimentação intensa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/apos-emissao-da-zeresima-secoes-eleitorais-registram-filas-e-movimentacao-intensa-em-juiz-de-fora>) - *04/10/2026*
+

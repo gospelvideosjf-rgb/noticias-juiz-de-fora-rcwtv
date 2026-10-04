@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Eleições 2026: aplicativo e-Título permite justificar ausência pelo celular](<https://www.rcwtv.com.br/noticia/eleicoes-2026-aplicativo-e-titulo-permite-justificar-ausencia-pelo-celular>)
-- 📰 [Preparativos para as eleições de 2026: mais de 158 milhões vão às urnas](<https://www.rcwtv.com.br/noticia/preparativos-para-as-eleicoes-de-2026-mais-de-158-milhoes-vao-as-urnas>)
-- 📰 [Candidatos à Presidência encerram campanha política com atos na véspera do pleito](<https://www.rcwtv.com.br/noticia/candidatos-a-presidencia-encerram-campanha-politica-com-atos-na-vespera-do-pleito>)
-- 📰 [Saiba quem pode levar acompanhante na cabine de votação durante as eleições](<https://www.rcwtv.com.br/noticia/saiba-quem-pode-levar-acompanhante-na-cabine-de-votacao-durante-as-eleicoes>)
-- 📰 [Tribunais distribuem urnas eletrônicas na véspera da votação](<https://www.rcwtv.com.br/noticia/tribunais-distribuem-urnas-eletronicas-na-vespera-da-votacao>)
-- 📰 [Quanto custa um funeral sem plano funerário? Conheça as principais despesas](<https://www.rcwtv.com.br/noticia/quanto-custa-um-funeral-sem-plano-funerario-conheca-as-principais-despesas>)
-- 📰 [Choque térmico pode trincar o para-brisa? Pode jogar água fria no vidro quente?](<https://www.rcwtv.com.br/noticia/choque-termico-pode-trincar-o-para-brisa-pode-jogar-agua-fria-no-vidro-quente>)
-- 📰 [Como a tecnologia está transformando o mercado imobiliário de alto padrão em São Paulo?](<https://www.rcwtv.com.br/noticia/como-a-tecnologia-esta-transformando-o-mercado-imobiliario-de-alto-padrao-em-sao-paulo>)
-- 📰 [Tipos de dor mais comuns: como identificar características e quando procurar atendimento?](<https://www.rcwtv.com.br/noticia/tipos-de-dor-mais-comuns-como-identificar-caracteristicas-e-quando-procurar-atendimento>)
-- 📰 [Gamificação no varejo: como tornar o ponto de venda mais atrativo para os clientes?](<https://www.rcwtv.com.br/noticia/gamificacao-no-varejo-como-tornar-o-ponto-de-venda-mais-atrativo-para-os-clientes>)
+- 📰 [PF apreende mais de R$ 30 milhões em combate a crimes eleitorais em 2026](<https://www.rcwtv.com.br/noticia/pf-apreende-mais-de-r-30-milhoes-em-combate-a-crimes-eleitorais-em-2026>)
+- 📰 [TRE-MG investiga se Romeu Zema cometeu crime eleitoral ao usar celular na votação](<https://www.rcwtv.com.br/noticia/tre-mg-investiga-se-romeu-zema-cometeu-crime-eleitoral-ao-usar-celular-na-votacao>)
+- 📰 [Votação das Eleições Gerais termina às 17h deste domingo em todo o país](<https://www.rcwtv.com.br/noticia/votacao-das-eleicoes-gerais-termina-as-17h-deste-domingo-em-todo-o-pais>)
+- 📰 [Justificativa de voto: saiba como regularizar o título e evitar multas](<https://www.rcwtv.com.br/noticia/justificativa-de-voto-saiba-como-regularizar-o-titulo-e-evitar-multas>)
+- 📰 [Romeu Zema é flagrado com celular na cabina de voto e episódio gera contestação sobre regras eleitorais](<https://www.rcwtv.com.br/noticia/romeu-zema-e-flagrado-com-celular-na-cabina-de-voto-e-episodio-gera-contestacao-sobre-regras-eleitorais>)
+- 📰 [Juiz de Fora é a 3ª cidade de Minas com mais queixas no Pardal e amanhece com materiais de campanha nas ruas](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-a-3-cidade-de-minas-com-mais-queixas-no-pardal-e-amanhece-com-materiais-de-campanha-nas-ruas>)
+- 📰 [Presidente do TSE afirma que Justiça Eleitoral assegura votação pacífica](<https://www.rcwtv.com.br/noticia/presidente-do-tse-afirma-que-justica-eleitoral-assegura-votacao-pacifica>)
+- 📰 [Votação na zona sul de SP tem ritmo rápido e pouca fila no Paraíso](<https://www.rcwtv.com.br/noticia/votacao-na-zona-sul-de-sp-tem-ritmo-rapido-e-pouca-fila-no-paraiso>)
+- 📰 [TRE-SP substitui 32 urnas eletrônicas nas primeiras horas de votação](<https://www.rcwtv.com.br/noticia/tre-sp-substitui-32-urnas-eletronicas-nas-primeiras-horas-de-votacao>)
+- 📰 [Após emissão da "zerésima", seções eleitorais registram filas e movimentação intensa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/apos-emissao-da-zeresima-secoes-eleitorais-registram-filas-e-movimentacao-intensa-em-juiz-de-fora>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
