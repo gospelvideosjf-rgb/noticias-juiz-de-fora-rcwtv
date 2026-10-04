@@ -600,3 +600,9 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [TSE valida sistemas eleitorais e emite relatório de zerézima](<https://www.rcwtv.com.br/noticia/tse-valida-sistemas-eleitorais-e-emite-relatorio-de-zerezima>) - *03/10/2026*
 - [Novo recorde no valor de mercado da Petrobras após descoberta no Amapá](<https://www.rcwtv.com.br/noticia/novo-recorde-no-valor-de-mercado-da-petrobras-apos-descoberta-no-amapa>) - *03/10/2026*
 
+### Atualização de 04/10/2026
+- [Eleições 2026: aplicativo e-Título permite justificar ausência pelo celular](<https://www.rcwtv.com.br/noticia/eleicoes-2026-aplicativo-e-titulo-permite-justificar-ausencia-pelo-celular>) - *04/10/2026*
+- [Preparativos para as eleições de 2026: mais de 158 milhões vão às urnas](<https://www.rcwtv.com.br/noticia/preparativos-para-as-eleicoes-de-2026-mais-de-158-milhoes-vao-as-urnas>) - *04/10/2026*
+- [Candidatos à Presidência encerram campanha política com atos na véspera do pleito](<https://www.rcwtv.com.br/noticia/candidatos-a-presidencia-encerram-campanha-politica-com-atos-na-vespera-do-pleito>) - *04/10/2026*
+- [Saiba quem pode levar acompanhante na cabine de votação durante as eleições](<https://www.rcwtv.com.br/noticia/saiba-quem-pode-levar-acompanhante-na-cabine-de-votacao-durante-as-eleicoes>) - *04/10/2026*
+
