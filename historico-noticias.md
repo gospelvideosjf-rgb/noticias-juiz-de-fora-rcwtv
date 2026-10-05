@@ -618,3 +618,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [TRE-SP substitui 32 urnas eletrônicas nas primeiras horas de votação](<https://www.rcwtv.com.br/noticia/tre-sp-substitui-32-urnas-eletronicas-nas-primeiras-horas-de-votacao>) - *04/10/2026*
 - [Após emissão da "zerésima", seções eleitorais registram filas e movimentação intensa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/apos-emissao-da-zeresima-secoes-eleitorais-registram-filas-e-movimentacao-intensa-em-juiz-de-fora>) - *04/10/2026*
 
+### Atualização de 05/10/2026
+- [Marcelina do Nascimento se destaca no Parajiu-Jitsu e leva o nome de Juiz de Fora ao circuito ADCC](<https://www.rcwtv.com.br/noticia/marcelina-do-nascimento-se-destaca-no-parajiu-jitsu-e-leva-o-nome-de-juiz-de-fora-ao-circuito-adcc>) - *05/10/2026*
+- [PL elege 19 senadores em 2026 e lidera nova composição da Casa](<https://www.rcwtv.com.br/noticia/pl-elege-19-senadores-em-2026-e-lidera-nova-composicao-da-casa>) - *05/10/2026*
+- [Eleições 2026: conheça quem garantiu vaga como deputado federal em São Paulo](<https://www.rcwtv.com.br/noticia/eleicoes-2026-conheca-quem-garantiu-vaga-como-deputado-federal-em-sao-paulo>) - *05/10/2026*
+- [Coluna MG destaca Divinópolis como fenômeno político e economia estadual](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-divinopolis-como-fenomeno-politico-e-economia-estadual>) - *05/10/2026*
+- [Vendas financiadas de casas crescem 11,8% no Brasil e superam avanço dos apartamentos em 2026](<https://www.rcwtv.com.br/noticia/vendas-financiadas-de-casas-crescem-11-8-no-brasil-e-superam-avanco-dos-apartamentos-em-2026>) - *05/10/2026*
+- [Acidentes deixam mortos e feridos em cidades da Zona da Mata e região](<https://www.rcwtv.com.br/noticia/acidentes-deixam-mortos-e-feridos-em-cidades-da-zona-da-mata-e-regiao>) - *05/10/2026*
+- [Governadores eleitos e senadores: confira o panorama completo do pleito](<https://www.rcwtv.com.br/noticia/governadores-eleitos-e-senadores-confira-o-panorama-completo-do-pleito>) - *05/10/2026*
+- [Conheça o deputado federal mais votado em cada estado nas eleições](<https://www.rcwtv.com.br/noticia/conheca-o-deputado-federal-mais-votado-em-cada-estado-nas-eleicoes>) - *05/10/2026*
+- [Vereadores de Juiz de Fora são eleitos para ALMG e Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/vereadores-de-juiz-de-fora-sao-eleitos-para-almg-e-camara-dos-deputados>) - *05/10/2026*
+- [CeMEAI encerra trajetória com legado de aplicação da matemática a problemas concretos](<https://www.rcwtv.com.br/noticia/cemeai-encerra-trajetoria-com-legado-de-aplicacao-da-matematica-a-problemas-concretos>) - *05/10/2026*
+

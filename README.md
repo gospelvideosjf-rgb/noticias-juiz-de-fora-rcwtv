@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [PF apreende mais de R$ 30 milhões em combate a crimes eleitorais em 2026](<https://www.rcwtv.com.br/noticia/pf-apreende-mais-de-r-30-milhoes-em-combate-a-crimes-eleitorais-em-2026>)
-- 📰 [TRE-MG investiga se Romeu Zema cometeu crime eleitoral ao usar celular na votação](<https://www.rcwtv.com.br/noticia/tre-mg-investiga-se-romeu-zema-cometeu-crime-eleitoral-ao-usar-celular-na-votacao>)
-- 📰 [Votação das Eleições Gerais termina às 17h deste domingo em todo o país](<https://www.rcwtv.com.br/noticia/votacao-das-eleicoes-gerais-termina-as-17h-deste-domingo-em-todo-o-pais>)
-- 📰 [Justificativa de voto: saiba como regularizar o título e evitar multas](<https://www.rcwtv.com.br/noticia/justificativa-de-voto-saiba-como-regularizar-o-titulo-e-evitar-multas>)
-- 📰 [Romeu Zema é flagrado com celular na cabina de voto e episódio gera contestação sobre regras eleitorais](<https://www.rcwtv.com.br/noticia/romeu-zema-e-flagrado-com-celular-na-cabina-de-voto-e-episodio-gera-contestacao-sobre-regras-eleitorais>)
-- 📰 [Juiz de Fora é a 3ª cidade de Minas com mais queixas no Pardal e amanhece com materiais de campanha nas ruas](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-a-3-cidade-de-minas-com-mais-queixas-no-pardal-e-amanhece-com-materiais-de-campanha-nas-ruas>)
-- 📰 [Presidente do TSE afirma que Justiça Eleitoral assegura votação pacífica](<https://www.rcwtv.com.br/noticia/presidente-do-tse-afirma-que-justica-eleitoral-assegura-votacao-pacifica>)
-- 📰 [Votação na zona sul de SP tem ritmo rápido e pouca fila no Paraíso](<https://www.rcwtv.com.br/noticia/votacao-na-zona-sul-de-sp-tem-ritmo-rapido-e-pouca-fila-no-paraiso>)
-- 📰 [TRE-SP substitui 32 urnas eletrônicas nas primeiras horas de votação](<https://www.rcwtv.com.br/noticia/tre-sp-substitui-32-urnas-eletronicas-nas-primeiras-horas-de-votacao>)
-- 📰 [Após emissão da "zerésima", seções eleitorais registram filas e movimentação intensa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/apos-emissao-da-zeresima-secoes-eleitorais-registram-filas-e-movimentacao-intensa-em-juiz-de-fora>)
+- 📰 [Marcelina do Nascimento se destaca no Parajiu-Jitsu e leva o nome de Juiz de Fora ao circuito ADCC](<https://www.rcwtv.com.br/noticia/marcelina-do-nascimento-se-destaca-no-parajiu-jitsu-e-leva-o-nome-de-juiz-de-fora-ao-circuito-adcc>)
+- 📰 [PL elege 19 senadores em 2026 e lidera nova composição da Casa](<https://www.rcwtv.com.br/noticia/pl-elege-19-senadores-em-2026-e-lidera-nova-composicao-da-casa>)
+- 📰 [Eleições 2026: conheça quem garantiu vaga como deputado federal em São Paulo](<https://www.rcwtv.com.br/noticia/eleicoes-2026-conheca-quem-garantiu-vaga-como-deputado-federal-em-sao-paulo>)
+- 📰 [Coluna MG destaca Divinópolis como fenômeno político e economia estadual](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-divinopolis-como-fenomeno-politico-e-economia-estadual>)
+- 📰 [Vendas financiadas de casas crescem 11,8% no Brasil e superam avanço dos apartamentos em 2026](<https://www.rcwtv.com.br/noticia/vendas-financiadas-de-casas-crescem-11-8-no-brasil-e-superam-avanco-dos-apartamentos-em-2026>)
+- 📰 [Acidentes deixam mortos e feridos em cidades da Zona da Mata e região](<https://www.rcwtv.com.br/noticia/acidentes-deixam-mortos-e-feridos-em-cidades-da-zona-da-mata-e-regiao>)
+- 📰 [Governadores eleitos e senadores: confira o panorama completo do pleito](<https://www.rcwtv.com.br/noticia/governadores-eleitos-e-senadores-confira-o-panorama-completo-do-pleito>)
+- 📰 [Conheça o deputado federal mais votado em cada estado nas eleições](<https://www.rcwtv.com.br/noticia/conheca-o-deputado-federal-mais-votado-em-cada-estado-nas-eleicoes>)
+- 📰 [Vereadores de Juiz de Fora são eleitos para ALMG e Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/vereadores-de-juiz-de-fora-sao-eleitos-para-almg-e-camara-dos-deputados>)
+- 📰 [CeMEAI encerra trajetória com legado de aplicação da matemática a problemas concretos](<https://www.rcwtv.com.br/noticia/cemeai-encerra-trajetoria-com-legado-de-aplicacao-da-matematica-a-problemas-concretos>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
