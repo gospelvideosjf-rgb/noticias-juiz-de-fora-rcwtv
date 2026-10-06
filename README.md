@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Gráfica em BH: soluções gráficas no Mercado Novo](<https://www.rcwtv.com.br/noticia/grafica-em-bh-solucoes-graficas-no-mercado-novo>)
-- 📰 [Bancada feminina bate recorde histórico no Congresso Nacional](<https://www.rcwtv.com.br/noticia/bancada-feminina-bate-recorde-historico-no-congresso-nacional>)
-- 📰 [TSE analisa recurso de Garotinho que pode definir eleição no Rio](<https://www.rcwtv.com.br/noticia/tse-analisa-recurso-de-garotinho-que-pode-definir-eleicao-no-rio>)
-- 📰 [Nova composição da Câmara dos Deputados tem recorde feminino e renovação de 35%](<https://www.rcwtv.com.br/noticia/nova-composicao-da-camara-dos-deputados-tem-recorde-feminino-e-renovacao-de-35>)
-- 📰 [Polícia federal apreende milhões no primeiro turno das eleições](<https://www.rcwtv.com.br/noticia/policia-federal-apreende-milhoes-no-primeiro-turno-das-eleicoes>)
-- 📰 [Como abrir uma empresa de serviços em 2026 e quanto pagar de impostos](<https://www.rcwtv.com.br/noticia/como-abrir-uma-empresa-de-servicos-em-2026-e-quanto-pagar-de-impostos>)
-- 📰 [Demlurb abre inscrições infantis para projeto que apresenta a rotina da limpeza urbana em Juiz de Fora](<https://www.rcwtv.com.br/noticia/demlurb-abre-inscricoes-infantis-para-projeto-que-apresenta-a-rotina-da-limpeza-urbana-em-juiz-de-fora>)
-- 📰 [Juiz de Fora inicia vacinação contra pneumonia e meningite para idosos de 85 anos ou mais nesta terça-feira](<https://www.rcwtv.com.br/noticia/juiz-de-fora-inicia-vacinacao-contra-pneumonia-e-meningite-para-idosos-de-85-anos-ou-mais-nesta-terca-feira>)
-- 📰 [Avenida Presidente Itamar Franco tem interdição parcial a partir desta terça para demolição de imóveis em área de risco](<https://www.rcwtv.com.br/noticia/avenida-presidente-itamar-franco-tem-interdicao-parcial-a-partir-desta-terca-para-demolicao-de-imoveis-em-area-de-risco>)
-- 📰 [PL lidera número de deputados federais reeleitos e novos na Câmara](<https://www.rcwtv.com.br/noticia/pl-lidera-numero-de-deputados-federais-reeleitos-e-novos-na-camara>)
+- 📰 [Contabilidade em Minas Gerais com atendimento nacional](<https://www.rcwtv.com.br/noticia/contabilidade-em-minas-gerais-com-atendimento-nacional>)
+- 📰 [Ascomóvel oferece triagem e encaminhamento para mamografias gratuitas nesta terça-feira em Juiz de Fora](<https://www.rcwtv.com.br/noticia/ascomovel-oferece-triagem-e-encaminhamento-para-mamografias-gratuitas-nesta-terca-feira-em-juiz-de-fora>)
+- 📰 [Guarda Municipal de Juiz de Fora promove capacitação para corporações de Minas Gerais](<https://www.rcwtv.com.br/noticia/guarda-municipal-de-juiz-de-fora-promove-capacitacao-para-corporacoes-de-minas-gerais>)
+- 📰 [AGU pede ao STF que mantenha a proibição das bets no Brasil](<https://www.rcwtv.com.br/noticia/agu-pede-ao-stf-que-mantenha-a-proibicao-das-bets-no-brasil>)
+- 📰 [Banco Central cria indicador para acompanhar reajustes salariais](<https://www.rcwtv.com.br/noticia/banco-central-cria-indicador-para-acompanhar-reajustes-salariais>)
+- 📰 [André Mendonça multa Flávio Bolsonaro por propaganda negativa contra Lula](<https://www.rcwtv.com.br/noticia/andre-mendonca-multa-flavio-bolsonaro-por-propaganda-negativa-contra-lula>)
+- 📰 [Supermercados de Minas Gerais registram alta de 3,12% no consumo](<https://www.rcwtv.com.br/noticia/supermercados-de-minas-gerais-registram-alta-de-3-12-no-consumo>)
+- 📰 [Início do bloqueio de bets e cronograma de devolução de saldos no Brasil](<https://www.rcwtv.com.br/noticia/inicio-do-bloqueio-de-bets-e-cronograma-de-devolucao-de-saldos-no-brasil>)
+- 📰 [Big techs descumprem regras eleitorais no dia da votação, aponta estudo](<https://www.rcwtv.com.br/noticia/big-techs-descumprem-regras-eleitorais-no-dia-da-votacao-aponta-estudo>)
+- 📰 [Alexandre de Moraes concede regime semiaberto a Débora do Batom](<https://www.rcwtv.com.br/noticia/alexandre-de-moraes-concede-regime-semiaberto-a-debora-do-batom>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

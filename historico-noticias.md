@@ -642,3 +642,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Avenida Presidente Itamar Franco tem interdição parcial a partir desta terça para demolição de imóveis em área de risco](<https://www.rcwtv.com.br/noticia/avenida-presidente-itamar-franco-tem-interdicao-parcial-a-partir-desta-terca-para-demolicao-de-imoveis-em-area-de-risco>) - *06/10/2026*
 - [PL lidera número de deputados federais reeleitos e novos na Câmara](<https://www.rcwtv.com.br/noticia/pl-lidera-numero-de-deputados-federais-reeleitos-e-novos-na-camara>) - *06/10/2026*
 
+### Atualização de 06/10/2026
+- [Contabilidade em Minas Gerais com atendimento nacional](<https://www.rcwtv.com.br/noticia/contabilidade-em-minas-gerais-com-atendimento-nacional>) - *06/10/2026*
+- [Ascomóvel oferece triagem e encaminhamento para mamografias gratuitas nesta terça-feira em Juiz de Fora](<https://www.rcwtv.com.br/noticia/ascomovel-oferece-triagem-e-encaminhamento-para-mamografias-gratuitas-nesta-terca-feira-em-juiz-de-fora>) - *06/10/2026*
+- [Guarda Municipal de Juiz de Fora promove capacitação para corporações de Minas Gerais](<https://www.rcwtv.com.br/noticia/guarda-municipal-de-juiz-de-fora-promove-capacitacao-para-corporacoes-de-minas-gerais>) - *06/10/2026*
+- [AGU pede ao STF que mantenha a proibição das bets no Brasil](<https://www.rcwtv.com.br/noticia/agu-pede-ao-stf-que-mantenha-a-proibicao-das-bets-no-brasil>) - *06/10/2026*
+- [Banco Central cria indicador para acompanhar reajustes salariais](<https://www.rcwtv.com.br/noticia/banco-central-cria-indicador-para-acompanhar-reajustes-salariais>) - *06/10/2026*
+- [André Mendonça multa Flávio Bolsonaro por propaganda negativa contra Lula](<https://www.rcwtv.com.br/noticia/andre-mendonca-multa-flavio-bolsonaro-por-propaganda-negativa-contra-lula>) - *06/10/2026*
+- [Supermercados de Minas Gerais registram alta de 3,12% no consumo](<https://www.rcwtv.com.br/noticia/supermercados-de-minas-gerais-registram-alta-de-3-12-no-consumo>) - *06/10/2026*
+- [Início do bloqueio de bets e cronograma de devolução de saldos no Brasil](<https://www.rcwtv.com.br/noticia/inicio-do-bloqueio-de-bets-e-cronograma-de-devolucao-de-saldos-no-brasil>) - *06/10/2026*
+- [Big techs descumprem regras eleitorais no dia da votação, aponta estudo](<https://www.rcwtv.com.br/noticia/big-techs-descumprem-regras-eleitorais-no-dia-da-votacao-aponta-estudo>) - *06/10/2026*
+- [Alexandre de Moraes concede regime semiaberto a Débora do Batom](<https://www.rcwtv.com.br/noticia/alexandre-de-moraes-concede-regime-semiaberto-a-debora-do-batom>) - *06/10/2026*
+
