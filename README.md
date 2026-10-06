@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Marcelina do Nascimento se destaca no Parajiu-Jitsu e leva o nome de Juiz de Fora ao circuito ADCC](<https://www.rcwtv.com.br/noticia/marcelina-do-nascimento-se-destaca-no-parajiu-jitsu-e-leva-o-nome-de-juiz-de-fora-ao-circuito-adcc>)
-- 📰 [PL elege 19 senadores em 2026 e lidera nova composição da Casa](<https://www.rcwtv.com.br/noticia/pl-elege-19-senadores-em-2026-e-lidera-nova-composicao-da-casa>)
-- 📰 [Eleições 2026: conheça quem garantiu vaga como deputado federal em São Paulo](<https://www.rcwtv.com.br/noticia/eleicoes-2026-conheca-quem-garantiu-vaga-como-deputado-federal-em-sao-paulo>)
-- 📰 [Coluna MG destaca Divinópolis como fenômeno político e economia estadual](<https://www.rcwtv.com.br/noticia/coluna-mg-destaca-divinopolis-como-fenomeno-politico-e-economia-estadual>)
-- 📰 [Vendas financiadas de casas crescem 11,8% no Brasil e superam avanço dos apartamentos em 2026](<https://www.rcwtv.com.br/noticia/vendas-financiadas-de-casas-crescem-11-8-no-brasil-e-superam-avanco-dos-apartamentos-em-2026>)
-- 📰 [Acidentes deixam mortos e feridos em cidades da Zona da Mata e região](<https://www.rcwtv.com.br/noticia/acidentes-deixam-mortos-e-feridos-em-cidades-da-zona-da-mata-e-regiao>)
-- 📰 [Governadores eleitos e senadores: confira o panorama completo do pleito](<https://www.rcwtv.com.br/noticia/governadores-eleitos-e-senadores-confira-o-panorama-completo-do-pleito>)
-- 📰 [Conheça o deputado federal mais votado em cada estado nas eleições](<https://www.rcwtv.com.br/noticia/conheca-o-deputado-federal-mais-votado-em-cada-estado-nas-eleicoes>)
-- 📰 [Vereadores de Juiz de Fora são eleitos para ALMG e Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/vereadores-de-juiz-de-fora-sao-eleitos-para-almg-e-camara-dos-deputados>)
-- 📰 [CeMEAI encerra trajetória com legado de aplicação da matemática a problemas concretos](<https://www.rcwtv.com.br/noticia/cemeai-encerra-trajetoria-com-legado-de-aplicacao-da-matematica-a-problemas-concretos>)
+- 📰 [Gráfica em BH: soluções gráficas no Mercado Novo](<https://www.rcwtv.com.br/noticia/grafica-em-bh-solucoes-graficas-no-mercado-novo>)
+- 📰 [Bancada feminina bate recorde histórico no Congresso Nacional](<https://www.rcwtv.com.br/noticia/bancada-feminina-bate-recorde-historico-no-congresso-nacional>)
+- 📰 [TSE analisa recurso de Garotinho que pode definir eleição no Rio](<https://www.rcwtv.com.br/noticia/tse-analisa-recurso-de-garotinho-que-pode-definir-eleicao-no-rio>)
+- 📰 [Nova composição da Câmara dos Deputados tem recorde feminino e renovação de 35%](<https://www.rcwtv.com.br/noticia/nova-composicao-da-camara-dos-deputados-tem-recorde-feminino-e-renovacao-de-35>)
+- 📰 [Polícia federal apreende milhões no primeiro turno das eleições](<https://www.rcwtv.com.br/noticia/policia-federal-apreende-milhoes-no-primeiro-turno-das-eleicoes>)
+- 📰 [Como abrir uma empresa de serviços em 2026 e quanto pagar de impostos](<https://www.rcwtv.com.br/noticia/como-abrir-uma-empresa-de-servicos-em-2026-e-quanto-pagar-de-impostos>)
+- 📰 [Demlurb abre inscrições infantis para projeto que apresenta a rotina da limpeza urbana em Juiz de Fora](<https://www.rcwtv.com.br/noticia/demlurb-abre-inscricoes-infantis-para-projeto-que-apresenta-a-rotina-da-limpeza-urbana-em-juiz-de-fora>)
+- 📰 [Juiz de Fora inicia vacinação contra pneumonia e meningite para idosos de 85 anos ou mais nesta terça-feira](<https://www.rcwtv.com.br/noticia/juiz-de-fora-inicia-vacinacao-contra-pneumonia-e-meningite-para-idosos-de-85-anos-ou-mais-nesta-terca-feira>)
+- 📰 [Avenida Presidente Itamar Franco tem interdição parcial a partir desta terça para demolição de imóveis em área de risco](<https://www.rcwtv.com.br/noticia/avenida-presidente-itamar-franco-tem-interdicao-parcial-a-partir-desta-terca-para-demolicao-de-imoveis-em-area-de-risco>)
+- 📰 [PL lidera número de deputados federais reeleitos e novos na Câmara](<https://www.rcwtv.com.br/noticia/pl-lidera-numero-de-deputados-federais-reeleitos-e-novos-na-camara>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

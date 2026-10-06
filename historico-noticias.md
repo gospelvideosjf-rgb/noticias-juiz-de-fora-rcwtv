@@ -630,3 +630,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Vereadores de Juiz de Fora são eleitos para ALMG e Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/vereadores-de-juiz-de-fora-sao-eleitos-para-almg-e-camara-dos-deputados>) - *05/10/2026*
 - [CeMEAI encerra trajetória com legado de aplicação da matemática a problemas concretos](<https://www.rcwtv.com.br/noticia/cemeai-encerra-trajetoria-com-legado-de-aplicacao-da-matematica-a-problemas-concretos>) - *05/10/2026*
 
+### Atualização de 06/10/2026
+- [Gráfica em BH: soluções gráficas no Mercado Novo](<https://www.rcwtv.com.br/noticia/grafica-em-bh-solucoes-graficas-no-mercado-novo>) - *06/10/2026*
+- [Bancada feminina bate recorde histórico no Congresso Nacional](<https://www.rcwtv.com.br/noticia/bancada-feminina-bate-recorde-historico-no-congresso-nacional>) - *06/10/2026*
+- [TSE analisa recurso de Garotinho que pode definir eleição no Rio](<https://www.rcwtv.com.br/noticia/tse-analisa-recurso-de-garotinho-que-pode-definir-eleicao-no-rio>) - *06/10/2026*
+- [Nova composição da Câmara dos Deputados tem recorde feminino e renovação de 35%](<https://www.rcwtv.com.br/noticia/nova-composicao-da-camara-dos-deputados-tem-recorde-feminino-e-renovacao-de-35>) - *06/10/2026*
+- [Polícia federal apreende milhões no primeiro turno das eleições](<https://www.rcwtv.com.br/noticia/policia-federal-apreende-milhoes-no-primeiro-turno-das-eleicoes>) - *06/10/2026*
+- [Como abrir uma empresa de serviços em 2026 e quanto pagar de impostos](<https://www.rcwtv.com.br/noticia/como-abrir-uma-empresa-de-servicos-em-2026-e-quanto-pagar-de-impostos>) - *06/10/2026*
+- [Demlurb abre inscrições infantis para projeto que apresenta a rotina da limpeza urbana em Juiz de Fora](<https://www.rcwtv.com.br/noticia/demlurb-abre-inscricoes-infantis-para-projeto-que-apresenta-a-rotina-da-limpeza-urbana-em-juiz-de-fora>) - *06/10/2026*
+- [Juiz de Fora inicia vacinação contra pneumonia e meningite para idosos de 85 anos ou mais nesta terça-feira](<https://www.rcwtv.com.br/noticia/juiz-de-fora-inicia-vacinacao-contra-pneumonia-e-meningite-para-idosos-de-85-anos-ou-mais-nesta-terca-feira>) - *06/10/2026*
+- [Avenida Presidente Itamar Franco tem interdição parcial a partir desta terça para demolição de imóveis em área de risco](<https://www.rcwtv.com.br/noticia/avenida-presidente-itamar-franco-tem-interdicao-parcial-a-partir-desta-terca-para-demolicao-de-imoveis-em-area-de-risco>) - *06/10/2026*
+- [PL lidera número de deputados federais reeleitos e novos na Câmara](<https://www.rcwtv.com.br/noticia/pl-lidera-numero-de-deputados-federais-reeleitos-e-novos-na-camara>) - *06/10/2026*
+
