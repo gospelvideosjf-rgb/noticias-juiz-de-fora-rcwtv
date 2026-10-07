@@ -666,3 +666,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Seleção Brasileira Feminina defende ampla hegemonia diante da Argentina em amistosos preparatórios para a Copa de 2027](<https://www.rcwtv.com.br/noticia/selecao-brasileira-feminina-defende-ampla-hegemonia-diante-da-argentina-em-amistosos-preparatorios-para-a-copa-de-2027>) - *07/10/2026*
 - [Projeto prevê uso de prêmios de bets para quitar pensão alimentícia](<https://www.rcwtv.com.br/noticia/projeto-preve-uso-de-premios-de-bets-para-quitar-pensao-alimenticia>) - *07/10/2026*
 
+### Atualização de 07/10/2026
+- [anp realiza nesta quarta-feira o maior leilão de blocos de petróleo da história](<https://www.rcwtv.com.br/noticia/anp-realiza-nesta-quarta-feira-o-maior-leilao-de-blocos-de-petroleo-da-historia>) - *07/10/2026*
+- [Inmet divulga previsão do tempo com calor extremo e alertas de tempestades](<https://www.rcwtv.com.br/noticia/inmet-divulga-previsao-do-tempo-com-calor-extremo-e-alertas-de-tempestades>) - *07/10/2026*
+- [SAMU atende cinco vítimas de acidentes em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-tres-mulheres-apos-acidentes-em-cataguases-e-juiz-de-fora>) - *07/10/2026*
+- [Fies 2026/2: faculdades particulares podem cadastrar vagas até quarta](<https://www.rcwtv.com.br/noticia/fies-2026-2-faculdades-particulares-podem-cadastrar-vagas-ate-quarta>) - *07/10/2026*
+- [IEL MG aposta em inovação e gestão para preparar indústrias para o futuro](<https://www.rcwtv.com.br/noticia/iel-mg-aposta-em-inovacao-e-gestao-para-preparar-industrias-para-o-futuro>) - *07/10/2026*
+- [JF Saborzinho reúne sete crianças na grande final nesta quinta-feira em Juiz de Fora](<https://www.rcwtv.com.br/noticia/jf-saborzinho-reune-sete-criancas-na-grande-final-nesta-quinta-feira-em-juiz-de-fora>) - *07/10/2026*
+- [Julgamento no TSE pode definir vitória de Douglas Ruas no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/julgamento-no-tse-pode-definir-vitoria-de-douglas-ruas-no-rio-de-janeiro>) - *07/10/2026*
+- [Mega-Sena acumula e prêmio vai a R$ 100 milhões para o próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-vai-a-r-100-milhoes-para-o-proximo-sorteio>) - *07/10/2026*
+- [OAB-RJ cobra rápida decisão do TSE sobre a eleição no estado](<https://www.rcwtv.com.br/noticia/oab-rj-cobra-rapida-decisao-do-tse-sobre-a-eleicao-no-estado>) - *07/10/2026*
+- [Projeto prevê isenção de licenciamento para igrejas e sindicatos](<https://www.rcwtv.com.br/noticia/projeto-preve-isencao-de-licenciamento-para-igrejas-e-sindicatos>) - *07/10/2026*
+
