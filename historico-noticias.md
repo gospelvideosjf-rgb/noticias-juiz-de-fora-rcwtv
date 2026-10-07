@@ -654,3 +654,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Big techs descumprem regras eleitorais no dia da votação, aponta estudo](<https://www.rcwtv.com.br/noticia/big-techs-descumprem-regras-eleitorais-no-dia-da-votacao-aponta-estudo>) - *06/10/2026*
 - [Alexandre de Moraes concede regime semiaberto a Débora do Batom](<https://www.rcwtv.com.br/noticia/alexandre-de-moraes-concede-regime-semiaberto-a-debora-do-batom>) - *06/10/2026*
 
+### Atualização de 07/10/2026
+- [TSE esclarece que dados de comparecimento de eleitores estão em processamento](<https://www.rcwtv.com.br/noticia/tse-esclarece-que-dados-de-comparecimento-de-eleitores-estao-em-processamento>) - *07/10/2026*
+- [TSE desmente boato e esclarece pausa na apuração dos votos](<https://www.rcwtv.com.br/noticia/tse-desmente-boato-e-esclarece-pausa-na-apuracao-dos-votos>) - *07/10/2026*
+- [Projeto combate divulgação de crueldade contra animais na internet](<https://www.rcwtv.com.br/noticia/projeto-combate-divulgacao-de-crueldade-contra-animais-na-internet>) - *07/10/2026*
+- [Davi Alcolumbre define cronograma para votar o fim da escala 6x1 no Senado](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-define-cronograma-para-votar-o-fim-da-escala-6x1-no-senado>) - *07/10/2026*
+- [Novo perfil do Congresso Nacional deve alterar pautas prioritárias](<https://www.rcwtv.com.br/noticia/novo-perfil-do-congresso-nacional-deve-alterar-pautas-prioritarias>) - *07/10/2026*
+- [Câmara analisa projeto que regulamenta o registro digital de imóveis no Brasil](<https://www.rcwtv.com.br/noticia/camara-analisa-projeto-que-regulamenta-o-registro-digital-de-imoveis-no-brasil>) - *07/10/2026*
+- [Balança comercial registra superávit de US$ 7,74 bilhões em setembro](<https://www.rcwtv.com.br/noticia/balanca-comercial-registra-superavit-de-us-7-74-bilhoes-em-setembro>) - *07/10/2026*
+- [Operação Comércio Legal recolhe mais de 2,5 mil produtos irregulares nas ruas de Juiz de Fora em setembro](<https://www.rcwtv.com.br/noticia/operacao-comercio-legal-recolhe-mais-de-2-5-mil-produtos-irregulares-nas-ruas-de-juiz-de-fora-em-setembro>) - *07/10/2026*
+- [Seleção Brasileira Feminina defende ampla hegemonia diante da Argentina em amistosos preparatórios para a Copa de 2027](<https://www.rcwtv.com.br/noticia/selecao-brasileira-feminina-defende-ampla-hegemonia-diante-da-argentina-em-amistosos-preparatorios-para-a-copa-de-2027>) - *07/10/2026*
+- [Projeto prevê uso de prêmios de bets para quitar pensão alimentícia](<https://www.rcwtv.com.br/noticia/projeto-preve-uso-de-premios-de-bets-para-quitar-pensao-alimenticia>) - *07/10/2026*
+
