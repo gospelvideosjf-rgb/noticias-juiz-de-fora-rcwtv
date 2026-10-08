@@ -678,3 +678,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [OAB-RJ cobra rápida decisão do TSE sobre a eleição no estado](<https://www.rcwtv.com.br/noticia/oab-rj-cobra-rapida-decisao-do-tse-sobre-a-eleicao-no-estado>) - *07/10/2026*
 - [Projeto prevê isenção de licenciamento para igrejas e sindicatos](<https://www.rcwtv.com.br/noticia/projeto-preve-isencao-de-licenciamento-para-igrejas-e-sindicatos>) - *07/10/2026*
 
+### Atualização de 08/10/2026
+- [Estudantes protestam no Rio de Janeiro de olho nas eleições de 2026](<https://www.rcwtv.com.br/noticia/estudantes-protestam-no-rio-de-janeiro-de-olho-nas-eleicoes-de-2026>) - *08/10/2026*
+- [Ceagesp cria área provisória após incêndio na Ceagesp](<https://www.rcwtv.com.br/noticia/ceagesp-cria-area-provisoria-apos-incendio-na-ceagesp>) - *08/10/2026*
+- [Câmara avalia incentivo fiscal para empresas que compram de catadores](<https://www.rcwtv.com.br/noticia/camara-avalia-incentivo-fiscal-para-empresas-que-compram-de-catadores>) - *08/10/2026*
+- [Proposta de tolerância zero contra vandalismo urbano prevê multas pesadas](<https://www.rcwtv.com.br/noticia/proposta-de-tolerancia-zero-contra-vandalismo-urbano-preve-multas-pesadas>) - *08/10/2026*
+- [Veto sobre casas de apostas retiram R$ 6,5 bilhões de circulação em 10 dias e abre debate sobre finanças e futebol](<https://www.rcwtv.com.br/noticia/veto-sobre-casas-de-apostas-retiram-r-6-5-bilhoes-de-circulacao-em-10-dias-e-abre-debate-sobre-financas-e-futebol>) - *08/10/2026*
+- [Investimento em saúde inteligente pode poupar 739 mil vidas no Brasil](<https://www.rcwtv.com.br/noticia/investimento-em-saude-inteligente-pode-poupar-739-mil-vidas-no-brasil>) - *08/10/2026*
+- [STF adia julgamento de Bolsonaro para depois do segundo turno das eleições](<https://www.rcwtv.com.br/noticia/stf-adia-julgamento-de-bolsonaro-para-depois-do-segundo-turno-das-eleicoes>) - *08/10/2026*
+- [Desconto em multas de trânsito para motoristas de aplicativo avança na Câmara](<https://www.rcwtv.com.br/noticia/desconto-em-multas-de-transito-para-motoristas-de-aplicativo-avanca-na-camara>) - *08/10/2026*
+- [Lula cobra Flávio Bolsonaro sobre apoio ao fim da escala 6x1 em discurso](<https://www.rcwtv.com.br/noticia/lula-cobra-flavio-bolsonaro-sobre-apoio-ao-fim-da-escala-6x1-em-discurso>) - *08/10/2026*
+- [Governo de Minas divulga 400 pré-selecionados para programa de intercâmbio internacional](<https://www.rcwtv.com.br/noticia/governo-de-minas-divulga-400-pre-selecionados-para-programa-de-intercambio-internacional>) - *08/10/2026*
+
