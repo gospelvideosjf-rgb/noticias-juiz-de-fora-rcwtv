@@ -690,3 +690,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Lula cobra Flávio Bolsonaro sobre apoio ao fim da escala 6x1 em discurso](<https://www.rcwtv.com.br/noticia/lula-cobra-flavio-bolsonaro-sobre-apoio-ao-fim-da-escala-6x1-em-discurso>) - *08/10/2026*
 - [Governo de Minas divulga 400 pré-selecionados para programa de intercâmbio internacional](<https://www.rcwtv.com.br/noticia/governo-de-minas-divulga-400-pre-selecionados-para-programa-de-intercambio-internacional>) - *08/10/2026*
 
+### Atualização de 08/10/2026
+- [Prefeitura de Juiz de Fora Autua Responsável por Remoção Irregular de Mureta em Minas Gerais](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-autua-responsavel-por-remocao-irregular-de-mureta-em-minas-gerais>) - *08/10/2026*
+- [Trânsito é normalizado na Avenida Presidente Itamar Franco após demolições](<https://www.rcwtv.com.br/noticia/transito-e-normalizado-na-avenida-presidente-itamar-franco-apos-demolicoes>) - *08/10/2026*
+- [Juiz de Fora realiza evento de adoção de cães e gatos neste sábado](<https://www.rcwtv.com.br/noticia/juiz-de-fora-realiza-evento-de-adocao-de-caes-e-gatos-neste-sabado>) - *08/10/2026*
+- [Denúncia anônima leva PM a apreender revólver municiado em Conselheiro Lafaiete](<https://www.rcwtv.com.br/noticia/denuncia-anonima-leva-pm-a-apreender-revolver-municiado-em-conselheiro-lafaiete>) - *08/10/2026*
+- [SAMU atende três vítimas de acidentes em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-tres-vitimas-de-acidentes-em-cidades-da-zona-da-mata>) - *08/10/2026*
+- [TSE anula votos de Anthony Garotinho e define vitória no Rio](<https://www.rcwtv.com.br/noticia/tse-anula-votos-de-anthony-garotinho-e-define-vitoria-no-rio>) - *08/10/2026*
+- [Procon-MPMG multa Claro em cerca de R$ 1 milhão em Minas Gerais por alterações unilaterais em planos de telefonia](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-claro-em-cerca-de-r-1-milhao-em-minas-gerais-por-alteracoes-unilaterais-em-planos-de-telefonia>) - *08/10/2026*
+- [Concurso de cafés de Minas Gerais bate recorde com quase 2 mil amostras](<https://www.rcwtv.com.br/noticia/concurso-de-cafes-de-minas-gerais-bate-recorde-com-quase-2-mil-amostras>) - *08/10/2026*
+- [Inscritos no Enem 2026 devem escolher idioma da prova até 18 de outubro](<https://www.rcwtv.com.br/noticia/inscritos-no-enem-2026-devem-escolher-idioma-da-prova-ate-18-de-outubro>) - *08/10/2026*
+- [Câmara Mirim de Juiz de Fora elege Mesa Diretora de 2026](<https://www.rcwtv.com.br/noticia/camara-mirim-de-juiz-de-fora-elege-mesa-diretora-de-2026>) - *08/10/2026*
+

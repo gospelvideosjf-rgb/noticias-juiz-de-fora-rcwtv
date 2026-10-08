@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Estudantes protestam no Rio de Janeiro de olho nas eleições de 2026](<https://www.rcwtv.com.br/noticia/estudantes-protestam-no-rio-de-janeiro-de-olho-nas-eleicoes-de-2026>)
-- 📰 [Ceagesp cria área provisória após incêndio na Ceagesp](<https://www.rcwtv.com.br/noticia/ceagesp-cria-area-provisoria-apos-incendio-na-ceagesp>)
-- 📰 [Câmara avalia incentivo fiscal para empresas que compram de catadores](<https://www.rcwtv.com.br/noticia/camara-avalia-incentivo-fiscal-para-empresas-que-compram-de-catadores>)
-- 📰 [Proposta de tolerância zero contra vandalismo urbano prevê multas pesadas](<https://www.rcwtv.com.br/noticia/proposta-de-tolerancia-zero-contra-vandalismo-urbano-preve-multas-pesadas>)
-- 📰 [Veto sobre casas de apostas retiram R$ 6,5 bilhões de circulação em 10 dias e abre debate sobre finanças e futebol](<https://www.rcwtv.com.br/noticia/veto-sobre-casas-de-apostas-retiram-r-6-5-bilhoes-de-circulacao-em-10-dias-e-abre-debate-sobre-financas-e-futebol>)
-- 📰 [Investimento em saúde inteligente pode poupar 739 mil vidas no Brasil](<https://www.rcwtv.com.br/noticia/investimento-em-saude-inteligente-pode-poupar-739-mil-vidas-no-brasil>)
-- 📰 [STF adia julgamento de Bolsonaro para depois do segundo turno das eleições](<https://www.rcwtv.com.br/noticia/stf-adia-julgamento-de-bolsonaro-para-depois-do-segundo-turno-das-eleicoes>)
-- 📰 [Desconto em multas de trânsito para motoristas de aplicativo avança na Câmara](<https://www.rcwtv.com.br/noticia/desconto-em-multas-de-transito-para-motoristas-de-aplicativo-avanca-na-camara>)
-- 📰 [Lula cobra Flávio Bolsonaro sobre apoio ao fim da escala 6x1 em discurso](<https://www.rcwtv.com.br/noticia/lula-cobra-flavio-bolsonaro-sobre-apoio-ao-fim-da-escala-6x1-em-discurso>)
-- 📰 [Governo de Minas divulga 400 pré-selecionados para programa de intercâmbio internacional](<https://www.rcwtv.com.br/noticia/governo-de-minas-divulga-400-pre-selecionados-para-programa-de-intercambio-internacional>)
+- 📰 [Prefeitura de Juiz de Fora Autua Responsável por Remoção Irregular de Mureta em Minas Gerais](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-autua-responsavel-por-remocao-irregular-de-mureta-em-minas-gerais>)
+- 📰 [Trânsito é normalizado na Avenida Presidente Itamar Franco após demolições](<https://www.rcwtv.com.br/noticia/transito-e-normalizado-na-avenida-presidente-itamar-franco-apos-demolicoes>)
+- 📰 [Juiz de Fora realiza evento de adoção de cães e gatos neste sábado](<https://www.rcwtv.com.br/noticia/juiz-de-fora-realiza-evento-de-adocao-de-caes-e-gatos-neste-sabado>)
+- 📰 [Denúncia anônima leva PM a apreender revólver municiado em Conselheiro Lafaiete](<https://www.rcwtv.com.br/noticia/denuncia-anonima-leva-pm-a-apreender-revolver-municiado-em-conselheiro-lafaiete>)
+- 📰 [SAMU atende três vítimas de acidentes em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-tres-vitimas-de-acidentes-em-cidades-da-zona-da-mata>)
+- 📰 [TSE anula votos de Anthony Garotinho e define vitória no Rio](<https://www.rcwtv.com.br/noticia/tse-anula-votos-de-anthony-garotinho-e-define-vitoria-no-rio>)
+- 📰 [Procon-MPMG multa Claro em cerca de R$ 1 milhão em Minas Gerais por alterações unilaterais em planos de telefonia](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-claro-em-cerca-de-r-1-milhao-em-minas-gerais-por-alteracoes-unilaterais-em-planos-de-telefonia>)
+- 📰 [Concurso de cafés de Minas Gerais bate recorde com quase 2 mil amostras](<https://www.rcwtv.com.br/noticia/concurso-de-cafes-de-minas-gerais-bate-recorde-com-quase-2-mil-amostras>)
+- 📰 [Inscritos no Enem 2026 devem escolher idioma da prova até 18 de outubro](<https://www.rcwtv.com.br/noticia/inscritos-no-enem-2026-devem-escolher-idioma-da-prova-ate-18-de-outubro>)
+- 📰 [Câmara Mirim de Juiz de Fora elege Mesa Diretora de 2026](<https://www.rcwtv.com.br/noticia/camara-mirim-de-juiz-de-fora-elege-mesa-diretora-de-2026>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
