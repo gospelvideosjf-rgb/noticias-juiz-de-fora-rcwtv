@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Prefeitura de Juiz de Fora Autua Responsável por Remoção Irregular de Mureta em Minas Gerais](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-autua-responsavel-por-remocao-irregular-de-mureta-em-minas-gerais>)
-- 📰 [Trânsito é normalizado na Avenida Presidente Itamar Franco após demolições](<https://www.rcwtv.com.br/noticia/transito-e-normalizado-na-avenida-presidente-itamar-franco-apos-demolicoes>)
-- 📰 [Juiz de Fora realiza evento de adoção de cães e gatos neste sábado](<https://www.rcwtv.com.br/noticia/juiz-de-fora-realiza-evento-de-adocao-de-caes-e-gatos-neste-sabado>)
-- 📰 [Denúncia anônima leva PM a apreender revólver municiado em Conselheiro Lafaiete](<https://www.rcwtv.com.br/noticia/denuncia-anonima-leva-pm-a-apreender-revolver-municiado-em-conselheiro-lafaiete>)
-- 📰 [SAMU atende três vítimas de acidentes em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/samu-atende-tres-vitimas-de-acidentes-em-cidades-da-zona-da-mata>)
-- 📰 [TSE anula votos de Anthony Garotinho e define vitória no Rio](<https://www.rcwtv.com.br/noticia/tse-anula-votos-de-anthony-garotinho-e-define-vitoria-no-rio>)
-- 📰 [Procon-MPMG multa Claro em cerca de R$ 1 milhão em Minas Gerais por alterações unilaterais em planos de telefonia](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-claro-em-cerca-de-r-1-milhao-em-minas-gerais-por-alteracoes-unilaterais-em-planos-de-telefonia>)
-- 📰 [Concurso de cafés de Minas Gerais bate recorde com quase 2 mil amostras](<https://www.rcwtv.com.br/noticia/concurso-de-cafes-de-minas-gerais-bate-recorde-com-quase-2-mil-amostras>)
-- 📰 [Inscritos no Enem 2026 devem escolher idioma da prova até 18 de outubro](<https://www.rcwtv.com.br/noticia/inscritos-no-enem-2026-devem-escolher-idioma-da-prova-ate-18-de-outubro>)
-- 📰 [Câmara Mirim de Juiz de Fora elege Mesa Diretora de 2026](<https://www.rcwtv.com.br/noticia/camara-mirim-de-juiz-de-fora-elege-mesa-diretora-de-2026>)
+- 📰 [Aplicativo MEC Enem ganha reforço com novas questões para reta final](<https://www.rcwtv.com.br/noticia/aplicativo-mec-enem-ganha-reforco-com-novas-questoes-para-reta-final>)
+- 📰 [Governo enviará MP do Imposto Seletivo ao Congresso após as eleições](<https://www.rcwtv.com.br/noticia/governo-enviara-mp-do-imposto-seletivo-ao-congresso-apos-as-eleicoes>)
+- 📰 [Violência política cresce no Brasil e atinge principalmente as mulheres](<https://www.rcwtv.com.br/noticia/violencia-politica-cresce-no-brasil-e-atinge-principalmente-as-mulheres>)
+- 📰 [Veleiro Kat, da Família Schurmann, que já deu duas voltas ao mundo, abre para visitação gratuita em SC](<https://www.rcwtv.com.br/noticia/veleiro-kat-da-familia-schurmann-que-ja-deu-duas-voltas-ao-mundo-abre-para-visitacao-gratuita-em-sc>)
+- 📰 [Projeto define regras para combater a exploração sexual infantil no turismo](<https://www.rcwtv.com.br/noticia/projeto-define-regras-para-combater-a-exploracao-sexual-infantil-no-turismo>)
+- 📰 [Correios firmam acordo com AliExpress para acelerar entregas](<https://www.rcwtv.com.br/noticia/correios-firmam-acordo-com-aliexpress-para-acelerar-entregas>)
+- 📰 [Projeto autoriza Santas Casas a usarem licitações do governo para insumos](<https://www.rcwtv.com.br/noticia/projeto-autoriza-santas-casas-a-usarem-licitacoes-do-governo-para-insumos>)
+- 📰 [Polícia Civil apreende cerca de três quilos de cocaína no Bairro Nossa Senhora de Lourdes em Juiz de Fora](<https://www.rcwtv.com.br/noticia/policia-civil-apreende-cerca-de-tres-quilos-de-cocaina-no-bairro-nossa-senhora-de-lourdes-em-juiz-de-fora>)
+- 📰 [Operação Ponto Ômega prende cinco suspeitos de ligação com facção criminosa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/operacao-ponto-omega-prende-cinco-suspeitos-de-ligacao-com-faccao-criminosa-em-juiz-de-fora>)
+- 📰 [PCMG Conclui Inquérito de Acidente Fatal na Avenida JK em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/pcmg-conclui-inquerito-de-acidente-fatal-na-avenida-jk-em-juiz-de-fora-minas-gerais>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

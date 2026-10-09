@@ -702,3 +702,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Inscritos no Enem 2026 devem escolher idioma da prova até 18 de outubro](<https://www.rcwtv.com.br/noticia/inscritos-no-enem-2026-devem-escolher-idioma-da-prova-ate-18-de-outubro>) - *08/10/2026*
 - [Câmara Mirim de Juiz de Fora elege Mesa Diretora de 2026](<https://www.rcwtv.com.br/noticia/camara-mirim-de-juiz-de-fora-elege-mesa-diretora-de-2026>) - *08/10/2026*
 
+### Atualização de 09/10/2026
+- [Aplicativo MEC Enem ganha reforço com novas questões para reta final](<https://www.rcwtv.com.br/noticia/aplicativo-mec-enem-ganha-reforco-com-novas-questoes-para-reta-final>) - *09/10/2026*
+- [Governo enviará MP do Imposto Seletivo ao Congresso após as eleições](<https://www.rcwtv.com.br/noticia/governo-enviara-mp-do-imposto-seletivo-ao-congresso-apos-as-eleicoes>) - *09/10/2026*
+- [Violência política cresce no Brasil e atinge principalmente as mulheres](<https://www.rcwtv.com.br/noticia/violencia-politica-cresce-no-brasil-e-atinge-principalmente-as-mulheres>) - *09/10/2026*
+- [Veleiro Kat, da Família Schurmann, que já deu duas voltas ao mundo, abre para visitação gratuita em SC](<https://www.rcwtv.com.br/noticia/veleiro-kat-da-familia-schurmann-que-ja-deu-duas-voltas-ao-mundo-abre-para-visitacao-gratuita-em-sc>) - *09/10/2026*
+- [Projeto define regras para combater a exploração sexual infantil no turismo](<https://www.rcwtv.com.br/noticia/projeto-define-regras-para-combater-a-exploracao-sexual-infantil-no-turismo>) - *09/10/2026*
+- [Correios firmam acordo com AliExpress para acelerar entregas](<https://www.rcwtv.com.br/noticia/correios-firmam-acordo-com-aliexpress-para-acelerar-entregas>) - *09/10/2026*
+- [Projeto autoriza Santas Casas a usarem licitações do governo para insumos](<https://www.rcwtv.com.br/noticia/projeto-autoriza-santas-casas-a-usarem-licitacoes-do-governo-para-insumos>) - *09/10/2026*
+- [Polícia Civil apreende cerca de três quilos de cocaína no Bairro Nossa Senhora de Lourdes em Juiz de Fora](<https://www.rcwtv.com.br/noticia/policia-civil-apreende-cerca-de-tres-quilos-de-cocaina-no-bairro-nossa-senhora-de-lourdes-em-juiz-de-fora>) - *09/10/2026*
+- [Operação Ponto Ômega prende cinco suspeitos de ligação com facção criminosa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/operacao-ponto-omega-prende-cinco-suspeitos-de-ligacao-com-faccao-criminosa-em-juiz-de-fora>) - *09/10/2026*
+- [PCMG Conclui Inquérito de Acidente Fatal na Avenida JK em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/pcmg-conclui-inquerito-de-acidente-fatal-na-avenida-jk-em-juiz-de-fora-minas-gerais>) - *09/10/2026*
+
