@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Aplicativo MEC Enem ganha reforço com novas questões para reta final](<https://www.rcwtv.com.br/noticia/aplicativo-mec-enem-ganha-reforco-com-novas-questoes-para-reta-final>)
-- 📰 [Governo enviará MP do Imposto Seletivo ao Congresso após as eleições](<https://www.rcwtv.com.br/noticia/governo-enviara-mp-do-imposto-seletivo-ao-congresso-apos-as-eleicoes>)
-- 📰 [Violência política cresce no Brasil e atinge principalmente as mulheres](<https://www.rcwtv.com.br/noticia/violencia-politica-cresce-no-brasil-e-atinge-principalmente-as-mulheres>)
-- 📰 [Veleiro Kat, da Família Schurmann, que já deu duas voltas ao mundo, abre para visitação gratuita em SC](<https://www.rcwtv.com.br/noticia/veleiro-kat-da-familia-schurmann-que-ja-deu-duas-voltas-ao-mundo-abre-para-visitacao-gratuita-em-sc>)
-- 📰 [Projeto define regras para combater a exploração sexual infantil no turismo](<https://www.rcwtv.com.br/noticia/projeto-define-regras-para-combater-a-exploracao-sexual-infantil-no-turismo>)
-- 📰 [Correios firmam acordo com AliExpress para acelerar entregas](<https://www.rcwtv.com.br/noticia/correios-firmam-acordo-com-aliexpress-para-acelerar-entregas>)
-- 📰 [Projeto autoriza Santas Casas a usarem licitações do governo para insumos](<https://www.rcwtv.com.br/noticia/projeto-autoriza-santas-casas-a-usarem-licitacoes-do-governo-para-insumos>)
-- 📰 [Polícia Civil apreende cerca de três quilos de cocaína no Bairro Nossa Senhora de Lourdes em Juiz de Fora](<https://www.rcwtv.com.br/noticia/policia-civil-apreende-cerca-de-tres-quilos-de-cocaina-no-bairro-nossa-senhora-de-lourdes-em-juiz-de-fora>)
-- 📰 [Operação Ponto Ômega prende cinco suspeitos de ligação com facção criminosa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/operacao-ponto-omega-prende-cinco-suspeitos-de-ligacao-com-faccao-criminosa-em-juiz-de-fora>)
-- 📰 [PCMG Conclui Inquérito de Acidente Fatal na Avenida JK em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/pcmg-conclui-inquerito-de-acidente-fatal-na-avenida-jk-em-juiz-de-fora-minas-gerais>)
+- 📰 [Tampa Bay Buccaneers supera o Dallas Cowboys por 24 a 16 no AT&amp;T Stadium pela Semana 5 da NFL](<https://www.rcwtv.com.br/noticia/tampa-bay-buccaneers-supera-o-dallas-cowboys-por-24-a-16-no-at-t-stadium-pela-semana-5-da-nfl>)
+- 📰 [Polícia Civil prende quatro líderes de grupo criminoso em Conselheiro Lafaiete](<https://www.rcwtv.com.br/noticia/policia-civil-prende-quatro-lideres-de-grupo-criminoso-em-conselheiro-lafaiete>)
+- 📰 [Homem é preso em Juiz de Fora suspeito de praticar estupro contra a esposa e três filhos](<https://www.rcwtv.com.br/noticia/homem-e-preso-em-juiz-de-fora-suspeito-de-praticar-estupro-contra-a-esposa-e-tres-filhos>)
+- 📰 [Operações da Polícia Militar resultam em prisões, apreensões de drogas e incêndio criminoso na região](<https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-resultam-em-prisoes-apreensoes-de-drogas-e-incendio-criminoso-na-regiao>)
+- 📰 [Flamengo cede empate ao Santos com dois pênaltis de Neymar e Palmeiras bate o Bahia para colar na liderança](<https://www.rcwtv.com.br/noticia/flamengo-cede-empate-ao-santos-com-dois-penaltis-de-neymar-e-palmeiras-bate-o-bahia-para-colar-na-lideranca>)
+- 📰 [Lula defende fim da escala 6x1 e critica Banco Master em comício no DF](<https://www.rcwtv.com.br/noticia/lula-defende-fim-da-escala-6x1-e-critica-banco-master-em-comicio-no-df>)
+- 📰 [Fluminense goleia Coritiba com hat-trick de Savarino e Atlético-MG busca empate heroico com dez em Curitiba](<https://www.rcwtv.com.br/noticia/fluminense-goleia-coritiba-com-hat-trick-de-savarino-e-atletico-mg-busca-empate-heroico-com-dez-em-curitiba>)
+- 📰 [Confira as principais notícias de Minas Gerais com investimentos e novas leis](<https://www.rcwtv.com.br/noticia/confira-as-principais-noticias-de-minas-gerais-com-investimentos-e-novas-leis>)
+- 📰 [TSE ordena que Lula e Janja removam vídeos contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/tse-ordena-que-lula-e-janja-removam-videos-contra-flavio-bolsonaro>)
+- 📰 [Projeto propõe nova classificação etária para desenhos animados na Câmara](<https://www.rcwtv.com.br/noticia/projeto-propoe-nova-classificacao-etaria-para-desenhos-animados-na-camara>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

@@ -714,3 +714,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Operação Ponto Ômega prende cinco suspeitos de ligação com facção criminosa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/operacao-ponto-omega-prende-cinco-suspeitos-de-ligacao-com-faccao-criminosa-em-juiz-de-fora>) - *09/10/2026*
 - [PCMG Conclui Inquérito de Acidente Fatal na Avenida JK em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/pcmg-conclui-inquerito-de-acidente-fatal-na-avenida-jk-em-juiz-de-fora-minas-gerais>) - *09/10/2026*
 
+### Atualização de 09/10/2026
+- [Tampa Bay Buccaneers supera o Dallas Cowboys por 24 a 16 no AT&amp;T Stadium pela Semana 5 da NFL](<https://www.rcwtv.com.br/noticia/tampa-bay-buccaneers-supera-o-dallas-cowboys-por-24-a-16-no-at-t-stadium-pela-semana-5-da-nfl>) - *09/10/2026*
+- [Polícia Civil prende quatro líderes de grupo criminoso em Conselheiro Lafaiete](<https://www.rcwtv.com.br/noticia/policia-civil-prende-quatro-lideres-de-grupo-criminoso-em-conselheiro-lafaiete>) - *09/10/2026*
+- [Homem é preso em Juiz de Fora suspeito de praticar estupro contra a esposa e três filhos](<https://www.rcwtv.com.br/noticia/homem-e-preso-em-juiz-de-fora-suspeito-de-praticar-estupro-contra-a-esposa-e-tres-filhos>) - *09/10/2026*
+- [Operações da Polícia Militar resultam em prisões, apreensões de drogas e incêndio criminoso na região](<https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-resultam-em-prisoes-apreensoes-de-drogas-e-incendio-criminoso-na-regiao>) - *09/10/2026*
+- [Flamengo cede empate ao Santos com dois pênaltis de Neymar e Palmeiras bate o Bahia para colar na liderança](<https://www.rcwtv.com.br/noticia/flamengo-cede-empate-ao-santos-com-dois-penaltis-de-neymar-e-palmeiras-bate-o-bahia-para-colar-na-lideranca>) - *09/10/2026*
+- [Lula defende fim da escala 6x1 e critica Banco Master em comício no DF](<https://www.rcwtv.com.br/noticia/lula-defende-fim-da-escala-6x1-e-critica-banco-master-em-comicio-no-df>) - *09/10/2026*
+- [Fluminense goleia Coritiba com hat-trick de Savarino e Atlético-MG busca empate heroico com dez em Curitiba](<https://www.rcwtv.com.br/noticia/fluminense-goleia-coritiba-com-hat-trick-de-savarino-e-atletico-mg-busca-empate-heroico-com-dez-em-curitiba>) - *09/10/2026*
+- [Confira as principais notícias de Minas Gerais com investimentos e novas leis](<https://www.rcwtv.com.br/noticia/confira-as-principais-noticias-de-minas-gerais-com-investimentos-e-novas-leis>) - *09/10/2026*
+- [TSE ordena que Lula e Janja removam vídeos contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/tse-ordena-que-lula-e-janja-removam-videos-contra-flavio-bolsonaro>) - *09/10/2026*
+- [Projeto propõe nova classificação etária para desenhos animados na Câmara](<https://www.rcwtv.com.br/noticia/projeto-propoe-nova-classificacao-etaria-para-desenhos-animados-na-camara>) - *09/10/2026*
+
