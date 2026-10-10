@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Tampa Bay Buccaneers supera o Dallas Cowboys por 24 a 16 no AT&amp;T Stadium pela Semana 5 da NFL](<https://www.rcwtv.com.br/noticia/tampa-bay-buccaneers-supera-o-dallas-cowboys-por-24-a-16-no-at-t-stadium-pela-semana-5-da-nfl>)
-- 📰 [Polícia Civil prende quatro líderes de grupo criminoso em Conselheiro Lafaiete](<https://www.rcwtv.com.br/noticia/policia-civil-prende-quatro-lideres-de-grupo-criminoso-em-conselheiro-lafaiete>)
-- 📰 [Homem é preso em Juiz de Fora suspeito de praticar estupro contra a esposa e três filhos](<https://www.rcwtv.com.br/noticia/homem-e-preso-em-juiz-de-fora-suspeito-de-praticar-estupro-contra-a-esposa-e-tres-filhos>)
-- 📰 [Operações da Polícia Militar resultam em prisões, apreensões de drogas e incêndio criminoso na região](<https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-resultam-em-prisoes-apreensoes-de-drogas-e-incendio-criminoso-na-regiao>)
-- 📰 [Flamengo cede empate ao Santos com dois pênaltis de Neymar e Palmeiras bate o Bahia para colar na liderança](<https://www.rcwtv.com.br/noticia/flamengo-cede-empate-ao-santos-com-dois-penaltis-de-neymar-e-palmeiras-bate-o-bahia-para-colar-na-lideranca>)
-- 📰 [Lula defende fim da escala 6x1 e critica Banco Master em comício no DF](<https://www.rcwtv.com.br/noticia/lula-defende-fim-da-escala-6x1-e-critica-banco-master-em-comicio-no-df>)
-- 📰 [Fluminense goleia Coritiba com hat-trick de Savarino e Atlético-MG busca empate heroico com dez em Curitiba](<https://www.rcwtv.com.br/noticia/fluminense-goleia-coritiba-com-hat-trick-de-savarino-e-atletico-mg-busca-empate-heroico-com-dez-em-curitiba>)
-- 📰 [Confira as principais notícias de Minas Gerais com investimentos e novas leis](<https://www.rcwtv.com.br/noticia/confira-as-principais-noticias-de-minas-gerais-com-investimentos-e-novas-leis>)
-- 📰 [TSE ordena que Lula e Janja removam vídeos contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/tse-ordena-que-lula-e-janja-removam-videos-contra-flavio-bolsonaro>)
-- 📰 [Projeto propõe nova classificação etária para desenhos animados na Câmara](<https://www.rcwtv.com.br/noticia/projeto-propoe-nova-classificacao-etaria-para-desenhos-animados-na-camara>)
+- 📰 [Projeto de lei na câmara pune empresas que atrasarem pagamento de médicos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-na-camara-pune-empresas-que-atrasarem-pagamento-de-medicos>)
+- 📰 [Polícia Federal nega depoimento de Daniel Vorcaro sobre suposto financiamento a Lula](<https://www.rcwtv.com.br/noticia/policia-federal-nega-depoimento-de-daniel-vorcaro-sobre-suposto-financiamento-a-lula>)
+- 📰 [TSE aciona a Polícia Federal após servidores sofrerem ameaças virtuais](<https://www.rcwtv.com.br/noticia/tse-aciona-a-policia-federal-apos-servidores-sofrerem-ameacas-virtuais>)
+- 📰 [Reforma tributária: 86% das notas fiscais já destacam a CBS no país](<https://www.rcwtv.com.br/noticia/reforma-tributaria-86-das-notas-fiscais-ja-destacam-a-cbs-no-pais>)
+- 📰 [MPRJ denuncia mais oito policiais militares envolvidos na Operação Contenção](<https://www.rcwtv.com.br/noticia/mprj-denuncia-mais-oito-policiais-militares-envolvidos-na-operacao-contencao>)
+- 📰 [Projeto de lei regulamenta uso de luz de cortesia entre motoristas](<https://www.rcwtv.com.br/noticia/projeto-de-lei-regulamenta-uso-de-luz-de-cortesia-entre-motoristas>)
+- 📰 [Eduardo Bolsonaro entra em lista de prisão pendente após ordem do STF](<https://www.rcwtv.com.br/noticia/eduardo-bolsonaro-entra-em-lista-de-prisao-pendente-apos-ordem-do-stf>)
+- 📰 [Projeto cria programa nacional de proteção animal em análise na Câmara](<https://www.rcwtv.com.br/noticia/projeto-cria-programa-nacional-de-protecao-animal-em-analise-na-camara>)
+- 📰 [Bancos iniciam devolução de R$ 1,3 bilhão para apostadores de bets](<https://www.rcwtv.com.br/noticia/bancos-iniciam-devolucao-de-r-1-3-bilhao-para-apostadores-de-bets>)
+- 📰 [Vagou JF: novas oportunidades de emprego são divulgadas em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/vagou-jf-novas-oportunidades-de-emprego-sao-divulgadas-em-juiz-de-fora-minas-gerais>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

@@ -726,3 +726,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [TSE ordena que Lula e Janja removam vídeos contra Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/tse-ordena-que-lula-e-janja-removam-videos-contra-flavio-bolsonaro>) - *09/10/2026*
 - [Projeto propõe nova classificação etária para desenhos animados na Câmara](<https://www.rcwtv.com.br/noticia/projeto-propoe-nova-classificacao-etaria-para-desenhos-animados-na-camara>) - *09/10/2026*
 
+### Atualização de 10/10/2026
+- [Projeto de lei na câmara pune empresas que atrasarem pagamento de médicos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-na-camara-pune-empresas-que-atrasarem-pagamento-de-medicos>) - *10/10/2026*
+- [Polícia Federal nega depoimento de Daniel Vorcaro sobre suposto financiamento a Lula](<https://www.rcwtv.com.br/noticia/policia-federal-nega-depoimento-de-daniel-vorcaro-sobre-suposto-financiamento-a-lula>) - *10/10/2026*
+- [TSE aciona a Polícia Federal após servidores sofrerem ameaças virtuais](<https://www.rcwtv.com.br/noticia/tse-aciona-a-policia-federal-apos-servidores-sofrerem-ameacas-virtuais>) - *10/10/2026*
+- [Reforma tributária: 86% das notas fiscais já destacam a CBS no país](<https://www.rcwtv.com.br/noticia/reforma-tributaria-86-das-notas-fiscais-ja-destacam-a-cbs-no-pais>) - *10/10/2026*
+- [MPRJ denuncia mais oito policiais militares envolvidos na Operação Contenção](<https://www.rcwtv.com.br/noticia/mprj-denuncia-mais-oito-policiais-militares-envolvidos-na-operacao-contencao>) - *10/10/2026*
+- [Projeto de lei regulamenta uso de luz de cortesia entre motoristas](<https://www.rcwtv.com.br/noticia/projeto-de-lei-regulamenta-uso-de-luz-de-cortesia-entre-motoristas>) - *10/10/2026*
+- [Eduardo Bolsonaro entra em lista de prisão pendente após ordem do STF](<https://www.rcwtv.com.br/noticia/eduardo-bolsonaro-entra-em-lista-de-prisao-pendente-apos-ordem-do-stf>) - *10/10/2026*
+- [Projeto cria programa nacional de proteção animal em análise na Câmara](<https://www.rcwtv.com.br/noticia/projeto-cria-programa-nacional-de-protecao-animal-em-analise-na-camara>) - *10/10/2026*
+- [Bancos iniciam devolução de R$ 1,3 bilhão para apostadores de bets](<https://www.rcwtv.com.br/noticia/bancos-iniciam-devolucao-de-r-1-3-bilhao-para-apostadores-de-bets>) - *10/10/2026*
+- [Vagou JF: novas oportunidades de emprego são divulgadas em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/vagou-jf-novas-oportunidades-de-emprego-sao-divulgadas-em-juiz-de-fora-minas-gerais>) - *10/10/2026*
+
