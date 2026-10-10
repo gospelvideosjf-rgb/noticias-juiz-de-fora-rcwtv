@@ -738,3 +738,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Bancos iniciam devolução de R$ 1,3 bilhão para apostadores de bets](<https://www.rcwtv.com.br/noticia/bancos-iniciam-devolucao-de-r-1-3-bilhao-para-apostadores-de-bets>) - *10/10/2026*
 - [Vagou JF: novas oportunidades de emprego são divulgadas em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/vagou-jf-novas-oportunidades-de-emprego-sao-divulgadas-em-juiz-de-fora-minas-gerais>) - *10/10/2026*
 
+### Atualização de 10/10/2026
+- [Internação de José Sarney ocorre em UTI após cirurgia abdominal no Maranhão](<https://www.rcwtv.com.br/noticia/internacao-de-jose-sarney-ocorre-em-uti-apos-cirurgia-abdominal-no-maranhao>) - *10/10/2026*
+- [Crescimento alarmante da violência política de gênero marca o país em 2026](<https://www.rcwtv.com.br/noticia/crescimento-alarmante-da-violencia-politica-de-genero-marca-o-pais-em-2026>) - *10/10/2026*
+- [Polícia militar reforça patrulhamento no Rio de Janeiro para o feriado](<https://www.rcwtv.com.br/noticia/policia-militar-reforca-patrulhamento-no-rio-de-janeiro-para-o-feriado>) - *10/10/2026*
+- [Mega-sena sorteia prêmio acumulado estimado em r$ 112 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-estimado-em-r-112-milhoes>) - *10/10/2026*
+- [Anel de noivado: o que observar antes de escolher a joia do pedido META DESCRIPTION (145 caracteres) Metal, pedra, laudo e medida do dedo pesam mais na decisão do que o tamanho do diamante.](<https://www.rcwtv.com.br/noticia/anel-de-noivado-o-que-observar-antes-de-escolher-a-joia-do-pedido-meta-description-145-caracteres-metal-pedra-laudo-e-medida-do-dedo-pesam-mais-na-decisao-do-que-o-tamanho-do-diamante>) - *10/10/2026*
+- [Davi Alcolumbre agenda votação da PEC 6x1 no Senado para a próxima quarta-feira](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-agenda-votacao-da-pec-6x1-no-senado-para-a-proxima-quarta-feira>) - *10/10/2026*
+- [TSE determina suspensão de site com criptomoedas por apoio a Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/tse-determina-suspensao-de-site-com-criptomoedas-por-apoio-a-flavio-bolsonaro>) - *10/10/2026*
+- [TRF3 cassa liminar que liberava plataforma de apostas no país](<https://www.rcwtv.com.br/noticia/trf3-cassa-liminar-que-liberava-plataforma-de-apostas-no-pais>) - *10/10/2026*
+- [Governo do RJ aponta desvios de R$ 400 milhões na Cedae Saúde](<https://www.rcwtv.com.br/noticia/governo-do-rj-aponta-desvios-de-r-400-milhoes-na-cedae-saude>) - *10/10/2026*
+- [Estudantes realizam atos pelo país em defesa de Lula no segundo turno](<https://www.rcwtv.com.br/noticia/estudantes-realizam-atos-pelo-pais-em-defesa-de-lula-no-segundo-turno>) - *10/10/2026*
+

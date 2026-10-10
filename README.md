@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Projeto de lei na câmara pune empresas que atrasarem pagamento de médicos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-na-camara-pune-empresas-que-atrasarem-pagamento-de-medicos>)
-- 📰 [Polícia Federal nega depoimento de Daniel Vorcaro sobre suposto financiamento a Lula](<https://www.rcwtv.com.br/noticia/policia-federal-nega-depoimento-de-daniel-vorcaro-sobre-suposto-financiamento-a-lula>)
-- 📰 [TSE aciona a Polícia Federal após servidores sofrerem ameaças virtuais](<https://www.rcwtv.com.br/noticia/tse-aciona-a-policia-federal-apos-servidores-sofrerem-ameacas-virtuais>)
-- 📰 [Reforma tributária: 86% das notas fiscais já destacam a CBS no país](<https://www.rcwtv.com.br/noticia/reforma-tributaria-86-das-notas-fiscais-ja-destacam-a-cbs-no-pais>)
-- 📰 [MPRJ denuncia mais oito policiais militares envolvidos na Operação Contenção](<https://www.rcwtv.com.br/noticia/mprj-denuncia-mais-oito-policiais-militares-envolvidos-na-operacao-contencao>)
-- 📰 [Projeto de lei regulamenta uso de luz de cortesia entre motoristas](<https://www.rcwtv.com.br/noticia/projeto-de-lei-regulamenta-uso-de-luz-de-cortesia-entre-motoristas>)
-- 📰 [Eduardo Bolsonaro entra em lista de prisão pendente após ordem do STF](<https://www.rcwtv.com.br/noticia/eduardo-bolsonaro-entra-em-lista-de-prisao-pendente-apos-ordem-do-stf>)
-- 📰 [Projeto cria programa nacional de proteção animal em análise na Câmara](<https://www.rcwtv.com.br/noticia/projeto-cria-programa-nacional-de-protecao-animal-em-analise-na-camara>)
-- 📰 [Bancos iniciam devolução de R$ 1,3 bilhão para apostadores de bets](<https://www.rcwtv.com.br/noticia/bancos-iniciam-devolucao-de-r-1-3-bilhao-para-apostadores-de-bets>)
-- 📰 [Vagou JF: novas oportunidades de emprego são divulgadas em Juiz de Fora, Minas Gerais](<https://www.rcwtv.com.br/noticia/vagou-jf-novas-oportunidades-de-emprego-sao-divulgadas-em-juiz-de-fora-minas-gerais>)
+- 📰 [Internação de José Sarney ocorre em UTI após cirurgia abdominal no Maranhão](<https://www.rcwtv.com.br/noticia/internacao-de-jose-sarney-ocorre-em-uti-apos-cirurgia-abdominal-no-maranhao>)
+- 📰 [Crescimento alarmante da violência política de gênero marca o país em 2026](<https://www.rcwtv.com.br/noticia/crescimento-alarmante-da-violencia-politica-de-genero-marca-o-pais-em-2026>)
+- 📰 [Polícia militar reforça patrulhamento no Rio de Janeiro para o feriado](<https://www.rcwtv.com.br/noticia/policia-militar-reforca-patrulhamento-no-rio-de-janeiro-para-o-feriado>)
+- 📰 [Mega-sena sorteia prêmio acumulado estimado em r$ 112 milhões](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-estimado-em-r-112-milhoes>)
+- 📰 [Anel de noivado: o que observar antes de escolher a joia do pedido META DESCRIPTION (145 caracteres) Metal, pedra, laudo e medida do dedo pesam mais na decisão do que o tamanho do diamante.](<https://www.rcwtv.com.br/noticia/anel-de-noivado-o-que-observar-antes-de-escolher-a-joia-do-pedido-meta-description-145-caracteres-metal-pedra-laudo-e-medida-do-dedo-pesam-mais-na-decisao-do-que-o-tamanho-do-diamante>)
+- 📰 [Davi Alcolumbre agenda votação da PEC 6x1 no Senado para a próxima quarta-feira](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-agenda-votacao-da-pec-6x1-no-senado-para-a-proxima-quarta-feira>)
+- 📰 [TSE determina suspensão de site com criptomoedas por apoio a Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/tse-determina-suspensao-de-site-com-criptomoedas-por-apoio-a-flavio-bolsonaro>)
+- 📰 [TRF3 cassa liminar que liberava plataforma de apostas no país](<https://www.rcwtv.com.br/noticia/trf3-cassa-liminar-que-liberava-plataforma-de-apostas-no-pais>)
+- 📰 [Governo do RJ aponta desvios de R$ 400 milhões na Cedae Saúde](<https://www.rcwtv.com.br/noticia/governo-do-rj-aponta-desvios-de-r-400-milhoes-na-cedae-saude>)
+- 📰 [Estudantes realizam atos pelo país em defesa de Lula no segundo turno](<https://www.rcwtv.com.br/noticia/estudantes-realizam-atos-pelo-pais-em-defesa-de-lula-no-segundo-turno>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
