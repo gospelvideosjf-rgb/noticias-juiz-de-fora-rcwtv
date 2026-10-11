@@ -757,3 +757,8 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Piscicultura ornamental busca fortalecer cadeia produtiva na Zona da Mata](<https://www.rcwtv.com.br/noticia/piscicultura-ornamental-busca-fortalecer-cadeia-produtiva-na-zona-da-mata>) - *11/10/2026*
 - [Triângulo Mineiro amplia a exportação de sorgo para a China e aquece a economia](<https://www.rcwtv.com.br/noticia/triangulo-mineiro-amplia-a-exportacao-de-sorgo-para-a-china-e-aquece-a-economia>) - *11/10/2026*
 
+### Atualização de 11/10/2026
+- [Senar e-Tec abre vagas em cursos técnicos gratuitos para o agronegócio](<https://www.rcwtv.com.br/noticia/senar-e-tec-abre-vagas-em-cursos-tecnicos-gratuitos-para-o-agronegocio>) - *11/10/2026*
+- [PL apaga arte de Flávio Bolsonaro por repercussão sobre semelhança com propaganda italiana](<https://www.rcwtv.com.br/noticia/pl-apaga-arte-de-flavio-bolsonaro-por-repercussao-sobre-semelhanca-com-propaganda-italiana-84910>) - *11/10/2026*
+- [Lula e Flávio Bolsonaro movimentam campanha eleitoral em Natal e no Rio](<https://www.rcwtv.com.br/noticia/lula-e-flavio-bolsonaro-movimentam-campanha-eleitoral-em-natal-e-no-rio>) - *11/10/2026*
+
