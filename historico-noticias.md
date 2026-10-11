@@ -750,3 +750,10 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Governo do RJ aponta desvios de R$ 400 milhões na Cedae Saúde](<https://www.rcwtv.com.br/noticia/governo-do-rj-aponta-desvios-de-r-400-milhoes-na-cedae-saude>) - *10/10/2026*
 - [Estudantes realizam atos pelo país em defesa de Lula no segundo turno](<https://www.rcwtv.com.br/noticia/estudantes-realizam-atos-pelo-pais-em-defesa-de-lula-no-segundo-turno>) - *10/10/2026*
 
+### Atualização de 11/10/2026
+- [Douglas Ruas atinge 50,88% após retotalização no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/douglas-ruas-atinge-50-88-apos-retotalizacao-no-rio-de-janeiro>) - *11/10/2026*
+- [Vida acadêmica e facilidades para estudantes perto das universidades](<https://www.rcwtv.com.br/noticia/vida-academica-e-facilidades-para-estudantes-perto-das-universidades>) - *11/10/2026*
+- [Padilha aciona Justiça contra notícia falsa publicada sobre Lula](<https://www.rcwtv.com.br/noticia/padilha-aciona-justica-contra-noticia-falsa-publicada-sobre-lula>) - *11/10/2026*
+- [Piscicultura ornamental busca fortalecer cadeia produtiva na Zona da Mata](<https://www.rcwtv.com.br/noticia/piscicultura-ornamental-busca-fortalecer-cadeia-produtiva-na-zona-da-mata>) - *11/10/2026*
+- [Triângulo Mineiro amplia a exportação de sorgo para a China e aquece a economia](<https://www.rcwtv.com.br/noticia/triangulo-mineiro-amplia-a-exportacao-de-sorgo-para-a-china-e-aquece-a-economia>) - *11/10/2026*
+
