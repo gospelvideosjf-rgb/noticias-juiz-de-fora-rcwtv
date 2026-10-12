@@ -770,3 +770,11 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Mega-sena acumula e prêmio dispara para r$ 150 milhões no próximo concurso](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-dispara-para-r-150-milhoes-no-proximo-concurso>) - *12/10/2026*
 - [TSE determina suspensão do canal de WhatsApp Exército do Lula](<https://www.rcwtv.com.br/noticia/tse-determina-suspensao-do-canal-de-whatsapp-exercito-do-lula>) - *12/10/2026*
 
+### Atualização de 12/10/2026
+- [28º Encontro de Panificadores e Fornecedores homenageará destaques do setor em Juiz de Fora](<https://www.rcwtv.com.br/noticia/28-encontro-de-panificadores-e-fornecedores-homenageara-destaques-do-setor-em-juiz-de-fora>) - *12/10/2026*
+- [TSE não acha conteúdo falso no canal Exército do Lula](<https://www.rcwtv.com.br/noticia/tse-nao-acha-conteudo-falso-no-canal-exercito-do-lula>) - *12/10/2026*
+- [Alexandre de Moraes autoriza Flávio Bolsonaro a visitar o pai em casa](<https://www.rcwtv.com.br/noticia/alexandre-de-moraes-autoriza-flavio-bolsonaro-a-visitar-o-pai-em-casa>) - *12/10/2026*
+- [AMM apoia 5º seminário de turismo em Poços de Caldas](<https://www.rcwtv.com.br/noticia/amm-apoia-5-seminario-de-turismo-em-pocos-de-caldas>) - *12/10/2026*
+- [Nossa Senhora Aparecida: a história e os 95 anos como padroeira do Brasil](<https://www.rcwtv.com.br/noticia/nossa-senhora-aparecida-a-historia-e-os-95-anos-como-padroeira-do-brasil>) - *12/10/2026*
+- [Como melhorar o canteiro com composto orgânico: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-melhorar-o-canteiro-com-composto-organico-guia-pratico-e-cuidados-essenciais-palavra-chave-como-melhorar-o-canteiro-com-composto-organico>) - *12/10/2026*
+
