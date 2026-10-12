@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Especialistas criticam bloqueio no WhatsApp de grupo de eleitores](<https://www.rcwtv.com.br/noticia/especialistas-criticam-bloqueio-no-whatsapp-de-grupo-de-eleitores>)
+- 📰 [Corregedor reverte suspensão do canal Exército do Lula no TSE](<https://www.rcwtv.com.br/noticia/corregedor-reverte-suspensao-do-canal-exercito-do-lula-no-tse>)
+- 📰 [Privilège Home&amp;Decor chega à 3ª edição com quatro dias de experiências, negócios e conteúdo](<https://www.rcwtv.com.br/noticia/privilege-home-decor-chega-a-3-edicao-com-quatro-dias-de-experiencias-negocios-e-conteudo>)
+- 📰 [Lula anuncia que PT vai recorrer na Justiça contra suspensão de canal](<https://www.rcwtv.com.br/noticia/lula-anuncia-que-pt-vai-recorrer-na-justica-contra-suspensao-de-canal>)
+- 📰 [Mega-sena acumula e prêmio dispara para r$ 150 milhões no próximo concurso](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-dispara-para-r-150-milhoes-no-proximo-concurso>)
+- 📰 [TSE determina suspensão do canal de WhatsApp Exército do Lula](<https://www.rcwtv.com.br/noticia/tse-determina-suspensao-do-canal-de-whatsapp-exercito-do-lula>)
 - 📰 [Senar e-Tec abre vagas em cursos técnicos gratuitos para o agronegócio](<https://www.rcwtv.com.br/noticia/senar-e-tec-abre-vagas-em-cursos-tecnicos-gratuitos-para-o-agronegocio>)
 - 📰 [PL apaga arte de Flávio Bolsonaro por repercussão sobre semelhança com propaganda italiana](<https://www.rcwtv.com.br/noticia/pl-apaga-arte-de-flavio-bolsonaro-por-repercussao-sobre-semelhanca-com-propaganda-italiana-84910>)
 - 📰 [Lula e Flávio Bolsonaro movimentam campanha eleitoral em Natal e no Rio](<https://www.rcwtv.com.br/noticia/lula-e-flavio-bolsonaro-movimentam-campanha-eleitoral-em-natal-e-no-rio>)
 - 📰 [Douglas Ruas atinge 50,88% após retotalização no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/douglas-ruas-atinge-50-88-apos-retotalizacao-no-rio-de-janeiro>)
-- 📰 [Vida acadêmica e facilidades para estudantes perto das universidades](<https://www.rcwtv.com.br/noticia/vida-academica-e-facilidades-para-estudantes-perto-das-universidades>)
-- 📰 [Padilha aciona Justiça contra notícia falsa publicada sobre Lula](<https://www.rcwtv.com.br/noticia/padilha-aciona-justica-contra-noticia-falsa-publicada-sobre-lula>)
-- 📰 [Piscicultura ornamental busca fortalecer cadeia produtiva na Zona da Mata](<https://www.rcwtv.com.br/noticia/piscicultura-ornamental-busca-fortalecer-cadeia-produtiva-na-zona-da-mata>)
-- 📰 [Triângulo Mineiro amplia a exportação de sorgo para a China e aquece a economia](<https://www.rcwtv.com.br/noticia/triangulo-mineiro-amplia-a-exportacao-de-sorgo-para-a-china-e-aquece-a-economia>)
-- 📰 [Internação de José Sarney ocorre em UTI após cirurgia abdominal no Maranhão](<https://www.rcwtv.com.br/noticia/internacao-de-jose-sarney-ocorre-em-uti-apos-cirurgia-abdominal-no-maranhao>)
-- 📰 [Crescimento alarmante da violência política de gênero marca o país em 2026](<https://www.rcwtv.com.br/noticia/crescimento-alarmante-da-violencia-politica-de-genero-marca-o-pais-em-2026>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
