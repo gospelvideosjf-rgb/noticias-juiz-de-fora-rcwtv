@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Ato em Copacabana reúne milhares em defesa da democracia e de Lula](<https://www.rcwtv.com.br/noticia/ato-em-copacabana-reune-milhares-em-defesa-da-democracia-e-de-lula>)
+- 📰 [Kassio Nunes Marques atende Flávio e suspende jornal de sindicato](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-atende-flavio-e-suspende-jornal-de-sindicato>)
+- 📰 [Flávio Bolsonaro participa de missa e fala sobre visitas ao pai em Brasília](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-participa-de-missa-e-fala-sobre-visitas-ao-pai-em-brasilia>)
+- 📰 [Lula defende o respeito às religiões em missa no Palácio da Alvorada](<https://www.rcwtv.com.br/noticia/lula-defende-o-respeito-as-religioes-em-missa-no-palacio-da-alvorada>)
+- 📰 [Propostas para a cultura marcam os planos de governo de Lula e Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/propostas-para-a-cultura-marcam-os-planos-de-governo-de-lula-e-flavio-bolsonaro>)
+- 📰 [Arcebispo de Aparecida clama por paz e foco no combate à fome e à pobreza](<https://www.rcwtv.com.br/noticia/arcebispo-de-aparecida-clama-por-paz-e-foco-no-combate-a-fome-e-a-pobreza>)
 - 📰 [28º Encontro de Panificadores e Fornecedores homenageará destaques do setor em Juiz de Fora](<https://www.rcwtv.com.br/noticia/28-encontro-de-panificadores-e-fornecedores-homenageara-destaques-do-setor-em-juiz-de-fora>)
 - 📰 [TSE não acha conteúdo falso no canal Exército do Lula](<https://www.rcwtv.com.br/noticia/tse-nao-acha-conteudo-falso-no-canal-exercito-do-lula>)
 - 📰 [Alexandre de Moraes autoriza Flávio Bolsonaro a visitar o pai em casa](<https://www.rcwtv.com.br/noticia/alexandre-de-moraes-autoriza-flavio-bolsonaro-a-visitar-o-pai-em-casa>)
 - 📰 [AMM apoia 5º seminário de turismo em Poços de Caldas](<https://www.rcwtv.com.br/noticia/amm-apoia-5-seminario-de-turismo-em-pocos-de-caldas>)
-- 📰 [Nossa Senhora Aparecida: a história e os 95 anos como padroeira do Brasil](<https://www.rcwtv.com.br/noticia/nossa-senhora-aparecida-a-historia-e-os-95-anos-como-padroeira-do-brasil>)
-- 📰 [Como melhorar o canteiro com composto orgânico: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-melhorar-o-canteiro-com-composto-organico-guia-pratico-e-cuidados-essenciais-palavra-chave-como-melhorar-o-canteiro-com-composto-organico>)
-- 📰 [Especialistas criticam bloqueio no WhatsApp de grupo de eleitores](<https://www.rcwtv.com.br/noticia/especialistas-criticam-bloqueio-no-whatsapp-de-grupo-de-eleitores>)
-- 📰 [Corregedor reverte suspensão do canal Exército do Lula no TSE](<https://www.rcwtv.com.br/noticia/corregedor-reverte-suspensao-do-canal-exercito-do-lula-no-tse>)
-- 📰 [Privilège Home&amp;Decor chega à 3ª edição com quatro dias de experiências, negócios e conteúdo](<https://www.rcwtv.com.br/noticia/privilege-home-decor-chega-a-3-edicao-com-quatro-dias-de-experiencias-negocios-e-conteudo>)
-- 📰 [Lula anuncia que PT vai recorrer na Justiça contra suspensão de canal](<https://www.rcwtv.com.br/noticia/lula-anuncia-que-pt-vai-recorrer-na-justica-contra-suspensao-de-canal>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

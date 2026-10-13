@@ -778,3 +778,11 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Nossa Senhora Aparecida: a história e os 95 anos como padroeira do Brasil](<https://www.rcwtv.com.br/noticia/nossa-senhora-aparecida-a-historia-e-os-95-anos-como-padroeira-do-brasil>) - *12/10/2026*
 - [Como melhorar o canteiro com composto orgânico: guia prático e cuidados essenciais](<https://www.rcwtv.com.br/noticia/como-melhorar-o-canteiro-com-composto-organico-guia-pratico-e-cuidados-essenciais-palavra-chave-como-melhorar-o-canteiro-com-composto-organico>) - *12/10/2026*
 
+### Atualização de 13/10/2026
+- [Ato em Copacabana reúne milhares em defesa da democracia e de Lula](<https://www.rcwtv.com.br/noticia/ato-em-copacabana-reune-milhares-em-defesa-da-democracia-e-de-lula>) - *13/10/2026*
+- [Kassio Nunes Marques atende Flávio e suspende jornal de sindicato](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-atende-flavio-e-suspende-jornal-de-sindicato>) - *13/10/2026*
+- [Flávio Bolsonaro participa de missa e fala sobre visitas ao pai em Brasília](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-participa-de-missa-e-fala-sobre-visitas-ao-pai-em-brasilia>) - *13/10/2026*
+- [Lula defende o respeito às religiões em missa no Palácio da Alvorada](<https://www.rcwtv.com.br/noticia/lula-defende-o-respeito-as-religioes-em-missa-no-palacio-da-alvorada>) - *13/10/2026*
+- [Propostas para a cultura marcam os planos de governo de Lula e Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/propostas-para-a-cultura-marcam-os-planos-de-governo-de-lula-e-flavio-bolsonaro>) - *13/10/2026*
+- [Arcebispo de Aparecida clama por paz e foco no combate à fome e à pobreza](<https://www.rcwtv.com.br/noticia/arcebispo-de-aparecida-clama-por-paz-e-foco-no-combate-a-fome-e-a-pobreza>) - *13/10/2026*
+
