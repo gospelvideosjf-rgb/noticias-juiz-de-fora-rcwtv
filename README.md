@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Ato em Copacabana reúne milhares em defesa da democracia e de Lula](<https://www.rcwtv.com.br/noticia/ato-em-copacabana-reune-milhares-em-defesa-da-democracia-e-de-lula>)
-- 📰 [Kassio Nunes Marques atende Flávio e suspende jornal de sindicato](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-atende-flavio-e-suspende-jornal-de-sindicato>)
-- 📰 [Flávio Bolsonaro participa de missa e fala sobre visitas ao pai em Brasília](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-participa-de-missa-e-fala-sobre-visitas-ao-pai-em-brasilia>)
-- 📰 [Lula defende o respeito às religiões em missa no Palácio da Alvorada](<https://www.rcwtv.com.br/noticia/lula-defende-o-respeito-as-religioes-em-missa-no-palacio-da-alvorada>)
-- 📰 [Propostas para a cultura marcam os planos de governo de Lula e Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/propostas-para-a-cultura-marcam-os-planos-de-governo-de-lula-e-flavio-bolsonaro>)
-- 📰 [Arcebispo de Aparecida clama por paz e foco no combate à fome e à pobreza](<https://www.rcwtv.com.br/noticia/arcebispo-de-aparecida-clama-por-paz-e-foco-no-combate-a-fome-e-a-pobreza>)
-- 📰 [28º Encontro de Panificadores e Fornecedores homenageará destaques do setor em Juiz de Fora](<https://www.rcwtv.com.br/noticia/28-encontro-de-panificadores-e-fornecedores-homenageara-destaques-do-setor-em-juiz-de-fora>)
-- 📰 [TSE não acha conteúdo falso no canal Exército do Lula](<https://www.rcwtv.com.br/noticia/tse-nao-acha-conteudo-falso-no-canal-exercito-do-lula>)
-- 📰 [Alexandre de Moraes autoriza Flávio Bolsonaro a visitar o pai em casa](<https://www.rcwtv.com.br/noticia/alexandre-de-moraes-autoriza-flavio-bolsonaro-a-visitar-o-pai-em-casa>)
-- 📰 [AMM apoia 5º seminário de turismo em Poços de Caldas](<https://www.rcwtv.com.br/noticia/amm-apoia-5-seminario-de-turismo-em-pocos-de-caldas>)
+- 📰 [Câmara dos Deputados acelera votação para oito novos projetos de lei](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-acelera-votacao-para-oito-novos-projetos-de-lei>)
+- 📰 [Líder do PT defende votação para ampliar limite de faturamento do MEI](<https://www.rcwtv.com.br/noticia/lider-do-pt-defende-votacao-para-ampliar-limite-de-faturamento-do-mei>)
+- 📰 [Dinheiro esquecido em bancos atinge R$ 5,8 bilhões e gera alerta](<https://www.rcwtv.com.br/noticia/dinheiro-esquecido-em-bancos-atinge-r-5-8-bilhoes-e-gera-alerta>)
+- 📰 [MPMG denuncia prefeito de Rio Preto por sonegação de documentos em investigação sobre monitores escolares](<https://www.rcwtv.com.br/noticia/mpmg-denuncia-prefeito-de-rio-preto-por-sonegacao-de-documentos-em-investigacao-sobre-monitores-escolares>)
+- 📰 [Ministério Público de Minas Gerais cobra ressarcimento de quase R$ 400 mil em ações contra irregularidades em Pedra Azul e Guapé](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-cobra-ressarcimento-de-quase-r-400-mil-em-acoes-contra-irregularidades-em-pedra-azul-e-guape>)
+- 📰 [Inteligência Artificial impõe desafios inéditos para as eleições e exige maior fiscalização do eleitorado](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-impoe-desafios-ineditos-para-as-eleicoes-e-exige-maior-fiscalizacao-do-eleitorado>)
+- 📰 [Prefeitura de Juiz de Fora estipula prazo até 19 de outubro para esvaziamento de 19 imóveis que passarão por demolição na Zona Norte](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-estipula-prazo-ate-19-de-outubro-para-esvaziamento-de-19-imoveis-que-passarao-por-demolicao-na-zona-norte>)
+- 📰 [Obras do Córrego São Pedro interditam trecho da Avenida Brasil por dois meses em Juiz de Fora](<https://www.rcwtv.com.br/noticia/obras-do-corrego-sao-pedro-interditam-trecho-da-avenida-brasil-por-dois-meses-em-juiz-de-fora>)
+- 📰 [MDB do Norte e Nordeste anuncia apoio a Lula nas eleições](<https://www.rcwtv.com.br/noticia/mdb-do-norte-e-nordeste-anuncia-apoio-a-lula-nas-eleicoes>)
+- 📰 [Polícia Militar prende homens armados com moto roubada e apreende adolescentes no tráfico em Ubá](<https://www.rcwtv.com.br/noticia/policia-militar-prende-homens-armados-com-moto-roubada-e-apreende-adolescentes-no-trafico-em-uba>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
