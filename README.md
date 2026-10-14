@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Câmara dos Deputados acelera votação para oito novos projetos de lei](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-acelera-votacao-para-oito-novos-projetos-de-lei>)
-- 📰 [Líder do PT defende votação para ampliar limite de faturamento do MEI](<https://www.rcwtv.com.br/noticia/lider-do-pt-defende-votacao-para-ampliar-limite-de-faturamento-do-mei>)
-- 📰 [Dinheiro esquecido em bancos atinge R$ 5,8 bilhões e gera alerta](<https://www.rcwtv.com.br/noticia/dinheiro-esquecido-em-bancos-atinge-r-5-8-bilhoes-e-gera-alerta>)
-- 📰 [MPMG denuncia prefeito de Rio Preto por sonegação de documentos em investigação sobre monitores escolares](<https://www.rcwtv.com.br/noticia/mpmg-denuncia-prefeito-de-rio-preto-por-sonegacao-de-documentos-em-investigacao-sobre-monitores-escolares>)
-- 📰 [Ministério Público de Minas Gerais cobra ressarcimento de quase R$ 400 mil em ações contra irregularidades em Pedra Azul e Guapé](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-cobra-ressarcimento-de-quase-r-400-mil-em-acoes-contra-irregularidades-em-pedra-azul-e-guape>)
-- 📰 [Inteligência Artificial impõe desafios inéditos para as eleições e exige maior fiscalização do eleitorado](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-impoe-desafios-ineditos-para-as-eleicoes-e-exige-maior-fiscalizacao-do-eleitorado>)
-- 📰 [Prefeitura de Juiz de Fora estipula prazo até 19 de outubro para esvaziamento de 19 imóveis que passarão por demolição na Zona Norte](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-estipula-prazo-ate-19-de-outubro-para-esvaziamento-de-19-imoveis-que-passarao-por-demolicao-na-zona-norte>)
-- 📰 [Obras do Córrego São Pedro interditam trecho da Avenida Brasil por dois meses em Juiz de Fora](<https://www.rcwtv.com.br/noticia/obras-do-corrego-sao-pedro-interditam-trecho-da-avenida-brasil-por-dois-meses-em-juiz-de-fora>)
-- 📰 [MDB do Norte e Nordeste anuncia apoio a Lula nas eleições](<https://www.rcwtv.com.br/noticia/mdb-do-norte-e-nordeste-anuncia-apoio-a-lula-nas-eleicoes>)
-- 📰 [Polícia Militar prende homens armados com moto roubada e apreende adolescentes no tráfico em Ubá](<https://www.rcwtv.com.br/noticia/policia-militar-prende-homens-armados-com-moto-roubada-e-apreende-adolescentes-no-trafico-em-uba>)
+- 📰 [Atropelamentos, queda em rio e acidentes com motos mobilizam o SAMU na Zona da Mata](<https://www.rcwtv.com.br/noticia/atropelamentos-queda-em-rio-e-acidentes-com-motos-mobilizam-o-samu-na-zona-da-mata>)
+- 📰 [Operação em Barbacena identifica 12 veículos de luxo ligados a crimes e prende dois suspeitos](<https://www.rcwtv.com.br/noticia/operacao-em-barbacena-identifica-12-veiculos-de-luxo-ligados-a-crimes-e-prende-dois-suspeitos>)
+- 📰 [Colisão entre dois caminhões provoca incêndio e mata motorista na BR-116, em Muriaé](<https://www.rcwtv.com.br/noticia/colisao-entre-dois-caminhoes-provoca-incendio-e-mata-motorista-na-br-116-em-muriae>)
+- 📰 [Caminhoneiro de 41 anos morre após passar mal durante refeição em posto na BR-116, em Além Paraíba](<https://www.rcwtv.com.br/noticia/caminhoneiro-de-41-anos-morre-apos-passar-mal-durante-refeicao-em-posto-na-br-116-em-alem-paraiba>)
+- 📰 [Apoio contínuo à pesquisa básica sustenta inovação e respostas a crises, destacam especialistas](<https://www.rcwtv.com.br/noticia/apoio-continuo-a-pesquisa-basica-sustenta-inovacao-e-respostas-a-crises-destacam-especialistas>)
+- 📰 [Homem é preso após roubo com faca a comércio em Ouro Branco; celular e arma são recuperados](<https://www.rcwtv.com.br/noticia/homem-e-preso-apos-roubo-com-faca-a-comercio-em-ouro-branco-celular-e-arma-sao-recuperados>)
+- 📰 [Anvisa proíbe venda na internet de canetas emagrecedoras sem registro](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-na-internet-de-canetas-emagrecedoras-sem-registro>)
+- 📰 [CCJ do Senado conclui votação da PEC da Segurança Pública](<https://www.rcwtv.com.br/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica>)
+- 📰 [HU-UFJF participa de homenagem nacional a professores em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hu-ufjf-participa-de-homenagem-nacional-a-professores-em-juiz-de-fora>)
+- 📰 [Câmara dos Deputados lança livro infantil sobre meio ambiente](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-lanca-livro-infantil-sobre-meio-ambiente>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

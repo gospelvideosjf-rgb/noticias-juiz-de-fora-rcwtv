@@ -798,3 +798,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [MDB do Norte e Nordeste anuncia apoio a Lula nas eleições](<https://www.rcwtv.com.br/noticia/mdb-do-norte-e-nordeste-anuncia-apoio-a-lula-nas-eleicoes>) - *14/10/2026*
 - [Polícia Militar prende homens armados com moto roubada e apreende adolescentes no tráfico em Ubá](<https://www.rcwtv.com.br/noticia/policia-militar-prende-homens-armados-com-moto-roubada-e-apreende-adolescentes-no-trafico-em-uba>) - *14/10/2026*
 
+### Atualização de 14/10/2026
+- [Atropelamentos, queda em rio e acidentes com motos mobilizam o SAMU na Zona da Mata](<https://www.rcwtv.com.br/noticia/atropelamentos-queda-em-rio-e-acidentes-com-motos-mobilizam-o-samu-na-zona-da-mata>) - *14/10/2026*
+- [Operação em Barbacena identifica 12 veículos de luxo ligados a crimes e prende dois suspeitos](<https://www.rcwtv.com.br/noticia/operacao-em-barbacena-identifica-12-veiculos-de-luxo-ligados-a-crimes-e-prende-dois-suspeitos>) - *14/10/2026*
+- [Colisão entre dois caminhões provoca incêndio e mata motorista na BR-116, em Muriaé](<https://www.rcwtv.com.br/noticia/colisao-entre-dois-caminhoes-provoca-incendio-e-mata-motorista-na-br-116-em-muriae>) - *14/10/2026*
+- [Caminhoneiro de 41 anos morre após passar mal durante refeição em posto na BR-116, em Além Paraíba](<https://www.rcwtv.com.br/noticia/caminhoneiro-de-41-anos-morre-apos-passar-mal-durante-refeicao-em-posto-na-br-116-em-alem-paraiba>) - *14/10/2026*
+- [Apoio contínuo à pesquisa básica sustenta inovação e respostas a crises, destacam especialistas](<https://www.rcwtv.com.br/noticia/apoio-continuo-a-pesquisa-basica-sustenta-inovacao-e-respostas-a-crises-destacam-especialistas>) - *14/10/2026*
+- [Homem é preso após roubo com faca a comércio em Ouro Branco; celular e arma são recuperados](<https://www.rcwtv.com.br/noticia/homem-e-preso-apos-roubo-com-faca-a-comercio-em-ouro-branco-celular-e-arma-sao-recuperados>) - *14/10/2026*
+- [Anvisa proíbe venda na internet de canetas emagrecedoras sem registro](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-na-internet-de-canetas-emagrecedoras-sem-registro>) - *14/10/2026*
+- [CCJ do Senado conclui votação da PEC da Segurança Pública](<https://www.rcwtv.com.br/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica>) - *14/10/2026*
+- [HU-UFJF participa de homenagem nacional a professores em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hu-ufjf-participa-de-homenagem-nacional-a-professores-em-juiz-de-fora>) - *14/10/2026*
+- [Câmara dos Deputados lança livro infantil sobre meio ambiente](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-lanca-livro-infantil-sobre-meio-ambiente>) - *14/10/2026*
+
