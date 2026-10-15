@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Atropelamentos, queda em rio e acidentes com motos mobilizam o SAMU na Zona da Mata](<https://www.rcwtv.com.br/noticia/atropelamentos-queda-em-rio-e-acidentes-com-motos-mobilizam-o-samu-na-zona-da-mata>)
-- 📰 [Operação em Barbacena identifica 12 veículos de luxo ligados a crimes e prende dois suspeitos](<https://www.rcwtv.com.br/noticia/operacao-em-barbacena-identifica-12-veiculos-de-luxo-ligados-a-crimes-e-prende-dois-suspeitos>)
-- 📰 [Colisão entre dois caminhões provoca incêndio e mata motorista na BR-116, em Muriaé](<https://www.rcwtv.com.br/noticia/colisao-entre-dois-caminhoes-provoca-incendio-e-mata-motorista-na-br-116-em-muriae>)
-- 📰 [Caminhoneiro de 41 anos morre após passar mal durante refeição em posto na BR-116, em Além Paraíba](<https://www.rcwtv.com.br/noticia/caminhoneiro-de-41-anos-morre-apos-passar-mal-durante-refeicao-em-posto-na-br-116-em-alem-paraiba>)
-- 📰 [Apoio contínuo à pesquisa básica sustenta inovação e respostas a crises, destacam especialistas](<https://www.rcwtv.com.br/noticia/apoio-continuo-a-pesquisa-basica-sustenta-inovacao-e-respostas-a-crises-destacam-especialistas>)
-- 📰 [Homem é preso após roubo com faca a comércio em Ouro Branco; celular e arma são recuperados](<https://www.rcwtv.com.br/noticia/homem-e-preso-apos-roubo-com-faca-a-comercio-em-ouro-branco-celular-e-arma-sao-recuperados>)
-- 📰 [Anvisa proíbe venda na internet de canetas emagrecedoras sem registro](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-na-internet-de-canetas-emagrecedoras-sem-registro>)
-- 📰 [CCJ do Senado conclui votação da PEC da Segurança Pública](<https://www.rcwtv.com.br/noticia/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica>)
-- 📰 [HU-UFJF participa de homenagem nacional a professores em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hu-ufjf-participa-de-homenagem-nacional-a-professores-em-juiz-de-fora>)
-- 📰 [Câmara dos Deputados lança livro infantil sobre meio ambiente](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-lanca-livro-infantil-sobre-meio-ambiente>)
+- 📰 [Minas Gerais reduz recusa familiar para doação de órgãos e pode bater recorde de transplantes](<https://www.rcwtv.com.br/noticia/minas-gerais-reduz-recusa-familiar-para-doacao-de-orgaos-e-pode-bater-recorde-de-transplantes>)
+- 📰 [Marcadores no sangue podem prever eficácia de imunoterapia contra melanoma avançado](<https://www.rcwtv.com.br/noticia/marcadores-no-sangue-podem-prever-eficacia-de-imunoterapia-contra-melanoma-avancado>)
+- 📰 [Governo detalha regras do marco legal de jogos eletrônicos no Brasil](<https://www.rcwtv.com.br/noticia/governo-detalha-regras-do-marco-legal-de-jogos-eletronicos-no-brasil>)
+- 📰 [Câmara dos Deputados analisa proposta para o SUS aceitar exames da rede privada](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-analisa-proposta-para-o-sus-aceitar-exames-da-rede-privada>)
+- 📰 [Propostas para a educação dividem planos de Flávio Bolsonaro e Lula](<https://www.rcwtv.com.br/noticia/propostas-para-a-educacao-dividem-planos-de-flavio-bolsonaro-e-lula>)
+- 📰 [Polícia Federal deflagra nova fase contra lavagem de dinheiro em postos](<https://www.rcwtv.com.br/noticia/policia-federal-deflagra-nova-fase-contra-lavagem-de-dinheiro-em-postos>)
+- 📰 [Hugo Motta comemora aval do Senado para o fim da escala 6x1](<https://www.rcwtv.com.br/noticia/hugo-motta-comemora-aval-do-senado-para-o-fim-da-escala-6x1>)
+- 📰 [Prazo para empresas optarem pelo Simples Nacional termina nesta quinta-feira](<https://www.rcwtv.com.br/noticia/prazo-para-empresas-optarem-pelo-simples-nacional-termina-nesta-quinta-feira>)
+- 📰 [Polícia Militar Rodoviária prende homem de 51 anos com mandado por homicídio em Cristiano Otoni](<https://www.rcwtv.com.br/noticia/policia-militar-rodoviaria-prende-homem-de-51-anos-com-mandado-por-homicidio-em-cristiano-otoni>)
+- 📰 [Outubro Rosa: mastologista alerta para importância do diagnóstico precoce e do acolhimento a pacientes com câncer de mama](<https://www.rcwtv.com.br/noticia/outubro-rosa-mastologista-alerta-para-importancia-do-diagnostico-precoce-e-do-acolhimento-a-pacientes-com-cancer-de-mama>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
