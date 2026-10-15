@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Minas Gerais reduz recusa familiar para doação de órgãos e pode bater recorde de transplantes](<https://www.rcwtv.com.br/noticia/minas-gerais-reduz-recusa-familiar-para-doacao-de-orgaos-e-pode-bater-recorde-de-transplantes>)
-- 📰 [Marcadores no sangue podem prever eficácia de imunoterapia contra melanoma avançado](<https://www.rcwtv.com.br/noticia/marcadores-no-sangue-podem-prever-eficacia-de-imunoterapia-contra-melanoma-avancado>)
-- 📰 [Governo detalha regras do marco legal de jogos eletrônicos no Brasil](<https://www.rcwtv.com.br/noticia/governo-detalha-regras-do-marco-legal-de-jogos-eletronicos-no-brasil>)
-- 📰 [Câmara dos Deputados analisa proposta para o SUS aceitar exames da rede privada](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-analisa-proposta-para-o-sus-aceitar-exames-da-rede-privada>)
-- 📰 [Propostas para a educação dividem planos de Flávio Bolsonaro e Lula](<https://www.rcwtv.com.br/noticia/propostas-para-a-educacao-dividem-planos-de-flavio-bolsonaro-e-lula>)
-- 📰 [Polícia Federal deflagra nova fase contra lavagem de dinheiro em postos](<https://www.rcwtv.com.br/noticia/policia-federal-deflagra-nova-fase-contra-lavagem-de-dinheiro-em-postos>)
-- 📰 [Hugo Motta comemora aval do Senado para o fim da escala 6x1](<https://www.rcwtv.com.br/noticia/hugo-motta-comemora-aval-do-senado-para-o-fim-da-escala-6x1>)
-- 📰 [Prazo para empresas optarem pelo Simples Nacional termina nesta quinta-feira](<https://www.rcwtv.com.br/noticia/prazo-para-empresas-optarem-pelo-simples-nacional-termina-nesta-quinta-feira>)
-- 📰 [Polícia Militar Rodoviária prende homem de 51 anos com mandado por homicídio em Cristiano Otoni](<https://www.rcwtv.com.br/noticia/policia-militar-rodoviaria-prende-homem-de-51-anos-com-mandado-por-homicidio-em-cristiano-otoni>)
-- 📰 [Outubro Rosa: mastologista alerta para importância do diagnóstico precoce e do acolhimento a pacientes com câncer de mama](<https://www.rcwtv.com.br/noticia/outubro-rosa-mastologista-alerta-para-importancia-do-diagnostico-precoce-e-do-acolhimento-a-pacientes-com-cancer-de-mama>)
+- 📰 [Eternizando o cordão: ensaios fotográficos que marcam o momento especial da gestação](<https://www.rcwtv.com.br/noticia/eternizando-o-cordao-ensaios-fotograficos-que-marcam-o-momento-especial-da-gestacao>)
+- 📰 [Comissão aprova plano de saúde sem licitação para servidores públicos](<https://www.rcwtv.com.br/noticia/comissao-aprova-plano-de-saude-sem-licitacao-para-servidores-publicos>)
+- 📰 [TRE-RJ pede tropas federais para garantir segurança no segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-pede-tropas-federais-para-garantir-seguranca-no-segundo-turno>)
+- 📰 [Dia do Professor: entre telas, inteligência artificial e violência, educadores buscam novos caminhos em sala de aula](<https://www.rcwtv.com.br/noticia/dia-do-professor-entre-telas-inteligencia-artificial-e-violencia-educadores-buscam-novos-caminhos-em-sala-de-aula>)
+- 📰 [TRE-RJ oficializa Douglas Ruas eleito para o governo do Rio de Janeiro](<https://www.rcwtv.com.br/noticia/tre-rj-oficializa-douglas-ruas-eleito-para-o-governo-do-rio-de-janeiro>)
+- 📰 [Comissão aprova direito de quitação de dívidas com desconto](<https://www.rcwtv.com.br/noticia/comissao-aprova-direito-de-quitacao-de-dividas-com-desconto>)
+- 📰 [MPMG exige cumprimento de sentença para limitar lotação em presídio de Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-exige-cumprimento-de-sentenca-para-limitar-lotacao-em-presidio-de-minas-gerais>)
+- 📰 [Fim da escala 6x1 avança no Brasil e abre nova etapa nas relações de trabalho](<https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-avanca-no-brasil-e-abre-nova-etapa-nas-relacoes-de-trabalho>)
+- 📰 [MPMG reforça o cuidado humanizado e a saúde mental em Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-reforca-o-cuidado-humanizado-e-a-saude-mental-em-minas-gerais>)
+- 📰 [13ª Corrida Solidária Outubro Rosa altera circulação de veículos e itinerários de dez linhas de ônibus na Cidade Alta neste domingo (18)](<https://www.rcwtv.com.br/noticia/13-corrida-solidaria-outubro-rosa-altera-circulacao-de-veiculos-e-itinerarios-de-dez-linhas-de-onibus-na-cidade-alta-neste-domingo-18>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

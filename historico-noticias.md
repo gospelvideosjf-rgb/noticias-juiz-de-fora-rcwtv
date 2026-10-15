@@ -822,3 +822,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Polícia Militar Rodoviária prende homem de 51 anos com mandado por homicídio em Cristiano Otoni](<https://www.rcwtv.com.br/noticia/policia-militar-rodoviaria-prende-homem-de-51-anos-com-mandado-por-homicidio-em-cristiano-otoni>) - *15/10/2026*
 - [Outubro Rosa: mastologista alerta para importância do diagnóstico precoce e do acolhimento a pacientes com câncer de mama](<https://www.rcwtv.com.br/noticia/outubro-rosa-mastologista-alerta-para-importancia-do-diagnostico-precoce-e-do-acolhimento-a-pacientes-com-cancer-de-mama>) - *15/10/2026*
 
+### Atualização de 15/10/2026
+- [Eternizando o cordão: ensaios fotográficos que marcam o momento especial da gestação](<https://www.rcwtv.com.br/noticia/eternizando-o-cordao-ensaios-fotograficos-que-marcam-o-momento-especial-da-gestacao>) - *15/10/2026*
+- [Comissão aprova plano de saúde sem licitação para servidores públicos](<https://www.rcwtv.com.br/noticia/comissao-aprova-plano-de-saude-sem-licitacao-para-servidores-publicos>) - *15/10/2026*
+- [TRE-RJ pede tropas federais para garantir segurança no segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-pede-tropas-federais-para-garantir-seguranca-no-segundo-turno>) - *15/10/2026*
+- [Dia do Professor: entre telas, inteligência artificial e violência, educadores buscam novos caminhos em sala de aula](<https://www.rcwtv.com.br/noticia/dia-do-professor-entre-telas-inteligencia-artificial-e-violencia-educadores-buscam-novos-caminhos-em-sala-de-aula>) - *15/10/2026*
+- [TRE-RJ oficializa Douglas Ruas eleito para o governo do Rio de Janeiro](<https://www.rcwtv.com.br/noticia/tre-rj-oficializa-douglas-ruas-eleito-para-o-governo-do-rio-de-janeiro>) - *15/10/2026*
+- [Comissão aprova direito de quitação de dívidas com desconto](<https://www.rcwtv.com.br/noticia/comissao-aprova-direito-de-quitacao-de-dividas-com-desconto>) - *15/10/2026*
+- [MPMG exige cumprimento de sentença para limitar lotação em presídio de Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-exige-cumprimento-de-sentenca-para-limitar-lotacao-em-presidio-de-minas-gerais>) - *15/10/2026*
+- [Fim da escala 6x1 avança no Brasil e abre nova etapa nas relações de trabalho](<https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-avanca-no-brasil-e-abre-nova-etapa-nas-relacoes-de-trabalho>) - *15/10/2026*
+- [MPMG reforça o cuidado humanizado e a saúde mental em Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-reforca-o-cuidado-humanizado-e-a-saude-mental-em-minas-gerais>) - *15/10/2026*
+- [13ª Corrida Solidária Outubro Rosa altera circulação de veículos e itinerários de dez linhas de ônibus na Cidade Alta neste domingo (18)](<https://www.rcwtv.com.br/noticia/13-corrida-solidaria-outubro-rosa-altera-circulacao-de-veiculos-e-itinerarios-de-dez-linhas-de-onibus-na-cidade-alta-neste-domingo-18>) - *15/10/2026*
+
