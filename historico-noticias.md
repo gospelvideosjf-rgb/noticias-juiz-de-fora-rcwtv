@@ -844,3 +844,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Assalto em SP termina com três suspeitos mortos pela polícia militar](<https://www.rcwtv.com.br/noticia/assalto-em-sp-termina-com-tres-suspeitos-mortos-pela-policia-militar>) - *16/10/2026*
 - [Davi Alcolumbre vai promulgar fim da escala 6x1 nesta sexta-feira](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta-feira>) - *16/10/2026*
 
+### Atualização de 16/10/2026
+- [Cristiano Zanin vai relatar novo pedido do PSD sobre segundo turno no Rio](<https://www.rcwtv.com.br/noticia/cristiano-zanin-vai-relatar-novo-pedido-do-psd-sobre-segundo-turno-no-rio>) - *16/10/2026*
+- [Governo planeja crédito para empresas afetadas pelo fim da escala 6x1](<https://www.rcwtv.com.br/noticia/governo-planeja-credito-para-empresas-afetadas-pelo-fim-da-escala-6x1>) - *16/10/2026*
+- [Hugo Motta determina nova jornada de trabalho imediata na Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/hugo-motta-determina-nova-jornada-de-trabalho-imediata-na-camara-dos-deputados>) - *16/10/2026*
+- [Corpo de Bombeiros mobiliza duas viaturas para controlar incêndio em veículo no bairro Bom Clima em Juiz de Fora](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-mobiliza-duas-viaturas-para-controlar-incendio-em-veiculo-no-bairro-bom-clima-em-juiz-de-fora>) - *16/10/2026*
+- [Brasil é reeleito para Conselho de Direitos Humanos da ONU com 170 votos](<https://www.rcwtv.com.br/noticia/brasil-e-reeleito-para-conselho-de-direitos-humanos-da-onu-com-170-votos>) - *16/10/2026*
+- [Governo federal monitora impactos das queimadas na saúde do Amazonas](<https://www.rcwtv.com.br/noticia/governo-federal-monitora-impactos-das-queimadas-na-saude-do-amazonas>) - *16/10/2026*
+- [Fim da escala 6x1: Alcolumbre homenageia trajetória de Paulo Paim](<https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-alcolumbre-homenageia-trajetoria-de-paulo-paim>) - *16/10/2026*
+- [TSE rejeita pedido da campanha de Flávio para bloquear posts de sindicatos](<https://www.rcwtv.com.br/noticia/tse-rejeita-pedido-da-campanha-de-flavio-para-bloquear-posts-de-sindicatos>) - *16/10/2026*
+- [Minas Trend abre 36ª edição no BH Shopping em Belo Horizonte no dia 20/10](<https://www.rcwtv.com.br/noticia/minas-trend-abre-36-edicao-no-bh-shopping-em-belo-horizonte-no-dia-20-10>) - *16/10/2026*
+- [Conselho Nacional dos Corregedores-Gerais debate saúde mental e integração em Minas Gerais](<https://www.rcwtv.com.br/noticia/conselho-nacional-dos-corregedores-gerais-debate-saude-mental-e-integracao-em-minas-gerais>) - *16/10/2026*
+
