@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Operação conjunta prende dois homens procurados pela Justiça do Rio de Janeiro em Leopoldina](<https://www.rcwtv.com.br/noticia/operacao-conjunta-prende-dois-homens-procurados-pela-justica-do-rio-de-janeiro-em-leopoldina>)
+- 📰 [Lula defende alteração na maioridade penal para crimes hediondos em sabatina](<https://www.rcwtv.com.br/noticia/lula-defende-alteracao-na-maioridade-penal-para-crimes-hediondos-em-sabatina>)
+- 📰 [Congresso nacional aprova exame nacional de medicina obrigatório](<https://www.rcwtv.com.br/noticia/congresso-nacional-aprova-exame-nacional-de-medicina-obrigatorio>)
+- 📰 [Congresso promulga o fim da escala 6x1 e aposentadoria especial para agentes](<https://www.rcwtv.com.br/noticia/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-especial-para-agentes>)
+- 📰 [TSE exige igualdade em inteligência artificial da Meta após falhas](<https://www.rcwtv.com.br/noticia/tse-exige-igualdade-em-inteligencia-artificial-da-meta-apos-falhas>)
+- 📰 [Davi Alcolumbre retira PEC da Segurança Pública da pauta do Senado](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado>)
+- 📰 [Assalto em SP termina com três suspeitos mortos pela polícia militar](<https://www.rcwtv.com.br/noticia/assalto-em-sp-termina-com-tres-suspeitos-mortos-pela-policia-militar>)
+- 📰 [Davi Alcolumbre vai promulgar fim da escala 6x1 nesta sexta-feira](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta-feira>)
 - 📰 [Eternizando o cordão: ensaios fotográficos que marcam o momento especial da gestação](<https://www.rcwtv.com.br/noticia/eternizando-o-cordao-ensaios-fotograficos-que-marcam-o-momento-especial-da-gestacao>)
 - 📰 [Comissão aprova plano de saúde sem licitação para servidores públicos](<https://www.rcwtv.com.br/noticia/comissao-aprova-plano-de-saude-sem-licitacao-para-servidores-publicos>)
-- 📰 [TRE-RJ pede tropas federais para garantir segurança no segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-pede-tropas-federais-para-garantir-seguranca-no-segundo-turno>)
-- 📰 [Dia do Professor: entre telas, inteligência artificial e violência, educadores buscam novos caminhos em sala de aula](<https://www.rcwtv.com.br/noticia/dia-do-professor-entre-telas-inteligencia-artificial-e-violencia-educadores-buscam-novos-caminhos-em-sala-de-aula>)
-- 📰 [TRE-RJ oficializa Douglas Ruas eleito para o governo do Rio de Janeiro](<https://www.rcwtv.com.br/noticia/tre-rj-oficializa-douglas-ruas-eleito-para-o-governo-do-rio-de-janeiro>)
-- 📰 [Comissão aprova direito de quitação de dívidas com desconto](<https://www.rcwtv.com.br/noticia/comissao-aprova-direito-de-quitacao-de-dividas-com-desconto>)
-- 📰 [MPMG exige cumprimento de sentença para limitar lotação em presídio de Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-exige-cumprimento-de-sentenca-para-limitar-lotacao-em-presidio-de-minas-gerais>)
-- 📰 [Fim da escala 6x1 avança no Brasil e abre nova etapa nas relações de trabalho](<https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-avanca-no-brasil-e-abre-nova-etapa-nas-relacoes-de-trabalho>)
-- 📰 [MPMG reforça o cuidado humanizado e a saúde mental em Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-reforca-o-cuidado-humanizado-e-a-saude-mental-em-minas-gerais>)
-- 📰 [13ª Corrida Solidária Outubro Rosa altera circulação de veículos e itinerários de dez linhas de ônibus na Cidade Alta neste domingo (18)](<https://www.rcwtv.com.br/noticia/13-corrida-solidaria-outubro-rosa-altera-circulacao-de-veiculos-e-itinerarios-de-dez-linhas-de-onibus-na-cidade-alta-neste-domingo-18>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

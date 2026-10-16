@@ -834,3 +834,13 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [MPMG reforça o cuidado humanizado e a saúde mental em Minas Gerais](<https://www.rcwtv.com.br/noticia/mpmg-reforca-o-cuidado-humanizado-e-a-saude-mental-em-minas-gerais>) - *15/10/2026*
 - [13ª Corrida Solidária Outubro Rosa altera circulação de veículos e itinerários de dez linhas de ônibus na Cidade Alta neste domingo (18)](<https://www.rcwtv.com.br/noticia/13-corrida-solidaria-outubro-rosa-altera-circulacao-de-veiculos-e-itinerarios-de-dez-linhas-de-onibus-na-cidade-alta-neste-domingo-18>) - *15/10/2026*
 
+### Atualização de 16/10/2026
+- [Operação conjunta prende dois homens procurados pela Justiça do Rio de Janeiro em Leopoldina](<https://www.rcwtv.com.br/noticia/operacao-conjunta-prende-dois-homens-procurados-pela-justica-do-rio-de-janeiro-em-leopoldina>) - *16/10/2026*
+- [Lula defende alteração na maioridade penal para crimes hediondos em sabatina](<https://www.rcwtv.com.br/noticia/lula-defende-alteracao-na-maioridade-penal-para-crimes-hediondos-em-sabatina>) - *16/10/2026*
+- [Congresso nacional aprova exame nacional de medicina obrigatório](<https://www.rcwtv.com.br/noticia/congresso-nacional-aprova-exame-nacional-de-medicina-obrigatorio>) - *16/10/2026*
+- [Congresso promulga o fim da escala 6x1 e aposentadoria especial para agentes](<https://www.rcwtv.com.br/noticia/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-especial-para-agentes>) - *16/10/2026*
+- [TSE exige igualdade em inteligência artificial da Meta após falhas](<https://www.rcwtv.com.br/noticia/tse-exige-igualdade-em-inteligencia-artificial-da-meta-apos-falhas>) - *16/10/2026*
+- [Davi Alcolumbre retira PEC da Segurança Pública da pauta do Senado](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado>) - *16/10/2026*
+- [Assalto em SP termina com três suspeitos mortos pela polícia militar](<https://www.rcwtv.com.br/noticia/assalto-em-sp-termina-com-tres-suspeitos-mortos-pela-policia-militar>) - *16/10/2026*
+- [Davi Alcolumbre vai promulgar fim da escala 6x1 nesta sexta-feira](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta-feira>) - *16/10/2026*
+
