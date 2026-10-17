@@ -868,3 +868,10 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Beneficios sociais estagnados podem provocar retracao economica municipal](<https://www.rcwtv.com.br/noticia/beneficios-sociais-estagnados-podem-provocar-retracao-economica-municipal>) - *17/10/2026*
 - [Nova decisão do TSE obriga Meta a garantir isonomia entre candidatos](<https://www.rcwtv.com.br/noticia/nova-decisao-do-tse-obriga-meta-a-garantir-isonomia-entre-candidatos>) - *17/10/2026*
 
+### Atualização de 17/10/2026
+- [Cortes em benefícios sociais podem frear a economia do interior do Brasil](<https://www.rcwtv.com.br/noticia/cortes-em-beneficios-sociais-podem-frear-a-economia-do-interior-do-brasil>) - *17/10/2026*
+- [Justiça Federal ordena que Meta reative contas estudantis no Rio Grande do Sul](<https://www.rcwtv.com.br/noticia/justica-federal-ordena-que-meta-reative-contas-estudantis-no-rio-grande-do-sul>) - *17/10/2026*
+- [Mais de 4 mil eleitores terão mudança no local de votação para o 2º turno](<https://www.rcwtv.com.br/noticia/mais-de-4-mil-eleitores-terao-mudanca-no-local-de-votacao-para-o-2-turno>) - *17/10/2026*
+- [Montes Claros registra abertura de 1.853 empresas em nove meses de 2026](<https://www.rcwtv.com.br/noticia/montes-claros-registra-abertura-de-1-853-empresas-em-nove-meses-de-2026>) - *17/10/2026*
+- [José Sarney recebe alta hospitalar após nove dias de internação](<https://www.rcwtv.com.br/noticia/jose-sarney-recebe-alta-hospitalar-apos-nove-dias-de-internacao>) - *17/10/2026*
+
