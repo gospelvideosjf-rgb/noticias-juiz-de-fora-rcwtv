@@ -856,3 +856,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Minas Trend abre 36ª edição no BH Shopping em Belo Horizonte no dia 20/10](<https://www.rcwtv.com.br/noticia/minas-trend-abre-36-edicao-no-bh-shopping-em-belo-horizonte-no-dia-20-10>) - *16/10/2026*
 - [Conselho Nacional dos Corregedores-Gerais debate saúde mental e integração em Minas Gerais](<https://www.rcwtv.com.br/noticia/conselho-nacional-dos-corregedores-gerais-debate-saude-mental-e-integracao-em-minas-gerais>) - *16/10/2026*
 
+### Atualização de 17/10/2026
+- [Mirassol vence o Internacional por 2 a 0 e ganha fôlego na luta contra o rebaixamento](<https://www.rcwtv.com.br/noticia/mirassol-vence-o-internacional-por-2-a-0-e-ganha-folego-na-luta-contra-o-rebaixamento>) - *17/10/2026*
+- [Queda na abstenção de eleitores idosos marca o primeiro turno de 2026](<https://www.rcwtv.com.br/noticia/queda-na-abstencao-de-eleitores-idosos-marca-o-primeiro-turno-de-2026>) - *17/10/2026*
+- [Mega-Sena sorteia prêmio acumulado de R$ 170 milhões no domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-de-r-170-milhoes-no-domingo>) - *17/10/2026*
+- [FIEMG alerta para riscos ao emprego e economia com o fim da escala 6x1](<https://www.rcwtv.com.br/noticia/fiemg-alerta-para-riscos-ao-emprego-e-economia-com-o-fim-da-escala-6x1>) - *17/10/2026*
+- [Funalfa divulga resultado da segunda etapa do edital PNAB de fomento à cultura](<https://www.rcwtv.com.br/noticia/funalfa-divulga-resultado-da-segunda-etapa-do-edital-pnab-de-fomento-a-cultura>) - *17/10/2026*
+- [Sabatina de Flávio Bolsonaro na TV Globo é marcada por negações e propostas](<https://www.rcwtv.com.br/noticia/sabatina-de-flavio-bolsonaro-na-tv-globo-e-marcada-por-negacoes-e-propostas>) - *17/10/2026*
+- [Lula comemora fim da escala 6x1 e faz campanha em Minas Gerais](<https://www.rcwtv.com.br/noticia/lula-comemora-fim-da-escala-6x1-e-faz-campanha-em-minas-gerais>) - *17/10/2026*
+- [Anac impõe regras mais rígidas para aviação geral no aeroporto de Congonhas](<https://www.rcwtv.com.br/noticia/anac-impoe-regras-mais-rigidas-para-aviacao-geral-no-aeroporto-de-congonhas>) - *17/10/2026*
+- [Beneficios sociais estagnados podem provocar retracao economica municipal](<https://www.rcwtv.com.br/noticia/beneficios-sociais-estagnados-podem-provocar-retracao-economica-municipal>) - *17/10/2026*
+- [Nova decisão do TSE obriga Meta a garantir isonomia entre candidatos](<https://www.rcwtv.com.br/noticia/nova-decisao-do-tse-obriga-meta-a-garantir-isonomia-entre-candidatos>) - *17/10/2026*
+
