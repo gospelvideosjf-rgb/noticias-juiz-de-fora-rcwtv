@@ -875,3 +875,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Montes Claros registra abertura de 1.853 empresas em nove meses de 2026](<https://www.rcwtv.com.br/noticia/montes-claros-registra-abertura-de-1-853-empresas-em-nove-meses-de-2026>) - *17/10/2026*
 - [José Sarney recebe alta hospitalar após nove dias de internação](<https://www.rcwtv.com.br/noticia/jose-sarney-recebe-alta-hospitalar-apos-nove-dias-de-internacao>) - *17/10/2026*
 
+### Atualização de 19/10/2026
+- [Anel de noivado: o que observar antes de escolher a joia do pedido](<https://www.rcwtv.com.br/noticia/anel-de-noivado-o-que-observar-antes-de-escolher-a-joia-do-pedido-85082>) - *19/10/2026*
+- [Secult-MG abre eleição para Conselho Estadual de Política Cultural em Minas Gerais](<https://www.rcwtv.com.br/noticia/secult-mg-abre-eleicao-para-conselho-estadual-de-politica-cultural-em-minas-gerais>) - *19/10/2026*
+- [Como melhorar o conforto térmico da sua casa?](<https://www.rcwtv.com.br/noticia/como-melhorar-o-conforto-termico-da-sua-casa>) - *19/10/2026*
+- [Acidentes com trem, caminhão e carro deixam um morto e feridos na Zona da Mata mineira](<https://www.rcwtv.com.br/noticia/acidentes-com-trem-caminhao-e-carro-deixam-um-morto-e-feridos-na-zona-da-mata-mineira>) - *19/10/2026*
+- [Incêndio em casa deixa adolescente de 15 anos com crise de ansiedade em Juiz de Fora](<https://www.rcwtv.com.br/noticia/incendio-em-casa-deixa-adolescente-de-15-anos-com-crise-de-ansiedade-em-juiz-de-fora>) - *19/10/2026*
+- [Privilège Home&amp;Decor acontece nesta semana com quatro dias de programação em Juiz de Fora](<https://www.rcwtv.com.br/noticia/privilege-home-decor-acontece-nesta-semana-com-quatro-dias-de-programacao-em-juiz-de-fora>) - *19/10/2026*
+- [Prazo para escolher idioma da prova do Enem 2026 termina neste domingo](<https://www.rcwtv.com.br/noticia/prazo-para-escolher-idioma-da-prova-do-enem-2026-termina-neste-domingo>) - *19/10/2026*
+- [Empresas de três regiões recebem aporte bilionário para projetos de inovação](<https://www.rcwtv.com.br/noticia/empresas-de-tres-regioes-recebem-aporte-bilionario-para-projetos-de-inovacao>) - *19/10/2026*
+- [Força Nacional vai atuar por 90 dias na região de Belo Monte](<https://www.rcwtv.com.br/noticia/forca-nacional-vai-atuar-por-90-dias-na-regiao-de-belo-monte>) - *19/10/2026*
+- [Ex-balconista de farmácia mobilizou trabalhadores para acabar com a escala 6x1](<https://www.rcwtv.com.br/noticia/ex-balconista-de-farmacia-mobilizou-trabalhadores-para-acabar-com-a-escala-6x1>) - *19/10/2026*
+

@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Cortes em benefícios sociais podem frear a economia do interior do Brasil](<https://www.rcwtv.com.br/noticia/cortes-em-beneficios-sociais-podem-frear-a-economia-do-interior-do-brasil>)
-- 📰 [Justiça Federal ordena que Meta reative contas estudantis no Rio Grande do Sul](<https://www.rcwtv.com.br/noticia/justica-federal-ordena-que-meta-reative-contas-estudantis-no-rio-grande-do-sul>)
-- 📰 [Mais de 4 mil eleitores terão mudança no local de votação para o 2º turno](<https://www.rcwtv.com.br/noticia/mais-de-4-mil-eleitores-terao-mudanca-no-local-de-votacao-para-o-2-turno>)
-- 📰 [Montes Claros registra abertura de 1.853 empresas em nove meses de 2026](<https://www.rcwtv.com.br/noticia/montes-claros-registra-abertura-de-1-853-empresas-em-nove-meses-de-2026>)
-- 📰 [José Sarney recebe alta hospitalar após nove dias de internação](<https://www.rcwtv.com.br/noticia/jose-sarney-recebe-alta-hospitalar-apos-nove-dias-de-internacao>)
-- 📰 [Mirassol derrota Internacional por 2 a 0, reaviva luta contra rebaixamento](<https://www.rcwtv.com.br/noticia/mirassol-vence-o-internacional-por-2-a-0-e-ganha-folego-na-luta-contra-o-rebaixamento>)
-- 📰 [Voto dos idosos em ascensão: 10 pontos de abstenção reduzidos em 2026](<https://www.rcwtv.com.br/noticia/queda-na-abstencao-de-eleitores-idosos-marca-o-primeiro-turno-de-2026>)
-- 📰 [Mega-Sena: Prêmio de R$ 170 milhões em jogo de domingo](<https://www.rcwtv.com.br/noticia/mega-sena-sorteia-premio-acumulado-de-r-170-milhoes-no-domingo>)
-- 📰 [FIEMG alerta para riscos ao emprego e economia com o fim da escala 6x1](<https://www.rcwtv.com.br/noticia/fiemg-alerta-para-riscos-ao-emprego-e-economia-com-o-fim-da-escala-6x1>)
-- 📰 [Funalfa divulga resultado da segunda etapa do edital PNAB de fomento à cultura](<https://www.rcwtv.com.br/noticia/funalfa-divulga-resultado-da-segunda-etapa-do-edital-pnab-de-fomento-a-cultura>)
+- 📰 [Anel de noivado: o que observar antes de escolher a joia do pedido](<https://www.rcwtv.com.br/noticia/anel-de-noivado-o-que-observar-antes-de-escolher-a-joia-do-pedido-85082>)
+- 📰 [Secult-MG abre eleição para Conselho Estadual de Política Cultural em Minas Gerais](<https://www.rcwtv.com.br/noticia/secult-mg-abre-eleicao-para-conselho-estadual-de-politica-cultural-em-minas-gerais>)
+- 📰 [Como melhorar o conforto térmico da sua casa?](<https://www.rcwtv.com.br/noticia/como-melhorar-o-conforto-termico-da-sua-casa>)
+- 📰 [Acidentes com trem, caminhão e carro deixam um morto e feridos na Zona da Mata mineira](<https://www.rcwtv.com.br/noticia/acidentes-com-trem-caminhao-e-carro-deixam-um-morto-e-feridos-na-zona-da-mata-mineira>)
+- 📰 [Incêndio em casa deixa adolescente de 15 anos com crise de ansiedade em Juiz de Fora](<https://www.rcwtv.com.br/noticia/incendio-em-casa-deixa-adolescente-de-15-anos-com-crise-de-ansiedade-em-juiz-de-fora>)
+- 📰 [Privilège Home&amp;Decor acontece nesta semana com quatro dias de programação em Juiz de Fora](<https://www.rcwtv.com.br/noticia/privilege-home-decor-acontece-nesta-semana-com-quatro-dias-de-programacao-em-juiz-de-fora>)
+- 📰 [Prazo para escolher idioma da prova do Enem 2026 termina neste domingo](<https://www.rcwtv.com.br/noticia/prazo-para-escolher-idioma-da-prova-do-enem-2026-termina-neste-domingo>)
+- 📰 [Empresas de três regiões recebem aporte bilionário para projetos de inovação](<https://www.rcwtv.com.br/noticia/empresas-de-tres-regioes-recebem-aporte-bilionario-para-projetos-de-inovacao>)
+- 📰 [Força Nacional vai atuar por 90 dias na região de Belo Monte](<https://www.rcwtv.com.br/noticia/forca-nacional-vai-atuar-por-90-dias-na-regiao-de-belo-monte>)
+- 📰 [Ex-balconista de farmácia mobilizou trabalhadores para acabar com a escala 6x1](<https://www.rcwtv.com.br/noticia/ex-balconista-de-farmacia-mobilizou-trabalhadores-para-acabar-com-a-escala-6x1>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
