@@ -887,3 +887,15 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Força Nacional vai atuar por 90 dias na região de Belo Monte](<https://www.rcwtv.com.br/noticia/forca-nacional-vai-atuar-por-90-dias-na-regiao-de-belo-monte>) - *19/10/2026*
 - [Ex-balconista de farmácia mobilizou trabalhadores para acabar com a escala 6x1](<https://www.rcwtv.com.br/noticia/ex-balconista-de-farmacia-mobilizou-trabalhadores-para-acabar-com-a-escala-6x1>) - *19/10/2026*
 
+### Atualização de 20/10/2026
+- [André Janones pode receber alta médica em breve, aponta boletim](<https://www.rcwtv.com.br/noticia/andre-janones-pode-receber-alta-medica-em-breve-aponta-boletim>) - *20/10/2026*
+- [DF e quatro estados mantêm os mesmos locais de votação no segundo turno](<https://www.rcwtv.com.br/noticia/df-e-quatro-estados-mantem-os-mesmos-locais-de-votacao-no-segundo-turno>) - *20/10/2026*
+- [Inep divulga resultado de casos logísticos e de saúde do Revalida](<https://www.rcwtv.com.br/noticia/inep-divulga-resultado-de-casos-logisticos-e-de-saude-do-revalida>) - *20/10/2026*
+- [Projeto cria lista tríplice e novas regras para diretores de agências reguladoras](<https://www.rcwtv.com.br/noticia/projeto-cria-lista-triplice-e-novas-regras-para-diretores-de-agencias-reguladoras>) - *20/10/2026*
+- [Emater-MG abre chamada pública para instalação de usinas solares em propriedades atingidas no Rio Doce](<https://www.rcwtv.com.br/noticia/emater-mg-abre-chamada-publica-para-instalacao-de-usinas-solares-em-propriedades-atingidas-no-rio-doce>) - *20/10/2026*
+- [ONU alerta para atraso nas metas globais de biodiversidade e cobra ações até 2030](<https://www.rcwtv.com.br/noticia/onu-alerta-para-atraso-nas-metas-globais-de-biodiversidade-e-cobra-acoes-ate-2030>) - *20/10/2026*
+- [Governo planeja realocar r$ 20 bilhões no orçamento de 2027](<https://www.rcwtv.com.br/noticia/governo-planeja-realocar-r-20-bilhoes-no-orcamento-de-2027>) - *20/10/2026*
+- [Projeto propõe isenção de Imposto de Renda para aposentados com sequelas neurológicas](<https://www.rcwtv.com.br/noticia/projeto-propoe-isencao-de-imposto-de-renda-para-aposentados-com-sequelas-neurologicas>) - *20/10/2026*
+- [Operações da PM terminam em prisões, apreensões de drogas e recuperação de veículos na região](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-apreensoes-de-drogas-e-recuperacao-de-veiculos-na-regiao>) - *20/10/2026*
+- [Operações da PM terminam em prisões por tráfico, feminicídio e porte de arma na zona da mata](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-por-trafico-feminicidio-e-porte-de-arma-na-zona-da-mata>) - *20/10/2026*
+

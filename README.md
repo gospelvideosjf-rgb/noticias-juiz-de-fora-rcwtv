@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Anel de noivado: o que observar antes de escolher a joia do pedido](<https://www.rcwtv.com.br/noticia/anel-de-noivado-o-que-observar-antes-de-escolher-a-joia-do-pedido-85082>)
-- 📰 [Secult-MG abre eleição para Conselho Estadual de Política Cultural em Minas Gerais](<https://www.rcwtv.com.br/noticia/secult-mg-abre-eleicao-para-conselho-estadual-de-politica-cultural-em-minas-gerais>)
-- 📰 [Como melhorar o conforto térmico da sua casa?](<https://www.rcwtv.com.br/noticia/como-melhorar-o-conforto-termico-da-sua-casa>)
-- 📰 [Acidentes com trem, caminhão e carro deixam um morto e feridos na Zona da Mata mineira](<https://www.rcwtv.com.br/noticia/acidentes-com-trem-caminhao-e-carro-deixam-um-morto-e-feridos-na-zona-da-mata-mineira>)
-- 📰 [Incêndio em casa deixa adolescente de 15 anos com crise de ansiedade em Juiz de Fora](<https://www.rcwtv.com.br/noticia/incendio-em-casa-deixa-adolescente-de-15-anos-com-crise-de-ansiedade-em-juiz-de-fora>)
-- 📰 [Privilège Home&amp;Decor acontece nesta semana com quatro dias de programação em Juiz de Fora](<https://www.rcwtv.com.br/noticia/privilege-home-decor-acontece-nesta-semana-com-quatro-dias-de-programacao-em-juiz-de-fora>)
-- 📰 [Prazo para escolher idioma da prova do Enem 2026 termina neste domingo](<https://www.rcwtv.com.br/noticia/prazo-para-escolher-idioma-da-prova-do-enem-2026-termina-neste-domingo>)
-- 📰 [Empresas de três regiões recebem aporte bilionário para projetos de inovação](<https://www.rcwtv.com.br/noticia/empresas-de-tres-regioes-recebem-aporte-bilionario-para-projetos-de-inovacao>)
-- 📰 [Força Nacional vai atuar por 90 dias na região de Belo Monte](<https://www.rcwtv.com.br/noticia/forca-nacional-vai-atuar-por-90-dias-na-regiao-de-belo-monte>)
-- 📰 [Ex-balconista de farmácia mobilizou trabalhadores para acabar com a escala 6x1](<https://www.rcwtv.com.br/noticia/ex-balconista-de-farmacia-mobilizou-trabalhadores-para-acabar-com-a-escala-6x1>)
+- 📰 [André Janones pode receber alta médica em breve, aponta boletim](<https://www.rcwtv.com.br/noticia/andre-janones-pode-receber-alta-medica-em-breve-aponta-boletim>)
+- 📰 [DF e quatro estados mantêm os mesmos locais de votação no segundo turno](<https://www.rcwtv.com.br/noticia/df-e-quatro-estados-mantem-os-mesmos-locais-de-votacao-no-segundo-turno>)
+- 📰 [Inep divulga resultado de casos logísticos e de saúde do Revalida](<https://www.rcwtv.com.br/noticia/inep-divulga-resultado-de-casos-logisticos-e-de-saude-do-revalida>)
+- 📰 [Projeto cria lista tríplice e novas regras para diretores de agências reguladoras](<https://www.rcwtv.com.br/noticia/projeto-cria-lista-triplice-e-novas-regras-para-diretores-de-agencias-reguladoras>)
+- 📰 [Emater-MG abre chamada pública para instalação de usinas solares em propriedades atingidas no Rio Doce](<https://www.rcwtv.com.br/noticia/emater-mg-abre-chamada-publica-para-instalacao-de-usinas-solares-em-propriedades-atingidas-no-rio-doce>)
+- 📰 [ONU alerta para atraso nas metas globais de biodiversidade e cobra ações até 2030](<https://www.rcwtv.com.br/noticia/onu-alerta-para-atraso-nas-metas-globais-de-biodiversidade-e-cobra-acoes-ate-2030>)
+- 📰 [Governo planeja realocar r$ 20 bilhões no orçamento de 2027](<https://www.rcwtv.com.br/noticia/governo-planeja-realocar-r-20-bilhoes-no-orcamento-de-2027>)
+- 📰 [Projeto propõe isenção de Imposto de Renda para aposentados com sequelas neurológicas](<https://www.rcwtv.com.br/noticia/projeto-propoe-isencao-de-imposto-de-renda-para-aposentados-com-sequelas-neurologicas>)
+- 📰 [Operações da PM terminam em prisões, apreensões de drogas e recuperação de veículos na região](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-apreensoes-de-drogas-e-recuperacao-de-veiculos-na-regiao>)
+- 📰 [Operações da PM terminam em prisões por tráfico, feminicídio e porte de arma na zona da mata](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-por-trafico-feminicidio-e-porte-de-arma-na-zona-da-mata>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
