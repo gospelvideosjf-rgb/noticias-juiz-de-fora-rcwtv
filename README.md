@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [André Janones pode receber alta médica em breve, aponta boletim](<https://www.rcwtv.com.br/noticia/andre-janones-pode-receber-alta-medica-em-breve-aponta-boletim>)
+- 📰 [Justiça decreta o fim da recuperação judicial do Grupo Americanas](<https://www.rcwtv.com.br/noticia/justica-decreta-o-fim-da-recuperacao-judicial-do-grupo-americanas>)
+- 📰 [Como escolher bar de drinks em Juiz de Fora](<https://www.rcwtv.com.br/noticia/como-escolher-bar-de-drinks-em-juiz-de-fora>)
+- 📰 [PGR afasta abuso de André Mendonça em apuração sobre Alexandre de Moraes](<https://www.rcwtv.com.br/noticia/pgr-afasta-abuso-de-andre-mendonca-em-apuracao-sobre-alexandre-de-moraes>)
+- 📰 [Ato em São Paulo cobra neutralidade da Meta nas eleições após decisão do TSE](<https://www.rcwtv.com.br/noticia/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes-apos-decisao-do-tse>)
+- 📰 [Consultas por lesões de colo do útero caem 78% com vacina contra o HPV](<https://www.rcwtv.com.br/noticia/consultas-por-lesoes-de-colo-do-utero-caem-78-com-vacina-contra-o-hpv>)
+- 📰 [Projeto de lei criminaliza fraude por desconto indevido em folha de pagamento](<https://www.rcwtv.com.br/noticia/projeto-de-lei-criminaliza-fraude-por-desconto-indevido-em-folha-de-pagamento>)
+- 📰 [TRE-RJ altera apenas um local de votação para o segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-altera-apenas-um-local-de-votacao-para-o-segundo-turno>)
+- 📰 [MP cobra TSE por alerta sobre alterações em locais de votação no 2º turno](<https://www.rcwtv.com.br/noticia/mp-cobra-tse-por-alerta-sobre-alteracoes-em-locais-de-votacao-no-2-turno>)
 - 📰 [DF e quatro estados mantêm os mesmos locais de votação no segundo turno](<https://www.rcwtv.com.br/noticia/df-e-quatro-estados-mantem-os-mesmos-locais-de-votacao-no-segundo-turno>)
-- 📰 [Inep divulga resultado de casos logísticos e de saúde do Revalida](<https://www.rcwtv.com.br/noticia/inep-divulga-resultado-de-casos-logisticos-e-de-saude-do-revalida>)
-- 📰 [Projeto cria lista tríplice e novas regras para diretores de agências reguladoras](<https://www.rcwtv.com.br/noticia/projeto-cria-lista-triplice-e-novas-regras-para-diretores-de-agencias-reguladoras>)
-- 📰 [Emater-MG abre chamada pública para instalação de usinas solares em propriedades atingidas no Rio Doce](<https://www.rcwtv.com.br/noticia/emater-mg-abre-chamada-publica-para-instalacao-de-usinas-solares-em-propriedades-atingidas-no-rio-doce>)
-- 📰 [ONU alerta para atraso nas metas globais de biodiversidade e cobra ações até 2030](<https://www.rcwtv.com.br/noticia/onu-alerta-para-atraso-nas-metas-globais-de-biodiversidade-e-cobra-acoes-ate-2030>)
-- 📰 [Governo planeja realocar r$ 20 bilhões no orçamento de 2027](<https://www.rcwtv.com.br/noticia/governo-planeja-realocar-r-20-bilhoes-no-orcamento-de-2027>)
-- 📰 [Projeto propõe isenção de Imposto de Renda para aposentados com sequelas neurológicas](<https://www.rcwtv.com.br/noticia/projeto-propoe-isencao-de-imposto-de-renda-para-aposentados-com-sequelas-neurologicas>)
-- 📰 [Operações da PM terminam em prisões, apreensões de drogas e recuperação de veículos na região](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-apreensoes-de-drogas-e-recuperacao-de-veiculos-na-regiao>)
-- 📰 [Operações da PM terminam em prisões por tráfico, feminicídio e porte de arma na zona da mata](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-por-trafico-feminicidio-e-porte-de-arma-na-zona-da-mata>)
+- 📰 [André Janones pode receber alta médica em breve, aponta boletim](<https://www.rcwtv.com.br/noticia/andre-janones-pode-receber-alta-medica-em-breve-aponta-boletim>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

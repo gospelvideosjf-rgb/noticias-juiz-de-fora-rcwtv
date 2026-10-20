@@ -899,3 +899,13 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Operações da PM terminam em prisões, apreensões de drogas e recuperação de veículos na região](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-apreensoes-de-drogas-e-recuperacao-de-veiculos-na-regiao>) - *20/10/2026*
 - [Operações da PM terminam em prisões por tráfico, feminicídio e porte de arma na zona da mata](<https://www.rcwtv.com.br/noticia/operacoes-da-pm-terminam-em-prisoes-por-trafico-feminicidio-e-porte-de-arma-na-zona-da-mata>) - *20/10/2026*
 
+### Atualização de 20/10/2026
+- [Justiça decreta o fim da recuperação judicial do Grupo Americanas](<https://www.rcwtv.com.br/noticia/justica-decreta-o-fim-da-recuperacao-judicial-do-grupo-americanas>) - *20/10/2026*
+- [Como escolher bar de drinks em Juiz de Fora](<https://www.rcwtv.com.br/noticia/como-escolher-bar-de-drinks-em-juiz-de-fora>) - *20/10/2026*
+- [PGR afasta abuso de André Mendonça em apuração sobre Alexandre de Moraes](<https://www.rcwtv.com.br/noticia/pgr-afasta-abuso-de-andre-mendonca-em-apuracao-sobre-alexandre-de-moraes>) - *20/10/2026*
+- [Ato em São Paulo cobra neutralidade da Meta nas eleições após decisão do TSE](<https://www.rcwtv.com.br/noticia/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes-apos-decisao-do-tse>) - *20/10/2026*
+- [Consultas por lesões de colo do útero caem 78% com vacina contra o HPV](<https://www.rcwtv.com.br/noticia/consultas-por-lesoes-de-colo-do-utero-caem-78-com-vacina-contra-o-hpv>) - *20/10/2026*
+- [Projeto de lei criminaliza fraude por desconto indevido em folha de pagamento](<https://www.rcwtv.com.br/noticia/projeto-de-lei-criminaliza-fraude-por-desconto-indevido-em-folha-de-pagamento>) - *20/10/2026*
+- [TRE-RJ altera apenas um local de votação para o segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-altera-apenas-um-local-de-votacao-para-o-segundo-turno>) - *20/10/2026*
+- [MP cobra TSE por alerta sobre alterações em locais de votação no 2º turno](<https://www.rcwtv.com.br/noticia/mp-cobra-tse-por-alerta-sobre-alteracoes-em-locais-de-votacao-no-2-turno>) - *20/10/2026*
+
