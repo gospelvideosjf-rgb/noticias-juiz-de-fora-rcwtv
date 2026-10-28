@@ -2,8 +2,11 @@ name: Atualizar Manchetes e Arquivo Permanente RCWTV
 
 on:
   schedule:
-    - cron: '0 11,21 * * *' # Roda automaticamente 2 vezes ao dia
-  workflow_dispatch: # Permite rodar manualmente a qualquer momento
+    - cron: '0 11,21 * * *' # 08h e 18h no horário de Brasília (UTC-3)
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -12,79 +15,91 @@ jobs:
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Configurar Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Buscar RSS e Criar Histórico Permanente Cumulativo
+      - name: Atualizar manchetes e histórico pelo RSS oficial
         run: |
-          node -e "
-          const https = require('https');
-          const fs = require('fs');
+          python3 <<'PY'
+          from datetime import datetime
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from zoneinfo import ZoneInfo
+          import xml.etree.ElementTree as ET
 
-          https.get('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent('https://www.rcwtv.com.br/rss.xml'), (res) => {
-            let data = '';
-            res.on('data', chunk => data += chunk);
-            res.on('end', () => {
-              try {
-                const json = JSON.parse(data);
-                if (!json.items || json.items.length === 0) return;
+          feed_url = "https://www.rcwtv.com.br/rss.xml"
+          request = Request(feed_url, headers={"User-Agent": "RCWTV-News-Archive/1.0"})
+          with urlopen(request, timeout=30) as response:
+              xml_data = response.read()
 
-                // 1. Atualizar a capa com as 10 mais novas
-                let top10 = '\n';
-                json.items.slice(0, 10).forEach(item => {
-                  top10 += '- 📰 [' + item.title + '](<' + item.link + '>)\n';
-                });
-                
-                let readme = fs.readFileSync('README.md', 'utf8');
-                const startMarker = '<!-- RCWTV_FEED_START -->';
-                const endMarker = '<!-- RCWTV_FEED_END -->';
-                const regex = new RegExp(startMarker + '[\\\s\\\S]*?' + endMarker, 'm');
-                readme = readme.replace(regex, startMarker + top10 + endMarker);
-                
-                if (!readme.includes('historico-noticias.md')) {
-                  readme = readme.replace(endMarker, endMarker + '\n\n👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**');
-                }
-                fs.writeFileSync('README.md', readme);
+          root = ET.fromstring(xml_data)
 
-                // 2. Arquivo Histórico Cumulativo Permanente
-                const histFile = 'historico-noticias.md';
-                let histContent = '';
-                if (fs.existsSync(histFile)) {
-                  histContent = fs.readFileSync(histFile, 'utf8');
-                } else {
-                  histContent = '# 📚 Arquivo Histórico Permanente de Notícias - RCWTV\n\n' +
-                                'Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantido pela RCWTV Comunicação.\n\n' +
-                                '[Acesse o Portal Oficial RCWTV](https://www.rcwtv.com.br)\n\n---\n\n';
-                }
+          def child_text(element, name):
+              for child in element:
+                  if child.tag.rsplit("}", 1)[-1] == name:
+                      return (child.text or "").strip()
+              return ""
 
-                const today = new Date().toLocaleDateString('pt-BR');
-                let newEntries = '';
-                json.items.forEach(item => {
-                  if (!histContent.includes(item.link)) {
-                    newEntries += '- [' + item.title + '](<' + item.link + '>) - *' + today + '*\n';
-                  }
-                });
+          items = []
+          for element in root.iter():
+              if element.tag.rsplit("}", 1)[-1] != "item":
+                  continue
+              title = child_text(element, "title")
+              link = child_text(element, "link")
+              if title and link:
+                  items.append((title, link))
 
-                if (newEntries.length > 0) {
-                  histContent = histContent + '### Atualização de ' + today + '\n' + newEntries + '\n';
-                  fs.writeFileSync(histFile, histContent);
-                  console.log('Novas matérias arquivadas com sucesso!');
-                } else {
-                  console.log('Todas as matérias atuais já estavam no arquivo histórico.');
-                }
-              } catch(e) {
-                console.error(e);
-              }
-            });
-          }).on('error', (e) => console.error(e));
-          "
+          if not items:
+              raise SystemExit("O RSS foi recebido, mas nenhum item válido foi encontrado.")
+
+          readme_path = Path("README.md")
+          readme = readme_path.read_text(encoding="utf-8")
+          start_marker = "<!-- RCWTV_FEED_START -->"
+          end_marker = "<!-- RCWTV_FEED_END -->"
+          if start_marker not in readme or end_marker not in readme:
+              raise SystemExit("Os marcadores do feed não foram encontrados no README.md.")
+
+          start = readme.index(start_marker) + len(start_marker)
+          end = readme.index(end_marker, start)
+          headlines = "\n" + "".join(
+              f"- 📰 [{title}](<{link}>)\n" for title, link in items[:10]
+          )
+          readme_path.write_text(
+              readme[:start] + headlines + readme[end:],
+              encoding="utf-8",
+          )
+
+          history_path = Path("historico-noticias.md")
+          if history_path.exists():
+              history = history_path.read_text(encoding="utf-8")
+          else:
+              history = (
+                  "# 📚 Arquivo Histórico Permanente de Notícias - RCWTV\n\n"
+                  "Registro permanente e cumulativo de reportagens de Juiz de Fora "
+                  "e Região mantido pela RCWTV Comunicação.\n\n"
+                  "[Acesse o Portal Oficial RCWTV](https://www.rcwtv.com.br)\n\n---\n\n"
+              )
+
+          new_items = [(title, link) for title, link in items if link not in history]
+          if new_items:
+              today = datetime.now(ZoneInfo("America/Sao_Paulo")).strftime("%d/%m/%Y")
+              history += f"### Atualização de {today}\n"
+              history += "".join(
+                  f"- [{title}](<{link}>) - *{today}*\n"
+                  for title, link in new_items
+              )
+              history += "\n"
+              history_path.write_text(history, encoding="utf-8")
+
+          print(f"Manchetes atualizadas: {min(len(items), 10)}")
+          print(f"Novas matérias arquivadas: {len(new_items)}")
+          PY
 
       - name: Salvar alterações no repositório
         run: |
-          git config --global user.name "RCWTV Bot"
-          git config --global user.email "bot@rcwtv.com.br"
-          git add README.md historico-noticias.md || true
-          git commit -m "Auto: atualização de manchetes e histórico permanente RCWTV" || echo "Sem novidades"
-          git push
+          git config user.name "RCWTV Bot"
+          git config user.email "bot@rcwtv.com.br"
+          git add README.md historico-noticias.md
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nova."
+          else
+            git commit -m "Auto: atualização de manchetes e histórico permanente RCWTV"
+            git push
+          fi
