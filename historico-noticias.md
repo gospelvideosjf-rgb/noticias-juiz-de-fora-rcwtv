@@ -926,3 +926,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Kassio Nunes Marques pede parecer da PGR sobre revisão criminal de Bolsonaro](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-pede-parecer-da-pgr-sobre-revisao-criminal-de-bolsonaro>) - *28/10/2026*
 - [Enem 2026: mulheres e pardos lideram inscrições confirmadas pelo Inep](<https://www.rcwtv.com.br/noticia/enem-2026-mulheres-e-pardos-lideram-inscricoes-confirmadas-pelo-inep>) - *28/10/2026*
 
+### Atualização de 29/10/2026
+- [Curry faz 44, Jokic alcança marca histórica e Thunder perde invencibilidade em rodada cheia da NBA](<https://www.rcwtv.com.br/noticia/curry-faz-44-jokic-alcanca-marca-historica-e-thunder-perde-invencibilidade-em-rodada-cheia-da-nba>) - *29/10/2026*
+- [Colisão entre dois carros deixa um morto e seis feridos na BR-262 em Abre Campo](<https://www.rcwtv.com.br/noticia/colisao-entre-dois-carros-deixa-um-morto-e-seis-feridos-na-br-262-em-abre-campo-85668>) - *29/10/2026*
+- [Condenação por lesão corporal contra mulher gera inelegibilidade, define TSE](<https://www.rcwtv.com.br/noticia/condenacao-por-lesao-corporal-contra-mulher-gera-inelegibilidade-define-tse>) - *29/10/2026*
+- [Governo alerta que cadastramento para o Pix MEI ainda não começou](<https://www.rcwtv.com.br/noticia/governo-alerta-que-cadastramento-para-o-pix-mei-ainda-nao-comecou>) - *29/10/2026*
+- [Carta golpista e fuga aumentam isolamento político de Flávio Bolsonaro](<https://www.rcwtv.com.br/noticia/carta-golpista-e-fuga-aumentam-isolamento-politico-de-flavio-bolsonaro>) - *29/10/2026*
+- [Palmeiras tropeça na Vila, Botafogo perde para o Remo e arbitragem vira assunto na 33ª rodada](<https://www.rcwtv.com.br/noticia/palmeiras-tropeca-na-vila-botafogo-perde-para-o-remo-e-arbitragem-vira-assunto-na-33-rodada>) - *29/10/2026*
+- [Operações da Polícia Militar terminam com prisão de foragidos e flagrante de tráfico na região](<https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-terminam-com-prisao-de-foragidos-e-flagrante-de-trafico-na-regiao>) - *29/10/2026*
+- [Colisão entre dois carros deixa um morto e seis feridos na BR-262 em Abre Campo](<https://www.rcwtv.com.br/noticia/colisao-entre-dois-carros-deixa-um-morto-e-seis-feridos-na-br-262-em-abre-campo>) - *29/10/2026*
+- [Triângulo Mineiro recebe R$ 11,2 milhões para tratamento de câncer](<https://www.rcwtv.com.br/noticia/triangulo-mineiro-recebe-r-11-2-milhoes-para-tratamento-de-cancer>) - *29/10/2026*
+- [Biometria facial será obrigatória para linhas de telefonia móvel](<https://www.rcwtv.com.br/noticia/biometria-facial-sera-obrigatoria-para-linhas-de-telefonia-movel>) - *29/10/2026*
+- [Comissão aprova expansão do uso do vale-cultura para compras pela internet](<https://www.rcwtv.com.br/noticia/comissao-aprova-expansao-do-uso-do-vale-cultura-para-compras-pela-internet>) - *29/10/2026*
+- [Escolas públicas têm até sábado para regularizar pendências no FNDE](<https://www.rcwtv.com.br/noticia/escolas-publicas-tem-ate-sabado-para-regularizar-pendencias-no-fnde>) - *29/10/2026*
+- [Incêndio destrói casa em Barbacena; ex-marido teria ameaçado colocar fogo no imóvel](<https://www.rcwtv.com.br/noticia/incendio-destroi-casa-em-barbacena-ex-marido-teria-ameacado-colocar-fogo-no-imovel>) - *29/10/2026*
+- [68% dos compradores de compactos valorizam mais áreas comuns no condomínio do que a metragem privativa, aponta pesquisa](<https://www.rcwtv.com.br/noticia/68-dos-compradores-de-compactos-valorizam-mais-areas-comuns-no-condominio-do-que-a-metragem-privativa-aponta-pesquisa>) - *29/10/2026*
+- [Governo Central registra superávit primário de R$ 4,8 bilhões em setembro](<https://www.rcwtv.com.br/noticia/governo-central-registra-superavit-primario-de-r-4-8-bilhoes-em-setembro>) - *29/10/2026*
+
