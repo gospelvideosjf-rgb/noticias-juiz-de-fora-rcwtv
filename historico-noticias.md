@@ -909,3 +909,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [TRE-RJ altera apenas um local de votação para o segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-altera-apenas-um-local-de-votacao-para-o-segundo-turno>) - *20/10/2026*
 - [MP cobra TSE por alerta sobre alterações em locais de votação no 2º turno](<https://www.rcwtv.com.br/noticia/mp-cobra-tse-por-alerta-sobre-alteracoes-em-locais-de-votacao-no-2-turno>) - *20/10/2026*
 
+### Atualização de 28/10/2026
+- [Governo estuda lista suja e restrição de crédito para assédio eleitoral](<https://www.rcwtv.com.br/noticia/governo-estuda-lista-suja-e-restricao-de-credito-para-assedio-eleitoral>) - *28/10/2026*
+- [Coordenador do PL admite ausência de provas sobre fraude eleitoral no país](<https://www.rcwtv.com.br/noticia/coordenador-do-pl-admite-ausencia-de-provas-sobre-fraude-eleitoral-no-pais>) - *28/10/2026*
+- [Eleições 2026 ocorreram dentro da normalidade, afirma presidente do TSE](<https://www.rcwtv.com.br/noticia/eleicoes-2026-ocorreram-dentro-da-normalidade-afirma-presidente-do-tse>) - *28/10/2026*
+- [MEC Idiomas lança curso gratuito de coreano em plataforma oficial](<https://www.rcwtv.com.br/noticia/mec-idiomas-lanca-curso-gratuito-de-coreano-em-plataforma-oficial>) - *28/10/2026*
+- [Projeto prevê criação de ciclovias em rodovias federais para ampliar segurança](<https://www.rcwtv.com.br/noticia/projeto-preve-criacao-de-ciclovias-em-rodovias-federais-para-ampliar-seguranca>) - *28/10/2026*
+- [Flávio Bolsonaro divulga carta de agradecimento a Trump e Milei após fugir](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-divulga-carta-de-agradecimento-a-trump-e-milei-apos-fugir>) - *28/10/2026*
+- [Viagem de Flávio Bolsonaro aos EUA e reeleição de Lula geram debate no Plenário](<https://www.rcwtv.com.br/noticia/viagem-de-flavio-bolsonaro-aos-eua-e-reeleicao-de-lula-geram-debate-no-plenario>) - *28/10/2026*
+- [Afastamentos por vício em jogos crescem cinco vezes no Brasil](<https://www.rcwtv.com.br/noticia/afastamentos-por-vicio-em-jogos-crescem-cinco-vezes-no-brasil>) - *28/10/2026*
+- [Justiça bloqueia R$ 327 milhões do Comando Vermelho por venda ilegal de gás](<https://www.rcwtv.com.br/noticia/justica-bloqueia-r-327-milhoes-do-comando-vermelho-por-venda-ilegal-de-gas>) - *28/10/2026*
+- [As principais novidades para o MEI e pequenas empresas em 2026](<https://www.rcwtv.com.br/noticia/as-principais-novidades-para-o-mei-e-pequenas-empresas-em-2026>) - *28/10/2026*
+- [Câmara aprova acordo do mercosul para proteção de mulheres](<https://www.rcwtv.com.br/noticia/camara-aprova-acordo-do-mercosul-para-protecao-de-mulheres>) - *28/10/2026*
+- [Consumo de alimentos cresce com o avanço do mercado supermercadista no país](<https://www.rcwtv.com.br/noticia/consumo-de-alimentos-cresce-com-o-avanco-do-mercado-supermercadista-no-pais>) - *28/10/2026*
+- [PF apura a fuga de Flávio Bolsonaro do Brasil após ordem do STF](<https://www.rcwtv.com.br/noticia/pf-apura-a-fuga-de-flavio-bolsonaro-do-brasil-apos-ordem-do-stf>) - *28/10/2026*
+- [Kassio Nunes Marques pede parecer da PGR sobre revisão criminal de Bolsonaro](<https://www.rcwtv.com.br/noticia/kassio-nunes-marques-pede-parecer-da-pgr-sobre-revisao-criminal-de-bolsonaro>) - *28/10/2026*
+- [Enem 2026: mulheres e pardos lideram inscrições confirmadas pelo Inep](<https://www.rcwtv.com.br/noticia/enem-2026-mulheres-e-pardos-lideram-inscricoes-confirmadas-pelo-inep>) - *28/10/2026*
+

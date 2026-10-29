@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Justiça decreta o fim da recuperação judicial do Grupo Americanas](<https://www.rcwtv.com.br/noticia/justica-decreta-o-fim-da-recuperacao-judicial-do-grupo-americanas>)
-- 📰 [Como escolher bar de drinks em Juiz de Fora](<https://www.rcwtv.com.br/noticia/como-escolher-bar-de-drinks-em-juiz-de-fora>)
-- 📰 [PGR afasta abuso de André Mendonça em apuração sobre Alexandre de Moraes](<https://www.rcwtv.com.br/noticia/pgr-afasta-abuso-de-andre-mendonca-em-apuracao-sobre-alexandre-de-moraes>)
-- 📰 [Ato em São Paulo cobra neutralidade da Meta nas eleições após decisão do TSE](<https://www.rcwtv.com.br/noticia/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes-apos-decisao-do-tse>)
-- 📰 [Consultas por lesões de colo do útero caem 78% com vacina contra o HPV](<https://www.rcwtv.com.br/noticia/consultas-por-lesoes-de-colo-do-utero-caem-78-com-vacina-contra-o-hpv>)
-- 📰 [Projeto de lei criminaliza fraude por desconto indevido em folha de pagamento](<https://www.rcwtv.com.br/noticia/projeto-de-lei-criminaliza-fraude-por-desconto-indevido-em-folha-de-pagamento>)
-- 📰 [TRE-RJ altera apenas um local de votação para o segundo turno](<https://www.rcwtv.com.br/noticia/tre-rj-altera-apenas-um-local-de-votacao-para-o-segundo-turno>)
-- 📰 [MP cobra TSE por alerta sobre alterações em locais de votação no 2º turno](<https://www.rcwtv.com.br/noticia/mp-cobra-tse-por-alerta-sobre-alteracoes-em-locais-de-votacao-no-2-turno>)
-- 📰 [DF e quatro estados mantêm os mesmos locais de votação no segundo turno](<https://www.rcwtv.com.br/noticia/df-e-quatro-estados-mantem-os-mesmos-locais-de-votacao-no-segundo-turno>)
-- 📰 [André Janones pode receber alta médica em breve, aponta boletim](<https://www.rcwtv.com.br/noticia/andre-janones-pode-receber-alta-medica-em-breve-aponta-boletim>)
+- 📰 [Governo estuda lista suja e restrição de crédito para assédio eleitoral](<https://www.rcwtv.com.br/noticia/governo-estuda-lista-suja-e-restricao-de-credito-para-assedio-eleitoral>)
+- 📰 [Coordenador do PL admite ausência de provas sobre fraude eleitoral no país](<https://www.rcwtv.com.br/noticia/coordenador-do-pl-admite-ausencia-de-provas-sobre-fraude-eleitoral-no-pais>)
+- 📰 [Eleições 2026 ocorreram dentro da normalidade, afirma presidente do TSE](<https://www.rcwtv.com.br/noticia/eleicoes-2026-ocorreram-dentro-da-normalidade-afirma-presidente-do-tse>)
+- 📰 [MEC Idiomas lança curso gratuito de coreano em plataforma oficial](<https://www.rcwtv.com.br/noticia/mec-idiomas-lanca-curso-gratuito-de-coreano-em-plataforma-oficial>)
+- 📰 [Projeto prevê criação de ciclovias em rodovias federais para ampliar segurança](<https://www.rcwtv.com.br/noticia/projeto-preve-criacao-de-ciclovias-em-rodovias-federais-para-ampliar-seguranca>)
+- 📰 [Flávio Bolsonaro divulga carta de agradecimento a Trump e Milei após fugir](<https://www.rcwtv.com.br/noticia/flavio-bolsonaro-divulga-carta-de-agradecimento-a-trump-e-milei-apos-fugir>)
+- 📰 [Viagem de Flávio Bolsonaro aos EUA e reeleição de Lula geram debate no Plenário](<https://www.rcwtv.com.br/noticia/viagem-de-flavio-bolsonaro-aos-eua-e-reeleicao-de-lula-geram-debate-no-plenario>)
+- 📰 [Afastamentos por vício em jogos crescem cinco vezes no Brasil](<https://www.rcwtv.com.br/noticia/afastamentos-por-vicio-em-jogos-crescem-cinco-vezes-no-brasil>)
+- 📰 [Justiça bloqueia R$ 327 milhões do Comando Vermelho por venda ilegal de gás](<https://www.rcwtv.com.br/noticia/justica-bloqueia-r-327-milhoes-do-comando-vermelho-por-venda-ilegal-de-gas>)
+- 📰 [As principais novidades para o MEI e pequenas empresas em 2026](<https://www.rcwtv.com.br/noticia/as-principais-novidades-para-o-mei-e-pequenas-empresas-em-2026>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
