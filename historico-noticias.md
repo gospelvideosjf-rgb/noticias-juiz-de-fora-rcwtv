@@ -943,3 +943,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [68% dos compradores de compactos valorizam mais áreas comuns no condomínio do que a metragem privativa, aponta pesquisa](<https://www.rcwtv.com.br/noticia/68-dos-compradores-de-compactos-valorizam-mais-areas-comuns-no-condominio-do-que-a-metragem-privativa-aponta-pesquisa>) - *29/10/2026*
 - [Governo Central registra superávit primário de R$ 4,8 bilhões em setembro](<https://www.rcwtv.com.br/noticia/governo-central-registra-superavit-primario-de-r-4-8-bilhoes-em-setembro>) - *29/10/2026*
 
+### Atualização de 29/10/2026
+- [CMN amplia limite de crédito para estados e municípios em R$ 2 bilhões](<https://www.rcwtv.com.br/noticia/cmn-amplia-limite-de-credito-para-estados-e-municipios-em-r-2-bilhoes>) - *29/10/2026*
+- [Mais de 1,5 mil m² de lazer e valorização média de 20% ao ano marcam novo perfil de imóvel de praia](<https://www.rcwtv.com.br/noticia/mais-de-1-5-mil-m-de-lazer-e-valorizacao-media-de-20-ao-ano-marcam-novo-perfil-de-imovel-de-praia>) - *29/10/2026*
+- [Temporada de cruzeiros inicia nesta sexta-feira com foco na expansão de empregos](<https://www.rcwtv.com.br/noticia/temporada-de-cruzeiros-inicia-nesta-sexta-feira-com-foco-na-expansao-de-empregos>) - *29/10/2026*
+- [Operação Contenção: DPRJ pede R$ 50 milhões em reparação para moradores](<https://www.rcwtv.com.br/noticia/operacao-contencao-dprj-pede-r-50-milhoes-em-reparacao-para-moradores>) - *29/10/2026*
+- [Campanha do ministério orienta trabalhadores contra o assédio eleitoral](<https://www.rcwtv.com.br/noticia/campanha-do-ministerio-orienta-trabalhadores-contra-o-assedio-eleitoral>) - *29/10/2026*
+- [Câmara debate a nova Política Nacional de Minerais Críticos e Estratégicos](<https://www.rcwtv.com.br/noticia/camara-debate-a-nova-politica-nacional-de-minerais-criticos-e-estrategicos>) - *29/10/2026*
+- [Juiz de Fora reduz em 37% os crimes contra o patrimônio no Centro](<https://www.rcwtv.com.br/noticia/juiz-de-fora-reduz-em-37-os-crimes-contra-o-patrimonio-no-centro>) - *29/10/2026*
+- [Abastecimento de água continua interrompido nos bairros Industrial e Francisco Bernardino nesta quinta (29)](<https://www.rcwtv.com.br/noticia/abastecimento-de-agua-continua-interrompido-nos-bairros-industrial-e-francisco-bernardino-nesta-quinta-29>) - *29/10/2026*
+- [Dívida pública atinge 82,9% do PIB enquanto déficit soma R$ 5,5 bilhões](<https://www.rcwtv.com.br/noticia/divida-publica-atinge-82-9-do-pib-enquanto-deficit-soma-r-5-5-bilhoes>) - *29/10/2026*
+- [Comissão aprova acessibilidade para exames preventivos em mulheres com deficiência](<https://www.rcwtv.com.br/noticia/comissao-aprova-acessibilidade-para-exames-preventivos-em-mulheres-com-deficiencia>) - *29/10/2026*
+- [Impacto fiscal de R$ 40 bilhões é previsto por instituto com propostas de Lula](<https://www.rcwtv.com.br/noticia/impacto-fiscal-de-r-40-bilhoes-e-previsto-por-instituto-com-propostas-de-lula>) - *29/10/2026*
+- [Comissão aprova projeto de lei para proteger estudos de vítimas de violência](<https://www.rcwtv.com.br/noticia/comissao-aprova-projeto-de-lei-para-proteger-estudos-de-vitimas-de-violencia>) - *29/10/2026*
+- [Prefeitura de Juiz de Fora e ONU realizam oficinas de prevenção a riscos de desastres em Minas Gerais](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-e-onu-realizam-oficinas-de-prevencao-a-riscos-de-desastres-em-minas-gerais>) - *29/10/2026*
+- [Câmara aprova novas diretrizes para ampliar o acesso a medicamentos no SUS](<https://www.rcwtv.com.br/noticia/camara-aprova-novas-diretrizes-para-ampliar-o-acesso-a-medicamentos-no-sus>) - *29/10/2026*
+- [Efeito Balneário Camboriú? Cidade vizinha cresce 65% em população e atrai empreendimentos de alto padrão](<https://www.rcwtv.com.br/noticia/efeito-balneario-camboriu-cidade-vizinha-cresce-65-em-populacao-e-atrai-empreendimentos-de-alto-padrao>) - *29/10/2026*
+
