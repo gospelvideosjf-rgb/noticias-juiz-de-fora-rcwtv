@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [CMN amplia limite de crédito para estados e municípios em R$ 2 bilhões](<https://www.rcwtv.com.br/noticia/cmn-amplia-limite-de-credito-para-estados-e-municipios-em-r-2-bilhoes>)
-- 📰 [Mais de 1,5 mil m² de lazer e valorização média de 20% ao ano marcam novo perfil de imóvel de praia](<https://www.rcwtv.com.br/noticia/mais-de-1-5-mil-m-de-lazer-e-valorizacao-media-de-20-ao-ano-marcam-novo-perfil-de-imovel-de-praia>)
-- 📰 [Temporada de cruzeiros inicia nesta sexta-feira com foco na expansão de empregos](<https://www.rcwtv.com.br/noticia/temporada-de-cruzeiros-inicia-nesta-sexta-feira-com-foco-na-expansao-de-empregos>)
-- 📰 [Operação Contenção: DPRJ pede R$ 50 milhões em reparação para moradores](<https://www.rcwtv.com.br/noticia/operacao-contencao-dprj-pede-r-50-milhoes-em-reparacao-para-moradores>)
-- 📰 [Campanha do ministério orienta trabalhadores contra o assédio eleitoral](<https://www.rcwtv.com.br/noticia/campanha-do-ministerio-orienta-trabalhadores-contra-o-assedio-eleitoral>)
-- 📰 [Câmara debate a nova Política Nacional de Minerais Críticos e Estratégicos](<https://www.rcwtv.com.br/noticia/camara-debate-a-nova-politica-nacional-de-minerais-criticos-e-estrategicos>)
-- 📰 [Juiz de Fora reduz em 37% os crimes contra o patrimônio no Centro](<https://www.rcwtv.com.br/noticia/juiz-de-fora-reduz-em-37-os-crimes-contra-o-patrimonio-no-centro>)
-- 📰 [Abastecimento de água continua interrompido nos bairros Industrial e Francisco Bernardino nesta quinta (29)](<https://www.rcwtv.com.br/noticia/abastecimento-de-agua-continua-interrompido-nos-bairros-industrial-e-francisco-bernardino-nesta-quinta-29>)
-- 📰 [Dívida pública atinge 82,9% do PIB enquanto déficit soma R$ 5,5 bilhões](<https://www.rcwtv.com.br/noticia/divida-publica-atinge-82-9-do-pib-enquanto-deficit-soma-r-5-5-bilhoes>)
-- 📰 [Comissão aprova acessibilidade para exames preventivos em mulheres com deficiência](<https://www.rcwtv.com.br/noticia/comissao-aprova-acessibilidade-para-exames-preventivos-em-mulheres-com-deficiencia>)
+- 📰 [Grizzlies seguem invictos, Pelicans vencem a primeira e Hawks batem Cavaliers em noite curta na NBA](<https://www.rcwtv.com.br/noticia/grizzlies-seguem-invictos-pelicans-vencem-a-primeira-e-hawks-batem-cavaliers-em-noite-curta-na-nba>)
+- 📰 [Cruzeiro vence clássico na Arena MRV, e Grêmio bate o Athletico para sair do Z-4](<https://www.rcwtv.com.br/noticia/cruzeiro-vence-classico-na-arena-mrv-e-gremio-bate-o-athletico-para-sair-do-z-4>)
+- 📰 [Pós em balística supera 500 alunos formados](<https://www.rcwtv.com.br/noticia/pos-em-balistica-supera-500-alunos-formados>)
+- 📰 [Bispo Bruno Leonardo surpreende Dona May em barraca de frutas e doa R$ 10 mil após emocionante encontro](<https://www.rcwtv.com.br/noticia/bispo-bruno-leonardo-surpreende-dona-may-em-barraca-de-frutas-e-doa-r-10-mil-apos-emocionante-encontro>)
+- 📰 [Flamengo atropela o Vasco, vence por 4 a 1 e abre três pontos na liderança](<https://www.rcwtv.com.br/noticia/flamengo-atropela-o-vasco-vence-por-4-a-1-e-abre-tres-pontos-na-lideranca>)
+- 📰 [Ministério Público do Trabalho recebe 530 denúncias de assédio eleitoral](<https://www.rcwtv.com.br/noticia/ministerio-publico-do-trabalho-recebe-530-denuncias-de-assedio-eleitoral>)
+- 📰 [A pedido do MPMG, Tribunal de Justiça mantém condenação de ex-vereadores de Baependi](<https://www.rcwtv.com.br/noticia/a-pedido-do-mpmg-tribunal-de-justica-mantem-condenacao-de-ex-vereadores-de-baependi>)
+- 📰 [Oferta de cuidados paliativos é desafio em MG - Assembleia Legislativa de Minas Gerais](<https://www.rcwtv.com.br/noticia/oferta-de-cuidados-paliativos-e-desafio-em-mg-assembleia-legislativa-de-minas-gerais>)
+- 📰 [PCMG celebra formatura de técnicos-assistentes e fortalece quadro administrativo](<https://www.rcwtv.com.br/noticia/pcmg-celebra-formatura-de-tecnicos-assistentes-e-fortalece-quadro-administrativo-85778>)
+- 📰 [MPT recomenda retirada de posts com discriminação política em Montes Claros](<https://www.rcwtv.com.br/noticia/mpt-recomenda-retirada-de-posts-com-discriminacao-politica-em-montes-claros>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

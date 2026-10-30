@@ -960,3 +960,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Câmara aprova novas diretrizes para ampliar o acesso a medicamentos no SUS](<https://www.rcwtv.com.br/noticia/camara-aprova-novas-diretrizes-para-ampliar-o-acesso-a-medicamentos-no-sus>) - *29/10/2026*
 - [Efeito Balneário Camboriú? Cidade vizinha cresce 65% em população e atrai empreendimentos de alto padrão](<https://www.rcwtv.com.br/noticia/efeito-balneario-camboriu-cidade-vizinha-cresce-65-em-populacao-e-atrai-empreendimentos-de-alto-padrao>) - *29/10/2026*
 
+### Atualização de 30/10/2026
+- [Grizzlies seguem invictos, Pelicans vencem a primeira e Hawks batem Cavaliers em noite curta na NBA](<https://www.rcwtv.com.br/noticia/grizzlies-seguem-invictos-pelicans-vencem-a-primeira-e-hawks-batem-cavaliers-em-noite-curta-na-nba>) - *30/10/2026*
+- [Cruzeiro vence clássico na Arena MRV, e Grêmio bate o Athletico para sair do Z-4](<https://www.rcwtv.com.br/noticia/cruzeiro-vence-classico-na-arena-mrv-e-gremio-bate-o-athletico-para-sair-do-z-4>) - *30/10/2026*
+- [Pós em balística supera 500 alunos formados](<https://www.rcwtv.com.br/noticia/pos-em-balistica-supera-500-alunos-formados>) - *30/10/2026*
+- [Bispo Bruno Leonardo surpreende Dona May em barraca de frutas e doa R$ 10 mil após emocionante encontro](<https://www.rcwtv.com.br/noticia/bispo-bruno-leonardo-surpreende-dona-may-em-barraca-de-frutas-e-doa-r-10-mil-apos-emocionante-encontro>) - *30/10/2026*
+- [Flamengo atropela o Vasco, vence por 4 a 1 e abre três pontos na liderança](<https://www.rcwtv.com.br/noticia/flamengo-atropela-o-vasco-vence-por-4-a-1-e-abre-tres-pontos-na-lideranca>) - *30/10/2026*
+- [Ministério Público do Trabalho recebe 530 denúncias de assédio eleitoral](<https://www.rcwtv.com.br/noticia/ministerio-publico-do-trabalho-recebe-530-denuncias-de-assedio-eleitoral>) - *30/10/2026*
+- [A pedido do MPMG, Tribunal de Justiça mantém condenação de ex-vereadores de Baependi](<https://www.rcwtv.com.br/noticia/a-pedido-do-mpmg-tribunal-de-justica-mantem-condenacao-de-ex-vereadores-de-baependi>) - *30/10/2026*
+- [Oferta de cuidados paliativos é desafio em MG - Assembleia Legislativa de Minas Gerais](<https://www.rcwtv.com.br/noticia/oferta-de-cuidados-paliativos-e-desafio-em-mg-assembleia-legislativa-de-minas-gerais>) - *30/10/2026*
+- [PCMG celebra formatura de técnicos-assistentes e fortalece quadro administrativo](<https://www.rcwtv.com.br/noticia/pcmg-celebra-formatura-de-tecnicos-assistentes-e-fortalece-quadro-administrativo-85778>) - *30/10/2026*
+- [MPT recomenda retirada de posts com discriminação política em Montes Claros](<https://www.rcwtv.com.br/noticia/mpt-recomenda-retirada-de-posts-com-discriminacao-politica-em-montes-claros>) - *30/10/2026*
+- [UFJF recebe o XIX Encontro Nacional de Análise Matemática e Aplicações](<https://www.rcwtv.com.br/noticia/ufjf-recebe-o-xix-encontro-nacional-de-analise-matematica-e-aplicacoes>) - *30/10/2026*
+- [PCMG celebra formatura de técnicos-assistentes e fortalece quadro administrativo](<https://www.rcwtv.com.br/noticia/pcmg-celebra-formatura-de-tecnicos-assistentes-e-fortalece-quadro-administrativo>) - *30/10/2026*
+- [Pedralva: PCMG prende suspeito de roubo que terminou com morte de idosa](<https://www.rcwtv.com.br/noticia/pedralva-pcmg-prende-suspeito-de-roubo-que-terminou-com-morte-de-idosa>) - *30/10/2026*
+- [MPMG acompanha regulamentação da Operação Urbana em Belo Horizonte](<https://www.rcwtv.com.br/noticia/mpmg-acompanha-regulamentacao-da-operacao-urbana-em-belo-horizonte>) - *30/10/2026*
+- [TJMG eleva indenização a consumidora intoxicada por cerveja](<https://www.rcwtv.com.br/noticia/tjmg-eleva-indenizacao-a-consumidora-intoxicada-por-cerveja>) - *30/10/2026*
+
