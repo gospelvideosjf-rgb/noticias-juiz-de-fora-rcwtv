@@ -1011,3 +1011,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Justiça intima Dr. Jairinho a justificar apelação no caso Henry Borel](<https://www.rcwtv.com.br/noticia/justica-intima-dr-jairinho-a-justificar-apelacao-no-caso-henry-borel>) - *31/10/2026*
 - [Governo de Minas apresenta dados de desenvolvimento econômico à transição](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-dados-de-desenvolvimento-economico-a-transicao>) - *31/10/2026*
 
+### Atualização de 31/10/2026
+- [Podcast debate vício em apostas e impactos na saúde mental](<https://www.rcwtv.com.br/noticia/podcast-debate-vicio-em-apostas-e-impactos-na-saude-mental>) - *31/10/2026*
+- [Governo de Minas apresenta Canal Simplifique na Superminas 2026](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-canal-simplifique-na-superminas-2026>) - *31/10/2026*
+- [Câmara de Juiz de Fora aprova projeto Política UBS Segura](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-projeto-politica-ubs-segura>) - *31/10/2026*
+- [Anvisa prorroga transição para receitas eletrônicas no SNCR](<https://www.rcwtv.com.br/noticia/anvisa-prorroga-transicao-para-receitas-eletronicas-no-sncr>) - *31/10/2026*
+- [Copasa e órgãos de segurança reforçam fiscalização na represa Vargem das Flores](<https://www.rcwtv.com.br/noticia/copasa-e-orgaos-de-seguranca-reforcam-fiscalizacao-na-represa-vargem-das-flores>) - *31/10/2026*
+- [MTE contabiliza mais de 4 mil denúncias de assédio eleitoral em três dias](<https://www.rcwtv.com.br/noticia/mte-contabiliza-mais-de-4-mil-denuncias-de-assedio-eleitoral-em-tres-dias>) - *31/10/2026*
+- [Cesama adia abertura do Pregão Presencial nº 071/26 para 10 de novembro](<https://www.rcwtv.com.br/noticia/cesama-adia-abertura-do-pregao-presencial-n-071-26-para-10-de-novembro>) - *31/10/2026*
+- [DER-MG investe R$ 134 milhões para ampliar segurança nas rodovias estaduais](<https://www.rcwtv.com.br/noticia/der-mg-investe-r-134-milhoes-para-ampliar-seguranca-nas-rodovias-estaduais>) - *31/10/2026*
+- [loja é condenada por obrigar vendedora a gravar vídeos com roupas justas](<https://www.rcwtv.com.br/noticia/loja-e-condenada-por-obrigar-vendedora-a-gravar-videos-com-roupas-justas>) - *31/10/2026*
+- [Assembleia Legislativa de Minas Gerais aprova projeto sobre emendas impositivas](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-aprova-projeto-sobre-emendas-impositivas>) - *31/10/2026*
+- [Governo de Minas publica novo lote com mais de 3 mil nomeações para a educação](<https://www.rcwtv.com.br/noticia/governo-de-minas-publica-novo-lote-com-mais-de-3-mil-nomeacoes-para-a-educacao>) - *31/10/2026*
+- [SRS Diamantina capacita profissionais para ampliar imunobiológicos especiais](<https://www.rcwtv.com.br/noticia/srs-diamantina-capacita-profissionais-para-ampliar-imunobiologicos-especiais>) - *31/10/2026*
+- [MP Itinerante leva serviços de cidadania e cultura a Igaratinga](<https://www.rcwtv.com.br/noticia/mp-itinerante-leva-servicos-de-cidadania-e-cultura-a-igaratinga>) - *31/10/2026*
+- [Feira das Profissões oferece experiências práticas em 36 cursos da UFJF](<https://www.rcwtv.com.br/noticia/feira-das-profissoes-oferece-experiencias-praticas-em-36-cursos-da-ufjf>) - *31/10/2026*
+- [Corpo de Bombeiros de Minas Gerais recebe a Medalha Santos Dumont](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-de-minas-gerais-recebe-a-medalha-santos-dumont>) - *31/10/2026*
+

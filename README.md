@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Anvisa informa que sistema de produtos controlados está indisponível](<https://www.rcwtv.com.br/noticia/anvisa-informa-que-sistema-de-produtos-controlados-esta-indisponivel>)
-- 📰 [Copasa inaugura murais de arte urbana para valorizar cultura em Varginha](<https://www.rcwtv.com.br/noticia/copasa-inaugura-murais-de-arte-urbana-para-valorizar-cultura-em-varginha>)
-- 📰 [Inmet emite alerta para chuvas intensas em três regiões do país](<https://www.rcwtv.com.br/noticia/inmet-emite-alerta-para-chuvas-intensas-em-tres-regioes-do-pais>)
-- 📰 [Parceria lança cursos gratuitos sobre IA voltados para professores](<https://www.rcwtv.com.br/noticia/parceria-lanca-cursos-gratuitos-sobre-ia-voltados-para-professores>)
-- 📰 [Carnadministrando Run Fest resgata a nostalgia das micaretas e reúne corrida, saúde e axé em Juiz de Fora](<https://www.rcwtv.com.br/noticia/carnadministrando-run-fest-resgata-a-nostalgia-das-micaretas-e-reune-corrida-saude-e-axe-em-juiz-de-fora>)
-- 📰 [Uberaba mantém liderança do agronegócio em Minas Gerais com bilhões no VBP](<https://www.rcwtv.com.br/noticia/uberaba-mantem-lideranca-do-agronegocio-em-minas-gerais-com-bilhoes-no-vbp>)
-- 📰 [Dependente químico é condenado por desviar dinheiro de pais idosos](<https://www.rcwtv.com.br/noticia/dependente-quimico-e-condenado-por-desviar-dinheiro-de-pais-idosos>)
-- 📰 [Comissão de Educação debate o projeto Eco Escola em Belo Horizonte](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-debate-o-projeto-eco-escola-em-belo-horizonte>)
-- 📰 [Servidores da SEE/MG têm prazo para cursos sobre inteligência artificial](<https://www.rcwtv.com.br/noticia/servidores-da-see-mg-tem-prazo-para-cursos-sobre-inteligencia-artificial>)
-- 📰 [Minas Gerais aprova novas UTIs e unidades coronarianas para Montes Claros](<https://www.rcwtv.com.br/noticia/minas-gerais-aprova-novas-utis-e-unidades-coronarianas-para-montes-claros>)
+- 📰 [Podcast debate vício em apostas e impactos na saúde mental](<https://www.rcwtv.com.br/noticia/podcast-debate-vicio-em-apostas-e-impactos-na-saude-mental>)
+- 📰 [Governo de Minas apresenta Canal Simplifique na Superminas 2026](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-canal-simplifique-na-superminas-2026>)
+- 📰 [Câmara de Juiz de Fora aprova projeto Política UBS Segura](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-projeto-politica-ubs-segura>)
+- 📰 [Anvisa prorroga transição para receitas eletrônicas no SNCR](<https://www.rcwtv.com.br/noticia/anvisa-prorroga-transicao-para-receitas-eletronicas-no-sncr>)
+- 📰 [Copasa e órgãos de segurança reforçam fiscalização na represa Vargem das Flores](<https://www.rcwtv.com.br/noticia/copasa-e-orgaos-de-seguranca-reforcam-fiscalizacao-na-represa-vargem-das-flores>)
+- 📰 [MTE contabiliza mais de 4 mil denúncias de assédio eleitoral em três dias](<https://www.rcwtv.com.br/noticia/mte-contabiliza-mais-de-4-mil-denuncias-de-assedio-eleitoral-em-tres-dias>)
+- 📰 [Cesama adia abertura do Pregão Presencial nº 071/26 para 10 de novembro](<https://www.rcwtv.com.br/noticia/cesama-adia-abertura-do-pregao-presencial-n-071-26-para-10-de-novembro>)
+- 📰 [DER-MG investe R$ 134 milhões para ampliar segurança nas rodovias estaduais](<https://www.rcwtv.com.br/noticia/der-mg-investe-r-134-milhoes-para-ampliar-seguranca-nas-rodovias-estaduais>)
+- 📰 [loja é condenada por obrigar vendedora a gravar vídeos com roupas justas](<https://www.rcwtv.com.br/noticia/loja-e-condenada-por-obrigar-vendedora-a-gravar-videos-com-roupas-justas>)
+- 📰 [Assembleia Legislativa de Minas Gerais aprova projeto sobre emendas impositivas](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-aprova-projeto-sobre-emendas-impositivas>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
