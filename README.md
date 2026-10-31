@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Governo planeja terceira edição do concurso público nacional unificado](<https://www.rcwtv.com.br/noticia/governo-planeja-terceira-edicao-do-concurso-publico-nacional-unificado>)
-- 📰 [Aneel confirma bandeira tarifária verde para as contas de luz em novembro](<https://www.rcwtv.com.br/noticia/aneel-confirma-bandeira-tarifaria-verde-para-as-contas-de-luz-em-novembro>)
-- 📰 [Justiça manda Meta excluir posts sobre assédio eleitoral no trabalho](<https://www.rcwtv.com.br/noticia/justica-manda-meta-excluir-posts-sobre-assedio-eleitoral-no-trabalho>)
-- 📰 [Projeto em território Maxakali em Minas Gerais é finalista da Unesco](<https://www.rcwtv.com.br/noticia/projeto-em-territorio-maxakali-em-minas-gerais-e-finalista-da-unesco>)
-- 📰 [Ministério Público Federal alerta sobre instabilidade no portal do órgão](<https://www.rcwtv.com.br/noticia/ministerio-publico-federal-alerta-sobre-instabilidade-no-portal-do-orgao>)
-- 📰 [MPMG articula parceria que beneficia 94 crianças em Contagem](<https://www.rcwtv.com.br/noticia/mpmg-articula-parceria-que-beneficia-94-criancas-em-contagem>)
-- 📰 [Poeta Edimilson de Almeida Pereira recebe título de professor emérito da UFJF](<https://www.rcwtv.com.br/noticia/poeta-edimilson-de-almeida-pereira-recebe-titulo-de-professor-emerito-da-ufjf>)
-- 📰 [Governo de Minas investe no diagnóstico e tratamento do câncer de mama](<https://www.rcwtv.com.br/noticia/governo-de-minas-investe-no-diagnostico-e-tratamento-do-cancer-de-mama>)
-- 📰 [Polícia Civil de Minas Gerais prende suspeito de estupro em Ipatinga](<https://www.rcwtv.com.br/noticia/policia-civil-de-minas-gerais-prende-suspeito-de-estupro-em-ipatinga>)
-- 📰 [Câmara Municipal JF aprova projeto para valorizar artistas de rua](<https://www.rcwtv.com.br/noticia/camara-municipal-jf-aprova-projeto-para-valorizar-artistas-de-rua>)
+- 📰 [Anvisa informa que sistema de produtos controlados está indisponível](<https://www.rcwtv.com.br/noticia/anvisa-informa-que-sistema-de-produtos-controlados-esta-indisponivel>)
+- 📰 [Copasa inaugura murais de arte urbana para valorizar cultura em Varginha](<https://www.rcwtv.com.br/noticia/copasa-inaugura-murais-de-arte-urbana-para-valorizar-cultura-em-varginha>)
+- 📰 [Inmet emite alerta para chuvas intensas em três regiões do país](<https://www.rcwtv.com.br/noticia/inmet-emite-alerta-para-chuvas-intensas-em-tres-regioes-do-pais>)
+- 📰 [Parceria lança cursos gratuitos sobre IA voltados para professores](<https://www.rcwtv.com.br/noticia/parceria-lanca-cursos-gratuitos-sobre-ia-voltados-para-professores>)
+- 📰 [Carnadministrando Run Fest resgata a nostalgia das micaretas e reúne corrida, saúde e axé em Juiz de Fora](<https://www.rcwtv.com.br/noticia/carnadministrando-run-fest-resgata-a-nostalgia-das-micaretas-e-reune-corrida-saude-e-axe-em-juiz-de-fora>)
+- 📰 [Uberaba mantém liderança do agronegócio em Minas Gerais com bilhões no VBP](<https://www.rcwtv.com.br/noticia/uberaba-mantem-lideranca-do-agronegocio-em-minas-gerais-com-bilhoes-no-vbp>)
+- 📰 [Dependente químico é condenado por desviar dinheiro de pais idosos](<https://www.rcwtv.com.br/noticia/dependente-quimico-e-condenado-por-desviar-dinheiro-de-pais-idosos>)
+- 📰 [Comissão de Educação debate o projeto Eco Escola em Belo Horizonte](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-debate-o-projeto-eco-escola-em-belo-horizonte>)
+- 📰 [Servidores da SEE/MG têm prazo para cursos sobre inteligência artificial](<https://www.rcwtv.com.br/noticia/servidores-da-see-mg-tem-prazo-para-cursos-sobre-inteligencia-artificial>)
+- 📰 [Minas Gerais aprova novas UTIs e unidades coronarianas para Montes Claros](<https://www.rcwtv.com.br/noticia/minas-gerais-aprova-novas-utis-e-unidades-coronarianas-para-montes-claros>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

@@ -994,3 +994,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Festival Primeiro Plano abre inscrições para oficinas gratuitas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festival-primeiro-plano-abre-inscricoes-para-oficinas-gratuitas-em-juiz-de-fora-85821>) - *30/10/2026*
 - [Festival Primeiro Plano abre inscrições para oficinas gratuitas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festival-primeiro-plano-abre-inscricoes-para-oficinas-gratuitas-em-juiz-de-fora>) - *30/10/2026*
 
+### Atualização de 31/10/2026
+- [Anvisa informa que sistema de produtos controlados está indisponível](<https://www.rcwtv.com.br/noticia/anvisa-informa-que-sistema-de-produtos-controlados-esta-indisponivel>) - *31/10/2026*
+- [Copasa inaugura murais de arte urbana para valorizar cultura em Varginha](<https://www.rcwtv.com.br/noticia/copasa-inaugura-murais-de-arte-urbana-para-valorizar-cultura-em-varginha>) - *31/10/2026*
+- [Inmet emite alerta para chuvas intensas em três regiões do país](<https://www.rcwtv.com.br/noticia/inmet-emite-alerta-para-chuvas-intensas-em-tres-regioes-do-pais>) - *31/10/2026*
+- [Parceria lança cursos gratuitos sobre IA voltados para professores](<https://www.rcwtv.com.br/noticia/parceria-lanca-cursos-gratuitos-sobre-ia-voltados-para-professores>) - *31/10/2026*
+- [Carnadministrando Run Fest resgata a nostalgia das micaretas e reúne corrida, saúde e axé em Juiz de Fora](<https://www.rcwtv.com.br/noticia/carnadministrando-run-fest-resgata-a-nostalgia-das-micaretas-e-reune-corrida-saude-e-axe-em-juiz-de-fora>) - *31/10/2026*
+- [Uberaba mantém liderança do agronegócio em Minas Gerais com bilhões no VBP](<https://www.rcwtv.com.br/noticia/uberaba-mantem-lideranca-do-agronegocio-em-minas-gerais-com-bilhoes-no-vbp>) - *31/10/2026*
+- [Dependente químico é condenado por desviar dinheiro de pais idosos](<https://www.rcwtv.com.br/noticia/dependente-quimico-e-condenado-por-desviar-dinheiro-de-pais-idosos>) - *31/10/2026*
+- [Comissão de Educação debate o projeto Eco Escola em Belo Horizonte](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-debate-o-projeto-eco-escola-em-belo-horizonte>) - *31/10/2026*
+- [Servidores da SEE/MG têm prazo para cursos sobre inteligência artificial](<https://www.rcwtv.com.br/noticia/servidores-da-see-mg-tem-prazo-para-cursos-sobre-inteligencia-artificial>) - *31/10/2026*
+- [Minas Gerais aprova novas UTIs e unidades coronarianas para Montes Claros](<https://www.rcwtv.com.br/noticia/minas-gerais-aprova-novas-utis-e-unidades-coronarianas-para-montes-claros>) - *31/10/2026*
+- [Ministério Público de Minas Gerais debate política de acolhimento infantil](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-debate-politica-de-acolhimento-infantil>) - *31/10/2026*
+- [Universidade Federal de Juiz de Fora altera funcionamento no feriado](<https://www.rcwtv.com.br/noticia/universidade-federal-de-juiz-de-fora-altera-funcionamento-no-feriado>) - *31/10/2026*
+- [Dupla é presa por homicídio tentado em Ubaporanga após festa](<https://www.rcwtv.com.br/noticia/dupla-e-presa-por-homicidio-tentado-em-ubaporanga-apos-festa>) - *31/10/2026*
+- [Justiça intima Dr. Jairinho a justificar apelação no caso Henry Borel](<https://www.rcwtv.com.br/noticia/justica-intima-dr-jairinho-a-justificar-apelacao-no-caso-henry-borel>) - *31/10/2026*
+- [Governo de Minas apresenta dados de desenvolvimento econômico à transição](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-dados-de-desenvolvimento-economico-a-transicao>) - *31/10/2026*
+
