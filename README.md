@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Grizzlies seguem invictos, Pelicans vencem a primeira e Hawks batem Cavaliers em noite curta na NBA](<https://www.rcwtv.com.br/noticia/grizzlies-seguem-invictos-pelicans-vencem-a-primeira-e-hawks-batem-cavaliers-em-noite-curta-na-nba>)
-- 📰 [Cruzeiro vence clássico na Arena MRV, e Grêmio bate o Athletico para sair do Z-4](<https://www.rcwtv.com.br/noticia/cruzeiro-vence-classico-na-arena-mrv-e-gremio-bate-o-athletico-para-sair-do-z-4>)
-- 📰 [Pós em balística supera 500 alunos formados](<https://www.rcwtv.com.br/noticia/pos-em-balistica-supera-500-alunos-formados>)
-- 📰 [Bispo Bruno Leonardo surpreende Dona May em barraca de frutas e doa R$ 10 mil após emocionante encontro](<https://www.rcwtv.com.br/noticia/bispo-bruno-leonardo-surpreende-dona-may-em-barraca-de-frutas-e-doa-r-10-mil-apos-emocionante-encontro>)
-- 📰 [Flamengo atropela o Vasco, vence por 4 a 1 e abre três pontos na liderança](<https://www.rcwtv.com.br/noticia/flamengo-atropela-o-vasco-vence-por-4-a-1-e-abre-tres-pontos-na-lideranca>)
-- 📰 [Ministério Público do Trabalho recebe 530 denúncias de assédio eleitoral](<https://www.rcwtv.com.br/noticia/ministerio-publico-do-trabalho-recebe-530-denuncias-de-assedio-eleitoral>)
-- 📰 [A pedido do MPMG, Tribunal de Justiça mantém condenação de ex-vereadores de Baependi](<https://www.rcwtv.com.br/noticia/a-pedido-do-mpmg-tribunal-de-justica-mantem-condenacao-de-ex-vereadores-de-baependi>)
-- 📰 [Oferta de cuidados paliativos é desafio em MG - Assembleia Legislativa de Minas Gerais](<https://www.rcwtv.com.br/noticia/oferta-de-cuidados-paliativos-e-desafio-em-mg-assembleia-legislativa-de-minas-gerais>)
-- 📰 [PCMG celebra formatura de técnicos-assistentes e fortalece quadro administrativo](<https://www.rcwtv.com.br/noticia/pcmg-celebra-formatura-de-tecnicos-assistentes-e-fortalece-quadro-administrativo-85778>)
-- 📰 [MPT recomenda retirada de posts com discriminação política em Montes Claros](<https://www.rcwtv.com.br/noticia/mpt-recomenda-retirada-de-posts-com-discriminacao-politica-em-montes-claros>)
+- 📰 [Governo planeja terceira edição do concurso público nacional unificado](<https://www.rcwtv.com.br/noticia/governo-planeja-terceira-edicao-do-concurso-publico-nacional-unificado>)
+- 📰 [Aneel confirma bandeira tarifária verde para as contas de luz em novembro](<https://www.rcwtv.com.br/noticia/aneel-confirma-bandeira-tarifaria-verde-para-as-contas-de-luz-em-novembro>)
+- 📰 [Justiça manda Meta excluir posts sobre assédio eleitoral no trabalho](<https://www.rcwtv.com.br/noticia/justica-manda-meta-excluir-posts-sobre-assedio-eleitoral-no-trabalho>)
+- 📰 [Projeto em território Maxakali em Minas Gerais é finalista da Unesco](<https://www.rcwtv.com.br/noticia/projeto-em-territorio-maxakali-em-minas-gerais-e-finalista-da-unesco>)
+- 📰 [Ministério Público Federal alerta sobre instabilidade no portal do órgão](<https://www.rcwtv.com.br/noticia/ministerio-publico-federal-alerta-sobre-instabilidade-no-portal-do-orgao>)
+- 📰 [MPMG articula parceria que beneficia 94 crianças em Contagem](<https://www.rcwtv.com.br/noticia/mpmg-articula-parceria-que-beneficia-94-criancas-em-contagem>)
+- 📰 [Poeta Edimilson de Almeida Pereira recebe título de professor emérito da UFJF](<https://www.rcwtv.com.br/noticia/poeta-edimilson-de-almeida-pereira-recebe-titulo-de-professor-emerito-da-ufjf>)
+- 📰 [Governo de Minas investe no diagnóstico e tratamento do câncer de mama](<https://www.rcwtv.com.br/noticia/governo-de-minas-investe-no-diagnostico-e-tratamento-do-cancer-de-mama>)
+- 📰 [Polícia Civil de Minas Gerais prende suspeito de estupro em Ipatinga](<https://www.rcwtv.com.br/noticia/policia-civil-de-minas-gerais-prende-suspeito-de-estupro-em-ipatinga>)
+- 📰 [Câmara Municipal JF aprova projeto para valorizar artistas de rua](<https://www.rcwtv.com.br/noticia/camara-municipal-jf-aprova-projeto-para-valorizar-artistas-de-rua>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

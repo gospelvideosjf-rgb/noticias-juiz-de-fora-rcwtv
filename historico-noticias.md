@@ -977,3 +977,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [MPMG acompanha regulamentação da Operação Urbana em Belo Horizonte](<https://www.rcwtv.com.br/noticia/mpmg-acompanha-regulamentacao-da-operacao-urbana-em-belo-horizonte>) - *30/10/2026*
 - [TJMG eleva indenização a consumidora intoxicada por cerveja](<https://www.rcwtv.com.br/noticia/tjmg-eleva-indenizacao-a-consumidora-intoxicada-por-cerveja>) - *30/10/2026*
 
+### Atualização de 30/10/2026
+- [Governo planeja terceira edição do concurso público nacional unificado](<https://www.rcwtv.com.br/noticia/governo-planeja-terceira-edicao-do-concurso-publico-nacional-unificado>) - *30/10/2026*
+- [Aneel confirma bandeira tarifária verde para as contas de luz em novembro](<https://www.rcwtv.com.br/noticia/aneel-confirma-bandeira-tarifaria-verde-para-as-contas-de-luz-em-novembro>) - *30/10/2026*
+- [Justiça manda Meta excluir posts sobre assédio eleitoral no trabalho](<https://www.rcwtv.com.br/noticia/justica-manda-meta-excluir-posts-sobre-assedio-eleitoral-no-trabalho>) - *30/10/2026*
+- [Projeto em território Maxakali em Minas Gerais é finalista da Unesco](<https://www.rcwtv.com.br/noticia/projeto-em-territorio-maxakali-em-minas-gerais-e-finalista-da-unesco>) - *30/10/2026*
+- [Ministério Público Federal alerta sobre instabilidade no portal do órgão](<https://www.rcwtv.com.br/noticia/ministerio-publico-federal-alerta-sobre-instabilidade-no-portal-do-orgao>) - *30/10/2026*
+- [MPMG articula parceria que beneficia 94 crianças em Contagem](<https://www.rcwtv.com.br/noticia/mpmg-articula-parceria-que-beneficia-94-criancas-em-contagem>) - *30/10/2026*
+- [Poeta Edimilson de Almeida Pereira recebe título de professor emérito da UFJF](<https://www.rcwtv.com.br/noticia/poeta-edimilson-de-almeida-pereira-recebe-titulo-de-professor-emerito-da-ufjf>) - *30/10/2026*
+- [Governo de Minas investe no diagnóstico e tratamento do câncer de mama](<https://www.rcwtv.com.br/noticia/governo-de-minas-investe-no-diagnostico-e-tratamento-do-cancer-de-mama>) - *30/10/2026*
+- [Polícia Civil de Minas Gerais prende suspeito de estupro em Ipatinga](<https://www.rcwtv.com.br/noticia/policia-civil-de-minas-gerais-prende-suspeito-de-estupro-em-ipatinga>) - *30/10/2026*
+- [Câmara Municipal JF aprova projeto para valorizar artistas de rua](<https://www.rcwtv.com.br/noticia/camara-municipal-jf-aprova-projeto-para-valorizar-artistas-de-rua>) - *30/10/2026*
+- [Pré-conferências mobilizam público infantojuvenil para a 10ª Conferência Municipal](<https://www.rcwtv.com.br/noticia/pre-conferencias-mobilizam-publico-infantojuvenil-para-a-10-conferencia-municipal-85823>) - *30/10/2026*
+- [Praça CEU realiza 1ª edição do CEU Geek Fest neste sábado, 31, com atrações gratuitas](<https://www.rcwtv.com.br/noticia/praca-ceu-realiza-1-edicao-do-ceu-geek-fest-neste-sabado-31-com-atracoes-gratuitas-85822>) - *30/10/2026*
+- [Cemig abre inscrições para editais de projetos voltados ao esporte, à população idosa e](<https://www.rcwtv.com.br/noticia/cemig-abre-inscricoes-para-editais-de-projetos-voltados-ao-esporte-a-populacao-idosa-e>) - *30/10/2026*
+- [Festival Primeiro Plano abre inscrições para oficinas gratuitas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festival-primeiro-plano-abre-inscricoes-para-oficinas-gratuitas-em-juiz-de-fora-85821>) - *30/10/2026*
+- [Festival Primeiro Plano abre inscrições para oficinas gratuitas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festival-primeiro-plano-abre-inscricoes-para-oficinas-gratuitas-em-juiz-de-fora>) - *30/10/2026*
+
