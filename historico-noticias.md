@@ -1028,3 +1028,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Feira das Profissões oferece experiências práticas em 36 cursos da UFJF](<https://www.rcwtv.com.br/noticia/feira-das-profissoes-oferece-experiencias-praticas-em-36-cursos-da-ufjf>) - *31/10/2026*
 - [Corpo de Bombeiros de Minas Gerais recebe a Medalha Santos Dumont](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-de-minas-gerais-recebe-a-medalha-santos-dumont>) - *31/10/2026*
 
+### Atualização de 01/11/2026
+- [Anvisa aprova ampliação do uso do implanon para cinco anos](<https://www.rcwtv.com.br/noticia/anvisa-aprova-ampliacao-do-uso-do-implanon-para-cinco-anos>) - *01/11/2026*
+- [Novas mudanças nos vales-alimentação entram em vigor no dia 7 de novembro](<https://www.rcwtv.com.br/noticia/novas-mudancas-nos-vales-alimentacao-entram-em-vigor-no-dia-7-de-novembro>) - *01/11/2026*
+- [MEC encaminha denúncias de violência política para investigação da Polícia Federal](<https://www.rcwtv.com.br/noticia/mec-encaminha-denuncias-de-violencia-politica-para-investigacao-da-policia-federal>) - *01/11/2026*
+- [Operação cumpre mandados contra fraudes em contratos no Sul de Minas](<https://www.rcwtv.com.br/noticia/operacao-cumpre-mandados-contra-fraudes-em-contratos-no-sul-de-minas>) - *01/11/2026*
+- [Sigma Lithium alcança marco histórico de segurança no trabalho em Minas Gerais](<https://www.rcwtv.com.br/noticia/sigma-lithium-alcanca-marco-historico-de-seguranca-no-trabalho-em-minas-gerais>) - *01/11/2026*
+- [anvisa suspende propaganda irregular de suplementos alimentares](<https://www.rcwtv.com.br/noticia/anvisa-suspende-propaganda-irregular-de-suplementos-alimentares>) - *01/11/2026*
+- [Ministério Público aponta avanços e desafios no sistema socioeducativo em Belo Horizonte](<https://www.rcwtv.com.br/noticia/ministerio-publico-aponta-avancos-e-desafios-no-sistema-socioeducativo-em-belo-horizonte>) - *01/11/2026*
+- [Anvisa detalha simulação de emergência em saúde pública no boletim](<https://www.rcwtv.com.br/noticia/anvisa-detalha-simulacao-de-emergencia-em-saude-publica-no-boletim>) - *01/11/2026*
+- [Ministério Público de Minas Gerais e governo entregam 70 viaturas para Defesas Civis](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-e-governo-entregam-70-viaturas-para-defesas-civis>) - *01/11/2026*
+- [anvisa suspende lotes de medicamentos para câncer e solução](<https://www.rcwtv.com.br/noticia/anvisa-suspende-lotes-de-medicamentos-para-cancer-e-solucao>) - *01/11/2026*
+- [Confira as principais efemérides de novembro de 2026 e marcadores históricos](<https://www.rcwtv.com.br/noticia/confira-as-principais-efemerides-de-novembro-de-2026-e-marcadores-historicos>) - *01/11/2026*
+- [indenização para hanseníase avança na assembleia legislativa de minas gerais](<https://www.rcwtv.com.br/noticia/indenizacao-para-hanseniase-avanca-na-assembleia-legislativa-de-minas-gerais>) - *01/11/2026*
+- [Procon-MPMG e parceiros debatem direitos do consumidor na Superminas](<https://www.rcwtv.com.br/noticia/procon-mpmg-e-parceiros-debatem-direitos-do-consumidor-na-superminas>) - *01/11/2026*
+- [Anvisa proíbe venda de estetoscópio falsificado após identificar alterações](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-de-estetoscopio-falsificado-apos-identificar-alteracoes>) - *01/11/2026*
+- [Plenário pode votar iniciativa para garantir permanencia estudantil](<https://www.rcwtv.com.br/noticia/plenario-pode-votar-iniciativa-para-garantir-permanencia-estudantil>) - *01/11/2026*
+

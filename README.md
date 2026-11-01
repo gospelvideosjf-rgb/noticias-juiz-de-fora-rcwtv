@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Podcast debate vício em apostas e impactos na saúde mental](<https://www.rcwtv.com.br/noticia/podcast-debate-vicio-em-apostas-e-impactos-na-saude-mental>)
-- 📰 [Governo de Minas apresenta Canal Simplifique na Superminas 2026](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-canal-simplifique-na-superminas-2026>)
-- 📰 [Câmara de Juiz de Fora aprova projeto Política UBS Segura](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-projeto-politica-ubs-segura>)
-- 📰 [Anvisa prorroga transição para receitas eletrônicas no SNCR](<https://www.rcwtv.com.br/noticia/anvisa-prorroga-transicao-para-receitas-eletronicas-no-sncr>)
-- 📰 [Copasa e órgãos de segurança reforçam fiscalização na represa Vargem das Flores](<https://www.rcwtv.com.br/noticia/copasa-e-orgaos-de-seguranca-reforcam-fiscalizacao-na-represa-vargem-das-flores>)
-- 📰 [MTE contabiliza mais de 4 mil denúncias de assédio eleitoral em três dias](<https://www.rcwtv.com.br/noticia/mte-contabiliza-mais-de-4-mil-denuncias-de-assedio-eleitoral-em-tres-dias>)
-- 📰 [Cesama adia abertura do Pregão Presencial nº 071/26 para 10 de novembro](<https://www.rcwtv.com.br/noticia/cesama-adia-abertura-do-pregao-presencial-n-071-26-para-10-de-novembro>)
-- 📰 [DER-MG investe R$ 134 milhões para ampliar segurança nas rodovias estaduais](<https://www.rcwtv.com.br/noticia/der-mg-investe-r-134-milhoes-para-ampliar-seguranca-nas-rodovias-estaduais>)
-- 📰 [loja é condenada por obrigar vendedora a gravar vídeos com roupas justas](<https://www.rcwtv.com.br/noticia/loja-e-condenada-por-obrigar-vendedora-a-gravar-videos-com-roupas-justas>)
-- 📰 [Assembleia Legislativa de Minas Gerais aprova projeto sobre emendas impositivas](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-aprova-projeto-sobre-emendas-impositivas>)
+- 📰 [Anvisa aprova ampliação do uso do implanon para cinco anos](<https://www.rcwtv.com.br/noticia/anvisa-aprova-ampliacao-do-uso-do-implanon-para-cinco-anos>)
+- 📰 [Novas mudanças nos vales-alimentação entram em vigor no dia 7 de novembro](<https://www.rcwtv.com.br/noticia/novas-mudancas-nos-vales-alimentacao-entram-em-vigor-no-dia-7-de-novembro>)
+- 📰 [MEC encaminha denúncias de violência política para investigação da Polícia Federal](<https://www.rcwtv.com.br/noticia/mec-encaminha-denuncias-de-violencia-politica-para-investigacao-da-policia-federal>)
+- 📰 [Operação cumpre mandados contra fraudes em contratos no Sul de Minas](<https://www.rcwtv.com.br/noticia/operacao-cumpre-mandados-contra-fraudes-em-contratos-no-sul-de-minas>)
+- 📰 [Sigma Lithium alcança marco histórico de segurança no trabalho em Minas Gerais](<https://www.rcwtv.com.br/noticia/sigma-lithium-alcanca-marco-historico-de-seguranca-no-trabalho-em-minas-gerais>)
+- 📰 [anvisa suspende propaganda irregular de suplementos alimentares](<https://www.rcwtv.com.br/noticia/anvisa-suspende-propaganda-irregular-de-suplementos-alimentares>)
+- 📰 [Ministério Público aponta avanços e desafios no sistema socioeducativo em Belo Horizonte](<https://www.rcwtv.com.br/noticia/ministerio-publico-aponta-avancos-e-desafios-no-sistema-socioeducativo-em-belo-horizonte>)
+- 📰 [Anvisa detalha simulação de emergência em saúde pública no boletim](<https://www.rcwtv.com.br/noticia/anvisa-detalha-simulacao-de-emergencia-em-saude-publica-no-boletim>)
+- 📰 [Ministério Público de Minas Gerais e governo entregam 70 viaturas para Defesas Civis](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-e-governo-entregam-70-viaturas-para-defesas-civis>)
+- 📰 [anvisa suspende lotes de medicamentos para câncer e solução](<https://www.rcwtv.com.br/noticia/anvisa-suspende-lotes-de-medicamentos-para-cancer-e-solucao>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
