@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Anvisa aprova ampliação do uso do implanon para cinco anos](<https://www.rcwtv.com.br/noticia/anvisa-aprova-ampliacao-do-uso-do-implanon-para-cinco-anos>)
-- 📰 [Novas mudanças nos vales-alimentação entram em vigor no dia 7 de novembro](<https://www.rcwtv.com.br/noticia/novas-mudancas-nos-vales-alimentacao-entram-em-vigor-no-dia-7-de-novembro>)
-- 📰 [MEC encaminha denúncias de violência política para investigação da Polícia Federal](<https://www.rcwtv.com.br/noticia/mec-encaminha-denuncias-de-violencia-politica-para-investigacao-da-policia-federal>)
-- 📰 [Operação cumpre mandados contra fraudes em contratos no Sul de Minas](<https://www.rcwtv.com.br/noticia/operacao-cumpre-mandados-contra-fraudes-em-contratos-no-sul-de-minas>)
-- 📰 [Sigma Lithium alcança marco histórico de segurança no trabalho em Minas Gerais](<https://www.rcwtv.com.br/noticia/sigma-lithium-alcanca-marco-historico-de-seguranca-no-trabalho-em-minas-gerais>)
-- 📰 [anvisa suspende propaganda irregular de suplementos alimentares](<https://www.rcwtv.com.br/noticia/anvisa-suspende-propaganda-irregular-de-suplementos-alimentares>)
-- 📰 [Ministério Público aponta avanços e desafios no sistema socioeducativo em Belo Horizonte](<https://www.rcwtv.com.br/noticia/ministerio-publico-aponta-avancos-e-desafios-no-sistema-socioeducativo-em-belo-horizonte>)
-- 📰 [Anvisa detalha simulação de emergência em saúde pública no boletim](<https://www.rcwtv.com.br/noticia/anvisa-detalha-simulacao-de-emergencia-em-saude-publica-no-boletim>)
-- 📰 [Ministério Público de Minas Gerais e governo entregam 70 viaturas para Defesas Civis](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-e-governo-entregam-70-viaturas-para-defesas-civis>)
-- 📰 [anvisa suspende lotes de medicamentos para câncer e solução](<https://www.rcwtv.com.br/noticia/anvisa-suspende-lotes-de-medicamentos-para-cancer-e-solucao>)
+- 📰 [Programa papo de política discute o segundo turno em juiz de fora](<https://www.rcwtv.com.br/noticia/programa-papo-de-politica-discute-o-segundo-turno-em-juiz-de-fora>)
+- 📰 [UFJF abre as portas para visitação pública em novembro](<https://www.rcwtv.com.br/noticia/ufjf-abre-as-portas-para-visitacao-publica-em-novembro>)
+- 📰 [Festa de Santa Luzia ganha status oficial em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festa-de-santa-luzia-ganha-status-oficial-em-juiz-de-fora>)
+- 📰 [Lula garante manutenção de programas sociais e nega corte de direitos](<https://www.rcwtv.com.br/noticia/lula-garante-manutencao-de-programas-sociais-e-nega-corte-de-direitos>)
+- 📰 [Programa Periferia Viva ganha posto territorial no bairro Dom Bosco](<https://www.rcwtv.com.br/noticia/programa-periferia-viva-ganha-posto-territorial-no-bairro-dom-bosco>)
+- 📰 [UFJF concede título de Professor Emérito a Edimilson de Almeida Pereira](<https://www.rcwtv.com.br/noticia/ufjf-concede-titulo-de-professor-emerito-a-edimilson-de-almeida-pereira>)
+- 📰 [Câmara Municipal JF explica o coeficiente eleitoral em programa](<https://www.rcwtv.com.br/noticia/camara-municipal-jf-explica-o-coeficiente-eleitoral-em-programa>)
+- 📰 [Luiz Fux atende AGU e inclui ministérios e Abras em debate sobre bets](<https://www.rcwtv.com.br/noticia/luiz-fux-atende-agu-e-inclui-ministerios-e-abras-em-debate-sobre-bets>)
+- 📰 [Plano de Contingência prepara Juiz de Fora para desastres climáticos](<https://www.rcwtv.com.br/noticia/plano-de-contingencia-prepara-juiz-de-fora-para-desastres-climaticos>)
+- 📰 [Espiaqui na UFJF leva ciência e cultura para a Praça Cívica](<https://www.rcwtv.com.br/noticia/espiaqui-na-ufjf-leva-ciencia-e-cultura-para-a-praca-civica>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

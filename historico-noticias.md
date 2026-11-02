@@ -1045,3 +1045,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Anvisa proíbe venda de estetoscópio falsificado após identificar alterações](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-de-estetoscopio-falsificado-apos-identificar-alteracoes>) - *01/11/2026*
 - [Plenário pode votar iniciativa para garantir permanencia estudantil](<https://www.rcwtv.com.br/noticia/plenario-pode-votar-iniciativa-para-garantir-permanencia-estudantil>) - *01/11/2026*
 
+### Atualização de 01/11/2026
+- [Programa papo de política discute o segundo turno em juiz de fora](<https://www.rcwtv.com.br/noticia/programa-papo-de-politica-discute-o-segundo-turno-em-juiz-de-fora>) - *01/11/2026*
+- [UFJF abre as portas para visitação pública em novembro](<https://www.rcwtv.com.br/noticia/ufjf-abre-as-portas-para-visitacao-publica-em-novembro>) - *01/11/2026*
+- [Festa de Santa Luzia ganha status oficial em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festa-de-santa-luzia-ganha-status-oficial-em-juiz-de-fora>) - *01/11/2026*
+- [Lula garante manutenção de programas sociais e nega corte de direitos](<https://www.rcwtv.com.br/noticia/lula-garante-manutencao-de-programas-sociais-e-nega-corte-de-direitos>) - *01/11/2026*
+- [Programa Periferia Viva ganha posto territorial no bairro Dom Bosco](<https://www.rcwtv.com.br/noticia/programa-periferia-viva-ganha-posto-territorial-no-bairro-dom-bosco>) - *01/11/2026*
+- [UFJF concede título de Professor Emérito a Edimilson de Almeida Pereira](<https://www.rcwtv.com.br/noticia/ufjf-concede-titulo-de-professor-emerito-a-edimilson-de-almeida-pereira>) - *01/11/2026*
+- [Câmara Municipal JF explica o coeficiente eleitoral em programa](<https://www.rcwtv.com.br/noticia/camara-municipal-jf-explica-o-coeficiente-eleitoral-em-programa>) - *01/11/2026*
+- [Luiz Fux atende AGU e inclui ministérios e Abras em debate sobre bets](<https://www.rcwtv.com.br/noticia/luiz-fux-atende-agu-e-inclui-ministerios-e-abras-em-debate-sobre-bets>) - *01/11/2026*
+- [Plano de Contingência prepara Juiz de Fora para desastres climáticos](<https://www.rcwtv.com.br/noticia/plano-de-contingencia-prepara-juiz-de-fora-para-desastres-climaticos>) - *01/11/2026*
+- [Espiaqui na UFJF leva ciência e cultura para a Praça Cívica](<https://www.rcwtv.com.br/noticia/espiaqui-na-ufjf-leva-ciencia-e-cultura-para-a-praca-civica>) - *01/11/2026*
+- [Hospitais de Juiz de Fora poderão apresentar relatório mensal de aborto](<https://www.rcwtv.com.br/noticia/hospitais-de-juiz-de-fora-poderao-apresentar-relatorio-mensal-de-aborto>) - *01/11/2026*
+- [Programa Boniteza divulga novidades no Giro Semanal em juiz de fora](<https://www.rcwtv.com.br/noticia/programa-boniteza-divulga-novidades-no-giro-semanal-em-juiz-de-fora>) - *01/11/2026*
+- [Petrobras eleva preço do querosene de aviação em 7,2% a partir de domingo](<https://www.rcwtv.com.br/noticia/petrobras-eleva-preco-do-querosene-de-aviacao-em-7-2-a-partir-de-domingo>) - *01/11/2026*
+- [Denúncias de violência política somam 189 registros no período eleitoral](<https://www.rcwtv.com.br/noticia/denuncias-de-violencia-politica-somam-189-registros-no-periodo-eleitoral>) - *01/11/2026*
+- [Anvisa coordena simulado de mesa no Porto de São Francisco do Sul](<https://www.rcwtv.com.br/noticia/anvisa-coordena-simulado-de-mesa-no-porto-de-sao-francisco-do-sul>) - *01/11/2026*
+
