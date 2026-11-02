@@ -1062,3 +1062,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Denúncias de violência política somam 189 registros no período eleitoral](<https://www.rcwtv.com.br/noticia/denuncias-de-violencia-politica-somam-189-registros-no-periodo-eleitoral>) - *01/11/2026*
 - [Anvisa coordena simulado de mesa no Porto de São Francisco do Sul](<https://www.rcwtv.com.br/noticia/anvisa-coordena-simulado-de-mesa-no-porto-de-sao-francisco-do-sul>) - *01/11/2026*
 
+### Atualização de 02/11/2026
+- [Cadastro de creches 2027 em Juiz de Fora começa em 9 de novembro; saiba onde fazer](<https://www.rcwtv.com.br/noticia/cadastro-de-creches-2027-em-juiz-de-fora-comeca-em-9-de-novembro-saiba-onde-fazer>) - *02/11/2026*
+- [Novas regras do SAC passam a valer com exigência de atendimento humano](<https://www.rcwtv.com.br/noticia/novas-regras-do-sac-passam-a-valer-com-exigencia-de-atendimento-humano>) - *02/11/2026*
+- [Cadastro escolar 2027 em Juiz de Fora termina em 13 de novembro; veja quem deve se inscrever](<https://www.rcwtv.com.br/noticia/cadastro-escolar-2027-em-juiz-de-fora-termina-em-13-de-novembro-veja-quem-deve-se-inscrever>) - *02/11/2026*
+- [Tribunal de Justiça isenta concessionária por combustível contaminado](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-isenta-concessionaria-por-combustivel-contaminado>) - *02/11/2026*
+- [André Lara Resende culpa a taxa de juros pelo desequilíbrio fiscal no Brasil](<https://www.rcwtv.com.br/noticia/andre-lara-resende-culpa-a-taxa-de-juros-pelo-desequilibrio-fiscal-no-brasil>) - *02/11/2026*
+- [Dia de Finados no Rio é marcado por homenagens e soltura de balões](<https://www.rcwtv.com.br/noticia/dia-de-finados-no-rio-e-marcado-por-homenagens-e-soltura-de-baloes>) - *02/11/2026*
+- [Defesa Civil de Juiz de Fora: como receber alertas de chuva no celular por SMS e WhatsApp](<https://www.rcwtv.com.br/noticia/defesa-civil-de-juiz-de-fora-como-receber-alertas-de-chuva-no-celular-por-sms-e-whatsapp>) - *02/11/2026*
+- [Vagou JF: como achar vaga de emprego em Juiz de Fora no portal da Prefeitura](<https://www.rcwtv.com.br/noticia/vagou-jf-como-achar-vaga-de-emprego-em-juiz-de-fora-no-portal-da-prefeitura>) - *02/11/2026*
+- [Visitantes relembram entes queridos no Dia de Finados em cemitério de Brasília](<https://www.rcwtv.com.br/noticia/visitantes-relembram-entes-queridos-no-dia-de-finados-em-cemiterio-de-brasilia>) - *02/11/2026*
+- [Espiaqui 2026: UFJF abre o campus de Juiz de Fora à comunidade de 5 a 7 de novembro](<https://www.rcwtv.com.br/noticia/espiaqui-2026-ufjf-abre-o-campus-de-juiz-de-fora-a-comunidade-de-5-a-7-de-novembro>) - *02/11/2026*
+- [Cemitério Municipal recebe famílias e líderes religiosos no Dia de Finados em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cemiterio-municipal-recebe-familias-e-lideres-religiosos-no-dia-de-finados-em-juiz-de-fora>) - *02/11/2026*
+- [Prazo para vagas remanescentes do Fies termina nesta terça-feira](<https://www.rcwtv.com.br/noticia/prazo-para-vagas-remanescentes-do-fies-termina-nesta-terca-feira>) - *02/11/2026*
+- [UFJF abre 1.969 vagas ociosas na graduação para 2027; inscrição vai até 9 de novembro](<https://www.rcwtv.com.br/noticia/ufjf-abre-1-969-vagas-ociosas-na-graduacao-para-2027-inscricao-vai-ate-9-de-novembro>) - *02/11/2026*
+- [Governo de Minas divulga balanço de ações e entregas entre 2023 e 2026](<https://www.rcwtv.com.br/noticia/governo-de-minas-divulga-balanco-de-acoes-e-entregas-entre-2023-e-2026>) - *02/11/2026*
+- [Previsão do tempo em Juiz de Fora hoje (02/11): nublado, de 18°C a 28°C | Bom Dia JF](<https://www.rcwtv.com.br/noticia/previsao-do-tempo-em-juiz-de-fora-hoje-02-11-nublado-de-18-c-a-28-c-bom-dia-jf>) - *02/11/2026*
+

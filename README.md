@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Programa papo de política discute o segundo turno em juiz de fora](<https://www.rcwtv.com.br/noticia/programa-papo-de-politica-discute-o-segundo-turno-em-juiz-de-fora>)
-- 📰 [UFJF abre as portas para visitação pública em novembro](<https://www.rcwtv.com.br/noticia/ufjf-abre-as-portas-para-visitacao-publica-em-novembro>)
-- 📰 [Festa de Santa Luzia ganha status oficial em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festa-de-santa-luzia-ganha-status-oficial-em-juiz-de-fora>)
-- 📰 [Lula garante manutenção de programas sociais e nega corte de direitos](<https://www.rcwtv.com.br/noticia/lula-garante-manutencao-de-programas-sociais-e-nega-corte-de-direitos>)
-- 📰 [Programa Periferia Viva ganha posto territorial no bairro Dom Bosco](<https://www.rcwtv.com.br/noticia/programa-periferia-viva-ganha-posto-territorial-no-bairro-dom-bosco>)
-- 📰 [UFJF concede título de Professor Emérito a Edimilson de Almeida Pereira](<https://www.rcwtv.com.br/noticia/ufjf-concede-titulo-de-professor-emerito-a-edimilson-de-almeida-pereira>)
-- 📰 [Câmara Municipal JF explica o coeficiente eleitoral em programa](<https://www.rcwtv.com.br/noticia/camara-municipal-jf-explica-o-coeficiente-eleitoral-em-programa>)
-- 📰 [Luiz Fux atende AGU e inclui ministérios e Abras em debate sobre bets](<https://www.rcwtv.com.br/noticia/luiz-fux-atende-agu-e-inclui-ministerios-e-abras-em-debate-sobre-bets>)
-- 📰 [Plano de Contingência prepara Juiz de Fora para desastres climáticos](<https://www.rcwtv.com.br/noticia/plano-de-contingencia-prepara-juiz-de-fora-para-desastres-climaticos>)
-- 📰 [Espiaqui na UFJF leva ciência e cultura para a Praça Cívica](<https://www.rcwtv.com.br/noticia/espiaqui-na-ufjf-leva-ciencia-e-cultura-para-a-praca-civica>)
+- 📰 [Cadastro de creches 2027 em Juiz de Fora começa em 9 de novembro; saiba onde fazer](<https://www.rcwtv.com.br/noticia/cadastro-de-creches-2027-em-juiz-de-fora-comeca-em-9-de-novembro-saiba-onde-fazer>)
+- 📰 [Novas regras do SAC passam a valer com exigência de atendimento humano](<https://www.rcwtv.com.br/noticia/novas-regras-do-sac-passam-a-valer-com-exigencia-de-atendimento-humano>)
+- 📰 [Cadastro escolar 2027 em Juiz de Fora termina em 13 de novembro; veja quem deve se inscrever](<https://www.rcwtv.com.br/noticia/cadastro-escolar-2027-em-juiz-de-fora-termina-em-13-de-novembro-veja-quem-deve-se-inscrever>)
+- 📰 [Tribunal de Justiça isenta concessionária por combustível contaminado](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-isenta-concessionaria-por-combustivel-contaminado>)
+- 📰 [André Lara Resende culpa a taxa de juros pelo desequilíbrio fiscal no Brasil](<https://www.rcwtv.com.br/noticia/andre-lara-resende-culpa-a-taxa-de-juros-pelo-desequilibrio-fiscal-no-brasil>)
+- 📰 [Dia de Finados no Rio é marcado por homenagens e soltura de balões](<https://www.rcwtv.com.br/noticia/dia-de-finados-no-rio-e-marcado-por-homenagens-e-soltura-de-baloes>)
+- 📰 [Defesa Civil de Juiz de Fora: como receber alertas de chuva no celular por SMS e WhatsApp](<https://www.rcwtv.com.br/noticia/defesa-civil-de-juiz-de-fora-como-receber-alertas-de-chuva-no-celular-por-sms-e-whatsapp>)
+- 📰 [Vagou JF: como achar vaga de emprego em Juiz de Fora no portal da Prefeitura](<https://www.rcwtv.com.br/noticia/vagou-jf-como-achar-vaga-de-emprego-em-juiz-de-fora-no-portal-da-prefeitura>)
+- 📰 [Visitantes relembram entes queridos no Dia de Finados em cemitério de Brasília](<https://www.rcwtv.com.br/noticia/visitantes-relembram-entes-queridos-no-dia-de-finados-em-cemiterio-de-brasilia>)
+- 📰 [Espiaqui 2026: UFJF abre o campus de Juiz de Fora à comunidade de 5 a 7 de novembro](<https://www.rcwtv.com.br/noticia/espiaqui-2026-ufjf-abre-o-campus-de-juiz-de-fora-a-comunidade-de-5-a-7-de-novembro>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
