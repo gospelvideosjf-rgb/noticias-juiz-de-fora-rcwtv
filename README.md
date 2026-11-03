@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Resumo do Dia em Juiz de Fora: Principais notícias e destaques de 02/11/2026](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-principais-noticias-e-destaques-de-02-11-2026>)
-- 📰 [Polícia investiga acidente com asa-delta que deixa dois mortos no Rio](<https://www.rcwtv.com.br/noticia/policia-investiga-acidente-com-asa-delta-que-deixa-dois-mortos-no-rio>)
-- 📰 [Impa Tech abre inscrições para graduação em matemática nesta terça-feira](<https://www.rcwtv.com.br/noticia/impa-tech-abre-inscricoes-para-graduacao-em-matematica-nesta-terca-feira>)
-- 📰 [Cadastro de creches 2027 em Juiz de Fora começa em 9 de novembro; saiba onde fazer](<https://www.rcwtv.com.br/noticia/cadastro-de-creches-2027-em-juiz-de-fora-comeca-em-9-de-novembro-saiba-onde-fazer>)
-- 📰 [Novas regras do SAC passam a valer com exigência de atendimento humano](<https://www.rcwtv.com.br/noticia/novas-regras-do-sac-passam-a-valer-com-exigencia-de-atendimento-humano>)
-- 📰 [Cadastro escolar 2027 em Juiz de Fora termina em 13 de novembro; veja quem deve se inscrever](<https://www.rcwtv.com.br/noticia/cadastro-escolar-2027-em-juiz-de-fora-termina-em-13-de-novembro-veja-quem-deve-se-inscrever>)
-- 📰 [Tribunal de Justiça isenta concessionária por combustível contaminado](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-isenta-concessionaria-por-combustivel-contaminado>)
-- 📰 [André Lara Resende culpa a taxa de juros pelo desequilíbrio fiscal no Brasil](<https://www.rcwtv.com.br/noticia/andre-lara-resende-culpa-a-taxa-de-juros-pelo-desequilibrio-fiscal-no-brasil>)
-- 📰 [Dia de Finados no Rio é marcado por homenagens e soltura de balões](<https://www.rcwtv.com.br/noticia/dia-de-finados-no-rio-e-marcado-por-homenagens-e-soltura-de-baloes>)
-- 📰 [Defesa Civil de Juiz de Fora: como receber alertas de chuva no celular por SMS e WhatsApp](<https://www.rcwtv.com.br/noticia/defesa-civil-de-juiz-de-fora-como-receber-alertas-de-chuva-no-celular-por-sms-e-whatsapp>)
+- 📰 [Jesús de Miguel, do Tenerife, morre aos 30 anos após parada cardiorrespiratória](<https://www.rcwtv.com.br/noticia/jesus-de-miguel-do-tenerife-morre-aos-30-anos-apos-parada-cardiorrespiratoria>)
+- 📰 [Governo de Minas abre cadastramento para distribuir 10 mil toneladas de agrosilício](<https://www.rcwtv.com.br/noticia/governo-de-minas-abre-cadastramento-para-distribuir-10-mil-toneladas-de-agrosilicio>)
+- 📰 [Jovens aprendizes em belo horizonte recebem projeto de cidadania e saneamento](<https://www.rcwtv.com.br/noticia/jovens-aprendizes-em-belo-horizonte-recebem-projeto-de-cidadania-e-saneamento>)
+- 📰 [SRS Varginha Participa De Capacitação Do Programa VISA-CIS Para Fortalecer A Vigilância](<https://www.rcwtv.com.br/noticia/srs-varginha-participa-de-capacitacao-do-programa-visa-cis-para-fortalecer-a-vigilancia>)
+- 📰 [Municípios Da Região Promovem Ações Sobre O Outubro Rosa | Secretaria De Estado De Saúde](<https://www.rcwtv.com.br/noticia/municipios-da-regiao-promovem-acoes-sobre-o-outubro-rosa-secretaria-de-estado-de-saude>)
+- 📰 [Balanço 2023-2026: Com metrô e novos ônibus, Governo de Minas avança na mobilidade](<https://www.rcwtv.com.br/noticia/balanco-2023-2026-com-metro-e-novos-onibus-governo-de-minas-avanca-na-mobilidade>)
+- 📰 [Coral da UFJF celebra 60 anos com Festival Raízes no Cine-Theatro Central - Notícias UFJF](<https://www.rcwtv.com.br/noticia/coral-da-ufjf-celebra-60-anos-com-festival-raizes-no-cine-theatro-central-noticias-ufjf>)
+- 📰 [Anvisa aprova medicamento para tratamento de atrofia muscular espinhal (AME)](<https://www.rcwtv.com.br/noticia/anvisa-aprova-medicamento-para-tratamento-de-atrofia-muscular-espinhal-ame-86042>)
+- 📰 [Anvisa aprova medicamento para tratamento de atrofia muscular espinhal (AME)](<https://www.rcwtv.com.br/noticia/anvisa-aprova-medicamento-para-tratamento-de-atrofia-muscular-espinhal-ame>)
+- 📰 [Videomonitoramento inteligente ajuda na segurança pública em Minas Gerais](<https://www.rcwtv.com.br/noticia/videomonitoramento-inteligente-ajuda-na-seguranca-publica-em-minas-gerais>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

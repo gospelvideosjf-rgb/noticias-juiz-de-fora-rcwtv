@@ -1084,3 +1084,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Polícia investiga acidente com asa-delta que deixa dois mortos no Rio](<https://www.rcwtv.com.br/noticia/policia-investiga-acidente-com-asa-delta-que-deixa-dois-mortos-no-rio>) - *02/11/2026*
 - [Impa Tech abre inscrições para graduação em matemática nesta terça-feira](<https://www.rcwtv.com.br/noticia/impa-tech-abre-inscricoes-para-graduacao-em-matematica-nesta-terca-feira>) - *02/11/2026*
 
+### Atualização de 03/11/2026
+- [Jesús de Miguel, do Tenerife, morre aos 30 anos após parada cardiorrespiratória](<https://www.rcwtv.com.br/noticia/jesus-de-miguel-do-tenerife-morre-aos-30-anos-apos-parada-cardiorrespiratoria>) - *03/11/2026*
+- [Governo de Minas abre cadastramento para distribuir 10 mil toneladas de agrosilício](<https://www.rcwtv.com.br/noticia/governo-de-minas-abre-cadastramento-para-distribuir-10-mil-toneladas-de-agrosilicio>) - *03/11/2026*
+- [Jovens aprendizes em belo horizonte recebem projeto de cidadania e saneamento](<https://www.rcwtv.com.br/noticia/jovens-aprendizes-em-belo-horizonte-recebem-projeto-de-cidadania-e-saneamento>) - *03/11/2026*
+- [SRS Varginha Participa De Capacitação Do Programa VISA-CIS Para Fortalecer A Vigilância](<https://www.rcwtv.com.br/noticia/srs-varginha-participa-de-capacitacao-do-programa-visa-cis-para-fortalecer-a-vigilancia>) - *03/11/2026*
+- [Municípios Da Região Promovem Ações Sobre O Outubro Rosa | Secretaria De Estado De Saúde](<https://www.rcwtv.com.br/noticia/municipios-da-regiao-promovem-acoes-sobre-o-outubro-rosa-secretaria-de-estado-de-saude>) - *03/11/2026*
+- [Balanço 2023-2026: Com metrô e novos ônibus, Governo de Minas avança na mobilidade](<https://www.rcwtv.com.br/noticia/balanco-2023-2026-com-metro-e-novos-onibus-governo-de-minas-avanca-na-mobilidade>) - *03/11/2026*
+- [Coral da UFJF celebra 60 anos com Festival Raízes no Cine-Theatro Central - Notícias UFJF](<https://www.rcwtv.com.br/noticia/coral-da-ufjf-celebra-60-anos-com-festival-raizes-no-cine-theatro-central-noticias-ufjf>) - *03/11/2026*
+- [Anvisa aprova medicamento para tratamento de atrofia muscular espinhal (AME)](<https://www.rcwtv.com.br/noticia/anvisa-aprova-medicamento-para-tratamento-de-atrofia-muscular-espinhal-ame-86042>) - *03/11/2026*
+- [Anvisa aprova medicamento para tratamento de atrofia muscular espinhal (AME)](<https://www.rcwtv.com.br/noticia/anvisa-aprova-medicamento-para-tratamento-de-atrofia-muscular-espinhal-ame>) - *03/11/2026*
+- [Videomonitoramento inteligente ajuda na segurança pública em Minas Gerais](<https://www.rcwtv.com.br/noticia/videomonitoramento-inteligente-ajuda-na-seguranca-publica-em-minas-gerais>) - *03/11/2026*
+- [Que comprar um imóvel de férias compartilhado? Veja 5 dicas antes de decidir](<https://www.rcwtv.com.br/noticia/que-comprar-um-imovel-de-ferias-compartilhado-veja-5-dicas-antes-de-decidir>) - *03/11/2026*
+- [Câmara dos Deputados analisa pauta com foco em mulheres, saúde e animais](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-analisa-pauta-com-foco-em-mulheres-saude-e-animais>) - *03/11/2026*
+- [Luka faz história, Memphis perde invencibilidade e Curry volta em grande estilo em rodada cheia da NBA](<https://www.rcwtv.com.br/noticia/luka-faz-historia-memphis-perde-invencibilidade-e-curry-volta-em-grande-estilo-em-rodada-cheia-da-nba>) - *03/11/2026*
+- [Ocorrências mobilizam equipes do SAMU no interior e na Zona da Mata](<https://www.rcwtv.com.br/noticia/ocorrencias-mobilizam-equipes-do-samu-no-interior-e-na-zona-da-mata>) - *03/11/2026*
+- [Palmeiras e Grêmio largam na frente nas semifinais da Copa do Brasil; Vasco reclama de pênalti não marcado](<https://www.rcwtv.com.br/noticia/palmeiras-e-gremio-largam-na-frente-nas-semifinais-da-copa-do-brasil-vasco-reclama-de-penalti-nao-marcado>) - *03/11/2026*
+
