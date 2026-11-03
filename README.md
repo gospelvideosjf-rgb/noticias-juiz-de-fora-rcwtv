@@ -18,6 +18,9 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Resumo do Dia em Juiz de Fora: Principais notícias e destaques de 02/11/2026](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-principais-noticias-e-destaques-de-02-11-2026>)
+- 📰 [Polícia investiga acidente com asa-delta que deixa dois mortos no Rio](<https://www.rcwtv.com.br/noticia/policia-investiga-acidente-com-asa-delta-que-deixa-dois-mortos-no-rio>)
+- 📰 [Impa Tech abre inscrições para graduação em matemática nesta terça-feira](<https://www.rcwtv.com.br/noticia/impa-tech-abre-inscricoes-para-graduacao-em-matematica-nesta-terca-feira>)
 - 📰 [Cadastro de creches 2027 em Juiz de Fora começa em 9 de novembro; saiba onde fazer](<https://www.rcwtv.com.br/noticia/cadastro-de-creches-2027-em-juiz-de-fora-comeca-em-9-de-novembro-saiba-onde-fazer>)
 - 📰 [Novas regras do SAC passam a valer com exigência de atendimento humano](<https://www.rcwtv.com.br/noticia/novas-regras-do-sac-passam-a-valer-com-exigencia-de-atendimento-humano>)
 - 📰 [Cadastro escolar 2027 em Juiz de Fora termina em 13 de novembro; veja quem deve se inscrever](<https://www.rcwtv.com.br/noticia/cadastro-escolar-2027-em-juiz-de-fora-termina-em-13-de-novembro-veja-quem-deve-se-inscrever>)
@@ -25,9 +28,6 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 - 📰 [André Lara Resende culpa a taxa de juros pelo desequilíbrio fiscal no Brasil](<https://www.rcwtv.com.br/noticia/andre-lara-resende-culpa-a-taxa-de-juros-pelo-desequilibrio-fiscal-no-brasil>)
 - 📰 [Dia de Finados no Rio é marcado por homenagens e soltura de balões](<https://www.rcwtv.com.br/noticia/dia-de-finados-no-rio-e-marcado-por-homenagens-e-soltura-de-baloes>)
 - 📰 [Defesa Civil de Juiz de Fora: como receber alertas de chuva no celular por SMS e WhatsApp](<https://www.rcwtv.com.br/noticia/defesa-civil-de-juiz-de-fora-como-receber-alertas-de-chuva-no-celular-por-sms-e-whatsapp>)
-- 📰 [Vagou JF: como achar vaga de emprego em Juiz de Fora no portal da Prefeitura](<https://www.rcwtv.com.br/noticia/vagou-jf-como-achar-vaga-de-emprego-em-juiz-de-fora-no-portal-da-prefeitura>)
-- 📰 [Visitantes relembram entes queridos no Dia de Finados em cemitério de Brasília](<https://www.rcwtv.com.br/noticia/visitantes-relembram-entes-queridos-no-dia-de-finados-em-cemiterio-de-brasilia>)
-- 📰 [Espiaqui 2026: UFJF abre o campus de Juiz de Fora à comunidade de 5 a 7 de novembro](<https://www.rcwtv.com.br/noticia/espiaqui-2026-ufjf-abre-o-campus-de-juiz-de-fora-a-comunidade-de-5-a-7-de-novembro>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

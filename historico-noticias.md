@@ -1079,3 +1079,8 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Governo de Minas divulga balanço de ações e entregas entre 2023 e 2026](<https://www.rcwtv.com.br/noticia/governo-de-minas-divulga-balanco-de-acoes-e-entregas-entre-2023-e-2026>) - *02/11/2026*
 - [Previsão do tempo em Juiz de Fora hoje (02/11): nublado, de 18°C a 28°C | Bom Dia JF](<https://www.rcwtv.com.br/noticia/previsao-do-tempo-em-juiz-de-fora-hoje-02-11-nublado-de-18-c-a-28-c-bom-dia-jf>) - *02/11/2026*
 
+### Atualização de 02/11/2026
+- [Resumo do Dia em Juiz de Fora: Principais notícias e destaques de 02/11/2026](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-principais-noticias-e-destaques-de-02-11-2026>) - *02/11/2026*
+- [Polícia investiga acidente com asa-delta que deixa dois mortos no Rio](<https://www.rcwtv.com.br/noticia/policia-investiga-acidente-com-asa-delta-que-deixa-dois-mortos-no-rio>) - *02/11/2026*
+- [Impa Tech abre inscrições para graduação em matemática nesta terça-feira](<https://www.rcwtv.com.br/noticia/impa-tech-abre-inscricoes-para-graduacao-em-matematica-nesta-terca-feira>) - *02/11/2026*
+
