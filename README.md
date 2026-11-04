@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Praça do Alto dos Passos ganha projeto artístico em Juiz de Fora](<https://www.rcwtv.com.br/noticia/praca-do-alto-dos-passos-ganha-projeto-artistico-em-juiz-de-fora>)
-- 📰 [Anvisa suspende lotes de equipamento de radioterapia superficial](<https://www.rcwtv.com.br/noticia/anvisa-suspende-lotes-de-equipamento-de-radioterapia-superficial>)
-- 📰 [Senado aprova PEC da Segurança Pública em votação unânime](<https://www.rcwtv.com.br/noticia/senado-aprova-pec-da-seguranca-publica-em-votacao-unanime>)
-- 📰 [Comarca de Caldas inaugura novo fórum e amplia atendimento em Minas Gerais](<https://www.rcwtv.com.br/noticia/comarca-de-caldas-inaugura-novo-forum-e-amplia-atendimento-em-minas-gerais>)
-- 📰 [Hugo Motta celebra aprovação da PEC da Segurança Pública no Senado](<https://www.rcwtv.com.br/noticia/hugo-motta-celebra-aprovacao-da-pec-da-seguranca-publica-no-senado>)
-- 📰 [Projeto Comunidade em Movimento certifica alunas no bairro Ponte Preta](<https://www.rcwtv.com.br/noticia/projeto-comunidade-em-movimento-certifica-alunas-no-bairro-ponte-preta>)
-- 📰 [Governo aponta ligação entre bets e crime organizado em audiência no STF](<https://www.rcwtv.com.br/noticia/governo-aponta-ligacao-entre-bets-e-crime-organizado-em-audiencia-no-stf>)
-- 📰 [Câmara de São Paulo arquiva pedido de impeachment contra Ricardo Nunes](<https://www.rcwtv.com.br/noticia/camara-de-sao-paulo-arquiva-pedido-de-impeachment-contra-ricardo-nunes>)
-- 📰 [Corpo de Bombeiros recebe viaturas e recursos para incêndios](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-recebe-viaturas-e-recursos-para-incendios>)
-- 📰 [Governo de Minas capacita servidores para emendas impositivas de 2027](<https://www.rcwtv.com.br/noticia/governo-de-minas-capacita-servidores-para-emendas-impositivas-de-2027>)
+- 📰 [UFJF lança trilha de aprendizagem sobre prevenção e combate a violências](<https://www.rcwtv.com.br/noticia/ufjf-lanca-trilha-de-aprendizagem-sobre-prevencao-e-combate-a-violencias>)
+- 📰 [Projeto que protege créditos trabalhistas e amplia ação de sindicatos avança](<https://www.rcwtv.com.br/noticia/projeto-que-protege-creditos-trabalhistas-e-amplia-acao-de-sindicatos-avanca>)
+- 📰 [Assembleia avança isenção de IPVA para doenças raras e síndrome de Down](<https://www.rcwtv.com.br/noticia/assembleia-avanca-isencao-de-ipva-para-doencas-raras-e-sindrome-de-down>)
+- 📰 [Hemonúcleo de Manhuaçu altera funcionamento nesta quinta-feira](<https://www.rcwtv.com.br/noticia/hemonucleo-de-manhuacu-altera-funcionamento-nesta-quinta-feira>)
+- 📰 [Democratas tomam o Congresso e impõem derrota histórica a Trump nas eleições de meio de mandato](<https://www.rcwtv.com.br/noticia/democratas-tomam-o-congresso-e-impoem-derrota-historica-a-trump-nas-eleicoes-de-meio-de-mandato>)
+- 📰 [Homem é condenado a 60 anos de prisão por duplo latrocínio em Espera Feliz](<https://www.rcwtv.com.br/noticia/homem-e-condenado-a-60-anos-de-prisao-por-duplo-latrocinio-em-espera-feliz>)
+- 📰 [Trio preso em Caratinga por homicídio durante operação policial](<https://www.rcwtv.com.br/noticia/trio-preso-em-caratinga-por-homicidio-durante-operacao-policial>)
+- 📰 [Homem é condenado a 60 anos de prisão por duplo latrocínio em Minas Gerais](<https://www.rcwtv.com.br/noticia/homem-e-condenado-a-60-anos-de-prisao-por-duplo-latrocinio-em-minas-gerais>)
+- 📰 [Intercambio virtual com universidade dos Estados Unidos abre vagas](<https://www.rcwtv.com.br/noticia/intercambio-virtual-com-universidade-dos-estados-unidos-abre-vagas>)
+- 📰 [Justiça homologa acordo para devolução de ponte histórica do século XIX a Prados](<https://www.rcwtv.com.br/noticia/justica-homologa-acordo-para-devolucao-de-ponte-historica-do-seculo-xix-a-prados>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

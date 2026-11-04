@@ -1118,3 +1118,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Governabilidade exigirá negociação intensa no congresso nacional](<https://www.rcwtv.com.br/noticia/governabilidade-exigira-negociacao-intensa-no-congresso-nacional>) - *03/11/2026*
 - [Polícia Civil de Minas Gerais conquista três prêmios em identificação balística](<https://www.rcwtv.com.br/noticia/policia-civil-de-minas-gerais-conquista-tres-premios-em-identificacao-balistica>) - *03/11/2026*
 
+### Atualização de 04/11/2026
+- [UFJF lança trilha de aprendizagem sobre prevenção e combate a violências](<https://www.rcwtv.com.br/noticia/ufjf-lanca-trilha-de-aprendizagem-sobre-prevencao-e-combate-a-violencias>) - *04/11/2026*
+- [Projeto que protege créditos trabalhistas e amplia ação de sindicatos avança](<https://www.rcwtv.com.br/noticia/projeto-que-protege-creditos-trabalhistas-e-amplia-acao-de-sindicatos-avanca>) - *04/11/2026*
+- [Assembleia avança isenção de IPVA para doenças raras e síndrome de Down](<https://www.rcwtv.com.br/noticia/assembleia-avanca-isencao-de-ipva-para-doencas-raras-e-sindrome-de-down>) - *04/11/2026*
+- [Hemonúcleo de Manhuaçu altera funcionamento nesta quinta-feira](<https://www.rcwtv.com.br/noticia/hemonucleo-de-manhuacu-altera-funcionamento-nesta-quinta-feira>) - *04/11/2026*
+- [Democratas tomam o Congresso e impõem derrota histórica a Trump nas eleições de meio de mandato](<https://www.rcwtv.com.br/noticia/democratas-tomam-o-congresso-e-impoem-derrota-historica-a-trump-nas-eleicoes-de-meio-de-mandato>) - *04/11/2026*
+- [Homem é condenado a 60 anos de prisão por duplo latrocínio em Espera Feliz](<https://www.rcwtv.com.br/noticia/homem-e-condenado-a-60-anos-de-prisao-por-duplo-latrocinio-em-espera-feliz>) - *04/11/2026*
+- [Trio preso em Caratinga por homicídio durante operação policial](<https://www.rcwtv.com.br/noticia/trio-preso-em-caratinga-por-homicidio-durante-operacao-policial>) - *04/11/2026*
+- [Homem é condenado a 60 anos de prisão por duplo latrocínio em Minas Gerais](<https://www.rcwtv.com.br/noticia/homem-e-condenado-a-60-anos-de-prisao-por-duplo-latrocinio-em-minas-gerais>) - *04/11/2026*
+- [Intercambio virtual com universidade dos Estados Unidos abre vagas](<https://www.rcwtv.com.br/noticia/intercambio-virtual-com-universidade-dos-estados-unidos-abre-vagas>) - *04/11/2026*
+- [Justiça homologa acordo para devolução de ponte histórica do século XIX a Prados](<https://www.rcwtv.com.br/noticia/justica-homologa-acordo-para-devolucao-de-ponte-historica-do-seculo-xix-a-prados>) - *04/11/2026*
+- [Secretário de Educação e comandante da PM são convocados para audiência](<https://www.rcwtv.com.br/noticia/secretario-de-educacao-e-comandante-da-pm-sao-convocados-para-audiencia>) - *04/11/2026*
+- [Secretaria de Estado de minas gerais concorre ao Prêmio Tesouro Nacional](<https://www.rcwtv.com.br/noticia/secretaria-de-estado-de-minas-gerais-concorre-ao-premio-tesouro-nacional>) - *04/11/2026*
+- [Mirassol rebaixa Chapecoense, e Internacional vence no fim para deixar o Z-4](<https://www.rcwtv.com.br/noticia/mirassol-rebaixa-chapecoense-e-internacional-vence-no-fim-para-deixar-o-z-4>) - *04/11/2026*
+- [UFJF oferece 173 vagas para intercâmbio internacional de graduação](<https://www.rcwtv.com.br/noticia/ufjf-oferece-173-vagas-para-intercambio-internacional-de-graduacao>) - *04/11/2026*
+- [Comissão aprova o Estatuto da Pessoa Intersexo na Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/comissao-aprova-o-estatuto-da-pessoa-intersexo-na-camara-dos-deputados>) - *04/11/2026*
+
