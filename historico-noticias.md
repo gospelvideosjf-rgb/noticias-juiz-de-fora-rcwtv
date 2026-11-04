@@ -1101,3 +1101,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Ocorrências mobilizam equipes do SAMU no interior e na Zona da Mata](<https://www.rcwtv.com.br/noticia/ocorrencias-mobilizam-equipes-do-samu-no-interior-e-na-zona-da-mata>) - *03/11/2026*
 - [Palmeiras e Grêmio largam na frente nas semifinais da Copa do Brasil; Vasco reclama de pênalti não marcado](<https://www.rcwtv.com.br/noticia/palmeiras-e-gremio-largam-na-frente-nas-semifinais-da-copa-do-brasil-vasco-reclama-de-penalti-nao-marcado>) - *03/11/2026*
 
+### Atualização de 03/11/2026
+- [Praça do Alto dos Passos ganha projeto artístico em Juiz de Fora](<https://www.rcwtv.com.br/noticia/praca-do-alto-dos-passos-ganha-projeto-artistico-em-juiz-de-fora>) - *03/11/2026*
+- [Anvisa suspende lotes de equipamento de radioterapia superficial](<https://www.rcwtv.com.br/noticia/anvisa-suspende-lotes-de-equipamento-de-radioterapia-superficial>) - *03/11/2026*
+- [Senado aprova PEC da Segurança Pública em votação unânime](<https://www.rcwtv.com.br/noticia/senado-aprova-pec-da-seguranca-publica-em-votacao-unanime>) - *03/11/2026*
+- [Comarca de Caldas inaugura novo fórum e amplia atendimento em Minas Gerais](<https://www.rcwtv.com.br/noticia/comarca-de-caldas-inaugura-novo-forum-e-amplia-atendimento-em-minas-gerais>) - *03/11/2026*
+- [Hugo Motta celebra aprovação da PEC da Segurança Pública no Senado](<https://www.rcwtv.com.br/noticia/hugo-motta-celebra-aprovacao-da-pec-da-seguranca-publica-no-senado>) - *03/11/2026*
+- [Projeto Comunidade em Movimento certifica alunas no bairro Ponte Preta](<https://www.rcwtv.com.br/noticia/projeto-comunidade-em-movimento-certifica-alunas-no-bairro-ponte-preta>) - *03/11/2026*
+- [Governo aponta ligação entre bets e crime organizado em audiência no STF](<https://www.rcwtv.com.br/noticia/governo-aponta-ligacao-entre-bets-e-crime-organizado-em-audiencia-no-stf>) - *03/11/2026*
+- [Câmara de São Paulo arquiva pedido de impeachment contra Ricardo Nunes](<https://www.rcwtv.com.br/noticia/camara-de-sao-paulo-arquiva-pedido-de-impeachment-contra-ricardo-nunes>) - *03/11/2026*
+- [Corpo de Bombeiros recebe viaturas e recursos para incêndios](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-recebe-viaturas-e-recursos-para-incendios>) - *03/11/2026*
+- [Governo de Minas capacita servidores para emendas impositivas de 2027](<https://www.rcwtv.com.br/noticia/governo-de-minas-capacita-servidores-para-emendas-impositivas-de-2027>) - *03/11/2026*
+- [Programa Mulheres Líderes oferece formação gratuita para mulheres no bairro Linhares](<https://www.rcwtv.com.br/noticia/programa-mulheres-lideres-oferece-formacao-gratuita-para-mulheres-no-bairro-linhares>) - *03/11/2026*
+- [Ministério Público de MG e CeMAIS celebram parceria de 20 anos em Belo Horizonte](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-mg-e-cemais-celebram-parceria-de-20-anos-em-belo-horizonte>) - *03/11/2026*
+- [Projeto Nossa Escola trabalha cooperação com estudantes em Juiz de Fora](<https://www.rcwtv.com.br/noticia/projeto-nossa-escola-trabalha-cooperacao-com-estudantes-em-juiz-de-fora>) - *03/11/2026*
+- [Governabilidade exigirá negociação intensa no congresso nacional](<https://www.rcwtv.com.br/noticia/governabilidade-exigira-negociacao-intensa-no-congresso-nacional>) - *03/11/2026*
+- [Polícia Civil de Minas Gerais conquista três prêmios em identificação balística](<https://www.rcwtv.com.br/noticia/policia-civil-de-minas-gerais-conquista-tres-premios-em-identificacao-balistica>) - *03/11/2026*
+

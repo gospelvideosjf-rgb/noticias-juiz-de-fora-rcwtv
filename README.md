@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Jesús de Miguel, do Tenerife, morre aos 30 anos após parada cardiorrespiratória](<https://www.rcwtv.com.br/noticia/jesus-de-miguel-do-tenerife-morre-aos-30-anos-apos-parada-cardiorrespiratoria>)
-- 📰 [Governo de Minas abre cadastramento para distribuir 10 mil toneladas de agrosilício](<https://www.rcwtv.com.br/noticia/governo-de-minas-abre-cadastramento-para-distribuir-10-mil-toneladas-de-agrosilicio>)
-- 📰 [Jovens aprendizes em belo horizonte recebem projeto de cidadania e saneamento](<https://www.rcwtv.com.br/noticia/jovens-aprendizes-em-belo-horizonte-recebem-projeto-de-cidadania-e-saneamento>)
-- 📰 [SRS Varginha Participa De Capacitação Do Programa VISA-CIS Para Fortalecer A Vigilância](<https://www.rcwtv.com.br/noticia/srs-varginha-participa-de-capacitacao-do-programa-visa-cis-para-fortalecer-a-vigilancia>)
-- 📰 [Municípios Da Região Promovem Ações Sobre O Outubro Rosa | Secretaria De Estado De Saúde](<https://www.rcwtv.com.br/noticia/municipios-da-regiao-promovem-acoes-sobre-o-outubro-rosa-secretaria-de-estado-de-saude>)
-- 📰 [Balanço 2023-2026: Com metrô e novos ônibus, Governo de Minas avança na mobilidade](<https://www.rcwtv.com.br/noticia/balanco-2023-2026-com-metro-e-novos-onibus-governo-de-minas-avanca-na-mobilidade>)
-- 📰 [Coral da UFJF celebra 60 anos com Festival Raízes no Cine-Theatro Central - Notícias UFJF](<https://www.rcwtv.com.br/noticia/coral-da-ufjf-celebra-60-anos-com-festival-raizes-no-cine-theatro-central-noticias-ufjf>)
-- 📰 [Anvisa aprova medicamento para tratamento de atrofia muscular espinhal (AME)](<https://www.rcwtv.com.br/noticia/anvisa-aprova-medicamento-para-tratamento-de-atrofia-muscular-espinhal-ame-86042>)
-- 📰 [Anvisa aprova medicamento para tratamento de atrofia muscular espinhal (AME)](<https://www.rcwtv.com.br/noticia/anvisa-aprova-medicamento-para-tratamento-de-atrofia-muscular-espinhal-ame>)
-- 📰 [Videomonitoramento inteligente ajuda na segurança pública em Minas Gerais](<https://www.rcwtv.com.br/noticia/videomonitoramento-inteligente-ajuda-na-seguranca-publica-em-minas-gerais>)
+- 📰 [Praça do Alto dos Passos ganha projeto artístico em Juiz de Fora](<https://www.rcwtv.com.br/noticia/praca-do-alto-dos-passos-ganha-projeto-artistico-em-juiz-de-fora>)
+- 📰 [Anvisa suspende lotes de equipamento de radioterapia superficial](<https://www.rcwtv.com.br/noticia/anvisa-suspende-lotes-de-equipamento-de-radioterapia-superficial>)
+- 📰 [Senado aprova PEC da Segurança Pública em votação unânime](<https://www.rcwtv.com.br/noticia/senado-aprova-pec-da-seguranca-publica-em-votacao-unanime>)
+- 📰 [Comarca de Caldas inaugura novo fórum e amplia atendimento em Minas Gerais](<https://www.rcwtv.com.br/noticia/comarca-de-caldas-inaugura-novo-forum-e-amplia-atendimento-em-minas-gerais>)
+- 📰 [Hugo Motta celebra aprovação da PEC da Segurança Pública no Senado](<https://www.rcwtv.com.br/noticia/hugo-motta-celebra-aprovacao-da-pec-da-seguranca-publica-no-senado>)
+- 📰 [Projeto Comunidade em Movimento certifica alunas no bairro Ponte Preta](<https://www.rcwtv.com.br/noticia/projeto-comunidade-em-movimento-certifica-alunas-no-bairro-ponte-preta>)
+- 📰 [Governo aponta ligação entre bets e crime organizado em audiência no STF](<https://www.rcwtv.com.br/noticia/governo-aponta-ligacao-entre-bets-e-crime-organizado-em-audiencia-no-stf>)
+- 📰 [Câmara de São Paulo arquiva pedido de impeachment contra Ricardo Nunes](<https://www.rcwtv.com.br/noticia/camara-de-sao-paulo-arquiva-pedido-de-impeachment-contra-ricardo-nunes>)
+- 📰 [Corpo de Bombeiros recebe viaturas e recursos para incêndios](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-recebe-viaturas-e-recursos-para-incendios>)
+- 📰 [Governo de Minas capacita servidores para emendas impositivas de 2027](<https://www.rcwtv.com.br/noticia/governo-de-minas-capacita-servidores-para-emendas-impositivas-de-2027>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
