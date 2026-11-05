@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [UFJF lança trilha de aprendizagem sobre prevenção e combate a violências](<https://www.rcwtv.com.br/noticia/ufjf-lanca-trilha-de-aprendizagem-sobre-prevencao-e-combate-a-violencias>)
-- 📰 [Projeto que protege créditos trabalhistas e amplia ação de sindicatos avança](<https://www.rcwtv.com.br/noticia/projeto-que-protege-creditos-trabalhistas-e-amplia-acao-de-sindicatos-avanca>)
-- 📰 [Assembleia avança isenção de IPVA para doenças raras e síndrome de Down](<https://www.rcwtv.com.br/noticia/assembleia-avanca-isencao-de-ipva-para-doencas-raras-e-sindrome-de-down>)
-- 📰 [Hemonúcleo de Manhuaçu altera funcionamento nesta quinta-feira](<https://www.rcwtv.com.br/noticia/hemonucleo-de-manhuacu-altera-funcionamento-nesta-quinta-feira>)
-- 📰 [Democratas tomam o Congresso e impõem derrota histórica a Trump nas eleições de meio de mandato](<https://www.rcwtv.com.br/noticia/democratas-tomam-o-congresso-e-impoem-derrota-historica-a-trump-nas-eleicoes-de-meio-de-mandato>)
-- 📰 [Homem é condenado a 60 anos de prisão por duplo latrocínio em Espera Feliz](<https://www.rcwtv.com.br/noticia/homem-e-condenado-a-60-anos-de-prisao-por-duplo-latrocinio-em-espera-feliz>)
-- 📰 [Trio preso em Caratinga por homicídio durante operação policial](<https://www.rcwtv.com.br/noticia/trio-preso-em-caratinga-por-homicidio-durante-operacao-policial>)
-- 📰 [Homem é condenado a 60 anos de prisão por duplo latrocínio em Minas Gerais](<https://www.rcwtv.com.br/noticia/homem-e-condenado-a-60-anos-de-prisao-por-duplo-latrocinio-em-minas-gerais>)
-- 📰 [Intercambio virtual com universidade dos Estados Unidos abre vagas](<https://www.rcwtv.com.br/noticia/intercambio-virtual-com-universidade-dos-estados-unidos-abre-vagas>)
-- 📰 [Justiça homologa acordo para devolução de ponte histórica do século XIX a Prados](<https://www.rcwtv.com.br/noticia/justica-homologa-acordo-para-devolucao-de-ponte-historica-do-seculo-xix-a-prados>)
+- 📰 [Hospital de Pronto Socorro atende 94 municípios em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hospital-de-pronto-socorro-atende-94-municipios-em-juiz-de-fora>)
+- 📰 [Anatel publica novas regras para prevenir fraudes por sms no brasil](<https://www.rcwtv.com.br/noticia/anatel-publica-novas-regras-para-prevenir-fraudes-por-sms-no-brasil>)
+- 📰 [Davi alcolumbre retira maioridade penal da pauta e espera câmara](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-retira-maioridade-penal-da-pauta-e-espera-camara>)
+- 📰 [Inteligência artificial do SUS e Einstein auxilia no diagnóstico de pele](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-do-sus-e-einstein-auxilia-no-diagnostico-de-pele>)
+- 📰 [Justiça torna réu acusado de matar policial penal em hospital de Belo Horizonte](<https://www.rcwtv.com.br/noticia/justica-torna-reu-acusado-de-matar-policial-penal-em-hospital-de-belo-horizonte>)
+- 📰 [Governo encaminha projeto sobre dívidas da Cohab-MG com aval de garantia](<https://www.rcwtv.com.br/noticia/governo-encaminha-projeto-sobre-dividas-da-cohab-mg-com-aval-de-garantia>)
+- 📰 [Hemominas altera funcionamento em três unidades do estado nesta semana](<https://www.rcwtv.com.br/noticia/hemominas-altera-funcionamento-em-tres-unidades-do-estado-nesta-semana>)
+- 📰 [Vagou JF reúne mais de 510 oportunidades de emprego - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/vagou-jf-reune-mais-de-510-oportunidades-de-emprego-portal-pjf-noticias>)
+- 📰 [Debate na câmara discute projeto para ampliar mercado de gás natural no brasil](<https://www.rcwtv.com.br/noticia/debate-na-camara-discute-projeto-para-ampliar-mercado-de-gas-natural-no-brasil>)
+- 📰 [Juiz de Fora e Zona da Mata reúnem novidades em meio ambiente, inovação e segurança](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-zona-da-mata-reunem-novidades-em-meio-ambiente-inovacao-e-seguranca>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

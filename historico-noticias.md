@@ -1135,3 +1135,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [UFJF oferece 173 vagas para intercâmbio internacional de graduação](<https://www.rcwtv.com.br/noticia/ufjf-oferece-173-vagas-para-intercambio-internacional-de-graduacao>) - *04/11/2026*
 - [Comissão aprova o Estatuto da Pessoa Intersexo na Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/comissao-aprova-o-estatuto-da-pessoa-intersexo-na-camara-dos-deputados>) - *04/11/2026*
 
+### Atualização de 04/11/2026
+- [Hospital de Pronto Socorro atende 94 municípios em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hospital-de-pronto-socorro-atende-94-municipios-em-juiz-de-fora>) - *04/11/2026*
+- [Anatel publica novas regras para prevenir fraudes por sms no brasil](<https://www.rcwtv.com.br/noticia/anatel-publica-novas-regras-para-prevenir-fraudes-por-sms-no-brasil>) - *04/11/2026*
+- [Davi alcolumbre retira maioridade penal da pauta e espera câmara](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-retira-maioridade-penal-da-pauta-e-espera-camara>) - *04/11/2026*
+- [Inteligência artificial do SUS e Einstein auxilia no diagnóstico de pele](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-do-sus-e-einstein-auxilia-no-diagnostico-de-pele>) - *04/11/2026*
+- [Justiça torna réu acusado de matar policial penal em hospital de Belo Horizonte](<https://www.rcwtv.com.br/noticia/justica-torna-reu-acusado-de-matar-policial-penal-em-hospital-de-belo-horizonte>) - *04/11/2026*
+- [Governo encaminha projeto sobre dívidas da Cohab-MG com aval de garantia](<https://www.rcwtv.com.br/noticia/governo-encaminha-projeto-sobre-dividas-da-cohab-mg-com-aval-de-garantia>) - *04/11/2026*
+- [Hemominas altera funcionamento em três unidades do estado nesta semana](<https://www.rcwtv.com.br/noticia/hemominas-altera-funcionamento-em-tres-unidades-do-estado-nesta-semana>) - *04/11/2026*
+- [Vagou JF reúne mais de 510 oportunidades de emprego - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/vagou-jf-reune-mais-de-510-oportunidades-de-emprego-portal-pjf-noticias>) - *04/11/2026*
+- [Debate na câmara discute projeto para ampliar mercado de gás natural no brasil](<https://www.rcwtv.com.br/noticia/debate-na-camara-discute-projeto-para-ampliar-mercado-de-gas-natural-no-brasil>) - *04/11/2026*
+- [Juiz de Fora e Zona da Mata reúnem novidades em meio ambiente, inovação e segurança](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-zona-da-mata-reunem-novidades-em-meio-ambiente-inovacao-e-seguranca>) - *04/11/2026*
+- [Congresso instala comissão para analisar linhas de crédito após tarifaço](<https://www.rcwtv.com.br/noticia/congresso-instala-comissao-para-analisar-linhas-de-credito-apos-tarifaco>) - *04/11/2026*
+- [Ministério Público de Minas Gerais economiza R$ 138 milhões com IA](<https://www.rcwtv.com.br/noticia/ministerio-publico-de-minas-gerais-economiza-r-138-milhoes-com-ia>) - *04/11/2026*
+- [Manhuaçu registra prisão em flagrante e apreensão de drogas](<https://www.rcwtv.com.br/noticia/manhuacu-registra-prisao-em-flagrante-e-apreensao-de-drogas>) - *04/11/2026*
+- [Receita Federal apreende carga irregular avaliada em R$ 3,6 milhões](<https://www.rcwtv.com.br/noticia/receita-federal-apreende-carga-irregular-avaliada-em-r-3-6-milhoes>) - *04/11/2026*
+- [Fenabrave eleva para 12,8% previsão de alta na venda de veículos novos em 2026](<https://www.rcwtv.com.br/noticia/fenabrave-eleva-para-12-8-previsao-de-alta-na-venda-de-veiculos-novos-em-2026>) - *04/11/2026*
+
