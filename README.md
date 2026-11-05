@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Hospital de Pronto Socorro atende 94 municípios em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hospital-de-pronto-socorro-atende-94-municipios-em-juiz-de-fora>)
-- 📰 [Anatel publica novas regras para prevenir fraudes por sms no brasil](<https://www.rcwtv.com.br/noticia/anatel-publica-novas-regras-para-prevenir-fraudes-por-sms-no-brasil>)
-- 📰 [Davi alcolumbre retira maioridade penal da pauta e espera câmara](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-retira-maioridade-penal-da-pauta-e-espera-camara>)
-- 📰 [Inteligência artificial do SUS e Einstein auxilia no diagnóstico de pele](<https://www.rcwtv.com.br/noticia/inteligencia-artificial-do-sus-e-einstein-auxilia-no-diagnostico-de-pele>)
-- 📰 [Justiça torna réu acusado de matar policial penal em hospital de Belo Horizonte](<https://www.rcwtv.com.br/noticia/justica-torna-reu-acusado-de-matar-policial-penal-em-hospital-de-belo-horizonte>)
-- 📰 [Governo encaminha projeto sobre dívidas da Cohab-MG com aval de garantia](<https://www.rcwtv.com.br/noticia/governo-encaminha-projeto-sobre-dividas-da-cohab-mg-com-aval-de-garantia>)
-- 📰 [Hemominas altera funcionamento em três unidades do estado nesta semana](<https://www.rcwtv.com.br/noticia/hemominas-altera-funcionamento-em-tres-unidades-do-estado-nesta-semana>)
-- 📰 [Vagou JF reúne mais de 510 oportunidades de emprego - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/vagou-jf-reune-mais-de-510-oportunidades-de-emprego-portal-pjf-noticias>)
-- 📰 [Debate na câmara discute projeto para ampliar mercado de gás natural no brasil](<https://www.rcwtv.com.br/noticia/debate-na-camara-discute-projeto-para-ampliar-mercado-de-gas-natural-no-brasil>)
-- 📰 [Juiz de Fora e Zona da Mata reúnem novidades em meio ambiente, inovação e segurança](<https://www.rcwtv.com.br/noticia/juiz-de-fora-e-zona-da-mata-reunem-novidades-em-meio-ambiente-inovacao-e-seguranca>)
+- 📰 [Alunos de medicina denunciam ameaças políticas e cobram proteção da São Leopoldo Mandic](<https://www.rcwtv.com.br/noticia/alunos-de-medicina-denunciam-ameacas-politicas-e-cobram-protecao-da-sao-leopoldo-mandic>)
+- 📰 [JusConsulta: como a pesquisa de processos e decisões judiciais pode fortalecer a análise jurídica](<https://www.rcwtv.com.br/noticia/jusconsulta-como-a-pesquisa-de-processos-e-decisoes-judiciais-pode-fortalecer-a-analise-juridica>)
+- 📰 [Inscrições para o programa Jovens em Ação Climática terminam nesta quinta-feira em Juiz de Fora](<https://www.rcwtv.com.br/noticia/inscricoes-para-o-programa-jovens-em-acao-climatica-terminam-nesta-quinta-feira-em-juiz-de-fora>)
+- 📰 [Comissão aprova plano de socorro fiscal para o setor agroexportador](<https://www.rcwtv.com.br/noticia/comissao-aprova-plano-de-socorro-fiscal-para-o-setor-agroexportador>)
+- 📰 [Santiago Peña renuncia à Presidência do Paraguai em meio à crise do Ueno Bank e pressão por impeachment](<https://www.rcwtv.com.br/noticia/santiago-pena-renuncia-a-presidencia-do-paraguai-em-meio-a-crise-do-ueno-bank-e-pressao-por-impeachment>)
+- 📰 [Semana Internacional do Café debate competitividade e sustentabilidade em Belo Horizonte](<https://www.rcwtv.com.br/noticia/semana-internacional-do-cafe-debate-competitividade-e-sustentabilidade-em-belo-horizonte>)
+- 📰 [Comissão de Agricultura aprova projeto que incentiva hortas urbanas no Brasil](<https://www.rcwtv.com.br/noticia/comissao-de-agricultura-aprova-projeto-que-incentiva-hortas-urbanas-no-brasil>)
+- 📰 [Financiamentos para projetos sustentáveis mais que dobram no BDMG em 2026](<https://www.rcwtv.com.br/noticia/financiamentos-para-projetos-sustentaveis-mais-que-dobram-no-bdmg-em-2026>)
+- 📰 [Wembanyama faz 52, Luka mantém sequência absurda e Shai volta a passar dos 40 em noite cheia na NBA](<https://www.rcwtv.com.br/noticia/wembanyama-faz-52-luka-mantem-sequencia-absurda-e-shai-volta-a-passar-dos-40-em-noite-cheia-na-nba>)
+- 📰 [Flamengo abre vantagem na liderança, Vasco vira em cinco minutos e Corinthians segue no Z-4](<https://www.rcwtv.com.br/noticia/flamengo-abre-vantagem-na-lideranca-vasco-vira-em-cinco-minutos-e-corinthians-segue-no-z-4>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

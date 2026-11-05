@@ -1152,3 +1152,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Receita Federal apreende carga irregular avaliada em R$ 3,6 milhões](<https://www.rcwtv.com.br/noticia/receita-federal-apreende-carga-irregular-avaliada-em-r-3-6-milhoes>) - *04/11/2026*
 - [Fenabrave eleva para 12,8% previsão de alta na venda de veículos novos em 2026](<https://www.rcwtv.com.br/noticia/fenabrave-eleva-para-12-8-previsao-de-alta-na-venda-de-veiculos-novos-em-2026>) - *04/11/2026*
 
+### Atualização de 05/11/2026
+- [Alunos de medicina denunciam ameaças políticas e cobram proteção da São Leopoldo Mandic](<https://www.rcwtv.com.br/noticia/alunos-de-medicina-denunciam-ameacas-politicas-e-cobram-protecao-da-sao-leopoldo-mandic>) - *05/11/2026*
+- [JusConsulta: como a pesquisa de processos e decisões judiciais pode fortalecer a análise jurídica](<https://www.rcwtv.com.br/noticia/jusconsulta-como-a-pesquisa-de-processos-e-decisoes-judiciais-pode-fortalecer-a-analise-juridica>) - *05/11/2026*
+- [Inscrições para o programa Jovens em Ação Climática terminam nesta quinta-feira em Juiz de Fora](<https://www.rcwtv.com.br/noticia/inscricoes-para-o-programa-jovens-em-acao-climatica-terminam-nesta-quinta-feira-em-juiz-de-fora>) - *05/11/2026*
+- [Comissão aprova plano de socorro fiscal para o setor agroexportador](<https://www.rcwtv.com.br/noticia/comissao-aprova-plano-de-socorro-fiscal-para-o-setor-agroexportador>) - *05/11/2026*
+- [Santiago Peña renuncia à Presidência do Paraguai em meio à crise do Ueno Bank e pressão por impeachment](<https://www.rcwtv.com.br/noticia/santiago-pena-renuncia-a-presidencia-do-paraguai-em-meio-a-crise-do-ueno-bank-e-pressao-por-impeachment>) - *05/11/2026*
+- [Semana Internacional do Café debate competitividade e sustentabilidade em Belo Horizonte](<https://www.rcwtv.com.br/noticia/semana-internacional-do-cafe-debate-competitividade-e-sustentabilidade-em-belo-horizonte>) - *05/11/2026*
+- [Comissão de Agricultura aprova projeto que incentiva hortas urbanas no Brasil](<https://www.rcwtv.com.br/noticia/comissao-de-agricultura-aprova-projeto-que-incentiva-hortas-urbanas-no-brasil>) - *05/11/2026*
+- [Financiamentos para projetos sustentáveis mais que dobram no BDMG em 2026](<https://www.rcwtv.com.br/noticia/financiamentos-para-projetos-sustentaveis-mais-que-dobram-no-bdmg-em-2026>) - *05/11/2026*
+- [Wembanyama faz 52, Luka mantém sequência absurda e Shai volta a passar dos 40 em noite cheia na NBA](<https://www.rcwtv.com.br/noticia/wembanyama-faz-52-luka-mantem-sequencia-absurda-e-shai-volta-a-passar-dos-40-em-noite-cheia-na-nba>) - *05/11/2026*
+- [Flamengo abre vantagem na liderança, Vasco vira em cinco minutos e Corinthians segue no Z-4](<https://www.rcwtv.com.br/noticia/flamengo-abre-vantagem-na-lideranca-vasco-vira-em-cinco-minutos-e-corinthians-segue-no-z-4>) - *05/11/2026*
+- [Trabalhador morre após parede desabar durante obra em Prados, em Minas Gerais](<https://www.rcwtv.com.br/noticia/trabalhador-morre-apos-parede-desabar-durante-obra-em-prados-em-minas-gerais>) - *05/11/2026*
+- [Greve de médicos paralisa unidades de saúde em Ipatinga](<https://www.rcwtv.com.br/noticia/greve-de-medicos-paralisa-unidades-de-saude-em-ipatinga>) - *05/11/2026*
+- [Dario Durigan defende criação de condições para redução da taxa Selic](<https://www.rcwtv.com.br/noticia/dario-durigan-defende-criacao-de-condicoes-para-reducao-da-taxa-selic>) - *05/11/2026*
+- [Com Economia do Mar em alta de 6%, Salvador atrai grandes players ao maior evento náutico da Bahia e projeta novo salto nos negócios](<https://www.rcwtv.com.br/noticia/com-economia-do-mar-em-alta-de-6-salvador-atrai-grandes-players-ao-maior-evento-nautico-da-bahia-e-projeta-novo-salto-nos-negocios>) - *05/11/2026*
+- [Emater-MG divulga finalistas do 19º Concurso Estadual dos Queijos Artesanais](<https://www.rcwtv.com.br/noticia/emater-mg-divulga-finalistas-do-19-concurso-estadual-dos-queijos-artesanais>) - *05/11/2026*
+
