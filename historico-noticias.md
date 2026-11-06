@@ -1186,3 +1186,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Fim da escala 6x1 pode elevar folha das empresas em R$ 158 bilhões](<https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-pode-elevar-folha-das-empresas-em-r-158-bilhoes>) - *05/11/2026*
 - [Flávio Dino convoca audiência para debater o fim da escala 6x1 no STF](<https://www.rcwtv.com.br/noticia/flavio-dino-convoca-audiencia-para-debater-o-fim-da-escala-6x1-no-stf>) - *05/11/2026*
 
+### Atualização de 06/11/2026
+- [Procon-MPMG aplica multa de R$ 1,2 milhão ao Banco Itaú Consignado](<https://www.rcwtv.com.br/noticia/procon-mpmg-aplica-multa-de-r-1-2-milhao-ao-banco-itau-consignado>) - *06/11/2026*
+- [Hospital Universitário prevê 1,7 mil atendimentos em mutirão do SUS](<https://www.rcwtv.com.br/noticia/hospital-universitario-preve-1-7-mil-atendimentos-em-mutirao-do-sus>) - *06/11/2026*
+- [Especialistas reforçam o valor do descanso na preparação para o Enem](<https://www.rcwtv.com.br/noticia/especialistas-reforcam-o-valor-do-descanso-na-preparacao-para-o-enem>) - *06/11/2026*
+- [CNPE cria grupo para formular estratégia nacional de eletromobilidade](<https://www.rcwtv.com.br/noticia/cnpe-cria-grupo-para-formular-estrategia-nacional-de-eletromobilidade>) - *06/11/2026*
+- [Bombeiros e Prefeitura alinham ações para o período chuvoso em Uberaba](<https://www.rcwtv.com.br/noticia/bombeiros-e-prefeitura-alinham-acoes-para-o-periodo-chuvoso-em-uberaba>) - *06/11/2026*
+- [Câmara de Juiz de Fora reconhece Cultura do Skate como Patrimônio Cultural e Imaterial](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-reconhece-cultura-do-skate-como-patrimonio-cultural-e-imaterial>) - *06/11/2026*
+- [PJF e UFJF oferecem curso sobre rotulagem de alimentos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/pjf-e-ufjf-oferecem-curso-sobre-rotulagem-de-alimentos-em-juiz-de-fora>) - *06/11/2026*
+- [Tribunal de Justiça de Minas Gerais debate Justiça Aberta em eventos no México](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-debate-justica-aberta-em-eventos-no-mexico>) - *06/11/2026*
+- [Educatur promove educação patrimonial para mais de 200 alunos da rede municipal](<https://www.rcwtv.com.br/noticia/educatur-promove-educacao-patrimonial-para-mais-de-200-alunos-da-rede-municipal>) - *06/11/2026*
+- [Enem: EBC terá cobertura especial com live pós-prova na Agência Brasil](<https://www.rcwtv.com.br/noticia/enem-ebc-tera-cobertura-especial-com-live-pos-prova-na-agencia-brasil>) - *06/11/2026*
+- [Curry sobe no ranking histórico, Warriors vencem a sexta seguida e Booker lidera reação dos Suns](<https://www.rcwtv.com.br/noticia/curry-sobe-no-ranking-historico-warriors-vencem-a-sexta-seguida-e-booker-lidera-reacao-dos-suns>) - *06/11/2026*
+- [ALMG homenageia trajetória do empresario Cléber da Silva Faria nesta segunda](<https://www.rcwtv.com.br/noticia/almg-homenageia-trajetoria-do-empresario-cleber-da-silva-faria-nesta-segunda>) - *06/11/2026*
+- [Jaguars atropelam Ravens e ampliam crise de Baltimore na NFL](<https://www.rcwtv.com.br/noticia/jaguars-atropelam-ravens-e-ampliam-crise-de-baltimore-na-nfl>) - *06/11/2026*
+- [Câmara Mirim debate saúde mental nas escolas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-mirim-debate-saude-mental-nas-escolas-em-juiz-de-fora>) - *06/11/2026*
+- [Juiz de Fora registra saldo positivo de 567 empregos em setembro](<https://www.rcwtv.com.br/noticia/juiz-de-fora-registra-saldo-positivo-de-567-empregos-em-setembro>) - *06/11/2026*
+

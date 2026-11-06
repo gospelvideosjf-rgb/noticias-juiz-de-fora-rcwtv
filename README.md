@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [STF concede prisão domiciliar a investigado por descontos no INSS](<https://www.rcwtv.com.br/noticia/stf-concede-prisao-domiciliar-a-investigado-por-descontos-no-inss>)
-- 📰 [Como tornar a rotina familiar mais leve com pequenas atividades e momentos de cuidado](<https://www.rcwtv.com.br/noticia/como-tornar-a-rotina-familiar-mais-leve-com-pequenas-atividades-e-momentos-de-cuidado>)
-- 📰 [Câmara de Juiz de Fora realiza capacitação em inteligência artificial para servidores](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-realiza-capacitacao-em-inteligencia-artificial-para-servidores>)
-- 📰 [TJMG cria núcleo para monitorar casos de violência contra a mulher em Minas Gerais](<https://www.rcwtv.com.br/noticia/tjmg-cria-nucleo-para-monitorar-casos-de-violencia-contra-a-mulher-em-minas-gerais>)
-- 📰 [Projeto Nossa Escola amplia atividades para estudantes da EJA - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/projeto-nossa-escola-amplia-atividades-para-estudantes-da-eja-portal-pjf-noticias>)
-- 📰 [Projeto cria portal de transparência partidária para consulta de eleitores](<https://www.rcwtv.com.br/noticia/projeto-cria-portal-de-transparencia-partidaria-para-consulta-de-eleitores>)
-- 📰 [Lula defende economia arrumada para atrair investimentos estrangeiros](<https://www.rcwtv.com.br/noticia/lula-defende-economia-arrumada-para-atrair-investimentos-estrangeiros>)
-- 📰 [Almenara recebe encontro do Plano Plurianual de Ação Governamental](<https://www.rcwtv.com.br/noticia/almenara-recebe-encontro-do-plano-plurianual-de-acao-governamental>)
-- 📰 [Escola de Unaí é finalista do Prêmio Nacional de Educação Fiscal](<https://www.rcwtv.com.br/noticia/escola-de-unai-e-finalista-do-premio-nacional-de-educacao-fiscal>)
-- 📰 [EMCASA recebe estudantes de arquitetura para debater habitação social em Juiz de Fora](<https://www.rcwtv.com.br/noticia/emcasa-recebe-estudantes-de-arquitetura-para-debater-habitacao-social-em-juiz-de-fora>)
+- 📰 [Procon-MPMG aplica multa de R$ 1,2 milhão ao Banco Itaú Consignado](<https://www.rcwtv.com.br/noticia/procon-mpmg-aplica-multa-de-r-1-2-milhao-ao-banco-itau-consignado>)
+- 📰 [Hospital Universitário prevê 1,7 mil atendimentos em mutirão do SUS](<https://www.rcwtv.com.br/noticia/hospital-universitario-preve-1-7-mil-atendimentos-em-mutirao-do-sus>)
+- 📰 [Especialistas reforçam o valor do descanso na preparação para o Enem](<https://www.rcwtv.com.br/noticia/especialistas-reforcam-o-valor-do-descanso-na-preparacao-para-o-enem>)
+- 📰 [CNPE cria grupo para formular estratégia nacional de eletromobilidade](<https://www.rcwtv.com.br/noticia/cnpe-cria-grupo-para-formular-estrategia-nacional-de-eletromobilidade>)
+- 📰 [Bombeiros e Prefeitura alinham ações para o período chuvoso em Uberaba](<https://www.rcwtv.com.br/noticia/bombeiros-e-prefeitura-alinham-acoes-para-o-periodo-chuvoso-em-uberaba>)
+- 📰 [Câmara de Juiz de Fora reconhece Cultura do Skate como Patrimônio Cultural e Imaterial](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-reconhece-cultura-do-skate-como-patrimonio-cultural-e-imaterial>)
+- 📰 [PJF e UFJF oferecem curso sobre rotulagem de alimentos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/pjf-e-ufjf-oferecem-curso-sobre-rotulagem-de-alimentos-em-juiz-de-fora>)
+- 📰 [Tribunal de Justiça de Minas Gerais debate Justiça Aberta em eventos no México](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-debate-justica-aberta-em-eventos-no-mexico>)
+- 📰 [Educatur promove educação patrimonial para mais de 200 alunos da rede municipal](<https://www.rcwtv.com.br/noticia/educatur-promove-educacao-patrimonial-para-mais-de-200-alunos-da-rede-municipal>)
+- 📰 [Enem: EBC terá cobertura especial com live pós-prova na Agência Brasil](<https://www.rcwtv.com.br/noticia/enem-ebc-tera-cobertura-especial-com-live-pos-prova-na-agencia-brasil>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
