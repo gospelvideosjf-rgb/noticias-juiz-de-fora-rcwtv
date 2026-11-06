@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Alunos de medicina denunciam ameaças políticas e cobram proteção da São Leopoldo Mandic](<https://www.rcwtv.com.br/noticia/alunos-de-medicina-denunciam-ameacas-politicas-e-cobram-protecao-da-sao-leopoldo-mandic>)
-- 📰 [JusConsulta: como a pesquisa de processos e decisões judiciais pode fortalecer a análise jurídica](<https://www.rcwtv.com.br/noticia/jusconsulta-como-a-pesquisa-de-processos-e-decisoes-judiciais-pode-fortalecer-a-analise-juridica>)
-- 📰 [Inscrições para o programa Jovens em Ação Climática terminam nesta quinta-feira em Juiz de Fora](<https://www.rcwtv.com.br/noticia/inscricoes-para-o-programa-jovens-em-acao-climatica-terminam-nesta-quinta-feira-em-juiz-de-fora>)
-- 📰 [Comissão aprova plano de socorro fiscal para o setor agroexportador](<https://www.rcwtv.com.br/noticia/comissao-aprova-plano-de-socorro-fiscal-para-o-setor-agroexportador>)
-- 📰 [Santiago Peña renuncia à Presidência do Paraguai em meio à crise do Ueno Bank e pressão por impeachment](<https://www.rcwtv.com.br/noticia/santiago-pena-renuncia-a-presidencia-do-paraguai-em-meio-a-crise-do-ueno-bank-e-pressao-por-impeachment>)
-- 📰 [Semana Internacional do Café debate competitividade e sustentabilidade em Belo Horizonte](<https://www.rcwtv.com.br/noticia/semana-internacional-do-cafe-debate-competitividade-e-sustentabilidade-em-belo-horizonte>)
-- 📰 [Comissão de Agricultura aprova projeto que incentiva hortas urbanas no Brasil](<https://www.rcwtv.com.br/noticia/comissao-de-agricultura-aprova-projeto-que-incentiva-hortas-urbanas-no-brasil>)
-- 📰 [Financiamentos para projetos sustentáveis mais que dobram no BDMG em 2026](<https://www.rcwtv.com.br/noticia/financiamentos-para-projetos-sustentaveis-mais-que-dobram-no-bdmg-em-2026>)
-- 📰 [Wembanyama faz 52, Luka mantém sequência absurda e Shai volta a passar dos 40 em noite cheia na NBA](<https://www.rcwtv.com.br/noticia/wembanyama-faz-52-luka-mantem-sequencia-absurda-e-shai-volta-a-passar-dos-40-em-noite-cheia-na-nba>)
-- 📰 [Flamengo abre vantagem na liderança, Vasco vira em cinco minutos e Corinthians segue no Z-4](<https://www.rcwtv.com.br/noticia/flamengo-abre-vantagem-na-lideranca-vasco-vira-em-cinco-minutos-e-corinthians-segue-no-z-4>)
+- 📰 [STF concede prisão domiciliar a investigado por descontos no INSS](<https://www.rcwtv.com.br/noticia/stf-concede-prisao-domiciliar-a-investigado-por-descontos-no-inss>)
+- 📰 [Como tornar a rotina familiar mais leve com pequenas atividades e momentos de cuidado](<https://www.rcwtv.com.br/noticia/como-tornar-a-rotina-familiar-mais-leve-com-pequenas-atividades-e-momentos-de-cuidado>)
+- 📰 [Câmara de Juiz de Fora realiza capacitação em inteligência artificial para servidores](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-realiza-capacitacao-em-inteligencia-artificial-para-servidores>)
+- 📰 [TJMG cria núcleo para monitorar casos de violência contra a mulher em Minas Gerais](<https://www.rcwtv.com.br/noticia/tjmg-cria-nucleo-para-monitorar-casos-de-violencia-contra-a-mulher-em-minas-gerais>)
+- 📰 [Projeto Nossa Escola amplia atividades para estudantes da EJA - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/projeto-nossa-escola-amplia-atividades-para-estudantes-da-eja-portal-pjf-noticias>)
+- 📰 [Projeto cria portal de transparência partidária para consulta de eleitores](<https://www.rcwtv.com.br/noticia/projeto-cria-portal-de-transparencia-partidaria-para-consulta-de-eleitores>)
+- 📰 [Lula defende economia arrumada para atrair investimentos estrangeiros](<https://www.rcwtv.com.br/noticia/lula-defende-economia-arrumada-para-atrair-investimentos-estrangeiros>)
+- 📰 [Almenara recebe encontro do Plano Plurianual de Ação Governamental](<https://www.rcwtv.com.br/noticia/almenara-recebe-encontro-do-plano-plurianual-de-acao-governamental>)
+- 📰 [Escola de Unaí é finalista do Prêmio Nacional de Educação Fiscal](<https://www.rcwtv.com.br/noticia/escola-de-unai-e-finalista-do-premio-nacional-de-educacao-fiscal>)
+- 📰 [EMCASA recebe estudantes de arquitetura para debater habitação social em Juiz de Fora](<https://www.rcwtv.com.br/noticia/emcasa-recebe-estudantes-de-arquitetura-para-debater-habitacao-social-em-juiz-de-fora>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

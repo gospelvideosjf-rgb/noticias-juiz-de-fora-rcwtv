@@ -1169,3 +1169,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Com Economia do Mar em alta de 6%, Salvador atrai grandes players ao maior evento náutico da Bahia e projeta novo salto nos negócios](<https://www.rcwtv.com.br/noticia/com-economia-do-mar-em-alta-de-6-salvador-atrai-grandes-players-ao-maior-evento-nautico-da-bahia-e-projeta-novo-salto-nos-negocios>) - *05/11/2026*
 - [Emater-MG divulga finalistas do 19º Concurso Estadual dos Queijos Artesanais](<https://www.rcwtv.com.br/noticia/emater-mg-divulga-finalistas-do-19-concurso-estadual-dos-queijos-artesanais>) - *05/11/2026*
 
+### Atualização de 05/11/2026
+- [STF concede prisão domiciliar a investigado por descontos no INSS](<https://www.rcwtv.com.br/noticia/stf-concede-prisao-domiciliar-a-investigado-por-descontos-no-inss>) - *05/11/2026*
+- [Como tornar a rotina familiar mais leve com pequenas atividades e momentos de cuidado](<https://www.rcwtv.com.br/noticia/como-tornar-a-rotina-familiar-mais-leve-com-pequenas-atividades-e-momentos-de-cuidado>) - *05/11/2026*
+- [Câmara de Juiz de Fora realiza capacitação em inteligência artificial para servidores](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-realiza-capacitacao-em-inteligencia-artificial-para-servidores>) - *05/11/2026*
+- [TJMG cria núcleo para monitorar casos de violência contra a mulher em Minas Gerais](<https://www.rcwtv.com.br/noticia/tjmg-cria-nucleo-para-monitorar-casos-de-violencia-contra-a-mulher-em-minas-gerais>) - *05/11/2026*
+- [Projeto Nossa Escola amplia atividades para estudantes da EJA - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/projeto-nossa-escola-amplia-atividades-para-estudantes-da-eja-portal-pjf-noticias>) - *05/11/2026*
+- [Projeto cria portal de transparência partidária para consulta de eleitores](<https://www.rcwtv.com.br/noticia/projeto-cria-portal-de-transparencia-partidaria-para-consulta-de-eleitores>) - *05/11/2026*
+- [Lula defende economia arrumada para atrair investimentos estrangeiros](<https://www.rcwtv.com.br/noticia/lula-defende-economia-arrumada-para-atrair-investimentos-estrangeiros>) - *05/11/2026*
+- [Almenara recebe encontro do Plano Plurianual de Ação Governamental](<https://www.rcwtv.com.br/noticia/almenara-recebe-encontro-do-plano-plurianual-de-acao-governamental>) - *05/11/2026*
+- [Escola de Unaí é finalista do Prêmio Nacional de Educação Fiscal](<https://www.rcwtv.com.br/noticia/escola-de-unai-e-finalista-do-premio-nacional-de-educacao-fiscal>) - *05/11/2026*
+- [EMCASA recebe estudantes de arquitetura para debater habitação social em Juiz de Fora](<https://www.rcwtv.com.br/noticia/emcasa-recebe-estudantes-de-arquitetura-para-debater-habitacao-social-em-juiz-de-fora>) - *05/11/2026*
+- [Operação contra fraudes eletrônicas prende 34 suspeitos em dez estados e no DF](<https://www.rcwtv.com.br/noticia/operacao-contra-fraudes-eletronicas-prende-34-suspeitos-em-dez-estados-e-no-df>) - *05/11/2026*
+- [Cesama empossa novos integrantes da Cipa em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cesama-empossa-novos-integrantes-da-cipa-em-juiz-de-fora>) - *05/11/2026*
+- [Afro Presença 2026 oferece mais de 16 mil oportunidades de trabalho](<https://www.rcwtv.com.br/noticia/afro-presenca-2026-oferece-mais-de-16-mil-oportunidades-de-trabalho>) - *05/11/2026*
+- [Fim da escala 6x1 pode elevar folha das empresas em R$ 158 bilhões](<https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-pode-elevar-folha-das-empresas-em-r-158-bilhoes>) - *05/11/2026*
+- [Flávio Dino convoca audiência para debater o fim da escala 6x1 no STF](<https://www.rcwtv.com.br/noticia/flavio-dino-convoca-audiencia-para-debater-o-fim-da-escala-6x1-no-stf>) - *05/11/2026*
+
