@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [São João del-Rei sedia Jornada Mineira de Arboviroses para combate à dengue](<https://www.rcwtv.com.br/noticia/sao-joao-del-rei-sedia-jornada-mineira-de-arboviroses-para-combate-a-dengue>)
-- 📰 [Enem 2026: descubra como consultar o local de prova por telefone](<https://www.rcwtv.com.br/noticia/enem-2026-descubra-como-consultar-o-local-de-prova-por-telefone>)
-- 📰 [Operação Cartão Cativo investiga agiotagem e lavagem de dinheiro em Muriaé](<https://www.rcwtv.com.br/noticia/operacao-cartao-cativo-investiga-agiotagem-e-lavagem-de-dinheiro-em-muriae>)
-- 📰 [Câmara de Juiz de Fora aprova Semana Municipal de Valorização do Servidor](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-semana-municipal-de-valorizacao-do-servidor>)
-- 📰 [Ipsemg prorroga inscrições para a Residência Médica 2026/2027 em Minas Gerais](<https://www.rcwtv.com.br/noticia/ipsemg-prorroga-inscricoes-para-a-residencia-medica-2026-2027-em-minas-gerais>)
-- 📰 [Alunos da rede pública em Goiás ganham reforço com aulões para o Enem](<https://www.rcwtv.com.br/noticia/alunos-da-rede-publica-em-goias-ganham-reforco-com-auloes-para-o-enem>)
-- 📰 [IEF apresenta Sistema Florescer para conservar vegetação em Minas Gerais](<https://www.rcwtv.com.br/noticia/ief-apresenta-sistema-florescer-para-conservar-vegetacao-em-minas-gerais>)
-- 📰 [Câmara de Juiz de Fora aprova lei sobre créditos suplementares em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-lei-sobre-creditos-suplementares-em-juiz-de-fora>)
-- 📰 [Procon-MPMG debate proteção do consumidor na reforma tributária em Poços de Caldas](<https://www.rcwtv.com.br/noticia/procon-mpmg-debate-protecao-do-consumidor-na-reforma-tributaria-em-pocos-de-caldas>)
-- 📰 [Operação Capital Coativo II apreende celulares e dinheiro em Minas Gerais](<https://www.rcwtv.com.br/noticia/operacao-capital-coativo-ii-apreende-celulares-e-dinheiro-em-minas-gerais>)
+- 📰 [Justiça determina plano para assistência social de Frutal em 120 dias](<https://www.rcwtv.com.br/noticia/justica-determina-plano-para-assistencia-social-de-frutal-em-120-dias>)
+- 📰 [São João del-Rei tem 256 vagas em concursos com salários de até R$ 15 mil; inscrições](<https://www.rcwtv.com.br/noticia/sao-joao-del-rei-tem-256-vagas-em-concursos-com-salarios-de-ate-r-15-mil-inscricoes>)
+- 📰 [Fala JOTAEFE - A Câmara estará na Praça Clodesmidt Riani no dia 19](<https://www.rcwtv.com.br/noticia/fala-jotaefe-a-camara-estara-na-praca-clodesmidt-riani-no-dia-19>)
+- 📰 [Segurança no trabalho: Justiça mantém justa causa de trabalhador que usou celular](<https://www.rcwtv.com.br/noticia/seguranca-no-trabalho-justica-mantem-justa-causa-de-trabalhador-que-usou-celular>)
+- 📰 [Vale-refeição e vale-alimentação terão novas regras a partir deste sábado; veja o que muda](<https://www.rcwtv.com.br/noticia/vale-refeicao-e-vale-alimentacao-terao-novas-regras-a-partir-deste-sabado-veja-o-que-muda>)
+- 📰 [Mulher é presa pela PCMG suspeita de extorsão e ameaça em Janaúba](<https://www.rcwtv.com.br/noticia/mulher-e-presa-pela-pcmg-suspeita-de-extorsao-e-ameaca-em-janauba>)
+- 📰 [Defesa Civil realiza 37 demolições em Juiz de Fora nesta semana - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/defesa-civil-realiza-37-demolicoes-em-juiz-de-fora-nesta-semana-portal-pjf-noticias>)
+- 📰 [Cleitinho deve ter supersecretários para coordenar o governo](<https://www.rcwtv.com.br/noticia/cleitinho-deve-ter-supersecretarios-para-coordenar-o-governo>)
+- 📰 [Balanço 2023-2026: Governo de Minas amplia presença em áreas vulneráveis com ações](<https://www.rcwtv.com.br/noticia/balanco-2023-2026-governo-de-minas-amplia-presenca-em-areas-vulneraveis-com-acoes>)
+- 📰 [Evento debate o potencial pedagógico das séries com autoras de Vermelho Sangue](<https://www.rcwtv.com.br/noticia/evento-debate-o-potencial-pedagogico-das-series-com-autoras-de-vermelho-sangue>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

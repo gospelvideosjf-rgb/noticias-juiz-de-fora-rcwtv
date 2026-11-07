@@ -1220,3 +1220,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Governo de Minas inaugura laboratório de informática em Montes Claros](<https://www.rcwtv.com.br/noticia/governo-de-minas-inaugura-laboratorio-de-informatica-em-montes-claros>) - *06/11/2026*
 - [Auxílio Reconstrução atinge 10.698 famílias em Juiz de Fora com recursos](<https://www.rcwtv.com.br/noticia/auxilio-reconstrucao-atinge-10-698-familias-em-juiz-de-fora-com-recursos>) - *06/11/2026*
 
+### Atualização de 07/11/2026
+- [Justiça determina plano para assistência social de Frutal em 120 dias](<https://www.rcwtv.com.br/noticia/justica-determina-plano-para-assistencia-social-de-frutal-em-120-dias>) - *07/11/2026*
+- [São João del-Rei tem 256 vagas em concursos com salários de até R$ 15 mil; inscrições](<https://www.rcwtv.com.br/noticia/sao-joao-del-rei-tem-256-vagas-em-concursos-com-salarios-de-ate-r-15-mil-inscricoes>) - *07/11/2026*
+- [Fala JOTAEFE - A Câmara estará na Praça Clodesmidt Riani no dia 19](<https://www.rcwtv.com.br/noticia/fala-jotaefe-a-camara-estara-na-praca-clodesmidt-riani-no-dia-19>) - *07/11/2026*
+- [Segurança no trabalho: Justiça mantém justa causa de trabalhador que usou celular](<https://www.rcwtv.com.br/noticia/seguranca-no-trabalho-justica-mantem-justa-causa-de-trabalhador-que-usou-celular>) - *07/11/2026*
+- [Vale-refeição e vale-alimentação terão novas regras a partir deste sábado; veja o que muda](<https://www.rcwtv.com.br/noticia/vale-refeicao-e-vale-alimentacao-terao-novas-regras-a-partir-deste-sabado-veja-o-que-muda>) - *07/11/2026*
+- [Mulher é presa pela PCMG suspeita de extorsão e ameaça em Janaúba](<https://www.rcwtv.com.br/noticia/mulher-e-presa-pela-pcmg-suspeita-de-extorsao-e-ameaca-em-janauba>) - *07/11/2026*
+- [Defesa Civil realiza 37 demolições em Juiz de Fora nesta semana - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/defesa-civil-realiza-37-demolicoes-em-juiz-de-fora-nesta-semana-portal-pjf-noticias>) - *07/11/2026*
+- [Cleitinho deve ter supersecretários para coordenar o governo](<https://www.rcwtv.com.br/noticia/cleitinho-deve-ter-supersecretarios-para-coordenar-o-governo>) - *07/11/2026*
+- [Balanço 2023-2026: Governo de Minas amplia presença em áreas vulneráveis com ações](<https://www.rcwtv.com.br/noticia/balanco-2023-2026-governo-de-minas-amplia-presenca-em-areas-vulneraveis-com-acoes>) - *07/11/2026*
+- [Evento debate o potencial pedagógico das séries com autoras de Vermelho Sangue](<https://www.rcwtv.com.br/noticia/evento-debate-o-potencial-pedagogico-das-series-com-autoras-de-vermelho-sangue>) - *07/11/2026*
+- [Conselheira do Tribunal Constitucional de Angola visita TJMG | Portal TJMG](<https://www.rcwtv.com.br/noticia/conselheira-do-tribunal-constitucional-de-angola-visita-tjmg-portal-tjmg>) - *07/11/2026*
+- [Escola Estadual Padre Matias recebe visita da Comissão de Educação](<https://www.rcwtv.com.br/noticia/escola-estadual-padre-matias-recebe-visita-da-comissao-de-educacao>) - *07/11/2026*
+- [SEE/MG capacita profissionais para a prevenção e tratamento de conflitos no ambiente](<https://www.rcwtv.com.br/noticia/see-mg-capacita-profissionais-para-a-prevencao-e-tratamento-de-conflitos-no-ambiente>) - *07/11/2026*
+- [Anvisa determina apreensão de suplementos alimentares irregulares em todo o país](<https://www.rcwtv.com.br/noticia/anvisa-determina-apreensao-de-suplementos-alimentares-irregulares-em-todo-o-pais>) - *07/11/2026*
+- [Prefeitura de Juiz de Fora desmente informações falsas sobre a UPA Norte](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-desmente-informacoes-falsas-sobre-a-upa-norte>) - *07/11/2026*
+
