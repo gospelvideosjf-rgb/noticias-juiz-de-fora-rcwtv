@@ -1203,3 +1203,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Câmara Mirim debate saúde mental nas escolas em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-mirim-debate-saude-mental-nas-escolas-em-juiz-de-fora>) - *06/11/2026*
 - [Juiz de Fora registra saldo positivo de 567 empregos em setembro](<https://www.rcwtv.com.br/noticia/juiz-de-fora-registra-saldo-positivo-de-567-empregos-em-setembro>) - *06/11/2026*
 
+### Atualização de 06/11/2026
+- [São João del-Rei sedia Jornada Mineira de Arboviroses para combate à dengue](<https://www.rcwtv.com.br/noticia/sao-joao-del-rei-sedia-jornada-mineira-de-arboviroses-para-combate-a-dengue>) - *06/11/2026*
+- [Enem 2026: descubra como consultar o local de prova por telefone](<https://www.rcwtv.com.br/noticia/enem-2026-descubra-como-consultar-o-local-de-prova-por-telefone>) - *06/11/2026*
+- [Operação Cartão Cativo investiga agiotagem e lavagem de dinheiro em Muriaé](<https://www.rcwtv.com.br/noticia/operacao-cartao-cativo-investiga-agiotagem-e-lavagem-de-dinheiro-em-muriae>) - *06/11/2026*
+- [Câmara de Juiz de Fora aprova Semana Municipal de Valorização do Servidor](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-semana-municipal-de-valorizacao-do-servidor>) - *06/11/2026*
+- [Ipsemg prorroga inscrições para a Residência Médica 2026/2027 em Minas Gerais](<https://www.rcwtv.com.br/noticia/ipsemg-prorroga-inscricoes-para-a-residencia-medica-2026-2027-em-minas-gerais>) - *06/11/2026*
+- [Alunos da rede pública em Goiás ganham reforço com aulões para o Enem](<https://www.rcwtv.com.br/noticia/alunos-da-rede-publica-em-goias-ganham-reforco-com-auloes-para-o-enem>) - *06/11/2026*
+- [IEF apresenta Sistema Florescer para conservar vegetação em Minas Gerais](<https://www.rcwtv.com.br/noticia/ief-apresenta-sistema-florescer-para-conservar-vegetacao-em-minas-gerais>) - *06/11/2026*
+- [Câmara de Juiz de Fora aprova lei sobre créditos suplementares em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-lei-sobre-creditos-suplementares-em-juiz-de-fora>) - *06/11/2026*
+- [Procon-MPMG debate proteção do consumidor na reforma tributária em Poços de Caldas](<https://www.rcwtv.com.br/noticia/procon-mpmg-debate-protecao-do-consumidor-na-reforma-tributaria-em-pocos-de-caldas>) - *06/11/2026*
+- [Operação Capital Coativo II apreende celulares e dinheiro em Minas Gerais](<https://www.rcwtv.com.br/noticia/operacao-capital-coativo-ii-apreende-celulares-e-dinheiro-em-minas-gerais>) - *06/11/2026*
+- [UFJF coordena programa internacional com parceria de Harvard](<https://www.rcwtv.com.br/noticia/ufjf-coordena-programa-internacional-com-parceria-de-harvard>) - *06/11/2026*
+- [Câmara de Juiz de Fora aprova incentivo ao reaproveitamento de material de construção](<https://www.rcwtv.com.br/noticia/camara-de-juiz-de-fora-aprova-incentivo-ao-reaproveitamento-de-material-de-construcao>) - *06/11/2026*
+- [Lula sanciona Enamed para avaliar estudantes e cursos de medicina no Brasil](<https://www.rcwtv.com.br/noticia/lula-sanciona-enamed-para-avaliar-estudantes-e-cursos-de-medicina-no-brasil>) - *06/11/2026*
+- [Governo de Minas inaugura laboratório de informática em Montes Claros](<https://www.rcwtv.com.br/noticia/governo-de-minas-inaugura-laboratorio-de-informatica-em-montes-claros>) - *06/11/2026*
+- [Auxílio Reconstrução atinge 10.698 famílias em Juiz de Fora com recursos](<https://www.rcwtv.com.br/noticia/auxilio-reconstrucao-atinge-10-698-familias-em-juiz-de-fora-com-recursos>) - *06/11/2026*
+
