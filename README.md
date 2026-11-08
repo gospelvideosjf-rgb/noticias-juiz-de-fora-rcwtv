@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Justiça determina plano para assistência social de Frutal em 120 dias](<https://www.rcwtv.com.br/noticia/justica-determina-plano-para-assistencia-social-de-frutal-em-120-dias>)
-- 📰 [São João del-Rei tem 256 vagas em concursos com salários de até R$ 15 mil; inscrições](<https://www.rcwtv.com.br/noticia/sao-joao-del-rei-tem-256-vagas-em-concursos-com-salarios-de-ate-r-15-mil-inscricoes>)
-- 📰 [Fala JOTAEFE - A Câmara estará na Praça Clodesmidt Riani no dia 19](<https://www.rcwtv.com.br/noticia/fala-jotaefe-a-camara-estara-na-praca-clodesmidt-riani-no-dia-19>)
-- 📰 [Segurança no trabalho: Justiça mantém justa causa de trabalhador que usou celular](<https://www.rcwtv.com.br/noticia/seguranca-no-trabalho-justica-mantem-justa-causa-de-trabalhador-que-usou-celular>)
-- 📰 [Vale-refeição e vale-alimentação terão novas regras a partir deste sábado; veja o que muda](<https://www.rcwtv.com.br/noticia/vale-refeicao-e-vale-alimentacao-terao-novas-regras-a-partir-deste-sabado-veja-o-que-muda>)
-- 📰 [Mulher é presa pela PCMG suspeita de extorsão e ameaça em Janaúba](<https://www.rcwtv.com.br/noticia/mulher-e-presa-pela-pcmg-suspeita-de-extorsao-e-ameaca-em-janauba>)
-- 📰 [Defesa Civil realiza 37 demolições em Juiz de Fora nesta semana - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/defesa-civil-realiza-37-demolicoes-em-juiz-de-fora-nesta-semana-portal-pjf-noticias>)
-- 📰 [Cleitinho deve ter supersecretários para coordenar o governo](<https://www.rcwtv.com.br/noticia/cleitinho-deve-ter-supersecretarios-para-coordenar-o-governo>)
-- 📰 [Balanço 2023-2026: Governo de Minas amplia presença em áreas vulneráveis com ações](<https://www.rcwtv.com.br/noticia/balanco-2023-2026-governo-de-minas-amplia-presenca-em-areas-vulneraveis-com-acoes>)
-- 📰 [Evento debate o potencial pedagógico das séries com autoras de Vermelho Sangue](<https://www.rcwtv.com.br/noticia/evento-debate-o-potencial-pedagogico-das-series-com-autoras-de-vermelho-sangue>)
+- 📰 [Aposta de Goiânia fatura prêmio de R$ 59,5 milhões na Mega-Sena](<https://www.rcwtv.com.br/noticia/aposta-de-goiania-fatura-premio-de-r-59-5-milhoes-na-mega-sena>)
+- 📰 [Enem 2026 garante cão de apoio emocional e novas regras de acessibilidade](<https://www.rcwtv.com.br/noticia/enem-2026-garante-cao-de-apoio-emocional-e-novas-regras-de-acessibilidade>)
+- 📰 [MPMG localiza e prende foragido conhecido como Rei da Sucata em SP](<https://www.rcwtv.com.br/noticia/mpmg-localiza-e-prende-foragido-conhecido-como-rei-da-sucata-em-sp>)
+- 📰 [Abastecimento de água entra em recuperação em Belo Horizonte, Contagem e Ibirité](<https://www.rcwtv.com.br/noticia/abastecimento-de-agua-entra-em-recuperacao-em-belo-horizonte-contagem-e-ibirite>)
+- 📰 [Defesa Civil alerta para tempestades no Enem em Minas Gerais](<https://www.rcwtv.com.br/noticia/defesa-civil-alerta-para-tempestades-no-enem-em-minas-gerais>)
+- 📰 [Herdeiros não respondem por dívidas do falecido com patrimônio próprio](<https://www.rcwtv.com.br/noticia/herdeiros-nao-respondem-por-dividas-do-falecido-com-patrimonio-proprio>)
+- 📰 [Enem 2026: participantes devem chegar antes das 13h para realizar a prova](<https://www.rcwtv.com.br/noticia/enem-2026-participantes-devem-chegar-antes-das-13h-para-realizar-a-prova>)
+- 📰 [Investimento em minerais críticos pode render até 25 vezes em impostos](<https://www.rcwtv.com.br/noticia/investimento-em-minerais-criticos-pode-render-ate-25-vezes-em-impostos>)
+- 📰 [Resumo do Dia em Juiz de Fora: Principais notícias e destaques de 07/11/2026](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-principais-noticias-e-destaques-de-07-11-2026>)
+- 📰 [Procon-MPMG multa empresa Expresso Adamantina em mais de R$ 100 mil](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-empresa-expresso-adamantina-em-mais-de-r-100-mil>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
