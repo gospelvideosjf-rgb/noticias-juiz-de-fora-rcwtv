@@ -1254,3 +1254,9 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Salvador Boat Show teve desfile de moda pela primeira vez com coleção apresentada na São Paulo Fashion Week](<https://www.rcwtv.com.br/noticia/salvador-boat-show-teve-desfile-de-moda-pela-primeira-vez-com-colecao-apresentada-na-sao-paulo-fashion-week>) - *08/11/2026*
 - [Rio de Janeiro enfrenta chuva intensa e rajadas de vento neste fim de semana](<https://www.rcwtv.com.br/noticia/rio-de-janeiro-enfrenta-chuva-intensa-e-rajadas-de-vento-neste-fim-de-semana>) - *08/11/2026*
 
+### Atualização de 08/11/2026
+- [Resenha do Enem traz análise de professores ao vivo neste domingo](<https://www.rcwtv.com.br/noticia/resenha-do-enem-traz-analise-de-professores-ao-vivo-neste-domingo>) - *08/11/2026*
+- [Redação do Enem aborda a valorização do SUS como direito universal](<https://www.rcwtv.com.br/noticia/redacao-do-enem-aborda-a-valorizacao-do-sus-como-direito-universal>) - *08/11/2026*
+- [Candidatos enfrentam o primeiro dia de provas do Enem 2026 em todo o país](<https://www.rcwtv.com.br/noticia/candidatos-enfrentam-o-primeiro-dia-de-provas-do-enem-2026-em-todo-o-pais>) - *08/11/2026*
+- [Lula classifica a aplicação do Enem como uma guerra a favor da educação](<https://www.rcwtv.com.br/noticia/lula-classifica-a-aplicacao-do-enem-como-uma-guerra-a-favor-da-educacao>) - *08/11/2026*
+
