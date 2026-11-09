@@ -1260,3 +1260,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Candidatos enfrentam o primeiro dia de provas do Enem 2026 em todo o país](<https://www.rcwtv.com.br/noticia/candidatos-enfrentam-o-primeiro-dia-de-provas-do-enem-2026-em-todo-o-pais>) - *08/11/2026*
 - [Lula classifica a aplicação do Enem como uma guerra a favor da educação](<https://www.rcwtv.com.br/noticia/lula-classifica-a-aplicacao-do-enem-como-uma-guerra-a-favor-da-educacao>) - *08/11/2026*
 
+### Atualização de 09/11/2026
+- [Pix bate recorde histórico e supera 319 milhões de operações em um dia](<https://www.rcwtv.com.br/noticia/pix-bate-recorde-historico-e-supera-319-milhoes-de-operacoes-em-um-dia>) - *09/11/2026*
+- [Brasil se destaca como referência em educação midiática e amplia formação docente](<https://www.rcwtv.com.br/noticia/brasil-se-destaca-como-referencia-em-educacao-midiatica-e-amplia-formacao-docente>) - *09/11/2026*
+- [Plataforma quer movimentar US$ 30 milhões e levar corretores brasileiros ao mercado imobiliário do Paraguai](<https://www.rcwtv.com.br/noticia/plataforma-quer-movimentar-us-30-milhoes-e-levar-corretores-brasileiros-ao-mercado-imobiliario-do-paraguai>) - *09/11/2026*
+- [Cresce o desconhecimento sobre a prevenção ao câncer de próstata no Brasil](<https://www.rcwtv.com.br/noticia/cresce-o-desconhecimento-sobre-a-prevencao-ao-cancer-de-prostata-no-brasil>) - *09/11/2026*
+- [PGR solicita ao STF o encerramento do inquérito das fake news](<https://www.rcwtv.com.br/noticia/pgr-solicita-ao-stf-o-encerramento-do-inquerito-das-fake-news>) - *09/11/2026*
+- [Comissão debate déficit de auditores-fiscais do trabalho nesta quarta-feira](<https://www.rcwtv.com.br/noticia/comissao-debate-deficit-de-auditores-fiscais-do-trabalho-nesta-quarta-feira>) - *09/11/2026*
+- [Comissão aprova destinação de recursos da venda de bens ao Ministério da Defesa](<https://www.rcwtv.com.br/noticia/comissao-aprova-destinacao-de-recursos-da-venda-de-bens-ao-ministerio-da-defesa>) - *09/11/2026*
+- [Anvisa realiza nesta terça-feira a 21ª Reunião Ordinária da Diretoria Colegiada](<https://www.rcwtv.com.br/noticia/anvisa-realiza-nesta-terca-feira-a-21-reuniao-ordinaria-da-diretoria-colegiada>) - *09/11/2026*
+- [Relator detalha proposta de transição para o voto distrital misto no Brasil](<https://www.rcwtv.com.br/noticia/relator-detalha-proposta-de-transicao-para-o-voto-distrital-misto-no-brasil>) - *09/11/2026*
+- [Cemig alerta para riscos na rede elétrica no período chuvoso](<https://www.rcwtv.com.br/noticia/cemig-alerta-para-riscos-na-rede-eletrica-no-periodo-chuvoso>) - *09/11/2026*
+- [Assembleia Legislativa de Minas Gerais encerra discussão da revisão do PPAG](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-encerra-discussao-da-revisao-do-ppag>) - *09/11/2026*
+- [Carias Coquetelaria opera três conceitos de bar simultâneos na formatura da ECEME 2026, no Copacabana Palace](<https://www.rcwtv.com.br/noticia/carias-coquetelaria-opera-tres-conceitos-de-bar-simultaneos-na-formatura-da-eceme-2026-no-copacabana-palace>) - *09/11/2026*
+- [Comissão da Câmara aprova criação de programa de proteção animal](<https://www.rcwtv.com.br/noticia/comissao-da-camara-aprova-criacao-de-programa-de-protecao-animal>) - *09/11/2026*
+- [Ministério Público do Trabalho aciona Bella Falconi na Justiça em Belo Horizonte](<https://www.rcwtv.com.br/noticia/ministerio-publico-do-trabalho-aciona-bella-falconi-na-justica-em-belo-horizonte>) - *09/11/2026*
+- [MPMG abre saneamento documental no Chamamento da Fundação Dona Beja](<https://www.rcwtv.com.br/noticia/mpmg-abre-saneamento-documental-no-chamamento-da-fundacao-dona-beja>) - *09/11/2026*
+

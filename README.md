@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Resenha do Enem traz análise de professores ao vivo neste domingo](<https://www.rcwtv.com.br/noticia/resenha-do-enem-traz-analise-de-professores-ao-vivo-neste-domingo>)
-- 📰 [Redação do Enem aborda a valorização do SUS como direito universal](<https://www.rcwtv.com.br/noticia/redacao-do-enem-aborda-a-valorizacao-do-sus-como-direito-universal>)
-- 📰 [Candidatos enfrentam o primeiro dia de provas do Enem 2026 em todo o país](<https://www.rcwtv.com.br/noticia/candidatos-enfrentam-o-primeiro-dia-de-provas-do-enem-2026-em-todo-o-pais>)
-- 📰 [Lula classifica a aplicação do Enem como uma guerra a favor da educação](<https://www.rcwtv.com.br/noticia/lula-classifica-a-aplicacao-do-enem-como-uma-guerra-a-favor-da-educacao>)
-- 📰 [Aposta de Goiânia fatura prêmio de R$ 59,5 milhões na Mega-Sena](<https://www.rcwtv.com.br/noticia/aposta-de-goiania-fatura-premio-de-r-59-5-milhoes-na-mega-sena>)
-- 📰 [Enem 2026 garante cão de apoio emocional e novas regras de acessibilidade](<https://www.rcwtv.com.br/noticia/enem-2026-garante-cao-de-apoio-emocional-e-novas-regras-de-acessibilidade>)
-- 📰 [MPMG localiza e prende foragido conhecido como Rei da Sucata em SP](<https://www.rcwtv.com.br/noticia/mpmg-localiza-e-prende-foragido-conhecido-como-rei-da-sucata-em-sp>)
-- 📰 [Abastecimento de água entra em recuperação em Belo Horizonte, Contagem e Ibirité](<https://www.rcwtv.com.br/noticia/abastecimento-de-agua-entra-em-recuperacao-em-belo-horizonte-contagem-e-ibirite>)
-- 📰 [Defesa Civil alerta para tempestades no Enem em Minas Gerais](<https://www.rcwtv.com.br/noticia/defesa-civil-alerta-para-tempestades-no-enem-em-minas-gerais>)
-- 📰 [Herdeiros não respondem por dívidas do falecido com patrimônio próprio](<https://www.rcwtv.com.br/noticia/herdeiros-nao-respondem-por-dividas-do-falecido-com-patrimonio-proprio>)
+- 📰 [Pix bate recorde histórico e supera 319 milhões de operações em um dia](<https://www.rcwtv.com.br/noticia/pix-bate-recorde-historico-e-supera-319-milhoes-de-operacoes-em-um-dia>)
+- 📰 [Brasil se destaca como referência em educação midiática e amplia formação docente](<https://www.rcwtv.com.br/noticia/brasil-se-destaca-como-referencia-em-educacao-midiatica-e-amplia-formacao-docente>)
+- 📰 [Plataforma quer movimentar US$ 30 milhões e levar corretores brasileiros ao mercado imobiliário do Paraguai](<https://www.rcwtv.com.br/noticia/plataforma-quer-movimentar-us-30-milhoes-e-levar-corretores-brasileiros-ao-mercado-imobiliario-do-paraguai>)
+- 📰 [Cresce o desconhecimento sobre a prevenção ao câncer de próstata no Brasil](<https://www.rcwtv.com.br/noticia/cresce-o-desconhecimento-sobre-a-prevencao-ao-cancer-de-prostata-no-brasil>)
+- 📰 [PGR solicita ao STF o encerramento do inquérito das fake news](<https://www.rcwtv.com.br/noticia/pgr-solicita-ao-stf-o-encerramento-do-inquerito-das-fake-news>)
+- 📰 [Comissão debate déficit de auditores-fiscais do trabalho nesta quarta-feira](<https://www.rcwtv.com.br/noticia/comissao-debate-deficit-de-auditores-fiscais-do-trabalho-nesta-quarta-feira>)
+- 📰 [Comissão aprova destinação de recursos da venda de bens ao Ministério da Defesa](<https://www.rcwtv.com.br/noticia/comissao-aprova-destinacao-de-recursos-da-venda-de-bens-ao-ministerio-da-defesa>)
+- 📰 [Anvisa realiza nesta terça-feira a 21ª Reunião Ordinária da Diretoria Colegiada](<https://www.rcwtv.com.br/noticia/anvisa-realiza-nesta-terca-feira-a-21-reuniao-ordinaria-da-diretoria-colegiada>)
+- 📰 [Relator detalha proposta de transição para o voto distrital misto no Brasil](<https://www.rcwtv.com.br/noticia/relator-detalha-proposta-de-transicao-para-o-voto-distrital-misto-no-brasil>)
+- 📰 [Cemig alerta para riscos na rede elétrica no período chuvoso](<https://www.rcwtv.com.br/noticia/cemig-alerta-para-riscos-na-rede-eletrica-no-periodo-chuvoso>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
