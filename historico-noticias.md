@@ -1277,3 +1277,19 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Ministério Público do Trabalho aciona Bella Falconi na Justiça em Belo Horizonte](<https://www.rcwtv.com.br/noticia/ministerio-publico-do-trabalho-aciona-bella-falconi-na-justica-em-belo-horizonte>) - *09/11/2026*
 - [MPMG abre saneamento documental no Chamamento da Fundação Dona Beja](<https://www.rcwtv.com.br/noticia/mpmg-abre-saneamento-documental-no-chamamento-da-fundacao-dona-beja>) - *09/11/2026*
 
+### Atualização de 10/11/2026
+- [Linhas de ônibus 202 e 411 retomam itinerários completos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/linhas-de-onibus-202-e-411-retomam-itinerarios-completos-em-juiz-de-fora>) - *10/11/2026*
+- [Timóteo recebe projeto Arte nas Águas de Minas com nova galeria a céu aberto](<https://www.rcwtv.com.br/noticia/timoteo-recebe-projeto-arte-nas-aguas-de-minas-com-nova-galeria-a-ceu-aberto>) - *10/11/2026*
+- [Conselho da Justiça Federal desiste de verba extra para pagar penduricalhos](<https://www.rcwtv.com.br/noticia/conselho-da-justica-federal-desiste-de-verba-extra-para-pagar-penduricalhos>) - *10/11/2026*
+- [Papai Noel Chega ao Shopping Jardim Norte Neste Sábado com Espetáculo Especial](<https://www.rcwtv.com.br/noticia/papai-noel-chega-ao-shopping-jardim-norte-neste-sabado-com-espetaculo-especial>) - *10/11/2026*
+- [Cemig recebe homenagem da Prefeitura de Belo Horizonte](<https://www.rcwtv.com.br/noticia/cemig-recebe-homenagem-da-prefeitura-de-belo-horizonte>) - *10/11/2026*
+- [Servidor da UFJF Vence Prêmio de Melhor Trabalho em Encontro Nacional de Administração](<https://www.rcwtv.com.br/noticia/servidor-da-ufjf-vence-premio-de-melhor-trabalho-em-encontro-nacional-de-administracao>) - *10/11/2026*
+- [DER-MG avança em nova ponte sobre o Rio Paranaíba no Noroeste de Minas](<https://www.rcwtv.com.br/noticia/der-mg-avanca-em-nova-ponte-sobre-o-rio-paranaiba-no-noroeste-de-minas>) - *10/11/2026*
+- [Copasa investe R$ 2,3 bilhões e registra receita de R$ 2 bi no trimestre](<https://www.rcwtv.com.br/noticia/copasa-investe-r-2-3-bilhoes-e-registra-receita-de-r-2-bi-no-trimestre>) - *10/11/2026*
+- [Servidor da UFJF conquista prêmio em encontro nacional de administração](<https://www.rcwtv.com.br/noticia/servidor-da-ufjf-conquista-premio-em-encontro-nacional-de-administracao>) - *10/11/2026*
+- [HU-UFJF realiza 2.353 atendimentos em mutirão do Dia e](<https://www.rcwtv.com.br/noticia/hu-ufjf-realiza-2-353-atendimentos-em-mutirao-do-dia-e>) - *10/11/2026*
+- [Pediatras defendem proibição das bets para proteger crianças e jovens](<https://www.rcwtv.com.br/noticia/pediatras-defendem-proibicao-das-bets-para-proteger-criancas-e-jovens>) - *10/11/2026*
+- [Noite da NBA tem show de Wembanyama, Flagg inspirado e Warriors atropelando](<https://www.rcwtv.com.br/noticia/noite-da-nba-tem-show-de-wembanyama-flagg-inspirado-e-warriors-atropelando>) - *10/11/2026*
+- [HU-UFJF Realiza Maior Mutirão do Dia E com Mais de 2.300 Atendimentos](<https://www.rcwtv.com.br/noticia/hu-ufjf-realiza-maior-mutirao-do-dia-e-com-mais-de-2-300-atendimentos>) - *10/11/2026*
+- [Bills dominam os Vikings no Monday Night Football e chegam à sétima vitória na temporada](<https://www.rcwtv.com.br/noticia/bills-dominam-os-vikings-no-monday-night-football-e-chegam-a-setima-vitoria-na-temporada>) - *10/11/2026*
+

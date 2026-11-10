@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Pix bate recorde histórico e supera 319 milhões de operações em um dia](<https://www.rcwtv.com.br/noticia/pix-bate-recorde-historico-e-supera-319-milhoes-de-operacoes-em-um-dia>)
-- 📰 [Brasil se destaca como referência em educação midiática e amplia formação docente](<https://www.rcwtv.com.br/noticia/brasil-se-destaca-como-referencia-em-educacao-midiatica-e-amplia-formacao-docente>)
-- 📰 [Plataforma quer movimentar US$ 30 milhões e levar corretores brasileiros ao mercado imobiliário do Paraguai](<https://www.rcwtv.com.br/noticia/plataforma-quer-movimentar-us-30-milhoes-e-levar-corretores-brasileiros-ao-mercado-imobiliario-do-paraguai>)
-- 📰 [Cresce o desconhecimento sobre a prevenção ao câncer de próstata no Brasil](<https://www.rcwtv.com.br/noticia/cresce-o-desconhecimento-sobre-a-prevencao-ao-cancer-de-prostata-no-brasil>)
-- 📰 [PGR solicita ao STF o encerramento do inquérito das fake news](<https://www.rcwtv.com.br/noticia/pgr-solicita-ao-stf-o-encerramento-do-inquerito-das-fake-news>)
-- 📰 [Comissão debate déficit de auditores-fiscais do trabalho nesta quarta-feira](<https://www.rcwtv.com.br/noticia/comissao-debate-deficit-de-auditores-fiscais-do-trabalho-nesta-quarta-feira>)
-- 📰 [Comissão aprova destinação de recursos da venda de bens ao Ministério da Defesa](<https://www.rcwtv.com.br/noticia/comissao-aprova-destinacao-de-recursos-da-venda-de-bens-ao-ministerio-da-defesa>)
-- 📰 [Anvisa realiza nesta terça-feira a 21ª Reunião Ordinária da Diretoria Colegiada](<https://www.rcwtv.com.br/noticia/anvisa-realiza-nesta-terca-feira-a-21-reuniao-ordinaria-da-diretoria-colegiada>)
-- 📰 [Relator detalha proposta de transição para o voto distrital misto no Brasil](<https://www.rcwtv.com.br/noticia/relator-detalha-proposta-de-transicao-para-o-voto-distrital-misto-no-brasil>)
-- 📰 [Cemig alerta para riscos na rede elétrica no período chuvoso](<https://www.rcwtv.com.br/noticia/cemig-alerta-para-riscos-na-rede-eletrica-no-periodo-chuvoso>)
+- 📰 [Anvisa determina apreensão de suplementos alimentares irregulares](<https://www.rcwtv.com.br/noticia/anvisa-determina-apreensao-de-suplementos-alimentares-irregulares>)
+- 📰 [Linhas de ônibus 202 e 411 retomam itinerários completos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/linhas-de-onibus-202-e-411-retomam-itinerarios-completos-em-juiz-de-fora>)
+- 📰 [Timóteo recebe projeto Arte nas Águas de Minas com nova galeria a céu aberto](<https://www.rcwtv.com.br/noticia/timoteo-recebe-projeto-arte-nas-aguas-de-minas-com-nova-galeria-a-ceu-aberto>)
+- 📰 [Conselho da Justiça Federal desiste de verba extra para pagar penduricalhos](<https://www.rcwtv.com.br/noticia/conselho-da-justica-federal-desiste-de-verba-extra-para-pagar-penduricalhos>)
+- 📰 [Papai Noel Chega ao Shopping Jardim Norte Neste Sábado com Espetáculo Especial](<https://www.rcwtv.com.br/noticia/papai-noel-chega-ao-shopping-jardim-norte-neste-sabado-com-espetaculo-especial>)
+- 📰 [Cemig recebe homenagem da Prefeitura de Belo Horizonte](<https://www.rcwtv.com.br/noticia/cemig-recebe-homenagem-da-prefeitura-de-belo-horizonte>)
+- 📰 [Servidor da UFJF Vence Prêmio de Melhor Trabalho em Encontro Nacional de Administração](<https://www.rcwtv.com.br/noticia/servidor-da-ufjf-vence-premio-de-melhor-trabalho-em-encontro-nacional-de-administracao>)
+- 📰 [DER-MG avança em nova ponte sobre o Rio Paranaíba no Noroeste de Minas](<https://www.rcwtv.com.br/noticia/der-mg-avanca-em-nova-ponte-sobre-o-rio-paranaiba-no-noroeste-de-minas>)
+- 📰 [Copasa investe R$ 2,3 bilhões e registra receita de R$ 2 bi no trimestre](<https://www.rcwtv.com.br/noticia/copasa-investe-r-2-3-bilhoes-e-registra-receita-de-r-2-bi-no-trimestre>)
+- 📰 [Servidor da UFJF conquista prêmio em encontro nacional de administração](<https://www.rcwtv.com.br/noticia/servidor-da-ufjf-conquista-premio-em-encontro-nacional-de-administracao>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
