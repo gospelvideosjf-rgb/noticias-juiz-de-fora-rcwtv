@@ -1310,3 +1310,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Minas Gerais apresenta ao Banco Mundial soluções para minerais estratégicos](<https://www.rcwtv.com.br/noticia/minas-gerais-apresenta-ao-banco-mundial-solucoes-para-minerais-estrategicos>) - *10/11/2026*
 - [Vagou JF chega a 570 oportunidades de emprego após novos cadastros](<https://www.rcwtv.com.br/noticia/vagou-jf-chega-a-570-oportunidades-de-emprego-apos-novos-cadastros>) - *10/11/2026*
 
+### Atualização de 11/11/2026
+- [Atlético abre mais 50 vagas para torcedores acompanharem final da Sul-Americana na Colômbia](<https://www.rcwtv.com.br/noticia/atletico-abre-mais-50-vagas-para-torcedores-acompanharem-final-da-sul-americana-na-colombia>) - *11/11/2026*
+- [Polícia Civil abre cotação para manutenção de projetores de imagens](<https://www.rcwtv.com.br/noticia/policia-civil-abre-cotacao-para-manutencao-de-projetores-de-imagens>) - *11/11/2026*
+- [Nota à imprensa - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/nota-a-imprensa-portal-pjf-noticias-86786>) - *11/11/2026*
+- [PJF inicia obras na Avenida Brasil com recapeamento e fresagem em Juiz de Fora](<https://www.rcwtv.com.br/noticia/pjf-inicia-obras-na-avenida-brasil-com-recapeamento-e-fresagem-em-juiz-de-fora>) - *11/11/2026*
+- [Professores tomam posse na Faculdade de Engenharia da UFJF](<https://www.rcwtv.com.br/noticia/professores-tomam-posse-na-faculdade-de-engenharia-da-ufjf>) - *11/11/2026*
+- [Linhas 202 e 411 retomam trajetos completos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/linhas-202-e-411-retomam-trajetos-completos-em-juiz-de-fora>) - *11/11/2026*
+- [Comissão autoriza uso de energia renovável pelo BNDES na agricultura familiar](<https://www.rcwtv.com.br/noticia/comissao-autoriza-uso-de-energia-renovavel-pelo-bndes-na-agricultura-familiar>) - *11/11/2026*
+- [UAI Sarzedo abre neste sábado para emissão exclusiva de CIN](<https://www.rcwtv.com.br/noticia/uai-sarzedo-abre-neste-sabado-para-emissao-exclusiva-de-cin>) - *11/11/2026*
+- [Reforma tributária: governo enviará texto para facilitar adaptação das empresas](<https://www.rcwtv.com.br/noticia/reforma-tributaria-governo-enviara-texto-para-facilitar-adaptacao-das-empresas>) - *11/11/2026*
+- [Rapper Pitbull volta ao Brasil e faz show em São Paulo; saiba como hits podem ajudar fãs a praticar inglês](<https://www.rcwtv.com.br/noticia/rapper-pitbull-volta-ao-brasil-e-faz-show-em-sao-paulo-saiba-como-hits-podem-ajudar-fas-a-praticar-ingles>) - *11/11/2026*
+- [UFJF promove debates sobre as eleições de 2026 em centro cultural](<https://www.rcwtv.com.br/noticia/ufjf-promove-debates-sobre-as-eleicoes-de-2026-em-centro-cultural>) - *11/11/2026*
+- [Campanha Faça um Idoso Ainda Mais Feliz inicia adoção de cartinhas](<https://www.rcwtv.com.br/noticia/campanha-faca-um-idoso-ainda-mais-feliz-inicia-adocao-de-cartinhas>) - *11/11/2026*
+- [Investimento de empresários ajuda cidades de SC a garantir verba federal para megaobra contra enchentes](<https://www.rcwtv.com.br/noticia/investimento-de-empresarios-ajuda-cidades-de-sc-a-garantir-verba-federal-para-megaobra-contra-enchentes>) - *11/11/2026*
+- [Tribunal de Justiça de Minas Gerais recebe comunidades quilombolas em evento](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-recebe-comunidades-quilombolas-em-evento>) - *11/11/2026*
+- [Rodada da NBA tem show de Paul George, reação dos Suns e tropeço do Thunder](<https://www.rcwtv.com.br/noticia/rodada-da-nba-tem-show-de-paul-george-reacao-dos-suns-e-tropeco-do-thunder>) - *11/11/2026*
+

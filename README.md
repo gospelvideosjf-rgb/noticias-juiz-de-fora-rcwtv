@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Comarca de Governador Valadares homenageia servidores com 30 anos de carreira](<https://www.rcwtv.com.br/noticia/comarca-de-governador-valadares-homenageia-servidores-com-30-anos-de-carreira>)
-- 📰 [Prefeitura de Juiz de Fora repassa R$ 17 milhões para saúde](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-repassa-r-17-milhoes-para-saude>)
-- 📰 [Relator defende redução da maioridade penal com unidades separadas para jovens](<https://www.rcwtv.com.br/noticia/relator-defende-reducao-da-maioridade-penal-com-unidades-separadas-para-jovens>)
-- 📰 [Política para jovem empreendedor no campo está pronta para Plenário](<https://www.rcwtv.com.br/noticia/politica-para-jovem-empreendedor-no-campo-esta-pronta-para-plenario>)
-- 📰 [Especialistas apontam caminhos contra a exploração sexual em rodovias federais](<https://www.rcwtv.com.br/noticia/especialistas-apontam-caminhos-contra-a-exploracao-sexual-em-rodovias-federais>)
-- 📰 [Arceburgo: Justiça determina remoção de conteúdos de prefeita e vice](<https://www.rcwtv.com.br/noticia/arceburgo-justica-determina-remocao-de-conteudos-de-prefeita-e-vice>)
-- 📰 [Câmara aprova projeto que institui o Dia Nacional do Autocuidado](<https://www.rcwtv.com.br/noticia/camara-aprova-projeto-que-institui-o-dia-nacional-do-autocuidado>)
-- 📰 [Nova plataforma do MDIC facilita o comércio exterior e atrai investimentos](<https://www.rcwtv.com.br/noticia/nova-plataforma-do-mdic-facilita-o-comercio-exterior-e-atrai-investimentos>)
-- 📰 [Polícia Civil conclui inquérito sobre vídeo discriminatório em Espinosa](<https://www.rcwtv.com.br/noticia/policia-civil-conclui-inquerito-sobre-video-discriminatorio-em-espinosa>)
-- 📰 [Corrida do Bombeiro reúne dois mil atletas em Montes Claros](<https://www.rcwtv.com.br/noticia/corrida-do-bombeiro-reune-dois-mil-atletas-em-montes-claros>)
+- 📰 [Atlético abre mais 50 vagas para torcedores acompanharem final da Sul-Americana na Colômbia](<https://www.rcwtv.com.br/noticia/atletico-abre-mais-50-vagas-para-torcedores-acompanharem-final-da-sul-americana-na-colombia>)
+- 📰 [Polícia Civil abre cotação para manutenção de projetores de imagens](<https://www.rcwtv.com.br/noticia/policia-civil-abre-cotacao-para-manutencao-de-projetores-de-imagens>)
+- 📰 [Nota à imprensa - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/nota-a-imprensa-portal-pjf-noticias-86786>)
+- 📰 [PJF inicia obras na Avenida Brasil com recapeamento e fresagem em Juiz de Fora](<https://www.rcwtv.com.br/noticia/pjf-inicia-obras-na-avenida-brasil-com-recapeamento-e-fresagem-em-juiz-de-fora>)
+- 📰 [Professores tomam posse na Faculdade de Engenharia da UFJF](<https://www.rcwtv.com.br/noticia/professores-tomam-posse-na-faculdade-de-engenharia-da-ufjf>)
+- 📰 [Linhas 202 e 411 retomam trajetos completos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/linhas-202-e-411-retomam-trajetos-completos-em-juiz-de-fora>)
+- 📰 [Comissão autoriza uso de energia renovável pelo BNDES na agricultura familiar](<https://www.rcwtv.com.br/noticia/comissao-autoriza-uso-de-energia-renovavel-pelo-bndes-na-agricultura-familiar>)
+- 📰 [UAI Sarzedo abre neste sábado para emissão exclusiva de CIN](<https://www.rcwtv.com.br/noticia/uai-sarzedo-abre-neste-sabado-para-emissao-exclusiva-de-cin>)
+- 📰 [Reforma tributária: governo enviará texto para facilitar adaptação das empresas](<https://www.rcwtv.com.br/noticia/reforma-tributaria-governo-enviara-texto-para-facilitar-adaptacao-das-empresas>)
+- 📰 [Rapper Pitbull volta ao Brasil e faz show em São Paulo; saiba como hits podem ajudar fãs a praticar inglês](<https://www.rcwtv.com.br/noticia/rapper-pitbull-volta-ao-brasil-e-faz-show-em-sao-paulo-saiba-como-hits-podem-ajudar-fas-a-praticar-ingles>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
