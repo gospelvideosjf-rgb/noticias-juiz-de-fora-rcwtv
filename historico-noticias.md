@@ -1293,3 +1293,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [HU-UFJF Realiza Maior Mutirão do Dia E com Mais de 2.300 Atendimentos](<https://www.rcwtv.com.br/noticia/hu-ufjf-realiza-maior-mutirao-do-dia-e-com-mais-de-2-300-atendimentos>) - *10/11/2026*
 - [Bills dominam os Vikings no Monday Night Football e chegam à sétima vitória na temporada](<https://www.rcwtv.com.br/noticia/bills-dominam-os-vikings-no-monday-night-football-e-chegam-a-setima-vitoria-na-temporada>) - *10/11/2026*
 
+### Atualização de 10/11/2026
+- [Comarca de Governador Valadares homenageia servidores com 30 anos de carreira](<https://www.rcwtv.com.br/noticia/comarca-de-governador-valadares-homenageia-servidores-com-30-anos-de-carreira>) - *10/11/2026*
+- [Prefeitura de Juiz de Fora repassa R$ 17 milhões para saúde](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-repassa-r-17-milhoes-para-saude>) - *10/11/2026*
+- [Relator defende redução da maioridade penal com unidades separadas para jovens](<https://www.rcwtv.com.br/noticia/relator-defende-reducao-da-maioridade-penal-com-unidades-separadas-para-jovens>) - *10/11/2026*
+- [Política para jovem empreendedor no campo está pronta para Plenário](<https://www.rcwtv.com.br/noticia/politica-para-jovem-empreendedor-no-campo-esta-pronta-para-plenario>) - *10/11/2026*
+- [Especialistas apontam caminhos contra a exploração sexual em rodovias federais](<https://www.rcwtv.com.br/noticia/especialistas-apontam-caminhos-contra-a-exploracao-sexual-em-rodovias-federais>) - *10/11/2026*
+- [Arceburgo: Justiça determina remoção de conteúdos de prefeita e vice](<https://www.rcwtv.com.br/noticia/arceburgo-justica-determina-remocao-de-conteudos-de-prefeita-e-vice>) - *10/11/2026*
+- [Câmara aprova projeto que institui o Dia Nacional do Autocuidado](<https://www.rcwtv.com.br/noticia/camara-aprova-projeto-que-institui-o-dia-nacional-do-autocuidado>) - *10/11/2026*
+- [Nova plataforma do MDIC facilita o comércio exterior e atrai investimentos](<https://www.rcwtv.com.br/noticia/nova-plataforma-do-mdic-facilita-o-comercio-exterior-e-atrai-investimentos>) - *10/11/2026*
+- [Polícia Civil conclui inquérito sobre vídeo discriminatório em Espinosa](<https://www.rcwtv.com.br/noticia/policia-civil-conclui-inquerito-sobre-video-discriminatorio-em-espinosa>) - *10/11/2026*
+- [Corrida do Bombeiro reúne dois mil atletas em Montes Claros](<https://www.rcwtv.com.br/noticia/corrida-do-bombeiro-reune-dois-mil-atletas-em-montes-claros>) - *10/11/2026*
+- [Espiaqui 2026 reúne milhares de pessoas na Praça Cívica da UFJF](<https://www.rcwtv.com.br/noticia/espiaqui-2026-reune-milhares-de-pessoas-na-praca-civica-da-ufjf>) - *10/11/2026*
+- [CPI das Emendas da Saúde define data para próxima reunião e aguarda documentos](<https://www.rcwtv.com.br/noticia/cpi-das-emendas-da-saude-define-data-para-proxima-reuniao-e-aguarda-documentos>) - *10/11/2026*
+- [MEC aprova novas diretrizes para o uso de IA na educação](<https://www.rcwtv.com.br/noticia/mec-aprova-novas-diretrizes-para-o-uso-de-ia-na-educacao>) - *10/11/2026*
+- [Minas Gerais apresenta ao Banco Mundial soluções para minerais estratégicos](<https://www.rcwtv.com.br/noticia/minas-gerais-apresenta-ao-banco-mundial-solucoes-para-minerais-estrategicos>) - *10/11/2026*
+- [Vagou JF chega a 570 oportunidades de emprego após novos cadastros](<https://www.rcwtv.com.br/noticia/vagou-jf-chega-a-570-oportunidades-de-emprego-apos-novos-cadastros>) - *10/11/2026*
+

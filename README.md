@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Anvisa determina apreensão de suplementos alimentares irregulares](<https://www.rcwtv.com.br/noticia/anvisa-determina-apreensao-de-suplementos-alimentares-irregulares>)
-- 📰 [Linhas de ônibus 202 e 411 retomam itinerários completos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/linhas-de-onibus-202-e-411-retomam-itinerarios-completos-em-juiz-de-fora>)
-- 📰 [Timóteo recebe projeto Arte nas Águas de Minas com nova galeria a céu aberto](<https://www.rcwtv.com.br/noticia/timoteo-recebe-projeto-arte-nas-aguas-de-minas-com-nova-galeria-a-ceu-aberto>)
-- 📰 [Conselho da Justiça Federal desiste de verba extra para pagar penduricalhos](<https://www.rcwtv.com.br/noticia/conselho-da-justica-federal-desiste-de-verba-extra-para-pagar-penduricalhos>)
-- 📰 [Papai Noel Chega ao Shopping Jardim Norte Neste Sábado com Espetáculo Especial](<https://www.rcwtv.com.br/noticia/papai-noel-chega-ao-shopping-jardim-norte-neste-sabado-com-espetaculo-especial>)
-- 📰 [Cemig recebe homenagem da Prefeitura de Belo Horizonte](<https://www.rcwtv.com.br/noticia/cemig-recebe-homenagem-da-prefeitura-de-belo-horizonte>)
-- 📰 [Servidor da UFJF Vence Prêmio de Melhor Trabalho em Encontro Nacional de Administração](<https://www.rcwtv.com.br/noticia/servidor-da-ufjf-vence-premio-de-melhor-trabalho-em-encontro-nacional-de-administracao>)
-- 📰 [DER-MG avança em nova ponte sobre o Rio Paranaíba no Noroeste de Minas](<https://www.rcwtv.com.br/noticia/der-mg-avanca-em-nova-ponte-sobre-o-rio-paranaiba-no-noroeste-de-minas>)
-- 📰 [Copasa investe R$ 2,3 bilhões e registra receita de R$ 2 bi no trimestre](<https://www.rcwtv.com.br/noticia/copasa-investe-r-2-3-bilhoes-e-registra-receita-de-r-2-bi-no-trimestre>)
-- 📰 [Servidor da UFJF conquista prêmio em encontro nacional de administração](<https://www.rcwtv.com.br/noticia/servidor-da-ufjf-conquista-premio-em-encontro-nacional-de-administracao>)
+- 📰 [Comarca de Governador Valadares homenageia servidores com 30 anos de carreira](<https://www.rcwtv.com.br/noticia/comarca-de-governador-valadares-homenageia-servidores-com-30-anos-de-carreira>)
+- 📰 [Prefeitura de Juiz de Fora repassa R$ 17 milhões para saúde](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-repassa-r-17-milhoes-para-saude>)
+- 📰 [Relator defende redução da maioridade penal com unidades separadas para jovens](<https://www.rcwtv.com.br/noticia/relator-defende-reducao-da-maioridade-penal-com-unidades-separadas-para-jovens>)
+- 📰 [Política para jovem empreendedor no campo está pronta para Plenário](<https://www.rcwtv.com.br/noticia/politica-para-jovem-empreendedor-no-campo-esta-pronta-para-plenario>)
+- 📰 [Especialistas apontam caminhos contra a exploração sexual em rodovias federais](<https://www.rcwtv.com.br/noticia/especialistas-apontam-caminhos-contra-a-exploracao-sexual-em-rodovias-federais>)
+- 📰 [Arceburgo: Justiça determina remoção de conteúdos de prefeita e vice](<https://www.rcwtv.com.br/noticia/arceburgo-justica-determina-remocao-de-conteudos-de-prefeita-e-vice>)
+- 📰 [Câmara aprova projeto que institui o Dia Nacional do Autocuidado](<https://www.rcwtv.com.br/noticia/camara-aprova-projeto-que-institui-o-dia-nacional-do-autocuidado>)
+- 📰 [Nova plataforma do MDIC facilita o comércio exterior e atrai investimentos](<https://www.rcwtv.com.br/noticia/nova-plataforma-do-mdic-facilita-o-comercio-exterior-e-atrai-investimentos>)
+- 📰 [Polícia Civil conclui inquérito sobre vídeo discriminatório em Espinosa](<https://www.rcwtv.com.br/noticia/policia-civil-conclui-inquerito-sobre-video-discriminatorio-em-espinosa>)
+- 📰 [Corrida do Bombeiro reúne dois mil atletas em Montes Claros](<https://www.rcwtv.com.br/noticia/corrida-do-bombeiro-reune-dois-mil-atletas-em-montes-claros>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
