@@ -1327,3 +1327,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Tribunal de Justiça de Minas Gerais recebe comunidades quilombolas em evento](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-recebe-comunidades-quilombolas-em-evento>) - *11/11/2026*
 - [Rodada da NBA tem show de Paul George, reação dos Suns e tropeço do Thunder](<https://www.rcwtv.com.br/noticia/rodada-da-nba-tem-show-de-paul-george-reacao-dos-suns-e-tropeco-do-thunder>) - *11/11/2026*
 
+### Atualização de 11/11/2026
+- [Desembargadores do TJMG debatem judicialização da saúde em congresso](<https://www.rcwtv.com.br/noticia/desembargadores-do-tjmg-debatem-judicializacao-da-saude-em-congresso>) - *11/11/2026*
+- [Operação Rastro: dois homens são presos por roubo em Miraí](<https://www.rcwtv.com.br/noticia/operacao-rastro-dois-homens-sao-presos-por-roubo-em-mirai>) - *11/11/2026*
+- [Governo de Minas apresenta avanços na assistência social para equipe de transição](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-avancos-na-assistencia-social-para-equipe-de-transicao>) - *11/11/2026*
+- [Juiz de Fora abre inscrições para Conferência Municipal dos Direitos da Criança](<https://www.rcwtv.com.br/noticia/juiz-de-fora-abre-inscricoes-para-conferencia-municipal-dos-direitos-da-crianca>) - *11/11/2026*
+- [Governo de Minas apresenta estratégia para transição energética na Suíça](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-estrategia-para-transicao-energetica-na-suica>) - *11/11/2026*
+- [Helvécio Ratton lança novo filme em sessão especial em Juiz de Fora](<https://www.rcwtv.com.br/noticia/helvecio-ratton-lanca-novo-filme-em-sessao-especial-em-juiz-de-fora>) - *11/11/2026*
+- [Maioridade penal e a precariedade do sistema prisional entram em debate](<https://www.rcwtv.com.br/noticia/maioridade-penal-e-a-precariedade-do-sistema-prisional-entram-em-debate>) - *11/11/2026*
+- [BNDES conquista selo Diamante de transparência pública pela quarta vez](<https://www.rcwtv.com.br/noticia/bndes-conquista-selo-diamante-de-transparencia-publica-pela-quarta-vez>) - *11/11/2026*
+- [Câmara aprova a política nacional de residência em saúde](<https://www.rcwtv.com.br/noticia/camara-aprova-a-politica-nacional-de-residencia-em-saude>) - *11/11/2026*
+- [Copasa apresenta perspectivas de crescimento em São Paulo](<https://www.rcwtv.com.br/noticia/copasa-apresenta-perspectivas-de-crescimento-em-sao-paulo>) - *11/11/2026*
+- [Propostas para fortalecer a saúde da mulher avançam na Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/propostas-para-fortalecer-a-saude-da-mulher-avancam-na-camara-dos-deputados>) - *11/11/2026*
+- [UFJF encerra segunda edição do evento Espiaqui na Praça Cívica](<https://www.rcwtv.com.br/noticia/ufjf-encerra-segunda-edicao-do-evento-espiaqui-na-praca-civica>) - *11/11/2026*
+- [Câmara aprova projeto que torna hediondo crime de maus-tratos a cães e gatos](<https://www.rcwtv.com.br/noticia/camara-aprova-projeto-que-torna-hediondo-crime-de-maus-tratos-a-caes-e-gatos>) - *11/11/2026*
+- [Juiz Haroldo Toscano é promovido a desembargador do TJMG em Belo Horizonte](<https://www.rcwtv.com.br/noticia/juiz-haroldo-toscano-e-promovido-a-desembargador-do-tjmg-em-belo-horizonte>) - *11/11/2026*
+- [Câmara aprova regras para reciclagem de navios e avança com acordo](<https://www.rcwtv.com.br/noticia/camara-aprova-regras-para-reciclagem-de-navios-e-avanca-com-acordo>) - *11/11/2026*
+

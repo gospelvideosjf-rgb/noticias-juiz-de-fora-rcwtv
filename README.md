@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Atlético abre mais 50 vagas para torcedores acompanharem final da Sul-Americana na Colômbia](<https://www.rcwtv.com.br/noticia/atletico-abre-mais-50-vagas-para-torcedores-acompanharem-final-da-sul-americana-na-colombia>)
-- 📰 [Polícia Civil abre cotação para manutenção de projetores de imagens](<https://www.rcwtv.com.br/noticia/policia-civil-abre-cotacao-para-manutencao-de-projetores-de-imagens>)
-- 📰 [Nota à imprensa - Portal PJF | Notícias](<https://www.rcwtv.com.br/noticia/nota-a-imprensa-portal-pjf-noticias-86786>)
-- 📰 [PJF inicia obras na Avenida Brasil com recapeamento e fresagem em Juiz de Fora](<https://www.rcwtv.com.br/noticia/pjf-inicia-obras-na-avenida-brasil-com-recapeamento-e-fresagem-em-juiz-de-fora>)
-- 📰 [Professores tomam posse na Faculdade de Engenharia da UFJF](<https://www.rcwtv.com.br/noticia/professores-tomam-posse-na-faculdade-de-engenharia-da-ufjf>)
-- 📰 [Linhas 202 e 411 retomam trajetos completos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/linhas-202-e-411-retomam-trajetos-completos-em-juiz-de-fora>)
-- 📰 [Comissão autoriza uso de energia renovável pelo BNDES na agricultura familiar](<https://www.rcwtv.com.br/noticia/comissao-autoriza-uso-de-energia-renovavel-pelo-bndes-na-agricultura-familiar>)
-- 📰 [UAI Sarzedo abre neste sábado para emissão exclusiva de CIN](<https://www.rcwtv.com.br/noticia/uai-sarzedo-abre-neste-sabado-para-emissao-exclusiva-de-cin>)
-- 📰 [Reforma tributária: governo enviará texto para facilitar adaptação das empresas](<https://www.rcwtv.com.br/noticia/reforma-tributaria-governo-enviara-texto-para-facilitar-adaptacao-das-empresas>)
-- 📰 [Rapper Pitbull volta ao Brasil e faz show em São Paulo; saiba como hits podem ajudar fãs a praticar inglês](<https://www.rcwtv.com.br/noticia/rapper-pitbull-volta-ao-brasil-e-faz-show-em-sao-paulo-saiba-como-hits-podem-ajudar-fas-a-praticar-ingles>)
+- 📰 [Desembargadores do TJMG debatem judicialização da saúde em congresso](<https://www.rcwtv.com.br/noticia/desembargadores-do-tjmg-debatem-judicializacao-da-saude-em-congresso>)
+- 📰 [Operação Rastro: dois homens são presos por roubo em Miraí](<https://www.rcwtv.com.br/noticia/operacao-rastro-dois-homens-sao-presos-por-roubo-em-mirai>)
+- 📰 [Governo de Minas apresenta avanços na assistência social para equipe de transição](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-avancos-na-assistencia-social-para-equipe-de-transicao>)
+- 📰 [Juiz de Fora abre inscrições para Conferência Municipal dos Direitos da Criança](<https://www.rcwtv.com.br/noticia/juiz-de-fora-abre-inscricoes-para-conferencia-municipal-dos-direitos-da-crianca>)
+- 📰 [Governo de Minas apresenta estratégia para transição energética na Suíça](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-estrategia-para-transicao-energetica-na-suica>)
+- 📰 [Helvécio Ratton lança novo filme em sessão especial em Juiz de Fora](<https://www.rcwtv.com.br/noticia/helvecio-ratton-lanca-novo-filme-em-sessao-especial-em-juiz-de-fora>)
+- 📰 [Maioridade penal e a precariedade do sistema prisional entram em debate](<https://www.rcwtv.com.br/noticia/maioridade-penal-e-a-precariedade-do-sistema-prisional-entram-em-debate>)
+- 📰 [BNDES conquista selo Diamante de transparência pública pela quarta vez](<https://www.rcwtv.com.br/noticia/bndes-conquista-selo-diamante-de-transparencia-publica-pela-quarta-vez>)
+- 📰 [Câmara aprova a política nacional de residência em saúde](<https://www.rcwtv.com.br/noticia/camara-aprova-a-politica-nacional-de-residencia-em-saude>)
+- 📰 [Copasa apresenta perspectivas de crescimento em São Paulo](<https://www.rcwtv.com.br/noticia/copasa-apresenta-perspectivas-de-crescimento-em-sao-paulo>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
