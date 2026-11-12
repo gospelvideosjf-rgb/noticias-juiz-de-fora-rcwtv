@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Desembargadores do TJMG debatem judicialização da saúde em congresso](<https://www.rcwtv.com.br/noticia/desembargadores-do-tjmg-debatem-judicializacao-da-saude-em-congresso>)
-- 📰 [Operação Rastro: dois homens são presos por roubo em Miraí](<https://www.rcwtv.com.br/noticia/operacao-rastro-dois-homens-sao-presos-por-roubo-em-mirai>)
-- 📰 [Governo de Minas apresenta avanços na assistência social para equipe de transição](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-avancos-na-assistencia-social-para-equipe-de-transicao>)
-- 📰 [Juiz de Fora abre inscrições para Conferência Municipal dos Direitos da Criança](<https://www.rcwtv.com.br/noticia/juiz-de-fora-abre-inscricoes-para-conferencia-municipal-dos-direitos-da-crianca>)
-- 📰 [Governo de Minas apresenta estratégia para transição energética na Suíça](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-estrategia-para-transicao-energetica-na-suica>)
-- 📰 [Helvécio Ratton lança novo filme em sessão especial em Juiz de Fora](<https://www.rcwtv.com.br/noticia/helvecio-ratton-lanca-novo-filme-em-sessao-especial-em-juiz-de-fora>)
-- 📰 [Maioridade penal e a precariedade do sistema prisional entram em debate](<https://www.rcwtv.com.br/noticia/maioridade-penal-e-a-precariedade-do-sistema-prisional-entram-em-debate>)
-- 📰 [BNDES conquista selo Diamante de transparência pública pela quarta vez](<https://www.rcwtv.com.br/noticia/bndes-conquista-selo-diamante-de-transparencia-publica-pela-quarta-vez>)
-- 📰 [Câmara aprova a política nacional de residência em saúde](<https://www.rcwtv.com.br/noticia/camara-aprova-a-politica-nacional-de-residencia-em-saude>)
-- 📰 [Copasa apresenta perspectivas de crescimento em São Paulo](<https://www.rcwtv.com.br/noticia/copasa-apresenta-perspectivas-de-crescimento-em-sao-paulo>)
+- 📰 [Lançamentos imobiliários crescem 25% em São Paulo e atraem empresa catarinense que projeta gerir R$ 300 milhões em VGV](<https://www.rcwtv.com.br/noticia/lancamentos-imobiliarios-crescem-25-em-sao-paulo-e-atraem-empresa-catarinense-que-projeta-gerir-r-300-milhoes-em-vgv>)
+- 📰 [Fiocruz aponta alta nos casos de SRAG por covid-19 no Brasil em novembro](<https://www.rcwtv.com.br/noticia/fiocruz-aponta-alta-nos-casos-de-srag-por-covid-19-no-brasil-em-novembro>)
+- 📰 [Ele foi bicampeão mundial pela Seleção Brasileira e virou corretor de imóveis em Santa Catarina](<https://www.rcwtv.com.br/noticia/ele-foi-bicampeao-mundial-pela-selecao-brasileira-e-virou-corretor-de-imoveis-em-santa-catarina>)
+- 📰 [Mariah Carey no Brasil: você sabe o que realmente significa o maior hit de Natal da cantora?](<https://www.rcwtv.com.br/noticia/mariah-carey-no-brasil-voce-sabe-o-que-realmente-significa-o-maior-hit-de-natal-da-cantora>)
+- 📰 [Congresso Nacional aprova novo nome para o Conselho de Comunicação Social](<https://www.rcwtv.com.br/noticia/congresso-nacional-aprova-novo-nome-para-o-conselho-de-comunicacao-social>)
+- 📰 [Secretaria de Saúde de Juiz de Fora reúne hospitais para alinhar atendimento](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-de-juiz-de-fora-reune-hospitais-para-alinhar-atendimento>)
+- 📰 [Marina Itajaí terá exposição de carros de de luxo do Grupo BYD neste fim de semana](<https://www.rcwtv.com.br/noticia/marina-itajai-tera-exposicao-de-carros-de-de-luxo-do-grupo-byd-neste-fim-de-semana>)
+- 📰 [Petrobras assume controle total da Logum para fortalecer logística de etanol](<https://www.rcwtv.com.br/noticia/petrobras-assume-controle-total-da-logum-para-fortalecer-logistica-de-etanol>)
+- 📰 [UFJF inicia obras de prédio para Clínica Veterinária e laboratórios](<https://www.rcwtv.com.br/noticia/ufjf-inicia-obras-de-predio-para-clinica-veterinaria-e-laboratorios>)
+- 📰 [Governo estuda modelo similar ao Enem para concurso unificado de 2027](<https://www.rcwtv.com.br/noticia/governo-estuda-modelo-similar-ao-enem-para-concurso-unificado-de-2027>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

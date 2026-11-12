@@ -1344,3 +1344,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Juiz Haroldo Toscano é promovido a desembargador do TJMG em Belo Horizonte](<https://www.rcwtv.com.br/noticia/juiz-haroldo-toscano-e-promovido-a-desembargador-do-tjmg-em-belo-horizonte>) - *11/11/2026*
 - [Câmara aprova regras para reciclagem de navios e avança com acordo](<https://www.rcwtv.com.br/noticia/camara-aprova-regras-para-reciclagem-de-navios-e-avanca-com-acordo>) - *11/11/2026*
 
+### Atualização de 12/11/2026
+- [Lançamentos imobiliários crescem 25% em São Paulo e atraem empresa catarinense que projeta gerir R$ 300 milhões em VGV](<https://www.rcwtv.com.br/noticia/lancamentos-imobiliarios-crescem-25-em-sao-paulo-e-atraem-empresa-catarinense-que-projeta-gerir-r-300-milhoes-em-vgv>) - *12/11/2026*
+- [Fiocruz aponta alta nos casos de SRAG por covid-19 no Brasil em novembro](<https://www.rcwtv.com.br/noticia/fiocruz-aponta-alta-nos-casos-de-srag-por-covid-19-no-brasil-em-novembro>) - *12/11/2026*
+- [Ele foi bicampeão mundial pela Seleção Brasileira e virou corretor de imóveis em Santa Catarina](<https://www.rcwtv.com.br/noticia/ele-foi-bicampeao-mundial-pela-selecao-brasileira-e-virou-corretor-de-imoveis-em-santa-catarina>) - *12/11/2026*
+- [Mariah Carey no Brasil: você sabe o que realmente significa o maior hit de Natal da cantora?](<https://www.rcwtv.com.br/noticia/mariah-carey-no-brasil-voce-sabe-o-que-realmente-significa-o-maior-hit-de-natal-da-cantora>) - *12/11/2026*
+- [Congresso Nacional aprova novo nome para o Conselho de Comunicação Social](<https://www.rcwtv.com.br/noticia/congresso-nacional-aprova-novo-nome-para-o-conselho-de-comunicacao-social>) - *12/11/2026*
+- [Secretaria de Saúde de Juiz de Fora reúne hospitais para alinhar atendimento](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-de-juiz-de-fora-reune-hospitais-para-alinhar-atendimento>) - *12/11/2026*
+- [Marina Itajaí terá exposição de carros de de luxo do Grupo BYD neste fim de semana](<https://www.rcwtv.com.br/noticia/marina-itajai-tera-exposicao-de-carros-de-de-luxo-do-grupo-byd-neste-fim-de-semana>) - *12/11/2026*
+- [Petrobras assume controle total da Logum para fortalecer logística de etanol](<https://www.rcwtv.com.br/noticia/petrobras-assume-controle-total-da-logum-para-fortalecer-logistica-de-etanol>) - *12/11/2026*
+- [UFJF inicia obras de prédio para Clínica Veterinária e laboratórios](<https://www.rcwtv.com.br/noticia/ufjf-inicia-obras-de-predio-para-clinica-veterinaria-e-laboratorios>) - *12/11/2026*
+- [Governo estuda modelo similar ao Enem para concurso unificado de 2027](<https://www.rcwtv.com.br/noticia/governo-estuda-modelo-similar-ao-enem-para-concurso-unificado-de-2027>) - *12/11/2026*
+- [Davi Alcolumbre mantém controle exclusivo sobre a instalação da CPMI do Banco Master](<https://www.rcwtv.com.br/noticia/davi-alcolumbre-mantem-controle-exclusivo-sobre-a-instalacao-da-cpmi-do-banco-master>) - *12/11/2026*
+- [Epidemia de obesidade reflete a troca de comida de verdade por formulações industriais](<https://www.rcwtv.com.br/noticia/epidemia-de-obesidade-reflete-a-troca-de-comida-de-verdade-por-formulacoes-industriais>) - *12/11/2026*
+- [PM apreende drogas em São João del-Rei e prende foragido em Ubá na quarta-feira (11/11)](<https://www.rcwtv.com.br/noticia/pm-apreende-drogas-em-sao-joao-del-rei-e-prende-foragido-em-uba-na-quarta-feira-11-11>) - *12/11/2026*
+- [Mulheres ficam feridas em queda de barranco e agressão em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/mulheres-ficam-feridas-em-queda-de-barranco-e-agressao-em-cidades-da-zona-da-mata>) - *12/11/2026*
+- [Caminhão furtado em Santa Luzia é encontrado com placas adulteradas em Piranga; homem é preso](<https://www.rcwtv.com.br/noticia/caminhao-furtado-em-santa-luzia-e-encontrado-com-placas-adulteradas-em-piranga-homem-e-preso>) - *12/11/2026*
+
