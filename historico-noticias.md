@@ -1378,3 +1378,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Secretaria de Estado de Saúde capacita servidores em Ubá](<https://www.rcwtv.com.br/noticia/secretaria-de-estado-de-saude-capacita-servidores-em-uba>) - *12/11/2026*
 - [Comissão debate regulamentação da reforma tributária com a Receita Federal](<https://www.rcwtv.com.br/noticia/comissao-debate-regulamentacao-da-reforma-tributaria-com-a-receita-federal>) - *12/11/2026*
 
+### Atualização de 13/11/2026
+- [EBC realiza cobertura especial e live sobre o segundo dia do Enem](<https://www.rcwtv.com.br/noticia/ebc-realiza-cobertura-especial-e-live-sobre-o-segundo-dia-do-enem>) - *13/11/2026*
+- [Cade Cunningham faz história em noite de quatro jogos na NBA](<https://www.rcwtv.com.br/noticia/cade-cunningham-faz-historia-em-noite-de-quatro-jogos-na-nba>) - *13/11/2026*
+- [Câmara aprova diretriz de bairros integrados no Estatuto da Cidade](<https://www.rcwtv.com.br/noticia/camara-aprova-diretriz-de-bairros-integrados-no-estatuto-da-cidade>) - *13/11/2026*
+- [Assessor de Roberta Lopes é preso suspeito de depredação em Matias Barbosa](<https://www.rcwtv.com.br/noticia/assessor-de-roberta-lopes-e-preso-suspeito-de-depredacao-em-matias-barbosa>) - *13/11/2026*
+- [Com passe decisivo no minuto final, Washington Commanders derrota New York Giants por 24 a 21 fora de casa](<https://www.rcwtv.com.br/noticia/com-passe-decisivo-no-minuto-final-washington-commanders-derrota-new-york-giants-por-24-a-21-fora-de-casa>) - *13/11/2026*
+- [HU-UFJF inicia Campanha de Natal para crianças da Pediatria em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hu-ufjf-inicia-campanha-de-natal-para-criancas-da-pediatria-em-juiz-de-fora>) - *13/11/2026*
+- [Nova campanha destaca a importância do médico intensivista nas UTIs do país](<https://www.rcwtv.com.br/noticia/nova-campanha-destaca-a-importancia-do-medico-intensivista-nas-utis-do-pais>) - *13/11/2026*
+- [Agenda cultural da UFJF em novembro traz teatro, exposições e roteiros](<https://www.rcwtv.com.br/noticia/agenda-cultural-da-ufjf-em-novembro-traz-teatro-exposicoes-e-roteiros>) - *13/11/2026*
+- [Governo de Minas apresenta estratégias de adaptação climática na COP31](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-estrategias-de-adaptacao-climatica-na-cop31>) - *13/11/2026*
+- [Estudantes de Juiz de Fora e região avançam em intercâmbio do Governo de Minas](<https://www.rcwtv.com.br/noticia/estudantes-de-juiz-de-fora-e-regiao-avancam-em-intercambio-do-governo-de-minas>) - *13/11/2026*
+- [PM prende foragidos, apreende drogas e recupera veículo na Zona da Mata na quinta-feira (12/11)](<https://www.rcwtv.com.br/noticia/pm-prende-foragidos-apreende-drogas-e-recupera-veiculo-na-zona-da-mata-na-quinta-feira-12-11>) - *13/11/2026*
+- [Welignton Costa é indicado a prêmio internacional de comunicação em Portugal](<https://www.rcwtv.com.br/noticia/welignton-costa-e-indicado-a-premio-internacional-de-comunicacao-em-portugal>) - *13/11/2026*
+- [Comissão aprova isenção de imposto para bebidas da Amazônia](<https://www.rcwtv.com.br/noticia/comissao-aprova-isencao-de-imposto-para-bebidas-da-amazonia>) - *13/11/2026*
+- [Homem é preso por roubo violento contra casal de idosos em Lima Duarte](<https://www.rcwtv.com.br/noticia/homem-e-preso-por-roubo-violento-contra-casal-de-idosos-em-lima-duarte>) - *13/11/2026*
+- [Assembleia Legislativa de Minas Gerais avança com projeto sobre facções criminosas](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-avanca-com-projeto-sobre-faccoes-criminosas>) - *13/11/2026*
+

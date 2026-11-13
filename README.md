@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Procon-MPMG multa Cemig em R$ 333 mil por falhas em Frutal](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-cemig-em-r-333-mil-por-falhas-em-frutal>)
-- 📰 [Polícia Civil apreende adolescente com grande quantidade de drogas em Poços de Caldas](<https://www.rcwtv.com.br/noticia/policia-civil-apreende-adolescente-com-grande-quantidade-de-drogas-em-pocos-de-caldas>)
-- 📰 [Produtora de Três Pontas recebe primeira certificação de café regenerativo em Minas](<https://www.rcwtv.com.br/noticia/produtora-de-tres-pontas-recebe-primeira-certificacao-de-cafe-regenerativo-em-minas>)
-- 📰 [Juiz de Fora realiza etapa prévia do Encontro Nacional Pop Rua 2026](<https://www.rcwtv.com.br/noticia/juiz-de-fora-realiza-etapa-previa-do-encontro-nacional-pop-rua-2026>)
-- 📰 [Tesouro Nacional sofre vazamento de dados de 30 mil cadastros e chaves Pix](<https://www.rcwtv.com.br/noticia/tesouro-nacional-sofre-vazamento-de-dados-de-30-mil-cadastros-e-chaves-pix>)
-- 📰 [Anvisa proíbe venda de loção dermoprotetora da marca Needs](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-de-locao-dermoprotetora-da-marca-needs>)
-- 📰 [Como o forro define a distribuição do ar no cassete de uma via?](<https://www.rcwtv.com.br/noticia/como-o-forro-define-a-distribuicao-do-ar-no-cassete-de-uma-via>)
-- 📰 [Uso profissional da moto: quais riscos mudam na proteção contratada?](<https://www.rcwtv.com.br/noticia/uso-profissional-da-moto-quais-riscos-mudam-na-protecao-contratada>)
-- 📰 [Cine-Theatro Central recebe espetáculo a rua encantada em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cine-theatro-central-recebe-espetaculo-a-rua-encantada-em-juiz-de-fora>)
-- 📰 [Caixa Seguridade confirma ataque cibernético e exposição de dados de clientes](<https://www.rcwtv.com.br/noticia/caixa-seguridade-confirma-ataque-cibernetico-e-exposicao-de-dados-de-clientes>)
+- 📰 [EBC realiza cobertura especial e live sobre o segundo dia do Enem](<https://www.rcwtv.com.br/noticia/ebc-realiza-cobertura-especial-e-live-sobre-o-segundo-dia-do-enem>)
+- 📰 [Cade Cunningham faz história em noite de quatro jogos na NBA](<https://www.rcwtv.com.br/noticia/cade-cunningham-faz-historia-em-noite-de-quatro-jogos-na-nba>)
+- 📰 [Câmara aprova diretriz de bairros integrados no Estatuto da Cidade](<https://www.rcwtv.com.br/noticia/camara-aprova-diretriz-de-bairros-integrados-no-estatuto-da-cidade>)
+- 📰 [Assessor de Roberta Lopes é preso suspeito de depredação em Matias Barbosa](<https://www.rcwtv.com.br/noticia/assessor-de-roberta-lopes-e-preso-suspeito-de-depredacao-em-matias-barbosa>)
+- 📰 [Com passe decisivo no minuto final, Washington Commanders derrota New York Giants por 24 a 21 fora de casa](<https://www.rcwtv.com.br/noticia/com-passe-decisivo-no-minuto-final-washington-commanders-derrota-new-york-giants-por-24-a-21-fora-de-casa>)
+- 📰 [HU-UFJF inicia Campanha de Natal para crianças da Pediatria em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hu-ufjf-inicia-campanha-de-natal-para-criancas-da-pediatria-em-juiz-de-fora>)
+- 📰 [Nova campanha destaca a importância do médico intensivista nas UTIs do país](<https://www.rcwtv.com.br/noticia/nova-campanha-destaca-a-importancia-do-medico-intensivista-nas-utis-do-pais>)
+- 📰 [Agenda cultural da UFJF em novembro traz teatro, exposições e roteiros](<https://www.rcwtv.com.br/noticia/agenda-cultural-da-ufjf-em-novembro-traz-teatro-exposicoes-e-roteiros>)
+- 📰 [Governo de Minas apresenta estratégias de adaptação climática na COP31](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-estrategias-de-adaptacao-climatica-na-cop31>)
+- 📰 [Estudantes de Juiz de Fora e região avançam em intercâmbio do Governo de Minas](<https://www.rcwtv.com.br/noticia/estudantes-de-juiz-de-fora-e-regiao-avancam-em-intercambio-do-governo-de-minas>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
