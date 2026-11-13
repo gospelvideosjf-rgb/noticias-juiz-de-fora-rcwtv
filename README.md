@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Lançamentos imobiliários crescem 25% em São Paulo e atraem empresa catarinense que projeta gerir R$ 300 milhões em VGV](<https://www.rcwtv.com.br/noticia/lancamentos-imobiliarios-crescem-25-em-sao-paulo-e-atraem-empresa-catarinense-que-projeta-gerir-r-300-milhoes-em-vgv>)
-- 📰 [Fiocruz aponta alta nos casos de SRAG por covid-19 no Brasil em novembro](<https://www.rcwtv.com.br/noticia/fiocruz-aponta-alta-nos-casos-de-srag-por-covid-19-no-brasil-em-novembro>)
-- 📰 [Ele foi bicampeão mundial pela Seleção Brasileira e virou corretor de imóveis em Santa Catarina](<https://www.rcwtv.com.br/noticia/ele-foi-bicampeao-mundial-pela-selecao-brasileira-e-virou-corretor-de-imoveis-em-santa-catarina>)
-- 📰 [Mariah Carey no Brasil: você sabe o que realmente significa o maior hit de Natal da cantora?](<https://www.rcwtv.com.br/noticia/mariah-carey-no-brasil-voce-sabe-o-que-realmente-significa-o-maior-hit-de-natal-da-cantora>)
-- 📰 [Congresso Nacional aprova novo nome para o Conselho de Comunicação Social](<https://www.rcwtv.com.br/noticia/congresso-nacional-aprova-novo-nome-para-o-conselho-de-comunicacao-social>)
-- 📰 [Secretaria de Saúde de Juiz de Fora reúne hospitais para alinhar atendimento](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-de-juiz-de-fora-reune-hospitais-para-alinhar-atendimento>)
-- 📰 [Marina Itajaí terá exposição de carros de de luxo do Grupo BYD neste fim de semana](<https://www.rcwtv.com.br/noticia/marina-itajai-tera-exposicao-de-carros-de-de-luxo-do-grupo-byd-neste-fim-de-semana>)
-- 📰 [Petrobras assume controle total da Logum para fortalecer logística de etanol](<https://www.rcwtv.com.br/noticia/petrobras-assume-controle-total-da-logum-para-fortalecer-logistica-de-etanol>)
-- 📰 [UFJF inicia obras de prédio para Clínica Veterinária e laboratórios](<https://www.rcwtv.com.br/noticia/ufjf-inicia-obras-de-predio-para-clinica-veterinaria-e-laboratorios>)
-- 📰 [Governo estuda modelo similar ao Enem para concurso unificado de 2027](<https://www.rcwtv.com.br/noticia/governo-estuda-modelo-similar-ao-enem-para-concurso-unificado-de-2027>)
+- 📰 [Procon-MPMG multa Cemig em R$ 333 mil por falhas em Frutal](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-cemig-em-r-333-mil-por-falhas-em-frutal>)
+- 📰 [Polícia Civil apreende adolescente com grande quantidade de drogas em Poços de Caldas](<https://www.rcwtv.com.br/noticia/policia-civil-apreende-adolescente-com-grande-quantidade-de-drogas-em-pocos-de-caldas>)
+- 📰 [Produtora de Três Pontas recebe primeira certificação de café regenerativo em Minas](<https://www.rcwtv.com.br/noticia/produtora-de-tres-pontas-recebe-primeira-certificacao-de-cafe-regenerativo-em-minas>)
+- 📰 [Juiz de Fora realiza etapa prévia do Encontro Nacional Pop Rua 2026](<https://www.rcwtv.com.br/noticia/juiz-de-fora-realiza-etapa-previa-do-encontro-nacional-pop-rua-2026>)
+- 📰 [Tesouro Nacional sofre vazamento de dados de 30 mil cadastros e chaves Pix](<https://www.rcwtv.com.br/noticia/tesouro-nacional-sofre-vazamento-de-dados-de-30-mil-cadastros-e-chaves-pix>)
+- 📰 [Anvisa proíbe venda de loção dermoprotetora da marca Needs](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-de-locao-dermoprotetora-da-marca-needs>)
+- 📰 [Como o forro define a distribuição do ar no cassete de uma via?](<https://www.rcwtv.com.br/noticia/como-o-forro-define-a-distribuicao-do-ar-no-cassete-de-uma-via>)
+- 📰 [Uso profissional da moto: quais riscos mudam na proteção contratada?](<https://www.rcwtv.com.br/noticia/uso-profissional-da-moto-quais-riscos-mudam-na-protecao-contratada>)
+- 📰 [Cine-Theatro Central recebe espetáculo a rua encantada em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cine-theatro-central-recebe-espetaculo-a-rua-encantada-em-juiz-de-fora>)
+- 📰 [Caixa Seguridade confirma ataque cibernético e exposição de dados de clientes](<https://www.rcwtv.com.br/noticia/caixa-seguridade-confirma-ataque-cibernetico-e-exposicao-de-dados-de-clientes>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

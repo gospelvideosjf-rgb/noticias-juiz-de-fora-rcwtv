@@ -1361,3 +1361,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Mulheres ficam feridas em queda de barranco e agressão em cidades da Zona da Mata](<https://www.rcwtv.com.br/noticia/mulheres-ficam-feridas-em-queda-de-barranco-e-agressao-em-cidades-da-zona-da-mata>) - *12/11/2026*
 - [Caminhão furtado em Santa Luzia é encontrado com placas adulteradas em Piranga; homem é preso](<https://www.rcwtv.com.br/noticia/caminhao-furtado-em-santa-luzia-e-encontrado-com-placas-adulteradas-em-piranga-homem-e-preso>) - *12/11/2026*
 
+### Atualização de 12/11/2026
+- [Procon-MPMG multa Cemig em R$ 333 mil por falhas em Frutal](<https://www.rcwtv.com.br/noticia/procon-mpmg-multa-cemig-em-r-333-mil-por-falhas-em-frutal>) - *12/11/2026*
+- [Polícia Civil apreende adolescente com grande quantidade de drogas em Poços de Caldas](<https://www.rcwtv.com.br/noticia/policia-civil-apreende-adolescente-com-grande-quantidade-de-drogas-em-pocos-de-caldas>) - *12/11/2026*
+- [Produtora de Três Pontas recebe primeira certificação de café regenerativo em Minas](<https://www.rcwtv.com.br/noticia/produtora-de-tres-pontas-recebe-primeira-certificacao-de-cafe-regenerativo-em-minas>) - *12/11/2026*
+- [Juiz de Fora realiza etapa prévia do Encontro Nacional Pop Rua 2026](<https://www.rcwtv.com.br/noticia/juiz-de-fora-realiza-etapa-previa-do-encontro-nacional-pop-rua-2026>) - *12/11/2026*
+- [Tesouro Nacional sofre vazamento de dados de 30 mil cadastros e chaves Pix](<https://www.rcwtv.com.br/noticia/tesouro-nacional-sofre-vazamento-de-dados-de-30-mil-cadastros-e-chaves-pix>) - *12/11/2026*
+- [Anvisa proíbe venda de loção dermoprotetora da marca Needs](<https://www.rcwtv.com.br/noticia/anvisa-proibe-venda-de-locao-dermoprotetora-da-marca-needs>) - *12/11/2026*
+- [Como o forro define a distribuição do ar no cassete de uma via?](<https://www.rcwtv.com.br/noticia/como-o-forro-define-a-distribuicao-do-ar-no-cassete-de-uma-via>) - *12/11/2026*
+- [Uso profissional da moto: quais riscos mudam na proteção contratada?](<https://www.rcwtv.com.br/noticia/uso-profissional-da-moto-quais-riscos-mudam-na-protecao-contratada>) - *12/11/2026*
+- [Cine-Theatro Central recebe espetáculo a rua encantada em Juiz de Fora](<https://www.rcwtv.com.br/noticia/cine-theatro-central-recebe-espetaculo-a-rua-encantada-em-juiz-de-fora>) - *12/11/2026*
+- [Caixa Seguridade confirma ataque cibernético e exposição de dados de clientes](<https://www.rcwtv.com.br/noticia/caixa-seguridade-confirma-ataque-cibernetico-e-exposicao-de-dados-de-clientes>) - *12/11/2026*
+- [Câmara dos Deputados homenageia destaques do esporte com a Medalha Rei Pelé](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-homenageia-destaques-do-esporte-com-a-medalha-rei-pele>) - *12/11/2026*
+- [ALMG celebra os 155 anos da Santa Casa de Montes Claros](<https://www.rcwtv.com.br/noticia/almg-celebra-os-155-anos-da-santa-casa-de-montes-claros>) - *12/11/2026*
+- [Cristiano Zanin rejeita pedido de segundo turno no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/cristiano-zanin-rejeita-pedido-de-segundo-turno-no-rio-de-janeiro>) - *12/11/2026*
+- [Secretaria de Estado de Saúde capacita servidores em Ubá](<https://www.rcwtv.com.br/noticia/secretaria-de-estado-de-saude-capacita-servidores-em-uba>) - *12/11/2026*
+- [Comissão debate regulamentação da reforma tributária com a Receita Federal](<https://www.rcwtv.com.br/noticia/comissao-debate-regulamentacao-da-reforma-tributaria-com-a-receita-federal>) - *12/11/2026*
+
