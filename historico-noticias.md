@@ -1410,3 +1410,10 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Comissão veta obrigatoriedade de vistoria veicular baseada na idade dos automóveis](<https://www.rcwtv.com.br/noticia/comissao-veta-obrigatoriedade-de-vistoria-veicular-baseada-na-idade-dos-automoveis>) - *13/11/2026*
 - [Estudo identifica molécula com potencial de prevenir a perda de visão associada ao diabetes](<https://www.rcwtv.com.br/noticia/estudo-identifica-molecula-com-potencial-de-prevenir-a-perda-de-visao-associada-ao-diabetes>) - *13/11/2026*
 
+### Atualização de 14/11/2026
+- [Norte e Noroeste impulsionam a energia solar em Minas Gerais com R$ 28 bilhões](<https://www.rcwtv.com.br/noticia/norte-e-noroeste-impulsionam-a-energia-solar-em-minas-gerais-com-r-28-bilhoes>) - *14/11/2026*
+- [Prêmio de R$ 27 milhões será pago no novo sorteio da Mega-Sena neste domingo](<https://www.rcwtv.com.br/noticia/premio-de-r-27-milhoes-sera-pago-no-novo-sorteio-da-mega-sena-neste-domingo>) - *14/11/2026*
+- [Semana Internacional do Café 2026 projeta R$ 200 milhões em negócios em BH](<https://www.rcwtv.com.br/noticia/semana-internacional-do-cafe-2026-projeta-r-200-milhoes-em-negocios-em-bh>) - *14/11/2026*
+- [Veja os horários, documentos e o que levar no segundo dia do Enem](<https://www.rcwtv.com.br/noticia/veja-os-horarios-documentos-e-o-que-levar-no-segundo-dia-do-enem>) - *14/11/2026*
+- [STF avança com quatro votos para manter o início da escala 5x2 em dezembro](<https://www.rcwtv.com.br/noticia/stf-avanca-com-quatro-votos-para-manter-o-inicio-da-escala-5x2-em-dezembro>) - *14/11/2026*
+

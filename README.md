@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Norte e Noroeste impulsionam a energia solar em Minas Gerais com R$ 28 bilhões](<https://www.rcwtv.com.br/noticia/norte-e-noroeste-impulsionam-a-energia-solar-em-minas-gerais-com-r-28-bilhoes>)
+- 📰 [Prêmio de R$ 27 milhões será pago no novo sorteio da Mega-Sena neste domingo](<https://www.rcwtv.com.br/noticia/premio-de-r-27-milhoes-sera-pago-no-novo-sorteio-da-mega-sena-neste-domingo>)
+- 📰 [Semana Internacional do Café 2026 projeta R$ 200 milhões em negócios em BH](<https://www.rcwtv.com.br/noticia/semana-internacional-do-cafe-2026-projeta-r-200-milhoes-em-negocios-em-bh>)
+- 📰 [Veja os horários, documentos e o que levar no segundo dia do Enem](<https://www.rcwtv.com.br/noticia/veja-os-horarios-documentos-e-o-que-levar-no-segundo-dia-do-enem>)
+- 📰 [STF avança com quatro votos para manter o início da escala 5x2 em dezembro](<https://www.rcwtv.com.br/noticia/stf-avanca-com-quatro-votos-para-manter-o-inicio-da-escala-5x2-em-dezembro>)
 - 📰 [Anac orienta passageiros após FAA suspender voos para os EUA](<https://www.rcwtv.com.br/noticia/anac-orienta-passageiros-apos-faa-suspender-voos-para-os-eua>)
 - 📰 [Gilmar Mendes acusa Sergio Moro de manipular Justiça para barrar Lula em 2018](<https://www.rcwtv.com.br/noticia/gilmar-mendes-acusa-sergio-moro-de-manipular-justica-para-barrar-lula-em-2018>)
 - 📰 [Receita Federal cancelará dívidas do MEI vencidas até esta sexta](<https://www.rcwtv.com.br/noticia/receita-federal-cancelara-dividas-do-mei-vencidas-ate-esta-sexta>)
 - 📰 [Comissão aprova dia nacional dedicado às mulheres na infraestrutura](<https://www.rcwtv.com.br/noticia/comissao-aprova-dia-nacional-dedicado-as-mulheres-na-infraestrutura>)
 - 📰 [Comissão da câmara aprova projeto que cria lei para a primeira infância](<https://www.rcwtv.com.br/noticia/comissao-da-camara-aprova-projeto-que-cria-lei-para-a-primeira-infancia>)
-- 📰 [Comissão aprova projeto que transforma em lei a política para a primeira infância](<https://www.rcwtv.com.br/noticia/comissao-aprova-projeto-que-transforma-em-lei-a-politica-para-a-primeira-infancia>)
-- 📰 [Antecipe suas parcelas e reduza o peso dos juros no orçamento](<https://www.rcwtv.com.br/noticia/antecipe-suas-parcelas-e-reduza-o-peso-dos-juros-no-orcamento>)
-- 📰 [Fachin suspende prazos processuais no país após falhas na Microsoft](<https://www.rcwtv.com.br/noticia/fachin-suspende-prazos-processuais-no-pais-apos-falhas-na-microsoft>)
-- 📰 [CCJ aprova mudança na Lei de Drogas para punir quem incrimina inocentes](<https://www.rcwtv.com.br/noticia/ccj-aprova-mudanca-na-lei-de-drogas-para-punir-quem-incrimina-inocentes>)
-- 📰 [Mutirão do INSS oferece quase 8 mil vagas de atendimento no fim de semana](<https://www.rcwtv.com.br/noticia/mutirao-do-inss-oferece-quase-8-mil-vagas-de-atendimento-no-fim-de-semana>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
