@@ -1395,3 +1395,18 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Homem é preso por roubo violento contra casal de idosos em Lima Duarte](<https://www.rcwtv.com.br/noticia/homem-e-preso-por-roubo-violento-contra-casal-de-idosos-em-lima-duarte>) - *13/11/2026*
 - [Assembleia Legislativa de Minas Gerais avança com projeto sobre facções criminosas](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-avanca-com-projeto-sobre-faccoes-criminosas>) - *13/11/2026*
 
+### Atualização de 13/11/2026
+- [Anac orienta passageiros após FAA suspender voos para os EUA](<https://www.rcwtv.com.br/noticia/anac-orienta-passageiros-apos-faa-suspender-voos-para-os-eua>) - *13/11/2026*
+- [Gilmar Mendes acusa Sergio Moro de manipular Justiça para barrar Lula em 2018](<https://www.rcwtv.com.br/noticia/gilmar-mendes-acusa-sergio-moro-de-manipular-justica-para-barrar-lula-em-2018>) - *13/11/2026*
+- [Receita Federal cancelará dívidas do MEI vencidas até esta sexta](<https://www.rcwtv.com.br/noticia/receita-federal-cancelara-dividas-do-mei-vencidas-ate-esta-sexta>) - *13/11/2026*
+- [Comissão aprova dia nacional dedicado às mulheres na infraestrutura](<https://www.rcwtv.com.br/noticia/comissao-aprova-dia-nacional-dedicado-as-mulheres-na-infraestrutura>) - *13/11/2026*
+- [Comissão da câmara aprova projeto que cria lei para a primeira infância](<https://www.rcwtv.com.br/noticia/comissao-da-camara-aprova-projeto-que-cria-lei-para-a-primeira-infancia>) - *13/11/2026*
+- [Comissão aprova projeto que transforma em lei a política para a primeira infância](<https://www.rcwtv.com.br/noticia/comissao-aprova-projeto-que-transforma-em-lei-a-politica-para-a-primeira-infancia>) - *13/11/2026*
+- [Antecipe suas parcelas e reduza o peso dos juros no orçamento](<https://www.rcwtv.com.br/noticia/antecipe-suas-parcelas-e-reduza-o-peso-dos-juros-no-orcamento>) - *13/11/2026*
+- [Fachin suspende prazos processuais no país após falhas na Microsoft](<https://www.rcwtv.com.br/noticia/fachin-suspende-prazos-processuais-no-pais-apos-falhas-na-microsoft>) - *13/11/2026*
+- [CCJ aprova mudança na Lei de Drogas para punir quem incrimina inocentes](<https://www.rcwtv.com.br/noticia/ccj-aprova-mudanca-na-lei-de-drogas-para-punir-quem-incrimina-inocentes>) - *13/11/2026*
+- [Mutirão do INSS oferece quase 8 mil vagas de atendimento no fim de semana](<https://www.rcwtv.com.br/noticia/mutirao-do-inss-oferece-quase-8-mil-vagas-de-atendimento-no-fim-de-semana>) - *13/11/2026*
+- [Vai viajar para o exterior no fim do ano? Cinco destinos para conhecer e praticar inglês](<https://www.rcwtv.com.br/noticia/vai-viajar-para-o-exterior-no-fim-do-ano-cinco-destinos-para-conhecer-e-praticar-ingles>) - *13/11/2026*
+- [Comissão veta obrigatoriedade de vistoria veicular baseada na idade dos automóveis](<https://www.rcwtv.com.br/noticia/comissao-veta-obrigatoriedade-de-vistoria-veicular-baseada-na-idade-dos-automoveis>) - *13/11/2026*
+- [Estudo identifica molécula com potencial de prevenir a perda de visão associada ao diabetes](<https://www.rcwtv.com.br/noticia/estudo-identifica-molecula-com-potencial-de-prevenir-a-perda-de-visao-associada-ao-diabetes>) - *13/11/2026*
+

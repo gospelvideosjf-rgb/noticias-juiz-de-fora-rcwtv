@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [EBC realiza cobertura especial e live sobre o segundo dia do Enem](<https://www.rcwtv.com.br/noticia/ebc-realiza-cobertura-especial-e-live-sobre-o-segundo-dia-do-enem>)
-- 📰 [Cade Cunningham faz história em noite de quatro jogos na NBA](<https://www.rcwtv.com.br/noticia/cade-cunningham-faz-historia-em-noite-de-quatro-jogos-na-nba>)
-- 📰 [Câmara aprova diretriz de bairros integrados no Estatuto da Cidade](<https://www.rcwtv.com.br/noticia/camara-aprova-diretriz-de-bairros-integrados-no-estatuto-da-cidade>)
-- 📰 [Assessor de Roberta Lopes é preso suspeito de depredação em Matias Barbosa](<https://www.rcwtv.com.br/noticia/assessor-de-roberta-lopes-e-preso-suspeito-de-depredacao-em-matias-barbosa>)
-- 📰 [Com passe decisivo no minuto final, Washington Commanders derrota New York Giants por 24 a 21 fora de casa](<https://www.rcwtv.com.br/noticia/com-passe-decisivo-no-minuto-final-washington-commanders-derrota-new-york-giants-por-24-a-21-fora-de-casa>)
-- 📰 [HU-UFJF inicia Campanha de Natal para crianças da Pediatria em Juiz de Fora](<https://www.rcwtv.com.br/noticia/hu-ufjf-inicia-campanha-de-natal-para-criancas-da-pediatria-em-juiz-de-fora>)
-- 📰 [Nova campanha destaca a importância do médico intensivista nas UTIs do país](<https://www.rcwtv.com.br/noticia/nova-campanha-destaca-a-importancia-do-medico-intensivista-nas-utis-do-pais>)
-- 📰 [Agenda cultural da UFJF em novembro traz teatro, exposições e roteiros](<https://www.rcwtv.com.br/noticia/agenda-cultural-da-ufjf-em-novembro-traz-teatro-exposicoes-e-roteiros>)
-- 📰 [Governo de Minas apresenta estratégias de adaptação climática na COP31](<https://www.rcwtv.com.br/noticia/governo-de-minas-apresenta-estrategias-de-adaptacao-climatica-na-cop31>)
-- 📰 [Estudantes de Juiz de Fora e região avançam em intercâmbio do Governo de Minas](<https://www.rcwtv.com.br/noticia/estudantes-de-juiz-de-fora-e-regiao-avancam-em-intercambio-do-governo-de-minas>)
+- 📰 [Anac orienta passageiros após FAA suspender voos para os EUA](<https://www.rcwtv.com.br/noticia/anac-orienta-passageiros-apos-faa-suspender-voos-para-os-eua>)
+- 📰 [Gilmar Mendes acusa Sergio Moro de manipular Justiça para barrar Lula em 2018](<https://www.rcwtv.com.br/noticia/gilmar-mendes-acusa-sergio-moro-de-manipular-justica-para-barrar-lula-em-2018>)
+- 📰 [Receita Federal cancelará dívidas do MEI vencidas até esta sexta](<https://www.rcwtv.com.br/noticia/receita-federal-cancelara-dividas-do-mei-vencidas-ate-esta-sexta>)
+- 📰 [Comissão aprova dia nacional dedicado às mulheres na infraestrutura](<https://www.rcwtv.com.br/noticia/comissao-aprova-dia-nacional-dedicado-as-mulheres-na-infraestrutura>)
+- 📰 [Comissão da câmara aprova projeto que cria lei para a primeira infância](<https://www.rcwtv.com.br/noticia/comissao-da-camara-aprova-projeto-que-cria-lei-para-a-primeira-infancia>)
+- 📰 [Comissão aprova projeto que transforma em lei a política para a primeira infância](<https://www.rcwtv.com.br/noticia/comissao-aprova-projeto-que-transforma-em-lei-a-politica-para-a-primeira-infancia>)
+- 📰 [Antecipe suas parcelas e reduza o peso dos juros no orçamento](<https://www.rcwtv.com.br/noticia/antecipe-suas-parcelas-e-reduza-o-peso-dos-juros-no-orcamento>)
+- 📰 [Fachin suspende prazos processuais no país após falhas na Microsoft](<https://www.rcwtv.com.br/noticia/fachin-suspende-prazos-processuais-no-pais-apos-falhas-na-microsoft>)
+- 📰 [CCJ aprova mudança na Lei de Drogas para punir quem incrimina inocentes](<https://www.rcwtv.com.br/noticia/ccj-aprova-mudanca-na-lei-de-drogas-para-punir-quem-incrimina-inocentes>)
+- 📰 [Mutirão do INSS oferece quase 8 mil vagas de atendimento no fim de semana](<https://www.rcwtv.com.br/noticia/mutirao-do-inss-oferece-quase-8-mil-vagas-de-atendimento-no-fim-de-semana>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
