@@ -1417,3 +1417,10 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Veja os horários, documentos e o que levar no segundo dia do Enem](<https://www.rcwtv.com.br/noticia/veja-os-horarios-documentos-e-o-que-levar-no-segundo-dia-do-enem>) - *14/11/2026*
 - [STF avança com quatro votos para manter o início da escala 5x2 em dezembro](<https://www.rcwtv.com.br/noticia/stf-avanca-com-quatro-votos-para-manter-o-inicio-da-escala-5x2-em-dezembro>) - *14/11/2026*
 
+### Atualização de 15/11/2026
+- [Mega-Sena acumula e pode pagar R$ 34 milhões no próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-pode-pagar-r-34-milhoes-no-proximo-sorteio>) - *15/11/2026*
+- [Segundo dia do Enem 2026 traz 90 questões de exatas e ciências da natureza](<https://www.rcwtv.com.br/noticia/segundo-dia-do-enem-2026-traz-90-questoes-de-exatas-e-ciencias-da-natureza>) - *15/11/2026*
+- [Professores analisam provas na live Resenha do Enem neste domingo](<https://www.rcwtv.com.br/noticia/professores-analisam-provas-na-live-resenha-do-enem-neste-domingo>) - *15/11/2026*
+- [Alerta de chuvas em São Paulo indica fortes temporais neste domingo](<https://www.rcwtv.com.br/noticia/alerta-de-chuvas-em-sao-paulo-indica-fortes-temporais-neste-domingo>) - *15/11/2026*
+- [Proposta do fim da reeleição pode dar 10 anos de mandato a prefeitos de MG](<https://www.rcwtv.com.br/noticia/proposta-do-fim-da-reeleicao-pode-dar-10-anos-de-mandato-a-prefeitos-de-mg>) - *15/11/2026*
+
