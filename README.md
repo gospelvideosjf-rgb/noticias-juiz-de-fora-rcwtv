@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Inep divulgará gabarito do Enem nesta quarta-feira; veja prazos](<https://www.rcwtv.com.br/noticia/inep-divulgara-gabarito-do-enem-nesta-quarta-feira-veja-prazos>)
-- 📰 [Após tragédia em Brasília, famílias e peritos cobram combate ao bullying eficaz](<https://www.rcwtv.com.br/noticia/apos-tragedia-em-brasilia-familias-e-peritos-cobram-combate-ao-bullying-eficaz>)
-- 📰 [Programa abre 3 mil vagas para capacitação de servidores em inclusão](<https://www.rcwtv.com.br/noticia/programa-abre-3-mil-vagas-para-capacitacao-de-servidores-em-inclusao>)
-- 📰 [Alckmin elogia a complexa aplicação do Enem e destaca seu papel na educação](<https://www.rcwtv.com.br/noticia/alckmin-elogia-a-complexa-aplicacao-do-enem-e-destaca-seu-papel-na-educacao>)
-- 📰 [Mega-Sena acumula e pode pagar R$ 34 milhões no próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-pode-pagar-r-34-milhoes-no-proximo-sorteio>)
-- 📰 [Segundo dia do Enem 2026 traz 90 questões de exatas e ciências da natureza](<https://www.rcwtv.com.br/noticia/segundo-dia-do-enem-2026-traz-90-questoes-de-exatas-e-ciencias-da-natureza>)
-- 📰 [Professores analisam provas na live Resenha do Enem neste domingo](<https://www.rcwtv.com.br/noticia/professores-analisam-provas-na-live-resenha-do-enem-neste-domingo>)
-- 📰 [Alerta de chuvas em São Paulo indica fortes temporais neste domingo](<https://www.rcwtv.com.br/noticia/alerta-de-chuvas-em-sao-paulo-indica-fortes-temporais-neste-domingo>)
-- 📰 [Proposta do fim da reeleição pode dar 10 anos de mandato a prefeitos de MG](<https://www.rcwtv.com.br/noticia/proposta-do-fim-da-reeleicao-pode-dar-10-anos-de-mandato-a-prefeitos-de-mg>)
-- 📰 [Norte e Noroeste impulsionam a energia solar em Minas Gerais com R$ 28 bilhões](<https://www.rcwtv.com.br/noticia/norte-e-noroeste-impulsionam-a-energia-solar-em-minas-gerais-com-r-28-bilhoes>)
+- 📰 [Gestão universitária é debatida em encontro nacional com foco em melhorias](<https://www.rcwtv.com.br/noticia/gestao-universitaria-e-debatida-em-encontro-nacional-com-foco-em-melhorias>)
+- 📰 [Reforma tributária deve mudar custos da construção civil e influenciar preços dos imóveis nos próximos anos](<https://www.rcwtv.com.br/noticia/reforma-tributaria-deve-mudar-custos-da-construcao-civil-e-influenciar-precos-dos-imoveis-nos-proximos-anos>)
+- 📰 [Minas Gerais apresenta metas de transição climática em Minas na COP31](<https://www.rcwtv.com.br/noticia/minas-gerais-apresenta-metas-de-transicao-climatica-em-minas-na-cop31>)
+- 📰 [Projeto define novas regras para uso de anticoncepcionais hormonais em pets](<https://www.rcwtv.com.br/noticia/projeto-define-novas-regras-para-uso-de-anticoncepcionais-hormonais-em-pets>)
+- 📰 [Nova unidade de atendimento aeromédico realiza 44 missões em um mês](<https://www.rcwtv.com.br/noticia/nova-unidade-de-atendimento-aeromedico-realiza-44-missoes-em-um-mes>)
+- 📰 [Economia circular movimenta até R$ 90,7 bilhões na indústria do Brasil](<https://www.rcwtv.com.br/noticia/economia-circular-movimenta-ate-r-90-7-bilhoes-na-industria-do-brasil>)
+- 📰 [PRF prende foragido e intercepta 302 cigarros eletrônicos apreendidos na BR-251](<https://www.rcwtv.com.br/noticia/prf-prende-foragido-e-intercepta-302-cigarros-eletronicos-apreendidos-na-br-251>)
+- 📰 [Polícia Federal recupera R$ 20 bilhões e diretor reafirma independência](<https://www.rcwtv.com.br/noticia/policia-federal-recupera-r-20-bilhoes-e-diretor-reafirma-independencia>)
+- 📰 [Fundos de pensão ganham regra específica para empréstimos na Câmara](<https://www.rcwtv.com.br/noticia/fundos-de-pensao-ganham-regra-especifica-para-emprestimos-na-camara>)
+- 📰 [MEC divulga resultado das vagas remanescentes do Fies nesta segunda-feira](<https://www.rcwtv.com.br/noticia/mec-divulga-resultado-das-vagas-remanescentes-do-fies-nesta-segunda-feira>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

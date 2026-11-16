@@ -1430,3 +1430,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Programa abre 3 mil vagas para capacitação de servidores em inclusão](<https://www.rcwtv.com.br/noticia/programa-abre-3-mil-vagas-para-capacitacao-de-servidores-em-inclusao>) - *15/11/2026*
 - [Alckmin elogia a complexa aplicação do Enem e destaca seu papel na educação](<https://www.rcwtv.com.br/noticia/alckmin-elogia-a-complexa-aplicacao-do-enem-e-destaca-seu-papel-na-educacao>) - *15/11/2026*
 
+### Atualização de 16/11/2026
+- [Gestão universitária é debatida em encontro nacional com foco em melhorias](<https://www.rcwtv.com.br/noticia/gestao-universitaria-e-debatida-em-encontro-nacional-com-foco-em-melhorias>) - *16/11/2026*
+- [Reforma tributária deve mudar custos da construção civil e influenciar preços dos imóveis nos próximos anos](<https://www.rcwtv.com.br/noticia/reforma-tributaria-deve-mudar-custos-da-construcao-civil-e-influenciar-precos-dos-imoveis-nos-proximos-anos>) - *16/11/2026*
+- [Minas Gerais apresenta metas de transição climática em Minas na COP31](<https://www.rcwtv.com.br/noticia/minas-gerais-apresenta-metas-de-transicao-climatica-em-minas-na-cop31>) - *16/11/2026*
+- [Projeto define novas regras para uso de anticoncepcionais hormonais em pets](<https://www.rcwtv.com.br/noticia/projeto-define-novas-regras-para-uso-de-anticoncepcionais-hormonais-em-pets>) - *16/11/2026*
+- [Nova unidade de atendimento aeromédico realiza 44 missões em um mês](<https://www.rcwtv.com.br/noticia/nova-unidade-de-atendimento-aeromedico-realiza-44-missoes-em-um-mes>) - *16/11/2026*
+- [Economia circular movimenta até R$ 90,7 bilhões na indústria do Brasil](<https://www.rcwtv.com.br/noticia/economia-circular-movimenta-ate-r-90-7-bilhoes-na-industria-do-brasil>) - *16/11/2026*
+- [PRF prende foragido e intercepta 302 cigarros eletrônicos apreendidos na BR-251](<https://www.rcwtv.com.br/noticia/prf-prende-foragido-e-intercepta-302-cigarros-eletronicos-apreendidos-na-br-251>) - *16/11/2026*
+- [Polícia Federal recupera R$ 20 bilhões e diretor reafirma independência](<https://www.rcwtv.com.br/noticia/policia-federal-recupera-r-20-bilhoes-e-diretor-reafirma-independencia>) - *16/11/2026*
+- [Fundos de pensão ganham regra específica para empréstimos na Câmara](<https://www.rcwtv.com.br/noticia/fundos-de-pensao-ganham-regra-especifica-para-emprestimos-na-camara>) - *16/11/2026*
+- [MEC divulga resultado das vagas remanescentes do Fies nesta segunda-feira](<https://www.rcwtv.com.br/noticia/mec-divulga-resultado-das-vagas-remanescentes-do-fies-nesta-segunda-feira>) - *16/11/2026*
+- [Brasil supera meta de turismo internacional antes do prazo previsto para 2026](<https://www.rcwtv.com.br/noticia/brasil-supera-meta-de-turismo-internacional-antes-do-prazo-previsto-para-2026>) - *16/11/2026*
+- [ALMG presta homenagem medicina veterinária em audiência nesta terça-feira](<https://www.rcwtv.com.br/noticia/almg-presta-homenagem-medicina-veterinaria-em-audiencia-nesta-terca-feira>) - *16/11/2026*
+- [Comissão aprova incentivos fiscais para empresas focadas em tecnologias assistivas](<https://www.rcwtv.com.br/noticia/comissao-aprova-incentivos-fiscais-para-empresas-focadas-em-tecnologias-assistivas>) - *16/11/2026*
+- [Fim de semana da NBA tem séries ampliadas, marcas históricas e reação de gigantes](<https://www.rcwtv.com.br/noticia/fim-de-semana-da-nba-tem-series-ampliadas-marcas-historicas-e-reacao-de-gigantes>) - *16/11/2026*
+- [Acordo amplia atuação de policiais institucionais em todo o estado de Minas Gerais](<https://www.rcwtv.com.br/noticia/acordo-amplia-atuacao-de-policiais-institucionais-em-todo-o-estado-de-minas-gerais>) - *16/11/2026*
+
