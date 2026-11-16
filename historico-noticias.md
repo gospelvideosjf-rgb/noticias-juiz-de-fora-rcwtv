@@ -1424,3 +1424,9 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Alerta de chuvas em São Paulo indica fortes temporais neste domingo](<https://www.rcwtv.com.br/noticia/alerta-de-chuvas-em-sao-paulo-indica-fortes-temporais-neste-domingo>) - *15/11/2026*
 - [Proposta do fim da reeleição pode dar 10 anos de mandato a prefeitos de MG](<https://www.rcwtv.com.br/noticia/proposta-do-fim-da-reeleicao-pode-dar-10-anos-de-mandato-a-prefeitos-de-mg>) - *15/11/2026*
 
+### Atualização de 15/11/2026
+- [Inep divulgará gabarito do Enem nesta quarta-feira; veja prazos](<https://www.rcwtv.com.br/noticia/inep-divulgara-gabarito-do-enem-nesta-quarta-feira-veja-prazos>) - *15/11/2026*
+- [Após tragédia em Brasília, famílias e peritos cobram combate ao bullying eficaz](<https://www.rcwtv.com.br/noticia/apos-tragedia-em-brasilia-familias-e-peritos-cobram-combate-ao-bullying-eficaz>) - *15/11/2026*
+- [Programa abre 3 mil vagas para capacitação de servidores em inclusão](<https://www.rcwtv.com.br/noticia/programa-abre-3-mil-vagas-para-capacitacao-de-servidores-em-inclusao>) - *15/11/2026*
+- [Alckmin elogia a complexa aplicação do Enem e destaca seu papel na educação](<https://www.rcwtv.com.br/noticia/alckmin-elogia-a-complexa-aplicacao-do-enem-e-destaca-seu-papel-na-educacao>) - *15/11/2026*
+
