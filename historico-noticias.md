@@ -1464,3 +1464,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Secretaria de Saúde nomeia 167 aprovados no concurso da SES-MG](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-nomeia-167-aprovados-no-concurso-da-ses-mg>) - *17/11/2026*
 - [Ajuste fiscal não corta verbas da saúde e educação, garante Paulo Pimenta](<https://www.rcwtv.com.br/noticia/ajuste-fiscal-nao-corta-verbas-da-saude-e-educacao-garante-paulo-pimenta>) - *17/11/2026*
 
+### Atualização de 17/11/2026
+- [UFJF abre novas vagas para professor Substituto com inscrições gratuitas](<https://www.rcwtv.com.br/noticia/ufjf-abre-novas-vagas-para-professor-substituto-com-inscricoes-gratuitas>) - *17/11/2026*
+- [Minas Gerais celebra formatura de delegados para reforçar a segurança](<https://www.rcwtv.com.br/noticia/minas-gerais-celebra-formatura-de-delegados-para-reforcar-a-seguranca>) - *17/11/2026*
+- [Prefeitura de Juiz de Fora busca integração dos serviços de urgência e emergência](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-busca-integracao-dos-servicos-de-urgencia-e-emergencia>) - *17/11/2026*
+- [Lei de TICs movimenta R$ 37 bilhões em investimentos e celebra 35 anos na Câmara](<https://www.rcwtv.com.br/noticia/lei-de-tics-movimenta-r-37-bilhoes-em-investimentos-e-celebra-35-anos-na-camara>) - *17/11/2026*
+- [PRF flagra caminhões com freios isolados e excesso de peso na BR-040](<https://www.rcwtv.com.br/noticia/prf-flagra-caminhoes-com-freios-isolados-e-excesso-de-peso-na-br-040>) - *17/11/2026*
+- [UFJF conquista cinco prêmios nacionais em mostra de jornalismo universitário na Bahia](<https://www.rcwtv.com.br/noticia/ufjf-conquista-cinco-premios-nacionais-em-mostra-de-jornalismo-universitario-na-bahia>) - *17/11/2026*
+- [Prefeitura recua e garante estrutura para blocos, mas mantém desfiles de escolas de samba suspensos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-recua-e-garante-estrutura-para-blocos-mas-mantem-desfiles-de-escolas-de-samba-suspensos-em-juiz-de-fora>) - *17/11/2026*
+- [Anvisa abre consultas sobre produtos componentes do sangue para uso terapêutico](<https://www.rcwtv.com.br/noticia/anvisa-abre-consultas-sobre-produtos-componentes-do-sangue-para-uso-terapeutico>) - *17/11/2026*
+- [Governo articula acordo para votar o ajuste fiscal na Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/governo-articula-acordo-para-votar-o-ajuste-fiscal-na-camara-dos-deputados>) - *17/11/2026*
+- [Copasa conclui obras e amplia segurança no abastecimento em Januária](<https://www.rcwtv.com.br/noticia/copasa-conclui-obras-e-amplia-seguranca-no-abastecimento-em-januaria>) - *17/11/2026*
+- [Atenção à segurança perto da rede elétrica evita acidentes graves no trabalho](<https://www.rcwtv.com.br/noticia/atencao-a-seguranca-perto-da-rede-eletrica-evita-acidentes-graves-no-trabalho>) - *17/11/2026*
+- [DER-MG inicia recuperação de aterro na MG-114 após interrupção do tráfego](<https://www.rcwtv.com.br/noticia/der-mg-inicia-recuperacao-de-aterro-na-mg-114-apos-interrupcao-do-trafego-87216>) - *17/11/2026*
+- [Dario Durigan defende reforma tributária e projeta alíquota efetiva de 8,5%](<https://www.rcwtv.com.br/noticia/dario-durigan-defende-reforma-tributaria-e-projeta-aliquota-efetiva-de-8-5>) - *17/11/2026*
+- [Rodada da NBA tem tropeço dos Celtics, reação do Heat e noite histórica de novatos](<https://www.rcwtv.com.br/noticia/rodada-da-nba-tem-tropeco-dos-celtics-reacao-do-heat-e-noite-historica-de-novatos>) - *17/11/2026*
+- [Semana de História da UFJF debate relações entre Oriente e Ocidente](<https://www.rcwtv.com.br/noticia/semana-de-historia-da-ufjf-debate-relacoes-entre-oriente-e-ocidente>) - *17/11/2026*
+
