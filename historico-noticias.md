@@ -1447,3 +1447,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Fim de semana da NBA tem séries ampliadas, marcas históricas e reação de gigantes](<https://www.rcwtv.com.br/noticia/fim-de-semana-da-nba-tem-series-ampliadas-marcas-historicas-e-reacao-de-gigantes>) - *16/11/2026*
 - [Acordo amplia atuação de policiais institucionais em todo o estado de Minas Gerais](<https://www.rcwtv.com.br/noticia/acordo-amplia-atuacao-de-policiais-institucionais-em-todo-o-estado-de-minas-gerais>) - *16/11/2026*
 
+### Atualização de 17/11/2026
+- [Nova base de atendimento aeromédico realiza 44 missões em um mês de operação](<https://www.rcwtv.com.br/noticia/nova-base-de-atendimento-aeromedico-realiza-44-missoes-em-um-mes-de-operacao>) - *17/11/2026*
+- [DER-MG inicia recuperação de aterro na MG-114 após interrupção do tráfego](<https://www.rcwtv.com.br/noticia/der-mg-inicia-recuperacao-de-aterro-na-mg-114-apos-interrupcao-do-trafego>) - *17/11/2026*
+- [Secretaria de Saúde nomeia 167 candidatos aprovados em concurso público](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-nomeia-167-candidatos-aprovados-em-concurso-publico>) - *17/11/2026*
+- [Estudantes conhecem obras de macrodrenagem em oficinas no Bairro Industrial](<https://www.rcwtv.com.br/noticia/estudantes-conhecem-obras-de-macrodrenagem-em-oficinas-no-bairro-industrial>) - *17/11/2026*
+- [Trabalhadores recebem indenizações por trabalho escravo após atraso em Unaí](<https://www.rcwtv.com.br/noticia/trabalhadores-recebem-indenizacoes-por-trabalho-escravo-apos-atraso-em-unai>) - *17/11/2026*
+- [Carta de Brasília firma compromisso para fortalecer sistemas de saúde](<https://www.rcwtv.com.br/noticia/carta-de-brasilia-firma-compromisso-para-fortalecer-sistemas-de-saude>) - *17/11/2026*
+- [MPMG aciona STF para garantir o Novo Auxílio Emergencial em Brumadinho](<https://www.rcwtv.com.br/noticia/mpmg-aciona-stf-para-garantir-o-novo-auxilio-emergencial-em-brumadinho>) - *17/11/2026*
+- [Gestão universitária é tema de encontro nacional com participação da UFJF](<https://www.rcwtv.com.br/noticia/gestao-universitaria-e-tema-de-encontro-nacional-com-participacao-da-ufjf>) - *17/11/2026*
+- [Sistema ICMS Turismo abre inscrições para 2026 após recorde de 655 cidades](<https://www.rcwtv.com.br/noticia/sistema-icms-turismo-abre-inscricoes-para-2026-apos-recorde-de-655-cidades>) - *17/11/2026*
+- [Mutirão oferece mais de 740 vagas de emprego em Juiz de Fora nesta terça](<https://www.rcwtv.com.br/noticia/mutirao-oferece-mais-de-740-vagas-de-emprego-em-juiz-de-fora-nesta-terca>) - *17/11/2026*
+- [Comissão aprova enquadramento do Hamas e Hezbollah como grupos terroristas](<https://www.rcwtv.com.br/noticia/comissao-aprova-enquadramento-do-hamas-e-hezbollah-como-grupos-terroristas>) - *17/11/2026*
+- [Projeto proíbe uso da imagem do empregado em mídias corporativas](<https://www.rcwtv.com.br/noticia/projeto-proibe-uso-da-imagem-do-empregado-em-midias-corporativas>) - *17/11/2026*
+- [Justiça condena mulher por injúria racial contra vizinha em Francisco Sá](<https://www.rcwtv.com.br/noticia/justica-condena-mulher-por-injuria-racial-contra-vizinha-em-francisco-sa>) - *17/11/2026*
+- [Secretaria de Saúde nomeia 167 aprovados no concurso da SES-MG](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-nomeia-167-aprovados-no-concurso-da-ses-mg>) - *17/11/2026*
+- [Ajuste fiscal não corta verbas da saúde e educação, garante Paulo Pimenta](<https://www.rcwtv.com.br/noticia/ajuste-fiscal-nao-corta-verbas-da-saude-e-educacao-garante-paulo-pimenta>) - *17/11/2026*
+

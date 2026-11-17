@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Gestão universitária é debatida em encontro nacional com foco em melhorias](<https://www.rcwtv.com.br/noticia/gestao-universitaria-e-debatida-em-encontro-nacional-com-foco-em-melhorias>)
-- 📰 [Reforma tributária deve mudar custos da construção civil e influenciar preços dos imóveis nos próximos anos](<https://www.rcwtv.com.br/noticia/reforma-tributaria-deve-mudar-custos-da-construcao-civil-e-influenciar-precos-dos-imoveis-nos-proximos-anos>)
-- 📰 [Minas Gerais apresenta metas de transição climática em Minas na COP31](<https://www.rcwtv.com.br/noticia/minas-gerais-apresenta-metas-de-transicao-climatica-em-minas-na-cop31>)
-- 📰 [Projeto define novas regras para uso de anticoncepcionais hormonais em pets](<https://www.rcwtv.com.br/noticia/projeto-define-novas-regras-para-uso-de-anticoncepcionais-hormonais-em-pets>)
-- 📰 [Nova unidade de atendimento aeromédico realiza 44 missões em um mês](<https://www.rcwtv.com.br/noticia/nova-unidade-de-atendimento-aeromedico-realiza-44-missoes-em-um-mes>)
-- 📰 [Economia circular movimenta até R$ 90,7 bilhões na indústria do Brasil](<https://www.rcwtv.com.br/noticia/economia-circular-movimenta-ate-r-90-7-bilhoes-na-industria-do-brasil>)
-- 📰 [PRF prende foragido e intercepta 302 cigarros eletrônicos apreendidos na BR-251](<https://www.rcwtv.com.br/noticia/prf-prende-foragido-e-intercepta-302-cigarros-eletronicos-apreendidos-na-br-251>)
-- 📰 [Polícia Federal recupera R$ 20 bilhões e diretor reafirma independência](<https://www.rcwtv.com.br/noticia/policia-federal-recupera-r-20-bilhoes-e-diretor-reafirma-independencia>)
-- 📰 [Fundos de pensão ganham regra específica para empréstimos na Câmara](<https://www.rcwtv.com.br/noticia/fundos-de-pensao-ganham-regra-especifica-para-emprestimos-na-camara>)
-- 📰 [MEC divulga resultado das vagas remanescentes do Fies nesta segunda-feira](<https://www.rcwtv.com.br/noticia/mec-divulga-resultado-das-vagas-remanescentes-do-fies-nesta-segunda-feira>)
+- 📰 [Nova base de atendimento aeromédico realiza 44 missões em um mês de operação](<https://www.rcwtv.com.br/noticia/nova-base-de-atendimento-aeromedico-realiza-44-missoes-em-um-mes-de-operacao>)
+- 📰 [DER-MG inicia recuperação de aterro na MG-114 após interrupção do tráfego](<https://www.rcwtv.com.br/noticia/der-mg-inicia-recuperacao-de-aterro-na-mg-114-apos-interrupcao-do-trafego>)
+- 📰 [Secretaria de Saúde nomeia 167 candidatos aprovados em concurso público](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-nomeia-167-candidatos-aprovados-em-concurso-publico>)
+- 📰 [Estudantes conhecem obras de macrodrenagem em oficinas no Bairro Industrial](<https://www.rcwtv.com.br/noticia/estudantes-conhecem-obras-de-macrodrenagem-em-oficinas-no-bairro-industrial>)
+- 📰 [Trabalhadores recebem indenizações por trabalho escravo após atraso em Unaí](<https://www.rcwtv.com.br/noticia/trabalhadores-recebem-indenizacoes-por-trabalho-escravo-apos-atraso-em-unai>)
+- 📰 [Carta de Brasília firma compromisso para fortalecer sistemas de saúde](<https://www.rcwtv.com.br/noticia/carta-de-brasilia-firma-compromisso-para-fortalecer-sistemas-de-saude>)
+- 📰 [MPMG aciona STF para garantir o Novo Auxílio Emergencial em Brumadinho](<https://www.rcwtv.com.br/noticia/mpmg-aciona-stf-para-garantir-o-novo-auxilio-emergencial-em-brumadinho>)
+- 📰 [Gestão universitária é tema de encontro nacional com participação da UFJF](<https://www.rcwtv.com.br/noticia/gestao-universitaria-e-tema-de-encontro-nacional-com-participacao-da-ufjf>)
+- 📰 [Sistema ICMS Turismo abre inscrições para 2026 após recorde de 655 cidades](<https://www.rcwtv.com.br/noticia/sistema-icms-turismo-abre-inscricoes-para-2026-apos-recorde-de-655-cidades>)
+- 📰 [Mutirão oferece mais de 740 vagas de emprego em Juiz de Fora nesta terça](<https://www.rcwtv.com.br/noticia/mutirao-oferece-mais-de-740-vagas-de-emprego-em-juiz-de-fora-nesta-terca>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
