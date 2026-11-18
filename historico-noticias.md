@@ -1498,3 +1498,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Cursos da UFJF-GV conquistam nota máxima no Guia da Faculdade 2026](<https://www.rcwtv.com.br/noticia/cursos-da-ufjf-gv-conquistam-nota-maxima-no-guia-da-faculdade-2026>) - *17/11/2026*
 - [Minas Gerais intensifica monitoramento da Mpox para reduzir novos casos](<https://www.rcwtv.com.br/noticia/minas-gerais-intensifica-monitoramento-da-mpox-para-reduzir-novos-casos>) - *17/11/2026*
 
+### Atualização de 18/11/2026
+- [Tribunal encerra fórum com aprovação da Carta de Prerrogativas em Minas](<https://www.rcwtv.com.br/noticia/tribunal-encerra-forum-com-aprovacao-da-carta-de-prerrogativas-em-minas>) - *18/11/2026*
+- [UBS Torreões promove atividades sobre o Dia da Consciência Negra](<https://www.rcwtv.com.br/noticia/ubs-torreoes-promove-atividades-sobre-o-dia-da-consciencia-negra>) - *18/11/2026*
+- [Receita diz que não punirá erros de boa-fé na Reforma Tributária em 2027](<https://www.rcwtv.com.br/noticia/receita-diz-que-nao-punira-erros-de-boa-fe-na-reforma-tributaria-em-2027>) - *18/11/2026*
+- [Assembleia rejeita veto parcial à LDO e mantém regras de saúde e educação](<https://www.rcwtv.com.br/noticia/assembleia-rejeita-veto-parcial-a-ldo-e-mantem-regras-de-saude-e-educacao>) - *18/11/2026*
+- [Prefeitura recua e garante estrutura para blocos no Carnaval 2027 em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-recua-e-garante-estrutura-para-blocos-no-carnaval-2027-em-juiz-de-fora>) - *18/11/2026*
+- [Dedetização em Campos dos Goytacazes: contato, serviços](<https://www.rcwtv.com.br/noticia/dedetizacao-em-campos-dos-goytacazes-contato-servicos>) - *18/11/2026*
+- [Juiz de Fora inaugura ponto de apoio para trabalhadores de aplicativo na Zona](<https://www.rcwtv.com.br/noticia/juiz-de-fora-inaugura-ponto-de-apoio-para-trabalhadores-de-aplicativo-na-zona>) - *18/11/2026*
+- [Comissão Externa de Combate à Pirataria debate avanço do crime no setor produtivo](<https://www.rcwtv.com.br/noticia/comissao-externa-de-combate-a-pirataria-debate-avanco-do-crime-no-setor-produtivo>) - *18/11/2026*
+- [MEC prorroga adesão ao Selo Nacional Compromisso com a Alfabetização até o dia 23](<https://www.rcwtv.com.br/noticia/mec-prorroga-adesao-ao-selo-nacional-compromisso-com-a-alfabetizacao-ate-o-dia-23>) - *18/11/2026*
+- [Jogos Escolares de Minas Gerais selecionam entidade com repasse de R$ 56,9 milhões](<https://www.rcwtv.com.br/noticia/jogos-escolares-de-minas-gerais-selecionam-entidade-com-repasse-de-r-56-9-milhoes>) - *18/11/2026*
+- [Hospital Regional de Teófilo Otoni amplia saúde em Minas Gerais](<https://www.rcwtv.com.br/noticia/hospital-regional-de-teofilo-otoni-amplia-saude-em-minas-gerais>) - *18/11/2026*
+- [Viaduto do Mariano Procópio segue sem data para obras; documento da ANTT aponta prazo entre 27 e 28](<https://www.rcwtv.com.br/noticia/viaduto-do-mariano-procopio-segue-sem-data-para-obras-documento-da-antt-aponta-prazo-entre-27-e-28>) - *18/11/2026*
+- [Jovens em Ação Climática seleciona projetos ambientais em Juiz de Fora](<https://www.rcwtv.com.br/noticia/jovens-em-acao-climatica-seleciona-projetos-ambientais-em-juiz-de-fora>) - *18/11/2026*
+- [CCJ aprova prioridade na restituição do Imposto de Renda para áreas em calamidade](<https://www.rcwtv.com.br/noticia/ccj-aprova-prioridade-na-restituicao-do-imposto-de-renda-para-areas-em-calamidade>) - *18/11/2026*
+- [Polícia Civil prende suspeito de tentativa de homicídio contra pai](<https://www.rcwtv.com.br/noticia/policia-civil-prende-suspeito-de-tentativa-de-homicidio-contra-pai>) - *18/11/2026*
+

@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Confira as principais notícias da UFJF com avanços em obras e projetos](<https://www.rcwtv.com.br/noticia/confira-as-principais-noticias-da-ufjf-com-avancos-em-obras-e-projetos>)
-- 📰 [Minas em Transição detalha gestão de recursos financeiros nesta quarta-feira](<https://www.rcwtv.com.br/noticia/minas-em-transicao-detalha-gestao-de-recursos-financeiros-nesta-quarta-feira>)
-- 📰 [Vanzinha da proteção oferece vacinação na Praça Prefeito Tarcísio Delgado](<https://www.rcwtv.com.br/noticia/vanzinha-da-protecao-oferece-vacinacao-na-praca-prefeito-tarcisio-delgado>)
-- 📰 [Anvisa apreende 40 mil produtos derivados do tabaco irregulares no RS](<https://www.rcwtv.com.br/noticia/anvisa-apreende-40-mil-produtos-derivados-do-tabaco-irregulares-no-rs>)
-- 📰 [MGC-464 terá detonação de rochas e interdição total nesta quarta-feira (18/11)](<https://www.rcwtv.com.br/noticia/mgc-464-tera-detonacao-de-rochas-e-interdicao-total-nesta-quarta-feira-18-11>)
-- 📰 [Clube de Benefícios UFJF em Rede oferece descontos para comunidade acadêmica](<https://www.rcwtv.com.br/noticia/clube-de-beneficios-ufjf-em-rede-oferece-descontos-para-comunidade-academica>)
-- 📰 [Fórum Intervid debate a investigação criminal e o apoio às vítimas em Belo](<https://www.rcwtv.com.br/noticia/forum-intervid-debate-a-investigacao-criminal-e-o-apoio-as-vitimas-em-belo>)
-- 📰 [Falta de acesso ao tratamento da DPOC atinge a maioria dos pacientes em Minas](<https://www.rcwtv.com.br/noticia/falta-de-acesso-ao-tratamento-da-dpoc-atinge-a-maioria-dos-pacientes-em-minas>)
-- 📰 [Trilhas de Futuro abre vagas para 50 mil estudantes em Minas Gerais](<https://www.rcwtv.com.br/noticia/trilhas-de-futuro-abre-vagas-para-50-mil-estudantes-em-minas-gerais>)
-- 📰 [Minas Gerais qualifica indicadores do Plano de Enfrentamento ao El Niño](<https://www.rcwtv.com.br/noticia/minas-gerais-qualifica-indicadores-do-plano-de-enfrentamento-ao-el-nino>)
+- 📰 [Tribunal encerra fórum com aprovação da Carta de Prerrogativas em Minas](<https://www.rcwtv.com.br/noticia/tribunal-encerra-forum-com-aprovacao-da-carta-de-prerrogativas-em-minas>)
+- 📰 [UBS Torreões promove atividades sobre o Dia da Consciência Negra](<https://www.rcwtv.com.br/noticia/ubs-torreoes-promove-atividades-sobre-o-dia-da-consciencia-negra>)
+- 📰 [Receita diz que não punirá erros de boa-fé na Reforma Tributária em 2027](<https://www.rcwtv.com.br/noticia/receita-diz-que-nao-punira-erros-de-boa-fe-na-reforma-tributaria-em-2027>)
+- 📰 [Assembleia rejeita veto parcial à LDO e mantém regras de saúde e educação](<https://www.rcwtv.com.br/noticia/assembleia-rejeita-veto-parcial-a-ldo-e-mantem-regras-de-saude-e-educacao>)
+- 📰 [Prefeitura recua e garante estrutura para blocos no Carnaval 2027 em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-recua-e-garante-estrutura-para-blocos-no-carnaval-2027-em-juiz-de-fora>)
+- 📰 [Dedetização em Campos dos Goytacazes: contato, serviços](<https://www.rcwtv.com.br/noticia/dedetizacao-em-campos-dos-goytacazes-contato-servicos>)
+- 📰 [Juiz de Fora inaugura ponto de apoio para trabalhadores de aplicativo na Zona](<https://www.rcwtv.com.br/noticia/juiz-de-fora-inaugura-ponto-de-apoio-para-trabalhadores-de-aplicativo-na-zona>)
+- 📰 [Comissão Externa de Combate à Pirataria debate avanço do crime no setor produtivo](<https://www.rcwtv.com.br/noticia/comissao-externa-de-combate-a-pirataria-debate-avanco-do-crime-no-setor-produtivo>)
+- 📰 [MEC prorroga adesão ao Selo Nacional Compromisso com a Alfabetização até o dia 23](<https://www.rcwtv.com.br/noticia/mec-prorroga-adesao-ao-selo-nacional-compromisso-com-a-alfabetizacao-ate-o-dia-23>)
+- 📰 [Jogos Escolares de Minas Gerais selecionam entidade com repasse de R$ 56,9 milhões](<https://www.rcwtv.com.br/noticia/jogos-escolares-de-minas-gerais-selecionam-entidade-com-repasse-de-r-56-9-milhoes>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
