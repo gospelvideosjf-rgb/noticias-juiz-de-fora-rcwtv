@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [UFJF abre novas vagas para professor Substituto com inscrições gratuitas](<https://www.rcwtv.com.br/noticia/ufjf-abre-novas-vagas-para-professor-substituto-com-inscricoes-gratuitas>)
-- 📰 [Minas Gerais celebra formatura de delegados para reforçar a segurança](<https://www.rcwtv.com.br/noticia/minas-gerais-celebra-formatura-de-delegados-para-reforcar-a-seguranca>)
-- 📰 [Prefeitura de Juiz de Fora busca integração dos serviços de urgência e emergência](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-busca-integracao-dos-servicos-de-urgencia-e-emergencia>)
-- 📰 [Lei de TICs movimenta R$ 37 bilhões em investimentos e celebra 35 anos na Câmara](<https://www.rcwtv.com.br/noticia/lei-de-tics-movimenta-r-37-bilhoes-em-investimentos-e-celebra-35-anos-na-camara>)
-- 📰 [PRF flagra caminhões com freios isolados e excesso de peso na BR-040](<https://www.rcwtv.com.br/noticia/prf-flagra-caminhoes-com-freios-isolados-e-excesso-de-peso-na-br-040>)
-- 📰 [UFJF conquista cinco prêmios nacionais em mostra de jornalismo universitário na Bahia](<https://www.rcwtv.com.br/noticia/ufjf-conquista-cinco-premios-nacionais-em-mostra-de-jornalismo-universitario-na-bahia>)
-- 📰 [Prefeitura recua e garante estrutura para blocos, mas mantém desfiles de escolas de samba suspensos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-recua-e-garante-estrutura-para-blocos-mas-mantem-desfiles-de-escolas-de-samba-suspensos-em-juiz-de-fora>)
-- 📰 [Anvisa abre consultas sobre produtos componentes do sangue para uso terapêutico](<https://www.rcwtv.com.br/noticia/anvisa-abre-consultas-sobre-produtos-componentes-do-sangue-para-uso-terapeutico>)
-- 📰 [Governo articula acordo para votar o ajuste fiscal na Câmara dos Deputados](<https://www.rcwtv.com.br/noticia/governo-articula-acordo-para-votar-o-ajuste-fiscal-na-camara-dos-deputados>)
-- 📰 [Copasa conclui obras e amplia segurança no abastecimento em Januária](<https://www.rcwtv.com.br/noticia/copasa-conclui-obras-e-amplia-seguranca-no-abastecimento-em-januaria>)
+- 📰 [Confira as principais notícias da UFJF com avanços em obras e projetos](<https://www.rcwtv.com.br/noticia/confira-as-principais-noticias-da-ufjf-com-avancos-em-obras-e-projetos>)
+- 📰 [Minas em Transição detalha gestão de recursos financeiros nesta quarta-feira](<https://www.rcwtv.com.br/noticia/minas-em-transicao-detalha-gestao-de-recursos-financeiros-nesta-quarta-feira>)
+- 📰 [Vanzinha da proteção oferece vacinação na Praça Prefeito Tarcísio Delgado](<https://www.rcwtv.com.br/noticia/vanzinha-da-protecao-oferece-vacinacao-na-praca-prefeito-tarcisio-delgado>)
+- 📰 [Anvisa apreende 40 mil produtos derivados do tabaco irregulares no RS](<https://www.rcwtv.com.br/noticia/anvisa-apreende-40-mil-produtos-derivados-do-tabaco-irregulares-no-rs>)
+- 📰 [MGC-464 terá detonação de rochas e interdição total nesta quarta-feira (18/11)](<https://www.rcwtv.com.br/noticia/mgc-464-tera-detonacao-de-rochas-e-interdicao-total-nesta-quarta-feira-18-11>)
+- 📰 [Clube de Benefícios UFJF em Rede oferece descontos para comunidade acadêmica](<https://www.rcwtv.com.br/noticia/clube-de-beneficios-ufjf-em-rede-oferece-descontos-para-comunidade-academica>)
+- 📰 [Fórum Intervid debate a investigação criminal e o apoio às vítimas em Belo](<https://www.rcwtv.com.br/noticia/forum-intervid-debate-a-investigacao-criminal-e-o-apoio-as-vitimas-em-belo>)
+- 📰 [Falta de acesso ao tratamento da DPOC atinge a maioria dos pacientes em Minas](<https://www.rcwtv.com.br/noticia/falta-de-acesso-ao-tratamento-da-dpoc-atinge-a-maioria-dos-pacientes-em-minas>)
+- 📰 [Trilhas de Futuro abre vagas para 50 mil estudantes em Minas Gerais](<https://www.rcwtv.com.br/noticia/trilhas-de-futuro-abre-vagas-para-50-mil-estudantes-em-minas-gerais>)
+- 📰 [Minas Gerais qualifica indicadores do Plano de Enfrentamento ao El Niño](<https://www.rcwtv.com.br/noticia/minas-gerais-qualifica-indicadores-do-plano-de-enfrentamento-ao-el-nino>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

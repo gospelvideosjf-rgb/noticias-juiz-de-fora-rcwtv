@@ -1481,3 +1481,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Rodada da NBA tem tropeço dos Celtics, reação do Heat e noite histórica de novatos](<https://www.rcwtv.com.br/noticia/rodada-da-nba-tem-tropeco-dos-celtics-reacao-do-heat-e-noite-historica-de-novatos>) - *17/11/2026*
 - [Semana de História da UFJF debate relações entre Oriente e Ocidente](<https://www.rcwtv.com.br/noticia/semana-de-historia-da-ufjf-debate-relacoes-entre-oriente-e-ocidente>) - *17/11/2026*
 
+### Atualização de 17/11/2026
+- [Confira as principais notícias da UFJF com avanços em obras e projetos](<https://www.rcwtv.com.br/noticia/confira-as-principais-noticias-da-ufjf-com-avancos-em-obras-e-projetos>) - *17/11/2026*
+- [Minas em Transição detalha gestão de recursos financeiros nesta quarta-feira](<https://www.rcwtv.com.br/noticia/minas-em-transicao-detalha-gestao-de-recursos-financeiros-nesta-quarta-feira>) - *17/11/2026*
+- [Vanzinha da proteção oferece vacinação na Praça Prefeito Tarcísio Delgado](<https://www.rcwtv.com.br/noticia/vanzinha-da-protecao-oferece-vacinacao-na-praca-prefeito-tarcisio-delgado>) - *17/11/2026*
+- [Anvisa apreende 40 mil produtos derivados do tabaco irregulares no RS](<https://www.rcwtv.com.br/noticia/anvisa-apreende-40-mil-produtos-derivados-do-tabaco-irregulares-no-rs>) - *17/11/2026*
+- [MGC-464 terá detonação de rochas e interdição total nesta quarta-feira (18/11)](<https://www.rcwtv.com.br/noticia/mgc-464-tera-detonacao-de-rochas-e-interdicao-total-nesta-quarta-feira-18-11>) - *17/11/2026*
+- [Clube de Benefícios UFJF em Rede oferece descontos para comunidade acadêmica](<https://www.rcwtv.com.br/noticia/clube-de-beneficios-ufjf-em-rede-oferece-descontos-para-comunidade-academica>) - *17/11/2026*
+- [Fórum Intervid debate a investigação criminal e o apoio às vítimas em Belo](<https://www.rcwtv.com.br/noticia/forum-intervid-debate-a-investigacao-criminal-e-o-apoio-as-vitimas-em-belo>) - *17/11/2026*
+- [Falta de acesso ao tratamento da DPOC atinge a maioria dos pacientes em Minas](<https://www.rcwtv.com.br/noticia/falta-de-acesso-ao-tratamento-da-dpoc-atinge-a-maioria-dos-pacientes-em-minas>) - *17/11/2026*
+- [Trilhas de Futuro abre vagas para 50 mil estudantes em Minas Gerais](<https://www.rcwtv.com.br/noticia/trilhas-de-futuro-abre-vagas-para-50-mil-estudantes-em-minas-gerais>) - *17/11/2026*
+- [Minas Gerais qualifica indicadores do Plano de Enfrentamento ao El Niño](<https://www.rcwtv.com.br/noticia/minas-gerais-qualifica-indicadores-do-plano-de-enfrentamento-ao-el-nino>) - *17/11/2026*
+- [MPMG oficializa a posse de promotores de Justiça por permuta interestadual](<https://www.rcwtv.com.br/noticia/mpmg-oficializa-a-posse-de-promotores-de-justica-por-permuta-interestadual>) - *17/11/2026*
+- [Operação Última Entrega desarticula organização criminosa em Minas Gerais](<https://www.rcwtv.com.br/noticia/operacao-ultima-entrega-desarticula-organizacao-criminosa-em-minas-gerais>) - *17/11/2026*
+- [STF pode julgar Lei da Dosimetria neste ano segundo aponta Edson Fachin](<https://www.rcwtv.com.br/noticia/stf-pode-julgar-lei-da-dosimetria-neste-ano-segundo-aponta-edson-fachin>) - *17/11/2026*
+- [Cursos da UFJF-GV conquistam nota máxima no Guia da Faculdade 2026](<https://www.rcwtv.com.br/noticia/cursos-da-ufjf-gv-conquistam-nota-maxima-no-guia-da-faculdade-2026>) - *17/11/2026*
+- [Minas Gerais intensifica monitoramento da Mpox para reduzir novos casos](<https://www.rcwtv.com.br/noticia/minas-gerais-intensifica-monitoramento-da-mpox-para-reduzir-novos-casos>) - *17/11/2026*
+
