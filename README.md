@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Tribunal encerra fórum com aprovação da Carta de Prerrogativas em Minas](<https://www.rcwtv.com.br/noticia/tribunal-encerra-forum-com-aprovacao-da-carta-de-prerrogativas-em-minas>)
-- 📰 [UBS Torreões promove atividades sobre o Dia da Consciência Negra](<https://www.rcwtv.com.br/noticia/ubs-torreoes-promove-atividades-sobre-o-dia-da-consciencia-negra>)
-- 📰 [Receita diz que não punirá erros de boa-fé na Reforma Tributária em 2027](<https://www.rcwtv.com.br/noticia/receita-diz-que-nao-punira-erros-de-boa-fe-na-reforma-tributaria-em-2027>)
-- 📰 [Assembleia rejeita veto parcial à LDO e mantém regras de saúde e educação](<https://www.rcwtv.com.br/noticia/assembleia-rejeita-veto-parcial-a-ldo-e-mantem-regras-de-saude-e-educacao>)
-- 📰 [Prefeitura recua e garante estrutura para blocos no Carnaval 2027 em Juiz de Fora](<https://www.rcwtv.com.br/noticia/prefeitura-recua-e-garante-estrutura-para-blocos-no-carnaval-2027-em-juiz-de-fora>)
-- 📰 [Dedetização em Campos dos Goytacazes: contato, serviços](<https://www.rcwtv.com.br/noticia/dedetizacao-em-campos-dos-goytacazes-contato-servicos>)
-- 📰 [Juiz de Fora inaugura ponto de apoio para trabalhadores de aplicativo na Zona](<https://www.rcwtv.com.br/noticia/juiz-de-fora-inaugura-ponto-de-apoio-para-trabalhadores-de-aplicativo-na-zona>)
-- 📰 [Comissão Externa de Combate à Pirataria debate avanço do crime no setor produtivo](<https://www.rcwtv.com.br/noticia/comissao-externa-de-combate-a-pirataria-debate-avanco-do-crime-no-setor-produtivo>)
-- 📰 [MEC prorroga adesão ao Selo Nacional Compromisso com a Alfabetização até o dia 23](<https://www.rcwtv.com.br/noticia/mec-prorroga-adesao-ao-selo-nacional-compromisso-com-a-alfabetizacao-ate-o-dia-23>)
-- 📰 [Jogos Escolares de Minas Gerais selecionam entidade com repasse de R$ 56,9 milhões](<https://www.rcwtv.com.br/noticia/jogos-escolares-de-minas-gerais-selecionam-entidade-com-repasse-de-r-56-9-milhoes>)
+- 📰 [Exames de prevenção ao câncer chegam até Cabo Verde](<https://www.rcwtv.com.br/noticia/exames-de-prevencao-ao-cancer-chegam-ate-cabo-verde>)
+- 📰 [Sindicato cobra participação nas regras do quadro escolar em Minas](<https://www.rcwtv.com.br/noticia/sindicato-cobra-participacao-nas-regras-do-quadro-escolar-em-minas>)
+- 📰 [Novas diretrizes para pesquisa científica em hematologia e seres humanos](<https://www.rcwtv.com.br/noticia/novas-diretrizes-para-pesquisa-cientifica-em-hematologia-e-seres-humanos>)
+- 📰 [Comitiva da Etiópia conhece tecnologias de pecuária leiteira na Embrapa](<https://www.rcwtv.com.br/noticia/comitiva-da-etiopia-conhece-tecnologias-de-pecuaria-leiteira-na-embrapa>)
+- 📰 [Saúde de Minas Gerais reforça cuidados contra a transmissão de sarna humana](<https://www.rcwtv.com.br/noticia/saude-de-minas-gerais-reforca-cuidados-contra-a-transmissao-de-sarna-humana>)
+- 📰 [UFV registra pontuação científica de 70 em laboratórios e núcleos](<https://www.rcwtv.com.br/noticia/ufv-registra-pontuacao-cientifica-de-70-em-laboratorios-e-nucleos>)
+- 📰 [Xi Jinping,Trump e Putin finalizam reunião trilateral histórica com 'declaração de paz' sobre armas nucleares](<https://www.rcwtv.com.br/noticia/xi-jinping-trump-e-putin-finalizam-reuniao-trilateral-historica-com-declaracao-de-paz-sobre-armas-nucleares>)
+- 📰 [Simpósio de Pesquisa em Educação Matemática debate IA e ensino na UFJF](<https://www.rcwtv.com.br/noticia/simposio-de-pesquisa-em-educacao-matematica-debate-ia-e-ensino-na-ufjf>)
+- 📰 [UFJF abre vagas para professor substituto com editais publicados](<https://www.rcwtv.com.br/noticia/ufjf-abre-vagas-para-professor-substituto-com-editais-publicados>)
+- 📰 [Cruzeiro vira em três minutos e deixa Palmeiras à beira do adeus ao título do Brasileirão 2026](<https://www.rcwtv.com.br/noticia/cruzeiro-vira-em-tres-minutos-e-deixa-palmeiras-a-beira-do-adeus-ao-titulo-do-brasileirao-2026>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
