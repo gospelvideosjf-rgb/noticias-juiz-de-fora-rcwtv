@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [MPMG denuncia casal por feminicídio e ocultação de cadáver em Jaboticatubas](<https://www.rcwtv.com.br/noticia/mpmg-denuncia-casal-por-feminicidio-e-ocultacao-de-cadaver-em-jaboticatubas>)
-- 📰 [Defesa Civil debate demolições e habitação no Alto dos Três Moinhos](<https://www.rcwtv.com.br/noticia/defesa-civil-debate-demolicoes-e-habitacao-no-alto-dos-tres-moinhos>)
-- 📰 [Câmara Municipal capacita servidores municipais em oficina de Libras](<https://www.rcwtv.com.br/noticia/camara-municipal-capacita-servidores-municipais-em-oficina-de-libras>)
-- 📰 [SES-MG destina R$ 710,5 mil para reforçar vigilância laboratorial no Norte](<https://www.rcwtv.com.br/noticia/ses-mg-destina-r-710-5-mil-para-reforcar-vigilancia-laboratorial-no-norte>)
-- 📰 [Secretaria de Saúde apresenta programas mineiros no Rio Health Forum](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-apresenta-programas-mineiros-no-rio-health-forum>)
-- 📰 [Juiz de Fora recebe 6 mil doses da vacina contra a Covid-19 para UBSs](<https://www.rcwtv.com.br/noticia/juiz-de-fora-recebe-6-mil-doses-da-vacina-contra-a-covid-19-para-ubss>)
-- 📰 [Farmácia Central oferece ação de saúde masculina no Novembro Azul](<https://www.rcwtv.com.br/noticia/farmacia-central-oferece-acao-de-saude-masculina-no-novembro-azul>)
-- 📰 [Arranjos Produtivos Locais reúnem 258 mil empregos em Minas Gerais](<https://www.rcwtv.com.br/noticia/arranjos-produtivos-locais-reunem-258-mil-empregos-em-minas-gerais>)
-- 📰 [Governo de Minas debate adesão ao Propag com equipe da futura gestão](<https://www.rcwtv.com.br/noticia/governo-de-minas-debate-adesao-ao-propag-com-equipe-da-futura-gestao>)
-- 📰 [Conselhos comunitários retomam atividades com apoio do Ministério Público](<https://www.rcwtv.com.br/noticia/conselhos-comunitarios-retomam-atividades-com-apoio-do-ministerio-publico>)
+- 📰 [Fala JOTAEFE - Câmara oferece serviços gratuitos na Praça Clodesmidt Riani](<https://www.rcwtv.com.br/noticia/fala-jotaefe-camara-oferece-servicos-gratuitos-na-praca-clodesmidt-riani>)
+- 📰 [Panathlon Club Juiz de Fora celebra 50 anos com entrega do Mérito Esportivo 2026](<https://www.rcwtv.com.br/noticia/panathlon-club-juiz-de-fora-celebra-50-anos-com-entrega-do-merito-esportivo-2026>)
+- 📰 [Governo de Minas fortalece o empreendedorismo na Zona da Mata entre 2023 e 2026](<https://www.rcwtv.com.br/noticia/governo-de-minas-fortalece-o-empreendedorismo-na-zona-da-mata-entre-2023-e-2026>)
+- 📰 [Escola municipal recebe feira de ciências com foco na produção de alimentos](<https://www.rcwtv.com.br/noticia/escola-municipal-recebe-feira-de-ciencias-com-foco-na-producao-de-alimentos>)
+- 📰 [Anvisa alerta que medicamentos para câncer não promovem aumento de estatura](<https://www.rcwtv.com.br/noticia/anvisa-alerta-que-medicamentos-para-cancer-nao-promovem-aumento-de-estatura>)
+- 📰 [Edson Fachin mantém prisão preventiva do ex-banqueiro Daniel Vorcaro](<https://www.rcwtv.com.br/noticia/edson-fachin-mantem-prisao-preventiva-do-ex-banqueiro-daniel-vorcaro>)
+- 📰 [Agência Móvel da Copasa atende três cidades no Vale do Aço com serviços](<https://www.rcwtv.com.br/noticia/agencia-movel-da-copasa-atende-tres-cidades-no-vale-do-aco-com-servicos>)
+- 📰 [Câmara analisa projeto que concede transporte público para responsáveis de PcDs](<https://www.rcwtv.com.br/noticia/camara-analisa-projeto-que-concede-transporte-publico-para-responsaveis-de-pcds>)
+- 📰 [Tribunal de Justiça de Minas Gerais destaca combate ao racismo e pauta da equidade](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-destaca-combate-ao-racismo-e-pauta-da-equidade>)
+- 📰 [Procon proíbe loja Mundo Celular de oferecer empréstimos e financiamentos](<https://www.rcwtv.com.br/noticia/procon-proibe-loja-mundo-celular-de-oferecer-emprestimos-e-financiamentos>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

@@ -1549,3 +1549,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Escolas estaduais de Minas promovem cultura afro-brasileira](<https://www.rcwtv.com.br/noticia/escolas-estaduais-de-minas-promovem-cultura-afro-brasileira>) - *19/11/2026*
 - [Empresa pagará indenização por idoso atropelado após decisão do TJMG](<https://www.rcwtv.com.br/noticia/empresa-pagara-indenizacao-por-idoso-atropelado-apos-decisao-do-tjmg>) - *19/11/2026*
 
+### Atualização de 20/11/2026
+- [Fala JOTAEFE - Câmara oferece serviços gratuitos na Praça Clodesmidt Riani](<https://www.rcwtv.com.br/noticia/fala-jotaefe-camara-oferece-servicos-gratuitos-na-praca-clodesmidt-riani>) - *20/11/2026*
+- [Panathlon Club Juiz de Fora celebra 50 anos com entrega do Mérito Esportivo 2026](<https://www.rcwtv.com.br/noticia/panathlon-club-juiz-de-fora-celebra-50-anos-com-entrega-do-merito-esportivo-2026>) - *20/11/2026*
+- [Governo de Minas fortalece o empreendedorismo na Zona da Mata entre 2023 e 2026](<https://www.rcwtv.com.br/noticia/governo-de-minas-fortalece-o-empreendedorismo-na-zona-da-mata-entre-2023-e-2026>) - *20/11/2026*
+- [Escola municipal recebe feira de ciências com foco na produção de alimentos](<https://www.rcwtv.com.br/noticia/escola-municipal-recebe-feira-de-ciencias-com-foco-na-producao-de-alimentos>) - *20/11/2026*
+- [Anvisa alerta que medicamentos para câncer não promovem aumento de estatura](<https://www.rcwtv.com.br/noticia/anvisa-alerta-que-medicamentos-para-cancer-nao-promovem-aumento-de-estatura>) - *20/11/2026*
+- [Edson Fachin mantém prisão preventiva do ex-banqueiro Daniel Vorcaro](<https://www.rcwtv.com.br/noticia/edson-fachin-mantem-prisao-preventiva-do-ex-banqueiro-daniel-vorcaro>) - *20/11/2026*
+- [Agência Móvel da Copasa atende três cidades no Vale do Aço com serviços](<https://www.rcwtv.com.br/noticia/agencia-movel-da-copasa-atende-tres-cidades-no-vale-do-aco-com-servicos>) - *20/11/2026*
+- [Câmara analisa projeto que concede transporte público para responsáveis de PcDs](<https://www.rcwtv.com.br/noticia/camara-analisa-projeto-que-concede-transporte-publico-para-responsaveis-de-pcds>) - *20/11/2026*
+- [Tribunal de Justiça de Minas Gerais destaca combate ao racismo e pauta da equidade](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-destaca-combate-ao-racismo-e-pauta-da-equidade>) - *20/11/2026*
+- [Procon proíbe loja Mundo Celular de oferecer empréstimos e financiamentos](<https://www.rcwtv.com.br/noticia/procon-proibe-loja-mundo-celular-de-oferecer-emprestimos-e-financiamentos>) - *20/11/2026*
+- [Morre o ex-deputado Manoel Conegundes - Assembleia Legislativa de Minas Gerais](<https://www.rcwtv.com.br/noticia/morre-o-ex-deputado-manoel-conegundes-assembleia-legislativa-de-minas-gerais>) - *20/11/2026*
+- [Passe Livre Estudantil: entrega de cartões continua e cadastro termina nesta](<https://www.rcwtv.com.br/noticia/passe-livre-estudantil-entrega-de-cartoes-continua-e-cadastro-termina-nesta>) - *20/11/2026*
+- [GRS Pirapora Reúne Municípios Para Fortalecer A Atenção Primária à Saúde Na Região](<https://www.rcwtv.com.br/noticia/grs-pirapora-reune-municipios-para-fortalecer-a-atencao-primaria-a-saude-na-regiao>) - *20/11/2026*
+- [MPMG realiza devolução da imagem de Nossa Senhora do Rosário à comunidade de Caeté](<https://www.rcwtv.com.br/noticia/mpmg-realiza-devolucao-da-imagem-de-nossa-senhora-do-rosario-a-comunidade-de-caete>) - *20/11/2026*
+- [Polícia Civil de Minas Gerais recebe dois novos automóveis em Congonhas](<https://www.rcwtv.com.br/noticia/policia-civil-de-minas-gerais-recebe-dois-novos-automoveis-em-congonhas>) - *20/11/2026*
+
