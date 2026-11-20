@@ -1532,3 +1532,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Kits de feiras livres impulsionam agricultura familiar em Minas Gerais](<https://www.rcwtv.com.br/noticia/kits-de-feiras-livres-impulsionam-agricultura-familiar-em-minas-gerais>) - *19/11/2026*
 - [Minas Gerais conclui descaracterização de barragens em 18 estruturas desde 2023](<https://www.rcwtv.com.br/noticia/minas-gerais-conclui-descaracterizacao-de-barragens-em-18-estruturas-desde-2023>) - *19/11/2026*
 
+### Atualização de 19/11/2026
+- [MPMG denuncia casal por feminicídio e ocultação de cadáver em Jaboticatubas](<https://www.rcwtv.com.br/noticia/mpmg-denuncia-casal-por-feminicidio-e-ocultacao-de-cadaver-em-jaboticatubas>) - *19/11/2026*
+- [Defesa Civil debate demolições e habitação no Alto dos Três Moinhos](<https://www.rcwtv.com.br/noticia/defesa-civil-debate-demolicoes-e-habitacao-no-alto-dos-tres-moinhos>) - *19/11/2026*
+- [Câmara Municipal capacita servidores municipais em oficina de Libras](<https://www.rcwtv.com.br/noticia/camara-municipal-capacita-servidores-municipais-em-oficina-de-libras>) - *19/11/2026*
+- [SES-MG destina R$ 710,5 mil para reforçar vigilância laboratorial no Norte](<https://www.rcwtv.com.br/noticia/ses-mg-destina-r-710-5-mil-para-reforcar-vigilancia-laboratorial-no-norte>) - *19/11/2026*
+- [Secretaria de Saúde apresenta programas mineiros no Rio Health Forum](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-apresenta-programas-mineiros-no-rio-health-forum>) - *19/11/2026*
+- [Juiz de Fora recebe 6 mil doses da vacina contra a Covid-19 para UBSs](<https://www.rcwtv.com.br/noticia/juiz-de-fora-recebe-6-mil-doses-da-vacina-contra-a-covid-19-para-ubss>) - *19/11/2026*
+- [Farmácia Central oferece ação de saúde masculina no Novembro Azul](<https://www.rcwtv.com.br/noticia/farmacia-central-oferece-acao-de-saude-masculina-no-novembro-azul>) - *19/11/2026*
+- [Arranjos Produtivos Locais reúnem 258 mil empregos em Minas Gerais](<https://www.rcwtv.com.br/noticia/arranjos-produtivos-locais-reunem-258-mil-empregos-em-minas-gerais>) - *19/11/2026*
+- [Governo de Minas debate adesão ao Propag com equipe da futura gestão](<https://www.rcwtv.com.br/noticia/governo-de-minas-debate-adesao-ao-propag-com-equipe-da-futura-gestao>) - *19/11/2026*
+- [Conselhos comunitários retomam atividades com apoio do Ministério Público](<https://www.rcwtv.com.br/noticia/conselhos-comunitarios-retomam-atividades-com-apoio-do-ministerio-publico>) - *19/11/2026*
+- [Assembleia de Minas aprova projeto que obriga transparência no troco solidário](<https://www.rcwtv.com.br/noticia/assembleia-de-minas-aprova-projeto-que-obriga-transparencia-no-troco-solidario>) - *19/11/2026*
+- [Norte e Noroeste de Minas recebem R$ 71,7 milhões para centros de hemodiálise](<https://www.rcwtv.com.br/noticia/norte-e-noroeste-de-minas-recebem-r-71-7-milhoes-para-centros-de-hemodialise>) - *19/11/2026*
+- [Restauração da cobertura da Igreja de Santo Antônio avança em Paracatu](<https://www.rcwtv.com.br/noticia/restauracao-da-cobertura-da-igreja-de-santo-antonio-avanca-em-paracatu>) - *19/11/2026*
+- [Escolas estaduais de Minas promovem cultura afro-brasileira](<https://www.rcwtv.com.br/noticia/escolas-estaduais-de-minas-promovem-cultura-afro-brasileira>) - *19/11/2026*
+- [Empresa pagará indenização por idoso atropelado após decisão do TJMG](<https://www.rcwtv.com.br/noticia/empresa-pagara-indenizacao-por-idoso-atropelado-apos-decisao-do-tjmg>) - *19/11/2026*
+

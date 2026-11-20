@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Exames de prevenção ao câncer chegam até Cabo Verde](<https://www.rcwtv.com.br/noticia/exames-de-prevencao-ao-cancer-chegam-ate-cabo-verde>)
-- 📰 [Sindicato cobra participação nas regras do quadro escolar em Minas](<https://www.rcwtv.com.br/noticia/sindicato-cobra-participacao-nas-regras-do-quadro-escolar-em-minas>)
-- 📰 [Novas diretrizes para pesquisa científica em hematologia e seres humanos](<https://www.rcwtv.com.br/noticia/novas-diretrizes-para-pesquisa-cientifica-em-hematologia-e-seres-humanos>)
-- 📰 [Comitiva da Etiópia conhece tecnologias de pecuária leiteira na Embrapa](<https://www.rcwtv.com.br/noticia/comitiva-da-etiopia-conhece-tecnologias-de-pecuaria-leiteira-na-embrapa>)
-- 📰 [Saúde de Minas Gerais reforça cuidados contra a transmissão de sarna humana](<https://www.rcwtv.com.br/noticia/saude-de-minas-gerais-reforca-cuidados-contra-a-transmissao-de-sarna-humana>)
-- 📰 [UFV registra pontuação científica de 70 em laboratórios e núcleos](<https://www.rcwtv.com.br/noticia/ufv-registra-pontuacao-cientifica-de-70-em-laboratorios-e-nucleos>)
-- 📰 [Xi Jinping,Trump e Putin finalizam reunião trilateral histórica com 'declaração de paz' sobre armas nucleares](<https://www.rcwtv.com.br/noticia/xi-jinping-trump-e-putin-finalizam-reuniao-trilateral-historica-com-declaracao-de-paz-sobre-armas-nucleares>)
-- 📰 [Simpósio de Pesquisa em Educação Matemática debate IA e ensino na UFJF](<https://www.rcwtv.com.br/noticia/simposio-de-pesquisa-em-educacao-matematica-debate-ia-e-ensino-na-ufjf>)
-- 📰 [UFJF abre vagas para professor substituto com editais publicados](<https://www.rcwtv.com.br/noticia/ufjf-abre-vagas-para-professor-substituto-com-editais-publicados>)
-- 📰 [Cruzeiro vira em três minutos e deixa Palmeiras à beira do adeus ao título do Brasileirão 2026](<https://www.rcwtv.com.br/noticia/cruzeiro-vira-em-tres-minutos-e-deixa-palmeiras-a-beira-do-adeus-ao-titulo-do-brasileirao-2026>)
+- 📰 [MPMG denuncia casal por feminicídio e ocultação de cadáver em Jaboticatubas](<https://www.rcwtv.com.br/noticia/mpmg-denuncia-casal-por-feminicidio-e-ocultacao-de-cadaver-em-jaboticatubas>)
+- 📰 [Defesa Civil debate demolições e habitação no Alto dos Três Moinhos](<https://www.rcwtv.com.br/noticia/defesa-civil-debate-demolicoes-e-habitacao-no-alto-dos-tres-moinhos>)
+- 📰 [Câmara Municipal capacita servidores municipais em oficina de Libras](<https://www.rcwtv.com.br/noticia/camara-municipal-capacita-servidores-municipais-em-oficina-de-libras>)
+- 📰 [SES-MG destina R$ 710,5 mil para reforçar vigilância laboratorial no Norte](<https://www.rcwtv.com.br/noticia/ses-mg-destina-r-710-5-mil-para-reforcar-vigilancia-laboratorial-no-norte>)
+- 📰 [Secretaria de Saúde apresenta programas mineiros no Rio Health Forum](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-apresenta-programas-mineiros-no-rio-health-forum>)
+- 📰 [Juiz de Fora recebe 6 mil doses da vacina contra a Covid-19 para UBSs](<https://www.rcwtv.com.br/noticia/juiz-de-fora-recebe-6-mil-doses-da-vacina-contra-a-covid-19-para-ubss>)
+- 📰 [Farmácia Central oferece ação de saúde masculina no Novembro Azul](<https://www.rcwtv.com.br/noticia/farmacia-central-oferece-acao-de-saude-masculina-no-novembro-azul>)
+- 📰 [Arranjos Produtivos Locais reúnem 258 mil empregos em Minas Gerais](<https://www.rcwtv.com.br/noticia/arranjos-produtivos-locais-reunem-258-mil-empregos-em-minas-gerais>)
+- 📰 [Governo de Minas debate adesão ao Propag com equipe da futura gestão](<https://www.rcwtv.com.br/noticia/governo-de-minas-debate-adesao-ao-propag-com-equipe-da-futura-gestao>)
+- 📰 [Conselhos comunitários retomam atividades com apoio do Ministério Público](<https://www.rcwtv.com.br/noticia/conselhos-comunitarios-retomam-atividades-com-apoio-do-ministerio-publico>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
