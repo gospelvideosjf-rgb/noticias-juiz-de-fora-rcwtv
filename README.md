@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Fala JOTAEFE - Câmara oferece serviços gratuitos na Praça Clodesmidt Riani](<https://www.rcwtv.com.br/noticia/fala-jotaefe-camara-oferece-servicos-gratuitos-na-praca-clodesmidt-riani>)
-- 📰 [Panathlon Club Juiz de Fora celebra 50 anos com entrega do Mérito Esportivo 2026](<https://www.rcwtv.com.br/noticia/panathlon-club-juiz-de-fora-celebra-50-anos-com-entrega-do-merito-esportivo-2026>)
-- 📰 [Governo de Minas fortalece o empreendedorismo na Zona da Mata entre 2023 e 2026](<https://www.rcwtv.com.br/noticia/governo-de-minas-fortalece-o-empreendedorismo-na-zona-da-mata-entre-2023-e-2026>)
-- 📰 [Escola municipal recebe feira de ciências com foco na produção de alimentos](<https://www.rcwtv.com.br/noticia/escola-municipal-recebe-feira-de-ciencias-com-foco-na-producao-de-alimentos>)
-- 📰 [Anvisa alerta que medicamentos para câncer não promovem aumento de estatura](<https://www.rcwtv.com.br/noticia/anvisa-alerta-que-medicamentos-para-cancer-nao-promovem-aumento-de-estatura>)
-- 📰 [Edson Fachin mantém prisão preventiva do ex-banqueiro Daniel Vorcaro](<https://www.rcwtv.com.br/noticia/edson-fachin-mantem-prisao-preventiva-do-ex-banqueiro-daniel-vorcaro>)
-- 📰 [Agência Móvel da Copasa atende três cidades no Vale do Aço com serviços](<https://www.rcwtv.com.br/noticia/agencia-movel-da-copasa-atende-tres-cidades-no-vale-do-aco-com-servicos>)
-- 📰 [Câmara analisa projeto que concede transporte público para responsáveis de PcDs](<https://www.rcwtv.com.br/noticia/camara-analisa-projeto-que-concede-transporte-publico-para-responsaveis-de-pcds>)
-- 📰 [Tribunal de Justiça de Minas Gerais destaca combate ao racismo e pauta da equidade](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-destaca-combate-ao-racismo-e-pauta-da-equidade>)
-- 📰 [Procon proíbe loja Mundo Celular de oferecer empréstimos e financiamentos](<https://www.rcwtv.com.br/noticia/procon-proibe-loja-mundo-celular-de-oferecer-emprestimos-e-financiamentos>)
+- 📰 [Parlamento Jovem encerra edição com 74 propostas por inclusão em Juiz de Fora](<https://www.rcwtv.com.br/noticia/parlamento-jovem-encerra-edicao-com-74-propostas-por-inclusao-em-juiz-de-fora>)
+- 📰 [Defesa Civil monitora tempestades e afasta cenário extremo no fim de semana](<https://www.rcwtv.com.br/noticia/defesa-civil-monitora-tempestades-e-afasta-cenario-extremo-no-fim-de-semana>)
+- 📰 [Comissão de Educação da ALMG vistoria escolas estaduais em Contagem e Belo](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-da-almg-vistoria-escolas-estaduais-em-contagem-e-belo>)
+- 📰 [Operação Cativeiro combate organização criminosa armada em Uberlândia](<https://www.rcwtv.com.br/noticia/operacao-cativeiro-combate-organizacao-criminosa-armada-em-uberlandia>)
+- 📰 [Câmara Municipal acompanha expansão do programa Lixo Zero em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-municipal-acompanha-expansao-do-programa-lixo-zero-em-juiz-de-fora>)
+- 📰 [Governo de Minas implementa plano de ação para ampliar protagonismo feminino](<https://www.rcwtv.com.br/noticia/governo-de-minas-implementa-plano-de-acao-para-ampliar-protagonismo-feminino>)
+- 📰 [HPS de Juiz de Fora conclui ciclo de qualificação do PROADI-SUS](<https://www.rcwtv.com.br/noticia/hps-de-juiz-de-fora-conclui-ciclo-de-qualificacao-do-proadi-sus>)
+- 📰 [Jair Bolsonaro é internado às pressas em Brasília com obstrução intestinal](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-e-internado-as-pressas-em-brasilia-com-obstrucao-intestinal>)
+- 📰 [Copasa e forças de segurança reforçam fiscalização na Vargem das Flores](<https://www.rcwtv.com.br/noticia/copasa-e-forcas-de-seguranca-reforcam-fiscalizacao-na-vargem-das-flores>)
+- 📰 [Ação gratuita na Praça Clodesmidt Riani oferece serviços de saúde em Juiz de Fora](<https://www.rcwtv.com.br/noticia/acao-gratuita-na-praca-clodesmidt-riani-oferece-servicos-de-saude-em-juiz-de-fora>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

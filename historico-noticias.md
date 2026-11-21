@@ -1566,3 +1566,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [MPMG realiza devolução da imagem de Nossa Senhora do Rosário à comunidade de Caeté](<https://www.rcwtv.com.br/noticia/mpmg-realiza-devolucao-da-imagem-de-nossa-senhora-do-rosario-a-comunidade-de-caete>) - *20/11/2026*
 - [Polícia Civil de Minas Gerais recebe dois novos automóveis em Congonhas](<https://www.rcwtv.com.br/noticia/policia-civil-de-minas-gerais-recebe-dois-novos-automoveis-em-congonhas>) - *20/11/2026*
 
+### Atualização de 20/11/2026
+- [Parlamento Jovem encerra edição com 74 propostas por inclusão em Juiz de Fora](<https://www.rcwtv.com.br/noticia/parlamento-jovem-encerra-edicao-com-74-propostas-por-inclusao-em-juiz-de-fora>) - *20/11/2026*
+- [Defesa Civil monitora tempestades e afasta cenário extremo no fim de semana](<https://www.rcwtv.com.br/noticia/defesa-civil-monitora-tempestades-e-afasta-cenario-extremo-no-fim-de-semana>) - *20/11/2026*
+- [Comissão de Educação da ALMG vistoria escolas estaduais em Contagem e Belo](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-da-almg-vistoria-escolas-estaduais-em-contagem-e-belo>) - *20/11/2026*
+- [Operação Cativeiro combate organização criminosa armada em Uberlândia](<https://www.rcwtv.com.br/noticia/operacao-cativeiro-combate-organizacao-criminosa-armada-em-uberlandia>) - *20/11/2026*
+- [Câmara Municipal acompanha expansão do programa Lixo Zero em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-municipal-acompanha-expansao-do-programa-lixo-zero-em-juiz-de-fora>) - *20/11/2026*
+- [Governo de Minas implementa plano de ação para ampliar protagonismo feminino](<https://www.rcwtv.com.br/noticia/governo-de-minas-implementa-plano-de-acao-para-ampliar-protagonismo-feminino>) - *20/11/2026*
+- [HPS de Juiz de Fora conclui ciclo de qualificação do PROADI-SUS](<https://www.rcwtv.com.br/noticia/hps-de-juiz-de-fora-conclui-ciclo-de-qualificacao-do-proadi-sus>) - *20/11/2026*
+- [Jair Bolsonaro é internado às pressas em Brasília com obstrução intestinal](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-e-internado-as-pressas-em-brasilia-com-obstrucao-intestinal>) - *20/11/2026*
+- [Copasa e forças de segurança reforçam fiscalização na Vargem das Flores](<https://www.rcwtv.com.br/noticia/copasa-e-forcas-de-seguranca-reforcam-fiscalizacao-na-vargem-das-flores>) - *20/11/2026*
+- [Ação gratuita na Praça Clodesmidt Riani oferece serviços de saúde em Juiz de Fora](<https://www.rcwtv.com.br/noticia/acao-gratuita-na-praca-clodesmidt-riani-oferece-servicos-de-saude-em-juiz-de-fora>) - *20/11/2026*
+- [Presidente do TJMG assume como governador em exercício até a próxima segunda-feira](<https://www.rcwtv.com.br/noticia/presidente-do-tjmg-assume-como-governador-em-exercicio-ate-a-proxima-segunda-feira>) - *20/11/2026*
+- [Polícia Federal afirma que não há registros de conversas entre Mendonça e Vorcaro](<https://www.rcwtv.com.br/noticia/policia-federal-afirma-que-nao-ha-registros-de-conversas-entre-mendonca-e-vorcaro>) - *20/11/2026*
+- [Visita mediada Caminhos de Mariano passa pelo Palacete Frederico Ferreira Lage](<https://www.rcwtv.com.br/noticia/visita-mediada-caminhos-de-mariano-passa-pelo-palacete-frederico-ferreira-lage>) - *20/11/2026*
+- [Assembleia Legislativa de Minas Gerais participa da inauguração do Hospital Raja](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-participa-da-inauguracao-do-hospital-raja>) - *20/11/2026*
+- [Filme sobre clube negro de Paracatu resgata memória e combate ao racismo](<https://www.rcwtv.com.br/noticia/filme-sobre-clube-negro-de-paracatu-resgata-memoria-e-combate-ao-racismo>) - *20/11/2026*
+
