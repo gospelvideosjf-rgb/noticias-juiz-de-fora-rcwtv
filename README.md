@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Parlamento Jovem encerra edição com 74 propostas por inclusão em Juiz de Fora](<https://www.rcwtv.com.br/noticia/parlamento-jovem-encerra-edicao-com-74-propostas-por-inclusao-em-juiz-de-fora>)
-- 📰 [Defesa Civil monitora tempestades e afasta cenário extremo no fim de semana](<https://www.rcwtv.com.br/noticia/defesa-civil-monitora-tempestades-e-afasta-cenario-extremo-no-fim-de-semana>)
-- 📰 [Comissão de Educação da ALMG vistoria escolas estaduais em Contagem e Belo](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-da-almg-vistoria-escolas-estaduais-em-contagem-e-belo>)
-- 📰 [Operação Cativeiro combate organização criminosa armada em Uberlândia](<https://www.rcwtv.com.br/noticia/operacao-cativeiro-combate-organizacao-criminosa-armada-em-uberlandia>)
-- 📰 [Câmara Municipal acompanha expansão do programa Lixo Zero em Juiz de Fora](<https://www.rcwtv.com.br/noticia/camara-municipal-acompanha-expansao-do-programa-lixo-zero-em-juiz-de-fora>)
-- 📰 [Governo de Minas implementa plano de ação para ampliar protagonismo feminino](<https://www.rcwtv.com.br/noticia/governo-de-minas-implementa-plano-de-acao-para-ampliar-protagonismo-feminino>)
-- 📰 [HPS de Juiz de Fora conclui ciclo de qualificação do PROADI-SUS](<https://www.rcwtv.com.br/noticia/hps-de-juiz-de-fora-conclui-ciclo-de-qualificacao-do-proadi-sus>)
-- 📰 [Jair Bolsonaro é internado às pressas em Brasília com obstrução intestinal](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-e-internado-as-pressas-em-brasilia-com-obstrucao-intestinal>)
-- 📰 [Copasa e forças de segurança reforçam fiscalização na Vargem das Flores](<https://www.rcwtv.com.br/noticia/copasa-e-forcas-de-seguranca-reforcam-fiscalizacao-na-vargem-das-flores>)
-- 📰 [Ação gratuita na Praça Clodesmidt Riani oferece serviços de saúde em Juiz de Fora](<https://www.rcwtv.com.br/noticia/acao-gratuita-na-praca-clodesmidt-riani-oferece-servicos-de-saude-em-juiz-de-fora>)
+- 📰 [Chuvas causam pontos de alagamento em Juiz de Fora e Inmet alerta para novos temporais até segunda (23)](<https://www.rcwtv.com.br/noticia/chuvas-causam-pontos-de-alagamento-em-juiz-de-fora-e-inmet-alerta-para-novos-temporais-ate-segunda-23>)
+- 📰 [Lula presta solidariedade a Tupanciretã após tempestade no Rio Grande do Sul](<https://www.rcwtv.com.br/noticia/lula-presta-solidariedade-a-tupancireta-apos-tempestade-no-rio-grande-do-sul>)
+- 📰 [Destaques da Rede Sindijori MG trazem turismo, saúde e economia em municípios](<https://www.rcwtv.com.br/noticia/destaques-da-rede-sindijori-mg-trazem-turismo-saude-e-economia-em-municipios>)
+- 📰 [Arquivo Central da UFJF reúne documentos históricos abertos à pesquisa pública](<https://www.rcwtv.com.br/noticia/arquivo-central-da-ufjf-reune-documentos-historicos-abertos-a-pesquisa-publica>)
+- 📰 [BR-265 é totalmente interditada após tombamento de carreta com produto químico em São João del-Rei](<https://www.rcwtv.com.br/noticia/br-265-e-totalmente-interditada-apos-tombamento-de-carreta-com-produto-quimico-em-sao-joao-del-rei>)
+- 📰 [Minas Gerais alcança segundo lugar nacional em transparência das obras públicas](<https://www.rcwtv.com.br/noticia/minas-gerais-alcanca-segundo-lugar-nacional-em-transparencia-das-obras-publicas>)
+- 📰 [Obra de drenagem interdita rua no Jardim Casablanca e muda 16 linhas de ônibus na Cidade Alta a partir de segunda (23)](<https://www.rcwtv.com.br/noticia/obra-de-drenagem-interdita-rua-no-jardim-casablanca-e-muda-16-linhas-de-onibus-na-cidade-alta-a-partir-de-segunda-23>)
+- 📰 [NBA em 19 e 20/11: Harden faz 51 pontos e supera marca de Kobe Bryant](<https://www.rcwtv.com.br/noticia/nba-em-19-e-20-11-harden-faz-51-pontos-e-supera-marca-de-kobe-bryant>)
+- 📰 [Assembleia Legislativa de Minas Gerais conquista prêmio internacional](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-conquista-premio-internacional>)
+- 📰 [Perdeu acesso ao e-mail? O que fazer antes que o problema cresça](<https://www.rcwtv.com.br/noticia/perdeu-acesso-ao-e-mail-o-que-fazer-antes-que-o-problema-cresca>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

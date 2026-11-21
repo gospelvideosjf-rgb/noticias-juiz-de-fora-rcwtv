@@ -1583,3 +1583,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Assembleia Legislativa de Minas Gerais participa da inauguração do Hospital Raja](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-participa-da-inauguracao-do-hospital-raja>) - *20/11/2026*
 - [Filme sobre clube negro de Paracatu resgata memória e combate ao racismo](<https://www.rcwtv.com.br/noticia/filme-sobre-clube-negro-de-paracatu-resgata-memoria-e-combate-ao-racismo>) - *20/11/2026*
 
+### Atualização de 21/11/2026
+- [Chuvas causam pontos de alagamento em Juiz de Fora e Inmet alerta para novos temporais até segunda (23)](<https://www.rcwtv.com.br/noticia/chuvas-causam-pontos-de-alagamento-em-juiz-de-fora-e-inmet-alerta-para-novos-temporais-ate-segunda-23>) - *21/11/2026*
+- [Lula presta solidariedade a Tupanciretã após tempestade no Rio Grande do Sul](<https://www.rcwtv.com.br/noticia/lula-presta-solidariedade-a-tupancireta-apos-tempestade-no-rio-grande-do-sul>) - *21/11/2026*
+- [Destaques da Rede Sindijori MG trazem turismo, saúde e economia em municípios](<https://www.rcwtv.com.br/noticia/destaques-da-rede-sindijori-mg-trazem-turismo-saude-e-economia-em-municipios>) - *21/11/2026*
+- [Arquivo Central da UFJF reúne documentos históricos abertos à pesquisa pública](<https://www.rcwtv.com.br/noticia/arquivo-central-da-ufjf-reune-documentos-historicos-abertos-a-pesquisa-publica>) - *21/11/2026*
+- [BR-265 é totalmente interditada após tombamento de carreta com produto químico em São João del-Rei](<https://www.rcwtv.com.br/noticia/br-265-e-totalmente-interditada-apos-tombamento-de-carreta-com-produto-quimico-em-sao-joao-del-rei>) - *21/11/2026*
+- [Minas Gerais alcança segundo lugar nacional em transparência das obras públicas](<https://www.rcwtv.com.br/noticia/minas-gerais-alcanca-segundo-lugar-nacional-em-transparencia-das-obras-publicas>) - *21/11/2026*
+- [Obra de drenagem interdita rua no Jardim Casablanca e muda 16 linhas de ônibus na Cidade Alta a partir de segunda (23)](<https://www.rcwtv.com.br/noticia/obra-de-drenagem-interdita-rua-no-jardim-casablanca-e-muda-16-linhas-de-onibus-na-cidade-alta-a-partir-de-segunda-23>) - *21/11/2026*
+- [NBA em 19 e 20/11: Harden faz 51 pontos e supera marca de Kobe Bryant](<https://www.rcwtv.com.br/noticia/nba-em-19-e-20-11-harden-faz-51-pontos-e-supera-marca-de-kobe-bryant>) - *21/11/2026*
+- [Assembleia Legislativa de Minas Gerais conquista prêmio internacional](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-conquista-premio-internacional>) - *21/11/2026*
+- [Perdeu acesso ao e-mail? O que fazer antes que o problema cresça](<https://www.rcwtv.com.br/noticia/perdeu-acesso-ao-e-mail-o-que-fazer-antes-que-o-problema-cresca>) - *21/11/2026*
+- [Cleitinho Azevedo define nomes para áreas estratégicas de Minas Gerais](<https://www.rcwtv.com.br/noticia/cleitinho-azevedo-define-nomes-para-areas-estrategicas-de-minas-gerais>) - *21/11/2026*
+- [Previsão do tempo hoje em Juiz de Fora e Zona da Mata: calor de até 34°C e alerta de tempestade do INMET](<https://www.rcwtv.com.br/noticia/previsao-do-tempo-hoje-em-juiz-de-fora-e-zona-da-mata-calor-de-ate-34-c-e-alerta-de-tempestade-do-inmet>) - *21/11/2026*
+- [Encontro Nacional de Pesquisa em Ciência da Informação promove campanha de arrecadação](<https://www.rcwtv.com.br/noticia/encontro-nacional-de-pesquisa-em-ciencia-da-informacao-promove-campanha-de-arrecadacao>) - *21/11/2026*
+- [Universidade da Integração Internacional da Lusofonia Afro-Brasileira](<https://www.rcwtv.com.br/noticia/universidade-da-integracao-internacional-da-lusofonia-afro-brasileira>) - *21/11/2026*
+- [Universidade Federal do maranhão promove I Seminário Ampliado sobre Teatro](<https://www.rcwtv.com.br/noticia/universidade-federal-do-maranhao-promove-i-seminario-ampliado-sobre-teatro>) - *21/11/2026*
+
