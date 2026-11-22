@@ -1600,3 +1600,10 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Universidade da Integração Internacional da Lusofonia Afro-Brasileira](<https://www.rcwtv.com.br/noticia/universidade-da-integracao-internacional-da-lusofonia-afro-brasileira>) - *21/11/2026*
 - [Universidade Federal do maranhão promove I Seminário Ampliado sobre Teatro](<https://www.rcwtv.com.br/noticia/universidade-federal-do-maranhao-promove-i-seminario-ampliado-sobre-teatro>) - *21/11/2026*
 
+### Atualização de 21/11/2026
+- [Portal abre novas vagas de emprego com salários de até R$ 2.000 nesta semana](<https://www.rcwtv.com.br/noticia/portal-abre-novas-vagas-de-emprego-com-salarios-de-ate-r-2-000-nesta-semana>) - *21/11/2026*
+- [Fim de semana prolongado na UFJF: veja o que abre e fecha até terça (24) em Juiz de Fora](<https://www.rcwtv.com.br/noticia/fim-de-semana-prolongado-na-ufjf-veja-o-que-abre-e-fecha-ate-terca-24-em-juiz-de-fora>) - *21/11/2026*
+- [MPMG denuncia homem por tentativa de feminicídio contra companheira em Alfenas](<https://www.rcwtv.com.br/noticia/mpmg-denuncia-homem-por-tentativa-de-feminicidio-contra-companheira-em-alfenas>) - *21/11/2026*
+- [Jair Bolsonaro é internado em UTI de hospital em Brasília após dores abdominais](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-e-internado-em-uti-de-hospital-em-brasilia-apos-dores-abdominais>) - *21/11/2026*
+- [Anvisa adia webinar sobre proposta de Sandbox Regulatório previsto para segunda (23)](<https://www.rcwtv.com.br/noticia/anvisa-adia-webinar-sobre-proposta-de-sandbox-regulatorio-previsto-para-segunda-23>) - *21/11/2026*
+

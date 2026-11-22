@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
+- 📰 [Portal abre novas vagas de emprego com salários de até R$ 2.000 nesta semana](<https://www.rcwtv.com.br/noticia/portal-abre-novas-vagas-de-emprego-com-salarios-de-ate-r-2-000-nesta-semana>)
+- 📰 [Fim de semana prolongado na UFJF: veja o que abre e fecha até terça (24) em Juiz de Fora](<https://www.rcwtv.com.br/noticia/fim-de-semana-prolongado-na-ufjf-veja-o-que-abre-e-fecha-ate-terca-24-em-juiz-de-fora>)
+- 📰 [MPMG denuncia homem por tentativa de feminicídio contra companheira em Alfenas](<https://www.rcwtv.com.br/noticia/mpmg-denuncia-homem-por-tentativa-de-feminicidio-contra-companheira-em-alfenas>)
+- 📰 [Jair Bolsonaro é internado em UTI de hospital em Brasília após dores abdominais](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-e-internado-em-uti-de-hospital-em-brasilia-apos-dores-abdominais>)
+- 📰 [Anvisa adia webinar sobre proposta de Sandbox Regulatório previsto para segunda (23)](<https://www.rcwtv.com.br/noticia/anvisa-adia-webinar-sobre-proposta-de-sandbox-regulatorio-previsto-para-segunda-23>)
 - 📰 [Chuvas causam pontos de alagamento em Juiz de Fora e Inmet alerta para novos temporais até segunda (23)](<https://www.rcwtv.com.br/noticia/chuvas-causam-pontos-de-alagamento-em-juiz-de-fora-e-inmet-alerta-para-novos-temporais-ate-segunda-23>)
 - 📰 [Lula presta solidariedade a Tupanciretã após tempestade no Rio Grande do Sul](<https://www.rcwtv.com.br/noticia/lula-presta-solidariedade-a-tupancireta-apos-tempestade-no-rio-grande-do-sul>)
 - 📰 [Destaques da Rede Sindijori MG trazem turismo, saúde e economia em municípios](<https://www.rcwtv.com.br/noticia/destaques-da-rede-sindijori-mg-trazem-turismo-saude-e-economia-em-municipios>)
 - 📰 [Arquivo Central da UFJF reúne documentos históricos abertos à pesquisa pública](<https://www.rcwtv.com.br/noticia/arquivo-central-da-ufjf-reune-documentos-historicos-abertos-a-pesquisa-publica>)
 - 📰 [BR-265 é totalmente interditada após tombamento de carreta com produto químico em São João del-Rei](<https://www.rcwtv.com.br/noticia/br-265-e-totalmente-interditada-apos-tombamento-de-carreta-com-produto-quimico-em-sao-joao-del-rei>)
-- 📰 [Minas Gerais alcança segundo lugar nacional em transparência das obras públicas](<https://www.rcwtv.com.br/noticia/minas-gerais-alcanca-segundo-lugar-nacional-em-transparencia-das-obras-publicas>)
-- 📰 [Obra de drenagem interdita rua no Jardim Casablanca e muda 16 linhas de ônibus na Cidade Alta a partir de segunda (23)](<https://www.rcwtv.com.br/noticia/obra-de-drenagem-interdita-rua-no-jardim-casablanca-e-muda-16-linhas-de-onibus-na-cidade-alta-a-partir-de-segunda-23>)
-- 📰 [NBA em 19 e 20/11: Harden faz 51 pontos e supera marca de Kobe Bryant](<https://www.rcwtv.com.br/noticia/nba-em-19-e-20-11-harden-faz-51-pontos-e-supera-marca-de-kobe-bryant>)
-- 📰 [Assembleia Legislativa de Minas Gerais conquista prêmio internacional](<https://www.rcwtv.com.br/noticia/assembleia-legislativa-de-minas-gerais-conquista-premio-internacional>)
-- 📰 [Perdeu acesso ao e-mail? O que fazer antes que o problema cresça](<https://www.rcwtv.com.br/noticia/perdeu-acesso-ao-e-mail-o-que-fazer-antes-que-o-problema-cresca>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
