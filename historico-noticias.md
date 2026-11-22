@@ -1607,3 +1607,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Jair Bolsonaro é internado em UTI de hospital em Brasília após dores abdominais](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-e-internado-em-uti-de-hospital-em-brasilia-apos-dores-abdominais>) - *21/11/2026*
 - [Anvisa adia webinar sobre proposta de Sandbox Regulatório previsto para segunda (23)](<https://www.rcwtv.com.br/noticia/anvisa-adia-webinar-sobre-proposta-de-sandbox-regulatorio-previsto-para-segunda-23>) - *21/11/2026*
 
+### Atualização de 22/11/2026
+- [Tribunal de Justiça de Minas Gerais lança série sobre o Mês da Consciência Negra](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-lanca-serie-sobre-o-mes-da-consciencia-negra>) - *22/11/2026*
+- [Prêmio da Mega-Sena acumula e pode pagar R$ 65 milhões na próxima terça-feira](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-e-pode-pagar-r-65-milhoes-na-proxima-terca-feira>) - *22/11/2026*
+- [Portal de empregos atualiza quadro com oportunidades e salários de até R$ 2.500](<https://www.rcwtv.com.br/noticia/portal-de-empregos-atualiza-quadro-com-oportunidades-e-salarios-de-ate-r-2-500>) - *22/11/2026*
+- [Como é comemorado o Natal em outros países? Conheça 5 tradições e expressões típicas](<https://www.rcwtv.com.br/noticia/como-e-comemorado-o-natal-em-outros-paises-conheca-5-tradicoes-e-expressoes-tipicas>) - *22/11/2026*
+- [Governo de Minas inaugura luzes da Praça da Liberdade e abre programação do Natal](<https://www.rcwtv.com.br/noticia/governo-de-minas-inaugura-luzes-da-praca-da-liberdade-e-abre-programacao-do-natal>) - *22/11/2026*
+- [UFJF recebe 33º Encontro Nacional da Rede UNA-SUS para discutir Inteligência](<https://www.rcwtv.com.br/noticia/ufjf-recebe-33-encontro-nacional-da-rede-una-sus-para-discutir-inteligencia>) - *22/11/2026*
+- [Disputa por fábrica da BYD movimenta o Norte de Minas e o Vale do Jequitinhonha](<https://www.rcwtv.com.br/noticia/disputa-por-fabrica-da-byd-movimenta-o-norte-de-minas-e-o-vale-do-jequitinhonha>) - *22/11/2026*
+- [Serviço Geológico do Brasil gera retorno de R$ 14,47 para cada real investido](<https://www.rcwtv.com.br/noticia/servico-geologico-do-brasil-gera-retorno-de-r-14-47-para-cada-real-investido>) - *22/11/2026*
+- [Boca Juniors vence Atlético-MG e conquista o tricampeonato da Copa Sul-Americana 2026](<https://www.rcwtv.com.br/noticia/boca-juniors-vence-atletico-mg-e-conquista-o-tricampeonato-da-copa-sul-americana-2026>) - *22/11/2026*
+- [Previsão do tempo em Juiz de Fora hoje (22/11): de 21°C a 30°C | Bom Dia JF](<https://www.rcwtv.com.br/noticia/previsao-do-tempo-em-juiz-de-fora-hoje-22-11-de-21-c-a-30-c-bom-dia-jf>) - *22/11/2026*
+- [Resumo do Dia em Juiz de Fora (21/11/2026): chuva, trânsito e empregos](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-21-11-2026-chuva-transito-e-empregos>) - *22/11/2026*
+- [Phishing: cinco pistas de que o e-mail tenta roubar seus dados](<https://www.rcwtv.com.br/noticia/phishing-cinco-pistas-de-que-o-e-mail-tenta-roubar-seus-dados>) - *22/11/2026*
+- [Unesc Rádio expande programação com conteúdos acadêmicos e culturais em Santa](<https://www.rcwtv.com.br/noticia/unesc-radio-expande-programacao-com-conteudos-academicos-e-culturais-em-santa>) - *22/11/2026*
+- [Universidade de Passo Fundo completa 58 anos de história com conceito máximo](<https://www.rcwtv.com.br/noticia/universidade-de-passo-fundo-completa-58-anos-de-historia-com-conceito-maximo>) - *22/11/2026*
+- [Comung busca na Assembleia Legislativa continuidade de programas no RS](<https://www.rcwtv.com.br/noticia/comung-busca-na-assembleia-legislativa-continuidade-de-programas-no-rs>) - *22/11/2026*
+
