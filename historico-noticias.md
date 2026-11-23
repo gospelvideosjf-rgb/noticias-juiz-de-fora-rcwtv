@@ -1624,3 +1624,9 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Universidade de Passo Fundo completa 58 anos de história com conceito máximo](<https://www.rcwtv.com.br/noticia/universidade-de-passo-fundo-completa-58-anos-de-historia-com-conceito-maximo>) - *22/11/2026*
 - [Comung busca na Assembleia Legislativa continuidade de programas no RS](<https://www.rcwtv.com.br/noticia/comung-busca-na-assembleia-legislativa-continuidade-de-programas-no-rs>) - *22/11/2026*
 
+### Atualização de 22/11/2026
+- [Portal abre vagas de emprego com salários de até R$ 2.500 nesta semana](<https://www.rcwtv.com.br/noticia/portal-abre-vagas-de-emprego-com-salarios-de-ate-r-2-500-nesta-semana>) - *22/11/2026*
+- [Resumo do Dia em Juiz de Fora (22/11/2026): salvamentos do Samu, vagas e serviços](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-22-11-2026-salvamentos-do-samu-vagas-e-servicos>) - *22/11/2026*
+- [Equipes do Samu revertem duas paradas cardíacas no mesmo plantão em Juiz de Fora](<https://www.rcwtv.com.br/noticia/equipes-do-samu-revertem-duas-paradas-cardiacas-no-mesmo-plantao-em-juiz-de-fora>) - *22/11/2026*
+- [Jair Bolsonaro segue internado na UTI do Hospital DF Star em Brasília](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-segue-internado-na-uti-do-hospital-df-star-em-brasilia>) - *22/11/2026*
+
