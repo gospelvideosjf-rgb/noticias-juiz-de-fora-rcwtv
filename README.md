@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Portal abre vagas de emprego com salários de até R$ 2.500 nesta semana](<https://www.rcwtv.com.br/noticia/portal-abre-vagas-de-emprego-com-salarios-de-ate-r-2-500-nesta-semana>)
-- 📰 [Resumo do Dia em Juiz de Fora (22/11/2026): salvamentos do Samu, vagas e serviços](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-22-11-2026-salvamentos-do-samu-vagas-e-servicos>)
-- 📰 [Equipes do Samu revertem duas paradas cardíacas no mesmo plantão em Juiz de Fora](<https://www.rcwtv.com.br/noticia/equipes-do-samu-revertem-duas-paradas-cardiacas-no-mesmo-plantao-em-juiz-de-fora>)
-- 📰 [Jair Bolsonaro segue internado na UTI do Hospital DF Star em Brasília](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-segue-internado-na-uti-do-hospital-df-star-em-brasilia>)
-- 📰 [Tribunal de Justiça de Minas Gerais lança série sobre o Mês da Consciência Negra](<https://www.rcwtv.com.br/noticia/tribunal-de-justica-de-minas-gerais-lanca-serie-sobre-o-mes-da-consciencia-negra>)
-- 📰 [Prêmio da Mega-Sena acumula e pode pagar R$ 65 milhões na próxima terça-feira](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-e-pode-pagar-r-65-milhoes-na-proxima-terca-feira>)
-- 📰 [Portal de empregos atualiza quadro com oportunidades e salários de até R$ 2.500](<https://www.rcwtv.com.br/noticia/portal-de-empregos-atualiza-quadro-com-oportunidades-e-salarios-de-ate-r-2-500>)
-- 📰 [Como é comemorado o Natal em outros países? Conheça 5 tradições e expressões típicas](<https://www.rcwtv.com.br/noticia/como-e-comemorado-o-natal-em-outros-paises-conheca-5-tradicoes-e-expressoes-tipicas>)
-- 📰 [Governo de Minas inaugura luzes da Praça da Liberdade e abre programação do Natal](<https://www.rcwtv.com.br/noticia/governo-de-minas-inaugura-luzes-da-praca-da-liberdade-e-abre-programacao-do-natal>)
-- 📰 [UFJF recebe 33º Encontro Nacional da Rede UNA-SUS para discutir Inteligência](<https://www.rcwtv.com.br/noticia/ufjf-recebe-33-encontro-nacional-da-rede-una-sus-para-discutir-inteligencia>)
+- 📰 [COP31 termina na Turquia com avanços em adaptação, mas trava em acordo sobre combustíveis fósseis](<https://www.rcwtv.com.br/noticia/cop31-termina-na-turquia-com-avancos-em-adaptacao-mas-trava-em-acordo-sobre-combustiveis-fosseis>)
+- 📰 [Falta de dados afeta rastreamento genético de insuficiência cardíaca na população brasileira](<https://www.rcwtv.com.br/noticia/falta-de-dados-afeta-rastreamento-genetico-de-insuficiencia-cardiaca-na-populacao-brasileira-87755>)
+- 📰 [CVM suspende registro do Banco de Brasília e de mais quatro empresas](<https://www.rcwtv.com.br/noticia/cvm-suspende-registro-do-banco-de-brasilia-e-de-mais-quatro-empresas>)
+- 📰 [Substância gerada a partir de fibras alimentares estimula células de defesa a reparar o intestino](<https://www.rcwtv.com.br/noticia/substancia-gerada-a-partir-de-fibras-alimentares-estimula-celulas-de-defesa-a-reparar-o-intestino>)
+- 📰 [Comissão aprova o Projeto de Lei 2965/21 que equipara enteado a filho](<https://www.rcwtv.com.br/noticia/comissao-aprova-o-projeto-de-lei-2965-21-que-equipara-enteado-a-filho>)
+- 📰 [Câmara dos Deputados debate a redução da maioridade penal na terça-feira](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-debate-a-reducao-da-maioridade-penal-na-terca-feira>)
+- 📰 [Câmara dos Deputados pode votar projeto de ajuste fiscal nesta segunda-feira](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-pode-votar-projeto-de-ajuste-fiscal-nesta-segunda-feira>)
+- 📰 [Advocacia-Geral da União pede dispensa de liminar do STF sobre escala 5x2](<https://www.rcwtv.com.br/noticia/advocacia-geral-da-uniao-pede-dispensa-de-liminar-do-stf-sobre-escala-5x2>)
+- 📰 [Bispo Bruno Leonardo promove ação social e ajuda pessoas vulneráveis](<https://www.rcwtv.com.br/noticia/bispo-bruno-leonardo-promove-acao-social-e-ajuda-pessoas-vulneraveis>)
+- 📰 [Bispo Bruno Leonardo promove ação social e leva alimentos, acolhimento e esperança a pessoas em situação de vulnerabilidade](<https://www.rcwtv.com.br/noticia/bispo-bruno-leonardo-promove-acao-social-e-leva-alimentos-acolhimento-e-esperanca-a-pessoas-em-situacao-de-vulnerabilidade>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

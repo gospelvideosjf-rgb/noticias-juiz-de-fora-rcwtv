@@ -1630,3 +1630,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Equipes do Samu revertem duas paradas cardíacas no mesmo plantão em Juiz de Fora](<https://www.rcwtv.com.br/noticia/equipes-do-samu-revertem-duas-paradas-cardiacas-no-mesmo-plantao-em-juiz-de-fora>) - *22/11/2026*
 - [Jair Bolsonaro segue internado na UTI do Hospital DF Star em Brasília](<https://www.rcwtv.com.br/noticia/jair-bolsonaro-segue-internado-na-uti-do-hospital-df-star-em-brasilia>) - *22/11/2026*
 
+### Atualização de 23/11/2026
+- [COP31 termina na Turquia com avanços em adaptação, mas trava em acordo sobre combustíveis fósseis](<https://www.rcwtv.com.br/noticia/cop31-termina-na-turquia-com-avancos-em-adaptacao-mas-trava-em-acordo-sobre-combustiveis-fosseis>) - *23/11/2026*
+- [Falta de dados afeta rastreamento genético de insuficiência cardíaca na população brasileira](<https://www.rcwtv.com.br/noticia/falta-de-dados-afeta-rastreamento-genetico-de-insuficiencia-cardiaca-na-populacao-brasileira-87755>) - *23/11/2026*
+- [CVM suspende registro do Banco de Brasília e de mais quatro empresas](<https://www.rcwtv.com.br/noticia/cvm-suspende-registro-do-banco-de-brasilia-e-de-mais-quatro-empresas>) - *23/11/2026*
+- [Substância gerada a partir de fibras alimentares estimula células de defesa a reparar o intestino](<https://www.rcwtv.com.br/noticia/substancia-gerada-a-partir-de-fibras-alimentares-estimula-celulas-de-defesa-a-reparar-o-intestino>) - *23/11/2026*
+- [Comissão aprova o Projeto de Lei 2965/21 que equipara enteado a filho](<https://www.rcwtv.com.br/noticia/comissao-aprova-o-projeto-de-lei-2965-21-que-equipara-enteado-a-filho>) - *23/11/2026*
+- [Câmara dos Deputados debate a redução da maioridade penal na terça-feira](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-debate-a-reducao-da-maioridade-penal-na-terca-feira>) - *23/11/2026*
+- [Câmara dos Deputados pode votar projeto de ajuste fiscal nesta segunda-feira](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-pode-votar-projeto-de-ajuste-fiscal-nesta-segunda-feira>) - *23/11/2026*
+- [Advocacia-Geral da União pede dispensa de liminar do STF sobre escala 5x2](<https://www.rcwtv.com.br/noticia/advocacia-geral-da-uniao-pede-dispensa-de-liminar-do-stf-sobre-escala-5x2>) - *23/11/2026*
+- [Bispo Bruno Leonardo promove ação social e ajuda pessoas vulneráveis](<https://www.rcwtv.com.br/noticia/bispo-bruno-leonardo-promove-acao-social-e-ajuda-pessoas-vulneraveis>) - *23/11/2026*
+- [Bispo Bruno Leonardo promove ação social e leva alimentos, acolhimento e esperança a pessoas em situação de vulnerabilidade](<https://www.rcwtv.com.br/noticia/bispo-bruno-leonardo-promove-acao-social-e-leva-alimentos-acolhimento-e-esperanca-a-pessoas-em-situacao-de-vulnerabilidade>) - *23/11/2026*
+- [Senac em Foco conecta empresas e profissionais e debate tendências do mercado de trabalho em Juiz de Fora](<https://www.rcwtv.com.br/noticia/senac-em-foco-conecta-empresas-e-profissionais-e-debate-tendencias-do-mercado-de-trabalho-em-juiz-de-fora>) - *23/11/2026*
+- [Comissão de Segurança Pública ouve ministro da Justiça sobre a Polícia Federal](<https://www.rcwtv.com.br/noticia/comissao-de-seguranca-publica-ouve-ministro-da-justica-sobre-a-policia-federal>) - *23/11/2026*
+- [Protesto de rodoviários paralisa ônibus em Juiz de Fora após agressão a motorista](<https://www.rcwtv.com.br/noticia/protesto-de-rodoviarios-paralisa-onibus-em-juiz-de-fora-apos-agressao-a-motorista>) - *23/11/2026*
+- [Operações da Polícia Militar registram prisões por tráfico, captura de foragidos e tentativa de homicídio na região](<https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-registram-prisoes-por-trafico-captura-de-foragidos-e-tentativa-de-homicidio-na-regiao>) - *23/11/2026*
+- [Brasileirão 2026: FLA é CAMPEÃO! Agora a briga é por vaga na Libertadores e fuga do Z4](<https://www.rcwtv.com.br/noticia/brasileirao-2026-fla-e-campeao-agora-a-briga-e-por-vaga-na-libertadores-e-fuga-do-z4>) - *23/11/2026*
+
