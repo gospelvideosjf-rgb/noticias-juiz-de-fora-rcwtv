@@ -1647,3 +1647,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Operações da Polícia Militar registram prisões por tráfico, captura de foragidos e tentativa de homicídio na região](<https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-registram-prisoes-por-trafico-captura-de-foragidos-e-tentativa-de-homicidio-na-regiao>) - *23/11/2026*
 - [Brasileirão 2026: FLA é CAMPEÃO! Agora a briga é por vaga na Libertadores e fuga do Z4](<https://www.rcwtv.com.br/noticia/brasileirao-2026-fla-e-campeao-agora-a-briga-e-por-vaga-na-libertadores-e-fuga-do-z4>) - *23/11/2026*
 
+### Atualização de 24/11/2026
+- [Prefeitura de Juiz de Fora disponibiliza mais de 263 vagas de emprego nesta sexta](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-disponibiliza-mais-de-263-vagas-de-emprego-nesta-sexta>) - *24/11/2026*
+- [Programa Pé-de-Meia inicia pagamento da oitava parcela para estudantes brasileiros](<https://www.rcwtv.com.br/noticia/programa-pe-de-meia-inicia-pagamento-da-oitava-parcela-para-estudantes-brasileiros>) - *24/11/2026*
+- [Debate na Comissão Mista de Orçamento pede mais recursos para mulheres](<https://www.rcwtv.com.br/noticia/debate-na-comissao-mista-de-orcamento-pede-mais-recursos-para-mulheres>) - *24/11/2026*
+- [Polícia Civil investiga desaparecimento de motorista de aplicativo em Montes Claros](<https://www.rcwtv.com.br/noticia/policia-civil-investiga-desaparecimento-de-motorista-de-aplicativo-em-montes-claros>) - *24/11/2026*
+- [Polícia Militar apreende drogas em Rodeiro, prende suspeito por tiros em Ubá e anuncia simulado em Guidoval](<https://www.rcwtv.com.br/noticia/policia-militar-apreende-drogas-em-rodeiro-prende-suspeito-por-tiros-em-uba-e-anuncia-simulado-em-guidoval>) - *24/11/2026*
+- [Festival de Verão JF 2027 anuncia grandes atrações e inicia venda de ingressos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festival-de-verao-jf-2027-anuncia-grandes-atracoes-e-inicia-venda-de-ingressos-em-juiz-de-fora>) - *24/11/2026*
+- [MEC divulga regras para verbas do Fundeb e consulta está disponível](<https://www.rcwtv.com.br/noticia/mec-divulga-regras-para-verbas-do-fundeb-e-consulta-esta-disponivel>) - *24/11/2026*
+- [Petrobras programa investimentos de US$ 122 bilhões entre 2027 e 2031](<https://www.rcwtv.com.br/noticia/petrobras-programa-investimentos-de-us-122-bilhoes-entre-2027-e-2031>) - *24/11/2026*
+- [TV Câmara conquista prêmio internacional em Guadalajara com programa voltado a jovens](<https://www.rcwtv.com.br/noticia/tv-camara-conquista-premio-internacional-em-guadalajara-com-programa-voltado-a-jovens>) - *24/11/2026*
+- [Temporal em Juiz de Fora deixa ilhados e alaga Av. Rio Branco](<https://www.rcwtv.com.br/noticia/temporal-em-juiz-de-fora-deixa-ilhados-e-alaga-av-rio-branco>) - *24/11/2026*
+- [Juiz de Fora recebe a Taça Minas Gerais de Bocha 2026, que reúne oito equipes e define classificados para a Taça Brasil 2027](<https://www.rcwtv.com.br/noticia/juiz-de-fora-recebe-a-taca-minas-gerais-de-bocha-2026-que-reune-oito-equipes-e-define-classificados-para-a-taca-brasil-2027>) - *24/11/2026*
+- [Sistema Fecomércio MG abre mais de 800 vagas em cursos gratuitos no Campo das Vertentes](<https://www.rcwtv.com.br/noticia/sistema-fecomercio-mg-abre-mais-de-800-vagas-em-cursos-gratuitos-no-campo-das-vertentes>) - *24/11/2026*
+- [Câmara dos Deputados analisa projeto que fixa regras para gastos com publicidade](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-analisa-projeto-que-fixa-regras-para-gastos-com-publicidade>) - *24/11/2026*
+- [Banco Central e instituições de países lusófonos criam rede de cooperação](<https://www.rcwtv.com.br/noticia/banco-central-e-instituicoes-de-paises-lusofonos-criam-rede-de-cooperacao>) - *24/11/2026*
+- [Temporal em Juiz de Fora provoca deslizamentos, queda de muros e 23 ocorrências da Defesa Civil](<https://www.rcwtv.com.br/noticia/temporal-em-juiz-de-fora-provoca-deslizamentos-queda-de-muros-e-23-ocorrencias-da-defesa-civil>) - *24/11/2026*
+
