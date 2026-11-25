@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [O tempo não espera: o desafio dos brasileiros de encerrar um ciclo e começar outro](<https://www.rcwtv.com.br/noticia/o-tempo-nao-espera-o-desafio-dos-brasileiros-de-encerrar-um-ciclo-e-comecar-outro>)
-- 📰 [Mega-Sena acumula e prêmio estimado chega a R$ 75 milhões para o próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-estimado-chega-a-r-75-milhoes-para-o-proximo-sorteio>)
-- 📰 [PUC-SP abre inscrições para especializações, MBAs na Escola de Negócios e extensão](<https://www.rcwtv.com.br/noticia/puc-sp-abre-inscricoes-para-especializacoes-mbas-na-escola-de-negocios-e-extensao>)
-- 📰 [Estácio adota trilha obrigatória de inteligência artificial e programa Estácio+ na graduação](<https://www.rcwtv.com.br/noticia/estacio-adota-trilha-obrigatoria-de-inteligencia-artificial-e-programa-estacio-na-graduacao>)
-- 📰 [UNIPAC abre inscrições para graduações EAD e semipresenciais em nove cidades de Minas](<https://www.rcwtv.com.br/noticia/unipac-abre-inscricoes-para-graduacoes-ead-e-semipresenciais-em-nove-cidades-de-minas>)
-- 📰 [PUC Minas e Minas Tênis Clube firmam parceria para 2027-2029 e criam Arena PUC Minas](<https://www.rcwtv.com.br/noticia/puc-minas-e-minas-tenis-clube-firmam-parceria-para-2027-2029-e-criam-arena-puc-minas>)
-- 📰 [IFNMG encerra edição histórica da Reditec em Montes Claros com 1,2 mil dirigentes](<https://www.rcwtv.com.br/noticia/ifnmg-encerra-edicao-historica-da-reditec-em-montes-claros-com-1-2-mil-dirigentes>)
-- 📰 [Dez alunos de Ciências Contábeis da Univértix passam no Exame do CFC no sexto período](<https://www.rcwtv.com.br/noticia/dez-alunos-de-ciencias-contabeis-da-univertix-passam-no-exame-do-cfc-no-sexto-periodo>)
-- 📰 [IFSC libera gabarito preliminar do Vestibular 2027.1 e detalha cronograma de resultados](<https://www.rcwtv.com.br/noticia/ifsc-libera-gabarito-preliminar-do-vestibular-2027-1-e-detalha-cronograma-de-resultados>)
-- 📰 [Pesquisa da UENF aplica inteligência artificial a estudos de física nuclear no Rio](<https://www.rcwtv.com.br/noticia/pesquisa-da-uenf-aplica-inteligencia-artificial-a-estudos-de-fisica-nuclear-no-rio>)
+- 📰 [Comissão de Educação aprova carga horária mínima para filosofia e sociologia](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-aprova-carga-horaria-minima-para-filosofia-e-sociologia>)
+- 📰 [Cármen Lúcia afirma que violência de gênero atingiu nível de atrocidade no país](<https://www.rcwtv.com.br/noticia/carmen-lucia-afirma-que-violencia-de-genero-atingiu-nivel-de-atrocidade-no-pais>)
+- 📰 [Comissão Mista de Orçamento aprova alta de R$ 37,1 bilhões na receita para 2027](<https://www.rcwtv.com.br/noticia/comissao-mista-de-orcamento-aprova-alta-de-r-37-1-bilhoes-na-receita-para-2027>)
+- 📰 [Simulações indicam como temperatura e acidez facilitam entrada do vírus da dengue nas células](<https://www.rcwtv.com.br/noticia/simulacoes-indicam-como-temperatura-e-acidez-facilitam-entrada-do-virus-da-dengue-nas-celulas>)
+- 📰 [CCJ da Câmara dos Deputados aprova projeto sobre corrupção de adolescentes](<https://www.rcwtv.com.br/noticia/ccj-da-camara-dos-deputados-aprova-projeto-sobre-corrupcao-de-adolescentes>)
+- 📰 [Noite Mineira de Museus e Bibliotecas celebra Consciência Negra em 108 cidades, incluindo Juiz de Fora](<https://www.rcwtv.com.br/noticia/noite-mineira-de-museus-e-bibliotecas-celebra-consciencia-negra-em-108-cidades-incluindo-juiz-de-fora>)
+- 📰 [Secult-MG e Sebrae Minas liberam curso sobre identidade gastronômica na Plataforma Trem](<https://www.rcwtv.com.br/noticia/secult-mg-e-sebrae-minas-liberam-curso-sobre-identidade-gastronomica-na-plataforma-trem>)
+- 📰 [Chapecoense goleia reservas do Palmeiras por 3 a 0 no Brasileirão](<https://www.rcwtv.com.br/noticia/chapecoense-goleia-reservas-do-palmeiras-por-3-a-0-no-brasileirao>)
+- 📰 [Comissão aprova o Projeto de Lei 4567/24 sobre gratuidade para crianças](<https://www.rcwtv.com.br/noticia/comissao-aprova-o-projeto-de-lei-4567-24-sobre-gratuidade-para-criancas>)
+- 📰 [Saberes ancestrais do povo Tikmũ’ũn-Maxakali tornam-se patrimônio imaterial de Minas Gerais](<https://www.rcwtv.com.br/noticia/saberes-ancestrais-do-povo-tikmu-un-maxakali-tornam-se-patrimonio-imaterial-de-minas-gerais>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

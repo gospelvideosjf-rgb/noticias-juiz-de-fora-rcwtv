@@ -1681,3 +1681,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Revista Paraguaçu da UFRB alcança excelência nacional em primeira avaliação no Qualis CAPES](<https://www.rcwtv.com.br/noticia/revista-paraguacu-da-ufrb-alcanca-excelencia-nacional-em-primeira-avaliacao-no-qualis-capes>) - *25/11/2026*
 - [UFMT celebra 56 anos com programação de concertos, corrida, centro de memória e homenagens em dezembro](<https://www.rcwtv.com.br/noticia/ufmt-celebra-56-anos-com-programacao-de-concertos-corrida-centro-de-memoria-e-homenagens-em-dezembro>) - *25/11/2026*
 
+### Atualização de 25/11/2026
+- [Comissão de Educação aprova carga horária mínima para filosofia e sociologia](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-aprova-carga-horaria-minima-para-filosofia-e-sociologia>) - *25/11/2026*
+- [Cármen Lúcia afirma que violência de gênero atingiu nível de atrocidade no país](<https://www.rcwtv.com.br/noticia/carmen-lucia-afirma-que-violencia-de-genero-atingiu-nivel-de-atrocidade-no-pais>) - *25/11/2026*
+- [Comissão Mista de Orçamento aprova alta de R$ 37,1 bilhões na receita para 2027](<https://www.rcwtv.com.br/noticia/comissao-mista-de-orcamento-aprova-alta-de-r-37-1-bilhoes-na-receita-para-2027>) - *25/11/2026*
+- [Simulações indicam como temperatura e acidez facilitam entrada do vírus da dengue nas células](<https://www.rcwtv.com.br/noticia/simulacoes-indicam-como-temperatura-e-acidez-facilitam-entrada-do-virus-da-dengue-nas-celulas>) - *25/11/2026*
+- [CCJ da Câmara dos Deputados aprova projeto sobre corrupção de adolescentes](<https://www.rcwtv.com.br/noticia/ccj-da-camara-dos-deputados-aprova-projeto-sobre-corrupcao-de-adolescentes>) - *25/11/2026*
+- [Noite Mineira de Museus e Bibliotecas celebra Consciência Negra em 108 cidades, incluindo Juiz de Fora](<https://www.rcwtv.com.br/noticia/noite-mineira-de-museus-e-bibliotecas-celebra-consciencia-negra-em-108-cidades-incluindo-juiz-de-fora>) - *25/11/2026*
+- [Secult-MG e Sebrae Minas liberam curso sobre identidade gastronômica na Plataforma Trem](<https://www.rcwtv.com.br/noticia/secult-mg-e-sebrae-minas-liberam-curso-sobre-identidade-gastronomica-na-plataforma-trem>) - *25/11/2026*
+- [Chapecoense goleia reservas do Palmeiras por 3 a 0 no Brasileirão](<https://www.rcwtv.com.br/noticia/chapecoense-goleia-reservas-do-palmeiras-por-3-a-0-no-brasileirao>) - *25/11/2026*
+- [Comissão aprova o Projeto de Lei 4567/24 sobre gratuidade para crianças](<https://www.rcwtv.com.br/noticia/comissao-aprova-o-projeto-de-lei-4567-24-sobre-gratuidade-para-criancas>) - *25/11/2026*
+- [Saberes ancestrais do povo Tikmũ’ũn-Maxakali tornam-se patrimônio imaterial de Minas Gerais](<https://www.rcwtv.com.br/noticia/saberes-ancestrais-do-povo-tikmu-un-maxakali-tornam-se-patrimonio-imaterial-de-minas-gerais>) - *25/11/2026*
+- [Semana Geek e presença do Papai Noel movimentam o Shopping Jardim Norte em Juiz de Fora](<https://www.rcwtv.com.br/noticia/semana-geek-e-presenca-do-papai-noel-movimentam-o-shopping-jardim-norte-em-juiz-de-fora>) - *25/11/2026*
+- [Anvisa manda apreender suplementos alimentares vendidos na plataforma Shopee](<https://www.rcwtv.com.br/noticia/anvisa-manda-apreender-suplementos-alimentares-vendidos-na-plataforma-shopee>) - *25/11/2026*
+- [Vagas de emprego em Juiz de Fora: Empresa abre contratação para Auxiliar de Limpeza - área hospitalar com salário de R$ 1.780](<https://www.rcwtv.com.br/noticia/vagas-de-emprego-em-juiz-de-fora-empresa-abre-contratacao-para-auxiliar-de-limpeza-area-hospitalar-com-salario-de-r-1-780>) - *25/11/2026*
+- [Editais do audiovisual em Minas Gerais prorrogam inscrições até 26/11](<https://www.rcwtv.com.br/noticia/editais-do-audiovisual-em-minas-gerais-prorrogam-inscricoes-ate-26-11>) - *25/11/2026*
+- [Acidente fatal na MG-133 e graves ocorrências mobilizam o Samu na Zona da Mata](<https://www.rcwtv.com.br/noticia/acidente-fatal-na-mg-133-e-graves-ocorrencias-mobilizam-o-samu-na-zona-da-mata>) - *25/11/2026*
+
