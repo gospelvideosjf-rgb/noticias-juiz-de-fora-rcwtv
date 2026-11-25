@@ -1664,3 +1664,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Banco Central e instituições de países lusófonos criam rede de cooperação](<https://www.rcwtv.com.br/noticia/banco-central-e-instituicoes-de-paises-lusofonos-criam-rede-de-cooperacao>) - *24/11/2026*
 - [Temporal em Juiz de Fora provoca deslizamentos, queda de muros e 23 ocorrências da Defesa Civil](<https://www.rcwtv.com.br/noticia/temporal-em-juiz-de-fora-provoca-deslizamentos-queda-de-muros-e-23-ocorrencias-da-defesa-civil>) - *24/11/2026*
 
+### Atualização de 25/11/2026
+- [O tempo não espera: o desafio dos brasileiros de encerrar um ciclo e começar outro](<https://www.rcwtv.com.br/noticia/o-tempo-nao-espera-o-desafio-dos-brasileiros-de-encerrar-um-ciclo-e-comecar-outro>) - *25/11/2026*
+- [Mega-Sena acumula e prêmio estimado chega a R$ 75 milhões para o próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-estimado-chega-a-r-75-milhoes-para-o-proximo-sorteio>) - *25/11/2026*
+- [PUC-SP abre inscrições para especializações, MBAs na Escola de Negócios e extensão](<https://www.rcwtv.com.br/noticia/puc-sp-abre-inscricoes-para-especializacoes-mbas-na-escola-de-negocios-e-extensao>) - *25/11/2026*
+- [Estácio adota trilha obrigatória de inteligência artificial e programa Estácio+ na graduação](<https://www.rcwtv.com.br/noticia/estacio-adota-trilha-obrigatoria-de-inteligencia-artificial-e-programa-estacio-na-graduacao>) - *25/11/2026*
+- [UNIPAC abre inscrições para graduações EAD e semipresenciais em nove cidades de Minas](<https://www.rcwtv.com.br/noticia/unipac-abre-inscricoes-para-graduacoes-ead-e-semipresenciais-em-nove-cidades-de-minas>) - *25/11/2026*
+- [PUC Minas e Minas Tênis Clube firmam parceria para 2027-2029 e criam Arena PUC Minas](<https://www.rcwtv.com.br/noticia/puc-minas-e-minas-tenis-clube-firmam-parceria-para-2027-2029-e-criam-arena-puc-minas>) - *25/11/2026*
+- [IFNMG encerra edição histórica da Reditec em Montes Claros com 1,2 mil dirigentes](<https://www.rcwtv.com.br/noticia/ifnmg-encerra-edicao-historica-da-reditec-em-montes-claros-com-1-2-mil-dirigentes>) - *25/11/2026*
+- [Dez alunos de Ciências Contábeis da Univértix passam no Exame do CFC no sexto período](<https://www.rcwtv.com.br/noticia/dez-alunos-de-ciencias-contabeis-da-univertix-passam-no-exame-do-cfc-no-sexto-periodo>) - *25/11/2026*
+- [IFSC libera gabarito preliminar do Vestibular 2027.1 e detalha cronograma de resultados](<https://www.rcwtv.com.br/noticia/ifsc-libera-gabarito-preliminar-do-vestibular-2027-1-e-detalha-cronograma-de-resultados>) - *25/11/2026*
+- [Pesquisa da UENF aplica inteligência artificial a estudos de física nuclear no Rio](<https://www.rcwtv.com.br/noticia/pesquisa-da-uenf-aplica-inteligencia-artificial-a-estudos-de-fisica-nuclear-no-rio>) - *25/11/2026*
+- [Scientex da Univasf reúne mais de 2,7 mil inscritos e conferência do presidente do CNPq](<https://www.rcwtv.com.br/noticia/scientex-da-univasf-reune-mais-de-2-7-mil-inscritos-e-conferencia-do-presidente-do-cnpq>) - *25/11/2026*
+- [Centro de Artes, Design e Moda da Udesc realiza defesas públicas de TCC até 4 de dezembro](<https://www.rcwtv.com.br/noticia/centro-de-artes-design-e-moda-da-udesc-realiza-defesas-publicas-de-tcc-ate-4-de-dezembro>) - *25/11/2026*
+- [UFAM outorga título de Doutor Honoris Causa ao historiador José Ribamar Bessa Freire](<https://www.rcwtv.com.br/noticia/ufam-outorga-titulo-de-doutor-honoris-causa-ao-historiador-jose-ribamar-bessa-freire>) - *25/11/2026*
+- [Revista Paraguaçu da UFRB alcança excelência nacional em primeira avaliação no Qualis CAPES](<https://www.rcwtv.com.br/noticia/revista-paraguacu-da-ufrb-alcanca-excelencia-nacional-em-primeira-avaliacao-no-qualis-capes>) - *25/11/2026*
+- [UFMT celebra 56 anos com programação de concertos, corrida, centro de memória e homenagens em dezembro](<https://www.rcwtv.com.br/noticia/ufmt-celebra-56-anos-com-programacao-de-concertos-corrida-centro-de-memoria-e-homenagens-em-dezembro>) - *25/11/2026*
+

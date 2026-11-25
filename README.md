@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Prefeitura de Juiz de Fora disponibiliza mais de 263 vagas de emprego nesta sexta](<https://www.rcwtv.com.br/noticia/prefeitura-de-juiz-de-fora-disponibiliza-mais-de-263-vagas-de-emprego-nesta-sexta>)
-- 📰 [Programa Pé-de-Meia inicia pagamento da oitava parcela para estudantes brasileiros](<https://www.rcwtv.com.br/noticia/programa-pe-de-meia-inicia-pagamento-da-oitava-parcela-para-estudantes-brasileiros>)
-- 📰 [Debate na Comissão Mista de Orçamento pede mais recursos para mulheres](<https://www.rcwtv.com.br/noticia/debate-na-comissao-mista-de-orcamento-pede-mais-recursos-para-mulheres>)
-- 📰 [Polícia Civil investiga desaparecimento de motorista de aplicativo em Montes Claros](<https://www.rcwtv.com.br/noticia/policia-civil-investiga-desaparecimento-de-motorista-de-aplicativo-em-montes-claros>)
-- 📰 [Polícia Militar apreende drogas em Rodeiro, prende suspeito por tiros em Ubá e anuncia simulado em Guidoval](<https://www.rcwtv.com.br/noticia/policia-militar-apreende-drogas-em-rodeiro-prende-suspeito-por-tiros-em-uba-e-anuncia-simulado-em-guidoval>)
-- 📰 [Festival de Verão JF 2027 anuncia grandes atrações e inicia venda de ingressos em Juiz de Fora](<https://www.rcwtv.com.br/noticia/festival-de-verao-jf-2027-anuncia-grandes-atracoes-e-inicia-venda-de-ingressos-em-juiz-de-fora>)
-- 📰 [MEC divulga regras para verbas do Fundeb e consulta está disponível](<https://www.rcwtv.com.br/noticia/mec-divulga-regras-para-verbas-do-fundeb-e-consulta-esta-disponivel>)
-- 📰 [Petrobras programa investimentos de US$ 122 bilhões entre 2027 e 2031](<https://www.rcwtv.com.br/noticia/petrobras-programa-investimentos-de-us-122-bilhoes-entre-2027-e-2031>)
-- 📰 [TV Câmara conquista prêmio internacional em Guadalajara com programa voltado a jovens](<https://www.rcwtv.com.br/noticia/tv-camara-conquista-premio-internacional-em-guadalajara-com-programa-voltado-a-jovens>)
-- 📰 [Temporal em Juiz de Fora deixa ilhados e alaga Av. Rio Branco](<https://www.rcwtv.com.br/noticia/temporal-em-juiz-de-fora-deixa-ilhados-e-alaga-av-rio-branco>)
+- 📰 [O tempo não espera: o desafio dos brasileiros de encerrar um ciclo e começar outro](<https://www.rcwtv.com.br/noticia/o-tempo-nao-espera-o-desafio-dos-brasileiros-de-encerrar-um-ciclo-e-comecar-outro>)
+- 📰 [Mega-Sena acumula e prêmio estimado chega a R$ 75 milhões para o próximo sorteio](<https://www.rcwtv.com.br/noticia/mega-sena-acumula-e-premio-estimado-chega-a-r-75-milhoes-para-o-proximo-sorteio>)
+- 📰 [PUC-SP abre inscrições para especializações, MBAs na Escola de Negócios e extensão](<https://www.rcwtv.com.br/noticia/puc-sp-abre-inscricoes-para-especializacoes-mbas-na-escola-de-negocios-e-extensao>)
+- 📰 [Estácio adota trilha obrigatória de inteligência artificial e programa Estácio+ na graduação](<https://www.rcwtv.com.br/noticia/estacio-adota-trilha-obrigatoria-de-inteligencia-artificial-e-programa-estacio-na-graduacao>)
+- 📰 [UNIPAC abre inscrições para graduações EAD e semipresenciais em nove cidades de Minas](<https://www.rcwtv.com.br/noticia/unipac-abre-inscricoes-para-graduacoes-ead-e-semipresenciais-em-nove-cidades-de-minas>)
+- 📰 [PUC Minas e Minas Tênis Clube firmam parceria para 2027-2029 e criam Arena PUC Minas](<https://www.rcwtv.com.br/noticia/puc-minas-e-minas-tenis-clube-firmam-parceria-para-2027-2029-e-criam-arena-puc-minas>)
+- 📰 [IFNMG encerra edição histórica da Reditec em Montes Claros com 1,2 mil dirigentes](<https://www.rcwtv.com.br/noticia/ifnmg-encerra-edicao-historica-da-reditec-em-montes-claros-com-1-2-mil-dirigentes>)
+- 📰 [Dez alunos de Ciências Contábeis da Univértix passam no Exame do CFC no sexto período](<https://www.rcwtv.com.br/noticia/dez-alunos-de-ciencias-contabeis-da-univertix-passam-no-exame-do-cfc-no-sexto-periodo>)
+- 📰 [IFSC libera gabarito preliminar do Vestibular 2027.1 e detalha cronograma de resultados](<https://www.rcwtv.com.br/noticia/ifsc-libera-gabarito-preliminar-do-vestibular-2027-1-e-detalha-cronograma-de-resultados>)
+- 📰 [Pesquisa da UENF aplica inteligência artificial a estudos de física nuclear no Rio](<https://www.rcwtv.com.br/noticia/pesquisa-da-uenf-aplica-inteligencia-artificial-a-estudos-de-fisica-nuclear-no-rio>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
