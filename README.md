@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Vaivém: Professora da UFPE tem nomeação por cotas suspensa pela segunda vez](<https://www.rcwtv.com.br/noticia/vaivem-professora-da-ufpe-tem-nomeacao-por-cotas-suspensa-pela-segunda-vez>)
-- 📰 [Prêmio Mulheres Inovadoras reconhece dez pesquisadoras nesta quarta-feira](<https://www.rcwtv.com.br/noticia/premio-mulheres-inovadoras-reconhece-dez-pesquisadoras-nesta-quarta-feira>)
-- 📰 [STF decide que ações trabalhistas devem indicar valor estimado da indenização](<https://www.rcwtv.com.br/noticia/stf-decide-que-acoes-trabalhistas-devem-indicar-valor-estimado-da-indenizacao>)
-- 📰 [Banco Central e CMN anunciam novas regras para conter endividamento no Brasil](<https://www.rcwtv.com.br/noticia/banco-central-e-cmn-anunciam-novas-regras-para-conter-endividamento-no-brasil>)
-- 📰 [Funasa aponta déficit de 110 mil cisternas e 1,3 milhão de banheiros no Brasil](<https://www.rcwtv.com.br/noticia/funasa-aponta-deficit-de-110-mil-cisternas-e-1-3-milhao-de-banheiros-no-brasil>)
-- 📰 [Justiça do Rio de Janeiro torna réu acusado de agredir o professor André Aires](<https://www.rcwtv.com.br/noticia/justica-do-rio-de-janeiro-torna-reu-acusado-de-agredir-o-professor-andre-aires>)
-- 📰 [Resumo do Dia em Juiz de Fora (25/11): 6 mil doses na saúde, vagas e temporais](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-25-11-6-mil-doses-na-saude-vagas-e-temporais>)
-- 📰 [Tribunal de Contas da União afasta multas a Dilma e ex-integrantes da equipe](<https://www.rcwtv.com.br/noticia/tribunal-de-contas-da-uniao-afasta-multas-a-dilma-e-ex-integrantes-da-equipe>)
-- 📰 [O dólar comercial registrou forte queda nesta quarta-feira (25) no Brasil](<https://www.rcwtv.com.br/noticia/o-dolar-comercial-registrou-forte-queda-nesta-quarta-feira-25-no-brasil>)
-- 📰 [Governo do Rio de Janeiro suspende aulas na rede pública devido a chuvas fortes](<https://www.rcwtv.com.br/noticia/governo-do-rio-de-janeiro-suspende-aulas-na-rede-publica-devido-a-chuvas-fortes>)
+- 📰 [Gigantes do mercado imobiliário abrem oportunidades de carreira para futuros corretores em São Paulo](<https://www.rcwtv.com.br/noticia/gigantes-do-mercado-imobiliario-abrem-oportunidades-de-carreira-para-futuros-corretores-em-sao-paulo>)
+- 📰 [Benedita da Silva encerra trajetória de 40 anos na política brasileira no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/benedita-da-silva-encerra-trajetoria-de-40-anos-na-politica-brasileira-no-rio-de-janeiro>)
+- 📰 [Gastos de turistas estrangeiros no Brasil alcançam R$ 53 bilhões no ano](<https://www.rcwtv.com.br/noticia/gastos-de-turistas-estrangeiros-no-brasil-alcancam-r-53-bilhoes-no-ano>)
+- 📰 [Design brasileiro ganha protagonismo em mercado global de residenciais de luxo que deve dobrar até 2031](<https://www.rcwtv.com.br/noticia/design-brasileiro-ganha-protagonismo-em-mercado-global-de-residenciais-de-luxo-que-deve-dobrar-ate-2031>)
+- 📰 [Movimentação na rede elétrica chama atenção no Francisco Bernardino](<https://www.rcwtv.com.br/noticia/movimentacao-na-rede-eletrica-chama-atencao-no-francisco-bernardino>)
+- 📰 [Lazer e serviços já respondem por 57% dos motivos para frequentar centros comerciais, aponta pesquisa](<https://www.rcwtv.com.br/noticia/lazer-e-servicos-ja-respondem-por-57-dos-motivos-para-frequentar-centros-comerciais-aponta-pesquisa>)
+- 📰 [Comissão de Educação aprova passe livre para acompanhante de aluno público](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-aprova-passe-livre-para-acompanhante-de-aluno-publico>)
+- 📰 [Censo da Educação Superior 2025 aponta recorde de jovens no ensino superior](<https://www.rcwtv.com.br/noticia/censo-da-educacao-superior-2025-aponta-recorde-de-jovens-no-ensino-superior>)
+- 📰 [Com um a menos, Atlético-MG busca empate com Corinthians no fim](<https://www.rcwtv.com.br/noticia/com-um-a-menos-atletico-mg-busca-empate-com-corinthians-no-fim>)
+- 📰 [Geraldo Alckmin classifica tarifa dos Estados Unidos para aviões como descabida](<https://www.rcwtv.com.br/noticia/geraldo-alckmin-classifica-tarifa-dos-estados-unidos-para-avioes-como-descabida>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

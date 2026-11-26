@@ -1715,3 +1715,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Procon Juiz de Fora: Como Agendar Atendimento, Fazer Denúncias e Defender seus Direitos](<https://www.rcwtv.com.br/noticia/procon-juiz-de-fora-como-agendar-atendimento-fazer-denuncias-e-defender-seus-direitos>) - *26/11/2026*
 - [Cartórios de Juiz de Fora: Endereços, Horários e Serviços de Registro Civil, Imóveis e Notas](<https://www.rcwtv.com.br/noticia/cartorios-de-juiz-de-fora-enderecos-horarios-e-servicos-de-registro-civil-imoveis-e-notas>) - *26/11/2026*
 
+### Atualização de 26/11/2026
+- [Gigantes do mercado imobiliário abrem oportunidades de carreira para futuros corretores em São Paulo](<https://www.rcwtv.com.br/noticia/gigantes-do-mercado-imobiliario-abrem-oportunidades-de-carreira-para-futuros-corretores-em-sao-paulo>) - *26/11/2026*
+- [Benedita da Silva encerra trajetória de 40 anos na política brasileira no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/benedita-da-silva-encerra-trajetoria-de-40-anos-na-politica-brasileira-no-rio-de-janeiro>) - *26/11/2026*
+- [Gastos de turistas estrangeiros no Brasil alcançam R$ 53 bilhões no ano](<https://www.rcwtv.com.br/noticia/gastos-de-turistas-estrangeiros-no-brasil-alcancam-r-53-bilhoes-no-ano>) - *26/11/2026*
+- [Design brasileiro ganha protagonismo em mercado global de residenciais de luxo que deve dobrar até 2031](<https://www.rcwtv.com.br/noticia/design-brasileiro-ganha-protagonismo-em-mercado-global-de-residenciais-de-luxo-que-deve-dobrar-ate-2031>) - *26/11/2026*
+- [Movimentação na rede elétrica chama atenção no Francisco Bernardino](<https://www.rcwtv.com.br/noticia/movimentacao-na-rede-eletrica-chama-atencao-no-francisco-bernardino>) - *26/11/2026*
+- [Lazer e serviços já respondem por 57% dos motivos para frequentar centros comerciais, aponta pesquisa](<https://www.rcwtv.com.br/noticia/lazer-e-servicos-ja-respondem-por-57-dos-motivos-para-frequentar-centros-comerciais-aponta-pesquisa>) - *26/11/2026*
+- [Comissão de Educação aprova passe livre para acompanhante de aluno público](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-aprova-passe-livre-para-acompanhante-de-aluno-publico>) - *26/11/2026*
+- [Censo da Educação Superior 2025 aponta recorde de jovens no ensino superior](<https://www.rcwtv.com.br/noticia/censo-da-educacao-superior-2025-aponta-recorde-de-jovens-no-ensino-superior>) - *26/11/2026*
+- [Com um a menos, Atlético-MG busca empate com Corinthians no fim](<https://www.rcwtv.com.br/noticia/com-um-a-menos-atletico-mg-busca-empate-com-corinthians-no-fim>) - *26/11/2026*
+- [Geraldo Alckmin classifica tarifa dos Estados Unidos para aviões como descabida](<https://www.rcwtv.com.br/noticia/geraldo-alckmin-classifica-tarifa-dos-estados-unidos-para-avioes-como-descabida>) - *26/11/2026*
+- [Polícia Militar realiza simulado de ataque em Guidoval nesta noite de terça-feira](<https://www.rcwtv.com.br/noticia/policia-militar-realiza-simulado-de-ataque-em-guidoval-nesta-noite-de-terca-feira>) - *26/11/2026*
+- [Polícia Militar de Minas Gerais reforça a segurança com operações e prisão na Zona da Mata](<https://www.rcwtv.com.br/noticia/policia-militar-de-minas-gerais-reforca-a-seguranca-com-operacoes-e-prisao-na-zona-da-mata>) - *26/11/2026*
+- [Steelers dispensam Aaron Rodgers após ataque a Mike McCarthy](<https://www.rcwtv.com.br/noticia/steelers-dispensam-aaron-rodgers-apos-ataque-a-mike-mccarthy>) - *26/11/2026*
+- [Campos naturais em recuperação mantêm vegetação alterada por mais de um século](<https://www.rcwtv.com.br/noticia/campos-naturais-em-recuperacao-mantem-vegetacao-alterada-por-mais-de-um-seculo>) - *26/11/2026*
+- [Projeto de Lei 3888/24 prevê ônibus gratuito para responsáveis de alunos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-3888-24-preve-onibus-gratuito-para-responsaveis-de-alunos>) - *26/11/2026*
+
