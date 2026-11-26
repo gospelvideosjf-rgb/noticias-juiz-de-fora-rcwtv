@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Comissão de Educação aprova carga horária mínima para filosofia e sociologia](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-aprova-carga-horaria-minima-para-filosofia-e-sociologia>)
-- 📰 [Cármen Lúcia afirma que violência de gênero atingiu nível de atrocidade no país](<https://www.rcwtv.com.br/noticia/carmen-lucia-afirma-que-violencia-de-genero-atingiu-nivel-de-atrocidade-no-pais>)
-- 📰 [Comissão Mista de Orçamento aprova alta de R$ 37,1 bilhões na receita para 2027](<https://www.rcwtv.com.br/noticia/comissao-mista-de-orcamento-aprova-alta-de-r-37-1-bilhoes-na-receita-para-2027>)
-- 📰 [Simulações indicam como temperatura e acidez facilitam entrada do vírus da dengue nas células](<https://www.rcwtv.com.br/noticia/simulacoes-indicam-como-temperatura-e-acidez-facilitam-entrada-do-virus-da-dengue-nas-celulas>)
-- 📰 [CCJ da Câmara dos Deputados aprova projeto sobre corrupção de adolescentes](<https://www.rcwtv.com.br/noticia/ccj-da-camara-dos-deputados-aprova-projeto-sobre-corrupcao-de-adolescentes>)
-- 📰 [Noite Mineira de Museus e Bibliotecas celebra Consciência Negra em 108 cidades, incluindo Juiz de Fora](<https://www.rcwtv.com.br/noticia/noite-mineira-de-museus-e-bibliotecas-celebra-consciencia-negra-em-108-cidades-incluindo-juiz-de-fora>)
-- 📰 [Secult-MG e Sebrae Minas liberam curso sobre identidade gastronômica na Plataforma Trem](<https://www.rcwtv.com.br/noticia/secult-mg-e-sebrae-minas-liberam-curso-sobre-identidade-gastronomica-na-plataforma-trem>)
-- 📰 [Chapecoense goleia reservas do Palmeiras por 3 a 0 no Brasileirão](<https://www.rcwtv.com.br/noticia/chapecoense-goleia-reservas-do-palmeiras-por-3-a-0-no-brasileirao>)
-- 📰 [Comissão aprova o Projeto de Lei 4567/24 sobre gratuidade para crianças](<https://www.rcwtv.com.br/noticia/comissao-aprova-o-projeto-de-lei-4567-24-sobre-gratuidade-para-criancas>)
-- 📰 [Saberes ancestrais do povo Tikmũ’ũn-Maxakali tornam-se patrimônio imaterial de Minas Gerais](<https://www.rcwtv.com.br/noticia/saberes-ancestrais-do-povo-tikmu-un-maxakali-tornam-se-patrimonio-imaterial-de-minas-gerais>)
+- 📰 [Vaivém: Professora da UFPE tem nomeação por cotas suspensa pela segunda vez](<https://www.rcwtv.com.br/noticia/vaivem-professora-da-ufpe-tem-nomeacao-por-cotas-suspensa-pela-segunda-vez>)
+- 📰 [Prêmio Mulheres Inovadoras reconhece dez pesquisadoras nesta quarta-feira](<https://www.rcwtv.com.br/noticia/premio-mulheres-inovadoras-reconhece-dez-pesquisadoras-nesta-quarta-feira>)
+- 📰 [STF decide que ações trabalhistas devem indicar valor estimado da indenização](<https://www.rcwtv.com.br/noticia/stf-decide-que-acoes-trabalhistas-devem-indicar-valor-estimado-da-indenizacao>)
+- 📰 [Banco Central e CMN anunciam novas regras para conter endividamento no Brasil](<https://www.rcwtv.com.br/noticia/banco-central-e-cmn-anunciam-novas-regras-para-conter-endividamento-no-brasil>)
+- 📰 [Funasa aponta déficit de 110 mil cisternas e 1,3 milhão de banheiros no Brasil](<https://www.rcwtv.com.br/noticia/funasa-aponta-deficit-de-110-mil-cisternas-e-1-3-milhao-de-banheiros-no-brasil>)
+- 📰 [Justiça do Rio de Janeiro torna réu acusado de agredir o professor André Aires](<https://www.rcwtv.com.br/noticia/justica-do-rio-de-janeiro-torna-reu-acusado-de-agredir-o-professor-andre-aires>)
+- 📰 [Resumo do Dia em Juiz de Fora (25/11): 6 mil doses na saúde, vagas e temporais](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-25-11-6-mil-doses-na-saude-vagas-e-temporais>)
+- 📰 [Tribunal de Contas da União afasta multas a Dilma e ex-integrantes da equipe](<https://www.rcwtv.com.br/noticia/tribunal-de-contas-da-uniao-afasta-multas-a-dilma-e-ex-integrantes-da-equipe>)
+- 📰 [O dólar comercial registrou forte queda nesta quarta-feira (25) no Brasil](<https://www.rcwtv.com.br/noticia/o-dolar-comercial-registrou-forte-queda-nesta-quarta-feira-25-no-brasil>)
+- 📰 [Governo do Rio de Janeiro suspende aulas na rede pública devido a chuvas fortes](<https://www.rcwtv.com.br/noticia/governo-do-rio-de-janeiro-suspende-aulas-na-rede-publica-devido-a-chuvas-fortes>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**

@@ -1698,3 +1698,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Editais do audiovisual em Minas Gerais prorrogam inscrições até 26/11](<https://www.rcwtv.com.br/noticia/editais-do-audiovisual-em-minas-gerais-prorrogam-inscricoes-ate-26-11>) - *25/11/2026*
 - [Acidente fatal na MG-133 e graves ocorrências mobilizam o Samu na Zona da Mata](<https://www.rcwtv.com.br/noticia/acidente-fatal-na-mg-133-e-graves-ocorrencias-mobilizam-o-samu-na-zona-da-mata>) - *25/11/2026*
 
+### Atualização de 26/11/2026
+- [Vaivém: Professora da UFPE tem nomeação por cotas suspensa pela segunda vez](<https://www.rcwtv.com.br/noticia/vaivem-professora-da-ufpe-tem-nomeacao-por-cotas-suspensa-pela-segunda-vez>) - *26/11/2026*
+- [Prêmio Mulheres Inovadoras reconhece dez pesquisadoras nesta quarta-feira](<https://www.rcwtv.com.br/noticia/premio-mulheres-inovadoras-reconhece-dez-pesquisadoras-nesta-quarta-feira>) - *26/11/2026*
+- [STF decide que ações trabalhistas devem indicar valor estimado da indenização](<https://www.rcwtv.com.br/noticia/stf-decide-que-acoes-trabalhistas-devem-indicar-valor-estimado-da-indenizacao>) - *26/11/2026*
+- [Banco Central e CMN anunciam novas regras para conter endividamento no Brasil](<https://www.rcwtv.com.br/noticia/banco-central-e-cmn-anunciam-novas-regras-para-conter-endividamento-no-brasil>) - *26/11/2026*
+- [Funasa aponta déficit de 110 mil cisternas e 1,3 milhão de banheiros no Brasil](<https://www.rcwtv.com.br/noticia/funasa-aponta-deficit-de-110-mil-cisternas-e-1-3-milhao-de-banheiros-no-brasil>) - *26/11/2026*
+- [Justiça do Rio de Janeiro torna réu acusado de agredir o professor André Aires](<https://www.rcwtv.com.br/noticia/justica-do-rio-de-janeiro-torna-reu-acusado-de-agredir-o-professor-andre-aires>) - *26/11/2026*
+- [Resumo do Dia em Juiz de Fora (25/11): 6 mil doses na saúde, vagas e temporais](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-25-11-6-mil-doses-na-saude-vagas-e-temporais>) - *26/11/2026*
+- [Tribunal de Contas da União afasta multas a Dilma e ex-integrantes da equipe](<https://www.rcwtv.com.br/noticia/tribunal-de-contas-da-uniao-afasta-multas-a-dilma-e-ex-integrantes-da-equipe>) - *26/11/2026*
+- [O dólar comercial registrou forte queda nesta quarta-feira (25) no Brasil](<https://www.rcwtv.com.br/noticia/o-dolar-comercial-registrou-forte-queda-nesta-quarta-feira-25-no-brasil>) - *26/11/2026*
+- [Governo do Rio de Janeiro suspende aulas na rede pública devido a chuvas fortes](<https://www.rcwtv.com.br/noticia/governo-do-rio-de-janeiro-suspende-aulas-na-rede-publica-devido-a-chuvas-fortes>) - *26/11/2026*
+- [Ministério da Justiça bloqueia quase 4 mil celulares usados em presídios](<https://www.rcwtv.com.br/noticia/ministerio-da-justica-bloqueia-quase-4-mil-celulares-usados-em-presidios>) - *26/11/2026*
+- [Câmara dos Deputados aprova novo marco regulatório da educação em tempo integral](<https://www.rcwtv.com.br/noticia/camara-dos-deputados-aprova-novo-marco-regulatorio-da-educacao-em-tempo-integral>) - *26/11/2026*
+- [Espaço Cidadão PJF: Atendimento, Agendamento Online e Serviços da Prefeitura de Juiz de Fora](<https://www.rcwtv.com.br/noticia/espaco-cidadao-pjf-atendimento-agendamento-online-e-servicos-da-prefeitura-de-juiz-de-fora>) - *26/11/2026*
+- [Procon Juiz de Fora: Como Agendar Atendimento, Fazer Denúncias e Defender seus Direitos](<https://www.rcwtv.com.br/noticia/procon-juiz-de-fora-como-agendar-atendimento-fazer-denuncias-e-defender-seus-direitos>) - *26/11/2026*
+- [Cartórios de Juiz de Fora: Endereços, Horários e Serviços de Registro Civil, Imóveis e Notas](<https://www.rcwtv.com.br/noticia/cartorios-de-juiz-de-fora-enderecos-horarios-e-servicos-de-registro-civil-imoveis-e-notas>) - *26/11/2026*
+
