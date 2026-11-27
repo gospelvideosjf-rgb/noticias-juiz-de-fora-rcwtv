@@ -1749,3 +1749,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Comissão de Finanças e Tributação aprova projeto sobre taxas para PF e Exército](<https://www.rcwtv.com.br/noticia/comissao-de-financas-e-tributacao-aprova-projeto-sobre-taxas-para-pf-e-exercito>) - *27/11/2026*
 - [Fundagres Inovar participa do Fórum da ONU sobre Direitos Humanos em Genebra](<https://www.rcwtv.com.br/noticia/fundagres-inovar-participa-do-forum-da-onu-sobre-direitos-humanos-em-genebra>) - *27/11/2026*
 
+### Atualização de 27/11/2026
+- [Cineclube TJ exibe o filme Harriet: o Caminho para a Liberdade em Belo Horizonte](<https://www.rcwtv.com.br/noticia/cineclube-tj-exibe-o-filme-harriet-o-caminho-para-a-liberdade-em-belo-horizonte>) - *27/11/2026*
+- [Filho doa parte do fígado ao pai em transplante feito só por robôs](<https://www.rcwtv.com.br/noticia/filho-doa-parte-do-figado-ao-pai-em-transplante-feito-so-por-robos>) - *27/11/2026*
+- [Conselho Superior da UFJF aprova projeto da nova sede do Colégio João XXIII](<https://www.rcwtv.com.br/noticia/conselho-superior-da-ufjf-aprova-projeto-da-nova-sede-do-colegio-joao-xxiii>) - *27/11/2026*
+- [Fiocruz aponta aumento de casos de covid-19 e nova variante no país](<https://www.rcwtv.com.br/noticia/fiocruz-aponta-aumento-de-casos-de-covid-19-e-nova-variante-no-pais>) - *27/11/2026*
+- [Alunos da Universidade Federal Fluminense se encontram com Lula em Niterói](<https://www.rcwtv.com.br/noticia/alunos-da-universidade-federal-fluminense-se-encontram-com-lula-em-niteroi>) - *27/11/2026*
+- [Comissão da ALMG investiga bloqueio de matrículas e transferência de alunos](<https://www.rcwtv.com.br/noticia/comissao-da-almg-investiga-bloqueio-de-matriculas-e-transferencia-de-alunos>) - *27/11/2026*
+- [Emater-mg conquista destaque nacional no prêmio melhores do agronegócio](<https://www.rcwtv.com.br/noticia/emater-mg-conquista-destaque-nacional-no-premio-melhores-do-agronegocio>) - *27/11/2026*
+- [Decoração temática ganha espaço como estratégia para atrair clientes nas festas de fim de ano](<https://www.rcwtv.com.br/noticia/decoracao-tematica-ganha-espaco-como-estrategia-para-atrair-clientes-nas-festas-de-fim-de-ano>) - *27/11/2026*
+- [Panathlon celebra 50 anos com entrega do Mérito Esportivo 2026 em Juiz de Fora](<https://www.rcwtv.com.br/noticia/panathlon-celebra-50-anos-com-entrega-do-merito-esportivo-2026-em-juiz-de-fora>) - *27/11/2026*
+- [Empresas do setor de alimentação fora do lar esperam aumentar as vendas com a festas do fim de ano](<https://www.rcwtv.com.br/noticia/empresas-do-setor-de-alimentacao-fora-do-lar-esperam-aumentar-as-vendas-com-a-festas-do-fim-de-ano>) - *27/11/2026*
+- [Secretaria de Saúde de Minas Gerais promove oficinas para fortalecer a assistência](<https://www.rcwtv.com.br/noticia/secretaria-de-saude-de-minas-gerais-promove-oficinas-para-fortalecer-a-assistencia>) - *27/11/2026*
+- [2ª Corrida da Drogaria Souza altera trânsito na Zona Norte de Juiz de Fora](<https://www.rcwtv.com.br/noticia/2-corrida-da-drogaria-souza-altera-transito-na-zona-norte-de-juiz-de-fora>) - *27/11/2026*
+- [Polícia militar prende suspeitos e reforça segurança em operações recentes](<https://www.rcwtv.com.br/noticia/policia-militar-prende-suspeitos-e-reforca-seguranca-em-operacoes-recentes>) - *27/11/2026*
+- [Homem é condenado a prisão em regime fechado por maus-tratos a animais em Bugre](<https://www.rcwtv.com.br/noticia/homem-e-condenado-a-prisao-em-regime-fechado-por-maus-tratos-a-animais-em-bugre>) - *27/11/2026*
+- [Ferramenta gratuita da Barkus reúne novas regras para MEIs e pequenos negócios](<https://www.rcwtv.com.br/noticia/ferramenta-gratuita-da-barkus-reune-novas-regras-para-meis-e-pequenos-negocios>) - *27/11/2026*
+

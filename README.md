@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Bears viram sobre os Lions nos segundos finais e Rams batem Packers](<https://www.rcwtv.com.br/noticia/bears-viram-sobre-os-lions-nos-segundos-finais-e-rams-batem-packers>)
-- 📰 [Eagles conseguem virada histórica sobre Cowboys em jogo de 77 pontos](<https://www.rcwtv.com.br/noticia/eagles-conseguem-virada-historica-sobre-cowboys-em-jogo-de-77-pontos>)
-- 📰 [Prêmio da Mega-Sena acumula em R$ 82 milhões após sorteio sem acertadores](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-em-r-82-milhoes-apos-sorteio-sem-acertadores>)
-- 📰 [20 de novembro, o ano inteiro: O mês da Consciência Negra e o Cenário Mineiro](<https://www.rcwtv.com.br/noticia/20-de-novembro-o-ano-inteiro-o-mes-da-consciencia-negra-e-o-cenario-mineiro>)
-- 📰 [Educadores ambientais cobram mais orçamento na Comissão de Meio Ambiente](<https://www.rcwtv.com.br/noticia/educadores-ambientais-cobram-mais-orcamento-na-comissao-de-meio-ambiente>)
-- 📰 [Luiz Carlos Trabuco Cappi aceita convite para assumir o Ministério da Fazenda](<https://www.rcwtv.com.br/noticia/luiz-carlos-trabuco-cappi-aceita-convite-para-assumir-o-ministerio-da-fazenda>)
-- 📰 [Vacina contra câncer Brasil: testes clínicos no SUS avançam com Oxford e Fiocruz](<https://www.rcwtv.com.br/noticia/vacina-contra-cancer-brasil-testes-clinicos-no-sus-avancam-com-oxford-e-fiocruz>)
-- 📰 [Resumo do Dia em Juiz de Fora (26/11): MPMG aciona PJF e Senai abre 500 vagas](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-26-11-mpmg-aciona-pjf-e-senai-abre-500-vagas>)
-- 📰 [Comissão de Cultura aprova projeto sobre energia e eventos climáticos](<https://www.rcwtv.com.br/noticia/comissao-de-cultura-aprova-projeto-sobre-energia-e-eventos-climaticos>)
-- 📰 [Pix terá novas regras de segurança e melhorias anunciadas pelo Banco Central](<https://www.rcwtv.com.br/noticia/pix-tera-novas-regras-de-seguranca-e-melhorias-anunciadas-pelo-banco-central>)
+- 📰 [Cineclube TJ exibe o filme Harriet: o Caminho para a Liberdade em Belo Horizonte](<https://www.rcwtv.com.br/noticia/cineclube-tj-exibe-o-filme-harriet-o-caminho-para-a-liberdade-em-belo-horizonte>)
+- 📰 [Filho doa parte do fígado ao pai em transplante feito só por robôs](<https://www.rcwtv.com.br/noticia/filho-doa-parte-do-figado-ao-pai-em-transplante-feito-so-por-robos>)
+- 📰 [Conselho Superior da UFJF aprova projeto da nova sede do Colégio João XXIII](<https://www.rcwtv.com.br/noticia/conselho-superior-da-ufjf-aprova-projeto-da-nova-sede-do-colegio-joao-xxiii>)
+- 📰 [Fiocruz aponta aumento de casos de covid-19 e nova variante no país](<https://www.rcwtv.com.br/noticia/fiocruz-aponta-aumento-de-casos-de-covid-19-e-nova-variante-no-pais>)
+- 📰 [Alunos da Universidade Federal Fluminense se encontram com Lula em Niterói](<https://www.rcwtv.com.br/noticia/alunos-da-universidade-federal-fluminense-se-encontram-com-lula-em-niteroi>)
+- 📰 [Comissão da ALMG investiga bloqueio de matrículas e transferência de alunos](<https://www.rcwtv.com.br/noticia/comissao-da-almg-investiga-bloqueio-de-matriculas-e-transferencia-de-alunos>)
+- 📰 [Emater-mg conquista destaque nacional no prêmio melhores do agronegócio](<https://www.rcwtv.com.br/noticia/emater-mg-conquista-destaque-nacional-no-premio-melhores-do-agronegocio>)
+- 📰 [Decoração temática ganha espaço como estratégia para atrair clientes nas festas de fim de ano](<https://www.rcwtv.com.br/noticia/decoracao-tematica-ganha-espaco-como-estrategia-para-atrair-clientes-nas-festas-de-fim-de-ano>)
+- 📰 [Panathlon celebra 50 anos com entrega do Mérito Esportivo 2026 em Juiz de Fora](<https://www.rcwtv.com.br/noticia/panathlon-celebra-50-anos-com-entrega-do-merito-esportivo-2026-em-juiz-de-fora>)
+- 📰 [Empresas do setor de alimentação fora do lar esperam aumentar as vendas com a festas do fim de ano](<https://www.rcwtv.com.br/noticia/empresas-do-setor-de-alimentacao-fora-do-lar-esperam-aumentar-as-vendas-com-a-festas-do-fim-de-ano>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
