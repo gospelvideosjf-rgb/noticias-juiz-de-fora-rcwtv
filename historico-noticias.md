@@ -1732,3 +1732,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Campos naturais em recuperação mantêm vegetação alterada por mais de um século](<https://www.rcwtv.com.br/noticia/campos-naturais-em-recuperacao-mantem-vegetacao-alterada-por-mais-de-um-seculo>) - *26/11/2026*
 - [Projeto de Lei 3888/24 prevê ônibus gratuito para responsáveis de alunos](<https://www.rcwtv.com.br/noticia/projeto-de-lei-3888-24-preve-onibus-gratuito-para-responsaveis-de-alunos>) - *26/11/2026*
 
+### Atualização de 27/11/2026
+- [Bears viram sobre os Lions nos segundos finais e Rams batem Packers](<https://www.rcwtv.com.br/noticia/bears-viram-sobre-os-lions-nos-segundos-finais-e-rams-batem-packers>) - *27/11/2026*
+- [Eagles conseguem virada histórica sobre Cowboys em jogo de 77 pontos](<https://www.rcwtv.com.br/noticia/eagles-conseguem-virada-historica-sobre-cowboys-em-jogo-de-77-pontos>) - *27/11/2026*
+- [Prêmio da Mega-Sena acumula em R$ 82 milhões após sorteio sem acertadores](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-em-r-82-milhoes-apos-sorteio-sem-acertadores>) - *27/11/2026*
+- [20 de novembro, o ano inteiro: O mês da Consciência Negra e o Cenário Mineiro](<https://www.rcwtv.com.br/noticia/20-de-novembro-o-ano-inteiro-o-mes-da-consciencia-negra-e-o-cenario-mineiro>) - *27/11/2026*
+- [Educadores ambientais cobram mais orçamento na Comissão de Meio Ambiente](<https://www.rcwtv.com.br/noticia/educadores-ambientais-cobram-mais-orcamento-na-comissao-de-meio-ambiente>) - *27/11/2026*
+- [Luiz Carlos Trabuco Cappi aceita convite para assumir o Ministério da Fazenda](<https://www.rcwtv.com.br/noticia/luiz-carlos-trabuco-cappi-aceita-convite-para-assumir-o-ministerio-da-fazenda>) - *27/11/2026*
+- [Vacina contra câncer Brasil: testes clínicos no SUS avançam com Oxford e Fiocruz](<https://www.rcwtv.com.br/noticia/vacina-contra-cancer-brasil-testes-clinicos-no-sus-avancam-com-oxford-e-fiocruz>) - *27/11/2026*
+- [Resumo do Dia em Juiz de Fora (26/11): MPMG aciona PJF e Senai abre 500 vagas](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-26-11-mpmg-aciona-pjf-e-senai-abre-500-vagas>) - *27/11/2026*
+- [Comissão de Cultura aprova projeto sobre energia e eventos climáticos](<https://www.rcwtv.com.br/noticia/comissao-de-cultura-aprova-projeto-sobre-energia-e-eventos-climaticos>) - *27/11/2026*
+- [Pix terá novas regras de segurança e melhorias anunciadas pelo Banco Central](<https://www.rcwtv.com.br/noticia/pix-tera-novas-regras-de-seguranca-e-melhorias-anunciadas-pelo-banco-central>) - *27/11/2026*
+- [STF confirma que estados e municípios são obrigados a pagar piso de professores](<https://www.rcwtv.com.br/noticia/stf-confirma-que-estados-e-municipios-sao-obrigados-a-pagar-piso-de-professores>) - *27/11/2026*
+- [Oceana aponta que Brasil desconhece situação de 85% dos estoques pesqueiros nacionais](<https://www.rcwtv.com.br/noticia/oceana-aponta-que-brasil-desconhece-situacao-de-85-dos-estoques-pesqueiros-nacionais>) - *27/11/2026*
+- [Comissão Mista de Orçamento aprova relatório com corte de R$ 2,09 bilhões](<https://www.rcwtv.com.br/noticia/comissao-mista-de-orcamento-aprova-relatorio-com-corte-de-r-2-09-bilhoes>) - *27/11/2026*
+- [Comissão de Finanças e Tributação aprova projeto sobre taxas para PF e Exército](<https://www.rcwtv.com.br/noticia/comissao-de-financas-e-tributacao-aprova-projeto-sobre-taxas-para-pf-e-exercito>) - *27/11/2026*
+- [Fundagres Inovar participa do Fórum da ONU sobre Direitos Humanos em Genebra](<https://www.rcwtv.com.br/noticia/fundagres-inovar-participa-do-forum-da-onu-sobre-direitos-humanos-em-genebra>) - *27/11/2026*
+

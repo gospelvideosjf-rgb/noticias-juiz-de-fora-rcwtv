@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Gigantes do mercado imobiliário abrem oportunidades de carreira para futuros corretores em São Paulo](<https://www.rcwtv.com.br/noticia/gigantes-do-mercado-imobiliario-abrem-oportunidades-de-carreira-para-futuros-corretores-em-sao-paulo>)
-- 📰 [Benedita da Silva encerra trajetória de 40 anos na política brasileira no Rio de Janeiro](<https://www.rcwtv.com.br/noticia/benedita-da-silva-encerra-trajetoria-de-40-anos-na-politica-brasileira-no-rio-de-janeiro>)
-- 📰 [Gastos de turistas estrangeiros no Brasil alcançam R$ 53 bilhões no ano](<https://www.rcwtv.com.br/noticia/gastos-de-turistas-estrangeiros-no-brasil-alcancam-r-53-bilhoes-no-ano>)
-- 📰 [Design brasileiro ganha protagonismo em mercado global de residenciais de luxo que deve dobrar até 2031](<https://www.rcwtv.com.br/noticia/design-brasileiro-ganha-protagonismo-em-mercado-global-de-residenciais-de-luxo-que-deve-dobrar-ate-2031>)
-- 📰 [Movimentação na rede elétrica chama atenção no Francisco Bernardino](<https://www.rcwtv.com.br/noticia/movimentacao-na-rede-eletrica-chama-atencao-no-francisco-bernardino>)
-- 📰 [Lazer e serviços já respondem por 57% dos motivos para frequentar centros comerciais, aponta pesquisa](<https://www.rcwtv.com.br/noticia/lazer-e-servicos-ja-respondem-por-57-dos-motivos-para-frequentar-centros-comerciais-aponta-pesquisa>)
-- 📰 [Comissão de Educação aprova passe livre para acompanhante de aluno público](<https://www.rcwtv.com.br/noticia/comissao-de-educacao-aprova-passe-livre-para-acompanhante-de-aluno-publico>)
-- 📰 [Censo da Educação Superior 2025 aponta recorde de jovens no ensino superior](<https://www.rcwtv.com.br/noticia/censo-da-educacao-superior-2025-aponta-recorde-de-jovens-no-ensino-superior>)
-- 📰 [Com um a menos, Atlético-MG busca empate com Corinthians no fim](<https://www.rcwtv.com.br/noticia/com-um-a-menos-atletico-mg-busca-empate-com-corinthians-no-fim>)
-- 📰 [Geraldo Alckmin classifica tarifa dos Estados Unidos para aviões como descabida](<https://www.rcwtv.com.br/noticia/geraldo-alckmin-classifica-tarifa-dos-estados-unidos-para-avioes-como-descabida>)
+- 📰 [Bears viram sobre os Lions nos segundos finais e Rams batem Packers](<https://www.rcwtv.com.br/noticia/bears-viram-sobre-os-lions-nos-segundos-finais-e-rams-batem-packers>)
+- 📰 [Eagles conseguem virada histórica sobre Cowboys em jogo de 77 pontos](<https://www.rcwtv.com.br/noticia/eagles-conseguem-virada-historica-sobre-cowboys-em-jogo-de-77-pontos>)
+- 📰 [Prêmio da Mega-Sena acumula em R$ 82 milhões após sorteio sem acertadores](<https://www.rcwtv.com.br/noticia/premio-da-mega-sena-acumula-em-r-82-milhoes-apos-sorteio-sem-acertadores>)
+- 📰 [20 de novembro, o ano inteiro: O mês da Consciência Negra e o Cenário Mineiro](<https://www.rcwtv.com.br/noticia/20-de-novembro-o-ano-inteiro-o-mes-da-consciencia-negra-e-o-cenario-mineiro>)
+- 📰 [Educadores ambientais cobram mais orçamento na Comissão de Meio Ambiente](<https://www.rcwtv.com.br/noticia/educadores-ambientais-cobram-mais-orcamento-na-comissao-de-meio-ambiente>)
+- 📰 [Luiz Carlos Trabuco Cappi aceita convite para assumir o Ministério da Fazenda](<https://www.rcwtv.com.br/noticia/luiz-carlos-trabuco-cappi-aceita-convite-para-assumir-o-ministerio-da-fazenda>)
+- 📰 [Vacina contra câncer Brasil: testes clínicos no SUS avançam com Oxford e Fiocruz](<https://www.rcwtv.com.br/noticia/vacina-contra-cancer-brasil-testes-clinicos-no-sus-avancam-com-oxford-e-fiocruz>)
+- 📰 [Resumo do Dia em Juiz de Fora (26/11): MPMG aciona PJF e Senai abre 500 vagas](<https://www.rcwtv.com.br/noticia/resumo-do-dia-em-juiz-de-fora-26-11-mpmg-aciona-pjf-e-senai-abre-500-vagas>)
+- 📰 [Comissão de Cultura aprova projeto sobre energia e eventos climáticos](<https://www.rcwtv.com.br/noticia/comissao-de-cultura-aprova-projeto-sobre-energia-e-eventos-climaticos>)
+- 📰 [Pix terá novas regras de segurança e melhorias anunciadas pelo Banco Central](<https://www.rcwtv.com.br/noticia/pix-tera-novas-regras-de-seguranca-e-melhorias-anunciadas-pelo-banco-central>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
