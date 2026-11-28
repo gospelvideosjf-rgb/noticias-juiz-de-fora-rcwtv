@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [Cineclube TJ exibe o filme Harriet: o Caminho para a Liberdade em Belo Horizonte](<https://www.rcwtv.com.br/noticia/cineclube-tj-exibe-o-filme-harriet-o-caminho-para-a-liberdade-em-belo-horizonte>)
-- 📰 [Filho doa parte do fígado ao pai em transplante feito só por robôs](<https://www.rcwtv.com.br/noticia/filho-doa-parte-do-figado-ao-pai-em-transplante-feito-so-por-robos>)
-- 📰 [Conselho Superior da UFJF aprova projeto da nova sede do Colégio João XXIII](<https://www.rcwtv.com.br/noticia/conselho-superior-da-ufjf-aprova-projeto-da-nova-sede-do-colegio-joao-xxiii>)
-- 📰 [Fiocruz aponta aumento de casos de covid-19 e nova variante no país](<https://www.rcwtv.com.br/noticia/fiocruz-aponta-aumento-de-casos-de-covid-19-e-nova-variante-no-pais>)
-- 📰 [Alunos da Universidade Federal Fluminense se encontram com Lula em Niterói](<https://www.rcwtv.com.br/noticia/alunos-da-universidade-federal-fluminense-se-encontram-com-lula-em-niteroi>)
-- 📰 [Comissão da ALMG investiga bloqueio de matrículas e transferência de alunos](<https://www.rcwtv.com.br/noticia/comissao-da-almg-investiga-bloqueio-de-matriculas-e-transferencia-de-alunos>)
-- 📰 [Emater-mg conquista destaque nacional no prêmio melhores do agronegócio](<https://www.rcwtv.com.br/noticia/emater-mg-conquista-destaque-nacional-no-premio-melhores-do-agronegocio>)
-- 📰 [Decoração temática ganha espaço como estratégia para atrair clientes nas festas de fim de ano](<https://www.rcwtv.com.br/noticia/decoracao-tematica-ganha-espaco-como-estrategia-para-atrair-clientes-nas-festas-de-fim-de-ano>)
-- 📰 [Panathlon celebra 50 anos com entrega do Mérito Esportivo 2026 em Juiz de Fora](<https://www.rcwtv.com.br/noticia/panathlon-celebra-50-anos-com-entrega-do-merito-esportivo-2026-em-juiz-de-fora>)
-- 📰 [Empresas do setor de alimentação fora do lar esperam aumentar as vendas com a festas do fim de ano](<https://www.rcwtv.com.br/noticia/empresas-do-setor-de-alimentacao-fora-do-lar-esperam-aumentar-as-vendas-com-a-festas-do-fim-de-ano>)
+- 📰 [TJMG e AGU firmam acordo para cobrar despesas previdenciárias de agressores](<https://www.rcwtv.com.br/noticia/tjmg-e-agu-firmam-acordo-para-cobrar-despesas-previdenciarias-de-agressores>)
+- 📰 [Comissão finaliza visitas a 52 escolas leiloadas em Minas Gerais](<https://www.rcwtv.com.br/noticia/comissao-finaliza-visitas-a-52-escolas-leiloadas-em-minas-gerais>)
+- 📰 [Câmara Municipal de Juiz de Fora conquista Selo Ouro de Transparência Pública](<https://www.rcwtv.com.br/noticia/camara-municipal-de-juiz-de-fora-conquista-selo-ouro-de-transparencia-publica>)
+- 📰 [Minas Gerais atinge meta do Juros por Educação para o exercício de 2026](<https://www.rcwtv.com.br/noticia/minas-gerais-atinge-meta-do-juros-por-educacao-para-o-exercicio-de-2026>)
+- 📰 [Ministério Público promove encontro com movimentos sociais no Sul de Minas](<https://www.rcwtv.com.br/noticia/ministerio-publico-promove-encontro-com-movimentos-sociais-no-sul-de-minas>)
+- 📰 [Artesãos selecionados pelo Governo de Minas participam de festival no Rio](<https://www.rcwtv.com.br/noticia/artesaos-selecionados-pelo-governo-de-minas-participam-de-festival-no-rio>)
+- 📰 [CPI das Emendas da Saúde analisa ofício da Prefeitura e cobra documentos](<https://www.rcwtv.com.br/noticia/cpi-das-emendas-da-saude-analisa-oficio-da-prefeitura-e-cobra-documentos>)
+- 📰 [Procon-MPMG capacita agentes fiscais para fortalecer defesa do consumidor no Norte](<https://www.rcwtv.com.br/noticia/procon-mpmg-capacita-agentes-fiscais-para-fortalecer-defesa-do-consumidor-no-norte>)
+- 📰 [Unidade Regional do Ipsemg em Curvelo muda para a UAI na próxima terça-feira](<https://www.rcwtv.com.br/noticia/unidade-regional-do-ipsemg-em-curvelo-muda-para-a-uai-na-proxima-terca-feira>)
+- 📰 [Câmara Municipal de Juiz de Fora debate uso de ponto eletrônico para professores](<https://www.rcwtv.com.br/noticia/camara-municipal-de-juiz-de-fora-debate-uso-de-ponto-eletronico-para-professores>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
