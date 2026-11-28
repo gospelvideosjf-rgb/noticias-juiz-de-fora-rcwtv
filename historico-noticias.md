@@ -1783,3 +1783,20 @@ Registro permanente e cumulativo de reportagens de Juiz de Fora e Região mantid
 - [Aneel mantém bandeira verde e conta de luz não terá custo extra em dezembro](<https://www.rcwtv.com.br/noticia/aneel-mantem-bandeira-verde-e-conta-de-luz-nao-tera-custo-extra-em-dezembro>) - *28/11/2026*
 - [Copese atualiza endereço de escola municipal em Petrópolis para provas](<https://www.rcwtv.com.br/noticia/copese-atualiza-endereco-de-escola-municipal-em-petropolis-para-provas>) - *28/11/2026*
 
+### Atualização de 28/11/2026
+- [JF Empregos abre novas oportunidades com salários de até R$ 3.000](<https://www.rcwtv.com.br/noticia/jf-empregos-abre-novas-oportunidades-com-salarios-de-ate-r-3-000>) - *28/11/2026*
+- [Polícia Militar lança Operação Compras Seguras para reforçar policiamento na Black](<https://www.rcwtv.com.br/noticia/policia-militar-lanca-operacao-compras-seguras-para-reforcar-policiamento-na-black>) - *28/11/2026*
+- [Agentes comunitários de saúde fortalecem rastreamento de cânceres no SUS](<https://www.rcwtv.com.br/noticia/agentes-comunitarios-de-saude-fortalecem-rastreamento-de-canceres-no-sus>) - *28/11/2026*
+- [Comarca de Inhapim reúne rede de proteção para debater combate à violência](<https://www.rcwtv.com.br/noticia/comarca-de-inhapim-reune-rede-de-protecao-para-debater-combate-a-violencia>) - *28/11/2026*
+- [Corpo de Bombeiros realiza seminário em Sete Lagoas para fortalecer a gestão](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-realiza-seminario-em-sete-lagoas-para-fortalecer-a-gestao>) - *28/11/2026*
+- [Jardim Botânico lança aplicativo gratuito com mapas e agenda de eventos](<https://www.rcwtv.com.br/noticia/jardim-botanico-lanca-aplicativo-gratuito-com-mapas-e-agenda-de-eventos>) - *28/11/2026*
+- [Ouro Preto sedia encontro da Corregedoria para debater saúde mental e magistratura](<https://www.rcwtv.com.br/noticia/ouro-preto-sedia-encontro-da-corregedoria-para-debater-saude-mental-e-magistratura>) - *28/11/2026*
+- [MPMG recomenda que Ituiutaba garanta ultrassom morfológico pelo SUS](<https://www.rcwtv.com.br/noticia/mpmg-recomenda-que-ituiutaba-garanta-ultrassom-morfologico-pelo-sus>) - *28/11/2026*
+- [Minas Gerais registra céu nublado e chuvas isoladas na sexta-feira (27)](<https://www.rcwtv.com.br/noticia/minas-gerais-registra-ceu-nublado-e-chuvas-isoladas-na-sexta-feira-27>) - *28/11/2026*
+- [Indígenas e assentados cobram regularização fundiária no Parque do Rio Corrente](<https://www.rcwtv.com.br/noticia/indigenas-e-assentados-cobram-regularizacao-fundiaria-no-parque-do-rio-corrente>) - *28/11/2026*
+- [Iniciativa de segurança viária na BR-365 conquista prêmio nacional em Minas Gerais](<https://www.rcwtv.com.br/noticia/iniciativa-de-seguranca-viaria-na-br-365-conquista-premio-nacional-em-minas-gerais>) - *28/11/2026*
+- [Portal de vagas de emprego abre oportunidades com salários de até R$ 2 mil](<https://www.rcwtv.com.br/noticia/portal-de-vagas-de-emprego-abre-oportunidades-com-salarios-de-ate-r-2-mil>) - *28/11/2026*
+- [MPMG deflagra a Operação Sinal Vital e inspeciona unidades de saúde em Almenara](<https://www.rcwtv.com.br/noticia/mpmg-deflagra-a-operacao-sinal-vital-e-inspeciona-unidades-de-saude-em-almenara>) - *28/11/2026*
+- [Região Norte tem abastecimento de água afetado por reparo emergencial em Juiz](<https://www.rcwtv.com.br/noticia/regiao-norte-tem-abastecimento-de-agua-afetado-por-reparo-emergencial-em-juiz>) - *28/11/2026*
+- [Justiça determina implantação de política de proteção animal em Rio Pardo de Minas](<https://www.rcwtv.com.br/noticia/justica-determina-implantacao-de-politica-de-protecao-animal-em-rio-pardo-de-minas>) - *28/11/2026*
+

@@ -18,16 +18,16 @@ A **Rede de Canais Web TV (RCWTV)** é referência em apuração, transmissão e
 
 ## ⚡ Últimas Manchetes em Tempo Real
 <!-- RCWTV_FEED_START -->
-- 📰 [TJMG e AGU firmam acordo para cobrar despesas previdenciárias de agressores](<https://www.rcwtv.com.br/noticia/tjmg-e-agu-firmam-acordo-para-cobrar-despesas-previdenciarias-de-agressores>)
-- 📰 [Comissão finaliza visitas a 52 escolas leiloadas em Minas Gerais](<https://www.rcwtv.com.br/noticia/comissao-finaliza-visitas-a-52-escolas-leiloadas-em-minas-gerais>)
-- 📰 [Câmara Municipal de Juiz de Fora conquista Selo Ouro de Transparência Pública](<https://www.rcwtv.com.br/noticia/camara-municipal-de-juiz-de-fora-conquista-selo-ouro-de-transparencia-publica>)
-- 📰 [Minas Gerais atinge meta do Juros por Educação para o exercício de 2026](<https://www.rcwtv.com.br/noticia/minas-gerais-atinge-meta-do-juros-por-educacao-para-o-exercicio-de-2026>)
-- 📰 [Ministério Público promove encontro com movimentos sociais no Sul de Minas](<https://www.rcwtv.com.br/noticia/ministerio-publico-promove-encontro-com-movimentos-sociais-no-sul-de-minas>)
-- 📰 [Artesãos selecionados pelo Governo de Minas participam de festival no Rio](<https://www.rcwtv.com.br/noticia/artesaos-selecionados-pelo-governo-de-minas-participam-de-festival-no-rio>)
-- 📰 [CPI das Emendas da Saúde analisa ofício da Prefeitura e cobra documentos](<https://www.rcwtv.com.br/noticia/cpi-das-emendas-da-saude-analisa-oficio-da-prefeitura-e-cobra-documentos>)
-- 📰 [Procon-MPMG capacita agentes fiscais para fortalecer defesa do consumidor no Norte](<https://www.rcwtv.com.br/noticia/procon-mpmg-capacita-agentes-fiscais-para-fortalecer-defesa-do-consumidor-no-norte>)
-- 📰 [Unidade Regional do Ipsemg em Curvelo muda para a UAI na próxima terça-feira](<https://www.rcwtv.com.br/noticia/unidade-regional-do-ipsemg-em-curvelo-muda-para-a-uai-na-proxima-terca-feira>)
-- 📰 [Câmara Municipal de Juiz de Fora debate uso de ponto eletrônico para professores](<https://www.rcwtv.com.br/noticia/camara-municipal-de-juiz-de-fora-debate-uso-de-ponto-eletronico-para-professores>)
+- 📰 [JF Empregos abre novas oportunidades com salários de até R$ 3.000](<https://www.rcwtv.com.br/noticia/jf-empregos-abre-novas-oportunidades-com-salarios-de-ate-r-3-000>)
+- 📰 [Polícia Militar lança Operação Compras Seguras para reforçar policiamento na Black](<https://www.rcwtv.com.br/noticia/policia-militar-lanca-operacao-compras-seguras-para-reforcar-policiamento-na-black>)
+- 📰 [Agentes comunitários de saúde fortalecem rastreamento de cânceres no SUS](<https://www.rcwtv.com.br/noticia/agentes-comunitarios-de-saude-fortalecem-rastreamento-de-canceres-no-sus>)
+- 📰 [Comarca de Inhapim reúne rede de proteção para debater combate à violência](<https://www.rcwtv.com.br/noticia/comarca-de-inhapim-reune-rede-de-protecao-para-debater-combate-a-violencia>)
+- 📰 [Corpo de Bombeiros realiza seminário em Sete Lagoas para fortalecer a gestão](<https://www.rcwtv.com.br/noticia/corpo-de-bombeiros-realiza-seminario-em-sete-lagoas-para-fortalecer-a-gestao>)
+- 📰 [Jardim Botânico lança aplicativo gratuito com mapas e agenda de eventos](<https://www.rcwtv.com.br/noticia/jardim-botanico-lanca-aplicativo-gratuito-com-mapas-e-agenda-de-eventos>)
+- 📰 [Ouro Preto sedia encontro da Corregedoria para debater saúde mental e magistratura](<https://www.rcwtv.com.br/noticia/ouro-preto-sedia-encontro-da-corregedoria-para-debater-saude-mental-e-magistratura>)
+- 📰 [MPMG recomenda que Ituiutaba garanta ultrassom morfológico pelo SUS](<https://www.rcwtv.com.br/noticia/mpmg-recomenda-que-ituiutaba-garanta-ultrassom-morfologico-pelo-sus>)
+- 📰 [Minas Gerais registra céu nublado e chuvas isoladas na sexta-feira (27)](<https://www.rcwtv.com.br/noticia/minas-gerais-registra-ceu-nublado-e-chuvas-isoladas-na-sexta-feira-27>)
+- 📰 [Indígenas e assentados cobram regularização fundiária no Parque do Rio Corrente](<https://www.rcwtv.com.br/noticia/indigenas-e-assentados-cobram-regularizacao-fundiaria-no-parque-do-rio-corrente>)
 <!-- RCWTV_FEED_END -->
 
 👉 **[📂 Clique aqui para acessar o Arquivo Histórico Permanente com todas as matérias](historico-noticias.md)**
